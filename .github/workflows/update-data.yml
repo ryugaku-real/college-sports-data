@@ -16,10 +16,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: pip install openpyxl
+      - run: sudo apt-get install -y poppler-utils && pip install openpyxl
       - run: node scripts/download-eada.mjs
       - run: node scripts/fetch-ncaa.mjs
       - run: python3 scripts/build-athletics.py eada/schools.xlsx eada/instLevel.xlsx
+      - run: python3 scripts/fetch-naia.py
       - run: node scripts/build-data.mjs
       - name: Commit if changed
         run: |

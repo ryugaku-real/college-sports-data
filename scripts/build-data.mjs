@@ -25,6 +25,26 @@ if (existsSync('data/athletics.csv')) {
 
 // manual fixes for fast-changing facts: { "<unitid>": { conference, athleticsUrl, scholarshipUrl, ... } }
 const overrides = existsSync('data/overrides.json') ? JSON.parse(readFileSync('data/overrides.json', 'utf8')) : {};
+// NAIA conference names (data/naia-conferences.csv from scripts/fetch-naia.py): match PDF names to Scorecard names.
+const normName = (n) => n.toLowerCase().replace(/&/g, 'and').replace(/[–]/g, '-').replace(/\bthe\b|[.,'’]/g, '')
+  .replace(/\bst\b/g, 'saint').replace(/\buniversity\b|\bcollege\b/g, '').replace(/[^a-z0-9]+/g, '');
+const naiaConf = new Map(); // "norm|ST" -> conference
+const naiaRows = [];
+if (existsSync('data/naia-conferences.csv')) {
+  for (const line of readFileSync('data/naia-conferences.csv', 'utf8').trim().split(/\r?\n/).slice(1)) {
+    const m = line.match(/^(?:"([^"]*)"|([^,]*)),([A-Z]{2}),(.*)$/);
+    if (m) { const row = { name: m[1] ?? m[2], state: m[3], conf: m[4].replace(/^"|"$/g, '') }; naiaRows.push(row); naiaConf.set(`${normName(row.name)}|${row.state}`, row.conf); }
+  }
+}
+// fallback: unique school in the same state whose normalized name starts with (or is contained by) the PDF name
+function naiaConference(name, state) {
+  const exact = naiaConf.get(`${normName(name)}|${state}`);
+  if (exact) return exact;
+  const n = normName(name);
+  const hits = naiaRows.filter((r) => r.state === state && (n.startsWith(normName(r.name)) || normName(r.name).startsWith(n)) && normName(r.name).length >= 8);
+  return hits.length === 1 ? hits[0].conf : undefined;
+}
+
 const out = [];
 for (const r of await loadScorecard()) {
   const a = ath.get(r.UNITID);
@@ -35,8 +55,8 @@ for (const r of await loadScorecard()) {
     id: r.UNITID, name: r.INSTNM, level: r.PREDDEG === '3' ? '4year' : '2year',
     control: r.CONTROL === '1' ? 'public' : 'private', city: r.CITY, state: r.STABBR,
     lat: num(r.LATITUDE) ?? undefined, lng: num(r.LONGITUDE) ?? undefined, ...a,
-    conference: c?.conference || undefined,
-    athleticsUrl: c?.athleticUrl ? `https://${c.athleticUrl}` : undefined,
+    conference: (a.association === 'NCAA' ? c?.conference : undefined) || (a.association === 'NAIA' ? naiaConference(r.INSTNM, r.STABBR) : undefined),
+    athleticsUrl: a.association === 'NCAA' && c?.athleticUrl ? `https://${c.athleticUrl}` : undefined,
     athleticScholarship: ['D1', 'D2', 'NJCAA-D1', 'NJCAA-D2', 'NAIA'].includes(a.division),
     scholarshipNote: a.division === 'D3' || a.division === 'NJCAA-D3' ? 'D3はアスリート奨学金なし(学業・ニーズ型のみ)'
       : a.association === 'CCCAA' || a.association === 'NWAC' ? `${a.association}は原則アスリート奨学金なし`

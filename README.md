@@ -7,3 +7,10 @@ College Sports Finder アプリ用の公開データ(米国の4年制大学・�
 - `data/scorecard.json` は年1回、普通のPCで `node scripts/refresh-scorecard.mjs` を実行して更新(GitHubのサーバーからは配布元が403のため)
 
 アプリ側の取得先: `https://raw.githubusercontent.com/ryugaku-real/college-sports-data/main/public-data/schools.json`
+
+## 短大(NJCAA / CCCAA / NWAC)のカンファレンス・地区を追加する
+公式サイトの一覧から、次の形式のCSVを `data/` に置くだけで、次回の更新から反映されます(列: `name,state,conference`)。
+- `data/njcaa-conferences.csv`(例: `Hutchinson Community College,KS,NJCAA Region 6 / Kansas Jayhawk CCC`)
+- `data/cccaa-conferences.csv`
+- `data/nwac-conferences.csv`
+学校名はScorecardの名前に近ければ自動で照合されます(同じ州内で一意に決まるときのみ)。

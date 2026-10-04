@@ -1336,5 +1336,45 @@
   "scholarshipUrl": "https://www.mhu.edu/future-students/traditional-undergraduate/international-students/",
   "intlAidNote": "留学生も合格時にMHU奨学金の対象です(援助は限定的)。メリット奨学金は年$16,000の例あり(GPA2.0、SAT800以上)。運動奨学金も利用可能。I-20処理のため早めの出願を推奨します。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "155900": {
+  "scholarshipUrl": "https://www.sckans.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けに2種類の奨学金があり、入学時に決定、条件を満たせば毎年自動更新されます(金額は大学に確認)。運動奨学金(NAIA)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "177214": {
+  "scholarshipUrl": "https://www.drury.edu/financial-aid/scholarship-information/",
+  "intlAidNote": "合格した留学生は自動でIncoming International Scholarshipの審査対象(年最大$22,000、最大4年更新)。IBディプロマ取得見込みは$25,000。見学した場合は追加$1,000のPriority Scholarshipもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "132471": {
+  "scholarshipUrl": "https://www.barry.edu/en/financial-aid/undergraduate/international-students",
+  "intlAidNote": "メリット奨学金が合格時に自動決定(Presidential最大$20,000、Trustee $18,000、Dean's $16,000、Red Black Silver $14,000、Achievement $10,000)。ニーズベース支援はなし。入学後の追加はできません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112075": {
+  "scholarshipUrl": "https://www.cui.edu/academicprograms/international-students/scholarships",
+  "intlAidNote": "留学生もPresidential Honors等のメリット奨学金・音楽/演劇/芸術・運動奨学金の対象。奨学金の目安条件はGPA3.9、SAT1370/ACT30、TOEFL79/IELTS6.5。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "109785": {
+  "scholarshipUrl": "https://www.apu.edu/international/enrollment/",
+  "intlAidNote": "F-1/J-1の学部留学生向けにHaggard International Scholarship(授業料全額の枠あり)があり、成績で届かない場合はInternational Scholarship I/IIで審査。優先出願締切は秋入学2/15。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179955": {
+  "scholarshipUrl": "https://jewell.edu/afford/scholarships",
+  "intlAidNote": "合格時にメリット奨学金を自動審査(年$14,000〜授業料全額、Founder's/Trustee/Presidential/Dean's/Cardinal)。芸術・音楽・討論・演劇の奨学金も。留学生は英語力証明と資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136215": {
+  "scholarshipUrl": "https://undergrad.nova.edu/funding/scholarships.html",
+  "intlAidNote": "国内外の新入生向けRazor's Edge Global Scholarshipが$22,000〜$25,000(国際関係・グローバルリーダーシップ志望者向け)。NSUは年$5,900万超の奨学金を提供しています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137564": {
+  "scholarshipUrl": "https://seu.edu/admission/international/",
+  "intlAidNote": "留学生も学業・運動・音楽・演劇/映画のメリット奨学金の対象(基準は国内学生と同じ)。ニーズベース/FAFSA系は対象外。個別奨学金は2/15や3/1が締切です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

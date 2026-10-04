@@ -3628,7 +3628,7 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "169992": {
-  "scholarshipUrl": "https://www.gogebic.edu/admissions/fa/25tutitionandfee.html",
+  "scholarshipUrl": "https://www.gogebic.edu/admissions/fa/cost_of_attendance.html",
   "intlAidNote": "留学生の授業料は1単位$274(州内・州外より高い料金)です。連邦支援は対象外で、利用できる資金計画は経済支援オフィスに相談する形です。",
   "intlAidCheckedAt": "2026-10-04"
  },
@@ -3650,6 +3650,31 @@
  "105154": {
   "scholarshipUrl": "https://www.mesacc.edu/international-education/current-f-1-students/scholarships-loans",
   "intlAidNote": "F-1専用の奨学金はありませんが、学内の各部署・Honors(Honors Achievement Award)、Follett Bookstore、Maricopa Foundationの奨学金などに留学生も応募できます。F-1 Scholarship Fundへの寄付ページもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107840": {
+  "scholarshipUrl": "https://shortercollege.edu/admissions/",
+  "intlAidNote": "Shorter Collegeが受け入れるのはF-1(および転入F-1)の学生のみです。I-20発行前に宣誓書(Affidavit of Support)の提出が必要で、留学生は緊急支援金や連邦Pell等の対象外です。奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171535": {
+  "scholarshipUrl": "https://www.oaklandcc.edu/international/financial-requirements",
+  "intlAidNote": "F-1留学生は約$22,700(授業料・諸費、教材、保険、生活費込み)の資金証明が必要です。国内学生向けの経済支援・奨学金は使えませんが、OCC Foundationの奨学金に留学生が応募できる場合があります。大学の奨学金を資金源にするには授与通知書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "247603": {
+  "scholarshipUrl": "https://www.sussex.edu/admissions/what-type-of-student-are-you/international-student/",
+  "intlAidNote": "留学生の授業料は1単位$291です。経済支援は対象外ですが、Foundation奨学金($250〜$2,000、年1回・秋学期前に授与)に留学生も応募できます。留学生向けの分割払い(初回50%)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236188": {
+  "scholarshipUrl": "https://www.olympic.edu/student-life-support/enrollment-services/international-education/costs-calendar",
+  "intlAidNote": "年間授業料は$11,283〜$21,780(課程による)で、四半期の総費用の目安は$7,611です。1年分の資金証明は$23,318(直近3か月の銀行明細)が必要です。Olympic College Foundationの奨学金(年200件超、平均$1,900)に在学中の留学生が応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170790": {
+  "scholarshipUrl": "https://www.macomb.edu/admissions-aid/international-students/f-1-students/admission-information.html",
+  "intlAidNote": "F-1留学生は州外授業料で、60日以内の銀行明細で$22,700以上(扶養家族1人につき生活費+$8,000)の資金証明が必要です。連邦支援は対象外ですが、Macombのオンライン奨学金システムから学内奨学金に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

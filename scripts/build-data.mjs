@@ -68,6 +68,49 @@ for (const r of await loadScorecard()) {
     website: /^https?:/.test(r.INSTURL) ? r.INSTURL : `https://${r.INSTURL}`, verified: false,
   });
 }
+// Sports that EADA does not break out (cheer, dance, acrobatics & tumbling, esports ...), researched per school:
+// data/extra-sports.json = { "<unitid>": [{ "name": "Cheerleading", "nameJa": "チアリーディング", "gender": "W" }] }
+const extraSports = existsSync('data/extra-sports.json') ? JSON.parse(readFileSync('data/extra-sports.json', 'utf8')) : {};
+// Cheer / dance / stunt / acrobatics & tumbling from data/cheer.json (USA Cheer college directory + NCAA/NAIA lists, see README):
+// { "<unitid>": { cheer, cats[], stunt, club, at, dance, scholarship, url } }
+const cheer = existsSync('data/cheer.json') ? JSON.parse(readFileSync('data/cheer.json', 'utf8')) : {};
+for (const sc of out) {
+  const c = cheer[sc.id];
+  if (!c) continue;
+  const add = (name, nameJa, gender) => { if (!sc.sports.some((s) => s.name === name)) sc.sports.push({ name, nameJa, gender }); };
+  if (c.cheer) add('Cheerleading', 'チアリーディング', c.cats.some((x) => /Coed/.test(x)) ? 'Both' : 'W');
+  if (c.dance) add('Dance', 'ダンス(競技ダンス)', 'W');
+  if (c.stunt) add('STUNT', 'スタント(チア系競技)', 'W');
+  if (c.at) add('Acrobatics & Tumbling', 'アクロバット&タンブリング', 'W');
+  const kinds = [];
+  if (c.cats.some((x) => /All Girl/.test(x))) kinds.push('競技チア(女子)');
+  if (c.cats.some((x) => /Coed/.test(x))) kinds.push('競技チア(男女混合)');
+  if (c.cats.some((x) => /Game Day/.test(x))) kinds.push('ゲームデイ(応援)チア');
+  if (c.stunt) kinds.push('スタント(大学の正式競技チーム)');
+  if (c.at) kinds.push('アクロバット&タンブリング');
+  if (c.dance) kinds.push('競技ダンス');
+  if (c.club && !c.stunt) kinds.push('スタントのクラブチーム');
+  sc.cheerNote = `チア系: ${kinds.join('・')}。${c.scholarship ? 'プログラム掲載情報に「奨学金あり」の記載あり(額・対象は要確認)。' : '奨学金の有無は要確認。'}${c.url ? `(情報源: USA Cheerカレッジディレクトリほか。プログラムサイト: ${c.url})` : '(情報源: USA Cheerカレッジディレクトリ・NCAA/NAIA公表リスト)'}`;
+}
+for (const sc of out) {
+  for (const x of extraSports[sc.id] ?? [])  if (!sc.sports.some((s) => s.name === x.name)) sc.sports.push(x);
+}
+// Maximum athletic scholarship per athlete, by association/division rules (confirm with each coach: team caps apply).
+const maxAid = (sc) => {
+  const cost = sc.tuitionOutOfState || sc.tuitionInState;
+  const tuition = cost ? `(参考: この学校の授業料は年約${usd0(cost)})` : '';
+  switch (sc.division) {
+    case 'D1': if ((sc.conference ?? '').includes('Ivy')) return 'アイビーリーグは運動奨学金なし(最大$0)。学業・ニーズ型の奨学金のみ(留学生も対象となる学校が多い)。';
+      return `1人あたり最大=全額(授業料・寮・食費・教材などの大学公式の総費用)。フルライド可${tuition}。`;
+    case 'D2': return `1人あたり最大=全額まで可(ただしチーム全体に上限があり、多くは部分奨学金の分割)${tuition}。`;
+    case 'NAIA': return `1人あたり最大=全額まで可(チーム全体に上限があり、多くは部分奨学金)${tuition}。`;
+    case 'NJCAA-D1': return `1人あたり最大=授業料・諸費用・寮・食費・教材・交通費まで(フル奨学金可)${tuition}。`;
+    case 'NJCAA-D2': return `1人あたり最大=授業料・諸費用・教材まで(寮・食費は対象外)${tuition}。`;
+    default: return 'アスリート奨学金は出ません(最大$0)。学業・ニーズ型の奨学金は別途あり。';
+  }
+};
+const usd0 = (n) => '$' + Math.round(n).toLocaleString('en-US');
+for (const sc of out) sc.athleticScholarshipMax = maxAid(sc);
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
 // Schools not yet researched individually get a clearly-labelled, generic estimate built from known data.
 const usd = (n) => '$' + Math.round(n).toLocaleString('en-US');

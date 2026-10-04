@@ -8606,5 +8606,35 @@
   "scholarshipUrl": "https://www.cbshouston.edu/",
   "intlAidNote": "授業料は年約$9,480、フルタイム諸費用約$700と低額。留学生の在籍はほぼなく、留学生向けの費用・奨学金情報は確認できなかったため、入学課への確認が必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "110617": {
+  "scholarshipUrl": "https://www.csus.edu/apply/enrollment-costs-fees/tuition-living-costs/current-tuition.html",
+  "intlAidNote": "留学生の学部授業料は年約$20,618、生活費は年$24,000〜$27,000の目安。International Student Fee Waiver(F-1/J-1、フルタイム・GPA3.3以上・経済的必要性、1単位$444ずつ減額)が少数枠で設定されている。大学の奨学金(Sacramento State Scholarship等)の対象になる場合あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "166124": {
+  "scholarshipUrl": "https://www.holycross.edu/admissions-aid",
+  "intlAidNote": "授業料$71,150、総額約$89,748。留学生は出願者全員が成績奨学金(年$10,000〜$22,000、GPA基準)の自動審査対象。ニーズ型は限定的で、留学生全額奨学金はない。入学審査はneed-aware。Certification of Financesと必要額の審査依頼書を提出。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "177968": {
+  "scholarshipUrl": "https://www.lindenwood.edu/student-financial-services/scholarships-grants/",
+  "intlAidNote": "留学生の学部授業料は年約$21,094と私立では低め。大学の奨学金・補助は提供されるが、ニーズ型にはFAFSAが必要で留学生は別枠。留学生は2年間の寮生活義務あり。留学生向けの具体的な奨学金額は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "197869": {
+  "scholarshipUrl": "https://international.appstate.edu/scholarships/oip-scholarships",
+  "intlAidNote": "州外授業料は年約$25,932で、留学生の学部生の総額は約$37,202。留学生入学者向けの奨学金は年$1,000〜$4,000(非更新)。Chancellor's等の全額系メリット奨学金は競争的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199412": {
+  "scholarshipUrl": "https://www.queens.edu/afford/",
+  "intlAidNote": "2026-27の包括授業料は$47,390。成績奨学金は年$10,000〜$25,000、Presidential最大$30,000、Dean's $15,000〜$22,000。留学生は条件を満たせば学内就労が可能。留学生専用奨学金の詳細は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "185572": {
+  "scholarshipUrl": "https://www.monmouth.edu/international-students/undergraduate-admissions/",
+  "intlAidNote": "留学生の学部授業料は年約$39,968〜$48,140。成績奨学金は入学時に自動審査(年$2,000〜$17,000、GPA・テスト基準)。FAFSAは不可で連邦・州援助は対象外。学生の97%が何らかの援助を受給。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

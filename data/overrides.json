@@ -8666,5 +8666,35 @@
   "scholarshipUrl": "https://www.miles.edu/admissions-aid/costs-aid",
   "intlAidNote": "授業料は年約$12,714で低額。留学生は入学前に1年分の授業料(諸費用込み)の前納と、保証人の財政支援宣誓書・銀行残高証明が必要。留学生には奨学金・財政援助は提供されない。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "102234": {
+  "scholarshipUrl": "https://www.shc.edu/admissions-aid/tuition-financial-aid/types-of-financial-aid/scholarships/",
+  "intlAidNote": "留学生の学部授業料は年約$24,750。出願が奨学金申請を兼ね、合格通知で金額が分かる。来校奨学金やニーズ型奨学金などあり。留学生向けの具体額は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "102377": {
+  "scholarshipUrl": "https://www.tuskegee.edu/financial-aid/Scholarships.html",
+  "intlAidNote": "留学生の学部授業料は年約$19,210〜$23,440。留学生向けの大学奨学金は限定的(例: Errol G. Rhoden Award $250はAgriculture系の最上級生のみ)。他の奨学金は授業料・寮・食費等に適用可。国際学生課への確認が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "106485": {
+  "scholarshipUrl": "https://www.uamont.edu/financial-aid/institutional-scholarships.html",
+  "intlAidNote": "留学生の学部授業料は年約$12,500〜$15,000。成績奨学金は出願で自動審査: Chancellor's(ACT30以上)学期$6,000、Academic(ACT24〜26)学期$3,000(最大8学期)。授業料・諸費用・寮・書店費に使える。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110529": {
+  "scholarshipUrl": "https://www.cpp.edu/financial-aid/undergraduate/prospective/aid-programs.shtml",
+  "intlAidNote": "留学生向けInternational Student Excellency Scholarship(年最大$5,000、4年更新可)あり。Bronco Scholarship Application(12〜1月)で学内奨学金に申請可、成績基準。留学生は初年度の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110592": {
+  "scholarshipUrl": "https://www.calstatela.edu/financialaid/scholarship-faq",
+  "intlAidNote": "留学生の学部授業料は年約$17,622、諸費用込みで約$20,891/年。留学生向けの専用奨学金はほぼなく、外部奨学金・家族の資金・本国の支援が中心。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "113698": {
+  "scholarshipUrl": "https://www.dom.edu/admission/international-students/tuition-aid",
+  "intlAidNote": "2026-27の授業料は$40,958、寮・食費約$12,000。留学生は新入生が年$12,000〜$25,000、編入が年$11,000〜$18,000の成績奨学金を出願で自動審査。留学生は全体の約2%。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

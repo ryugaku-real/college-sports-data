@@ -5911,5 +5911,20 @@
   "scholarshipUrl": "https://www.unf.edu/intlctr/international-students/scholarship.html",
   "intlAidNote": "2026-27のF-1学部生の年間費用は約$37,583(授業料・諸費用$16,635、寮・食費$11,810、保険$2,781ほか)。ISA奨学金(州外授業料免除、年最大$12,000)、LAC奨学金(州内授業料扱い)、Gonzalez奨学金($2,000)あり。FAFSA必須の奨学金は対象外。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "175856": {
+  "scholarshipUrl": "https://www.jsums.edu/global/cost-of-study/",
+  "intlAidNote": "留学生(F-1)は1学期$100の留学生料が別途必要。1年分の資金を示すCertified Declaration of Financial Supportの提出が必要。大学の奨学金は学業成績・必要度に基づくが、外部奨学金との合計が費用総額を超えないよう調整される。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228769": {
+  "scholarshipUrl": "https://www.uta.edu/admissions/afford",
+  "intlAidNote": "留学生学部の費用は9か月で約$41,605、12か月で約$54,433。奨学金は限定的で当てにしない前提。メキシコ市民向けTAMS(州外授業料差額の免除、経済的必要度あり)等の制度あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "160621": {
+  "scholarshipUrl": "https://www.subr.edu/page/awarding-financial-aid",
+  "intlAidNote": "留学生は連邦・州の援助対象外だが、非連邦の奨学金には応募可。寮生の費用の目安は9か月で$22,600〜$25,208(同大学の学部COA)。奨学金・助成は期限内の申請者が対象。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

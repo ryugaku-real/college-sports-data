@@ -2480,5 +2480,35 @@
   "scholarshipUrl": "https://www.clayton.edu/financial-aid/resources/international-information.php",
   "intlAidNote": "留学生は国籍要件のない大学の競争的奨学金(学業中心)や学科奨学金に応募可能。7/1までの入学・登録が条件です。連邦・州援助は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "178448": {
+  "scholarshipUrl": "https://www.macc.edu/admissions/international-students",
+  "intlAidNote": "留学生の授業料は1単位あたり約$285〜$294。I-20発行前に$1,200のデポジットが必要で、残りは入学時に全額支払います。運動奨学金は競技ごとにコーチ経由で、留学生には国際課税が上乗せされる場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "158431": {
+  "scholarshipUrl": "https://www.bpcc.edu/future-students/international-students/index",
+  "intlAidNote": "留学生も州外授業料はなし(2025-26は1単位$138.96+諸費)。留学生は財政支援・BPCC財団奨学金の対象外です。資金証明$24,268以上とSEVIS費$350が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240693": {
+  "scholarshipUrl": "https://www.westernwyoming.edu/i-am/international/how-to-apply.php",
+  "intlAidNote": "留学生向けの学科奨学金(エッセイとGPA3.0が条件)があります。9か月の必要資金は約$26,106(授業料・諸費$10,530、寮・食事$8,576など)。IEFA等の外部奨学金情報も案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154642": {
+  "scholarshipUrl": "https://www.allencc.edu/tuition-fees",
+  "intlAidNote": "留学生の授業料は1単位$125(2026秋)、一般学習プログラム60単位で約$10,320。学業奨学金の一部はカンザス州民限定。活動・プログラム奨学金は意思表明書とGPA2.0が条件で、留学生の対象は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153296": {
+  "scholarshipUrl": "https://ecc.iavalley.edu/admissions/enrollment-checklist/international-students/",
+  "intlAidNote": "留学生は出願者として自動で奨学金の審査対象(Panther Achievement $1,000、活動・運動奨学金など。締切3/1)。州外・留学生の授業料は約1単位$252、必要資金は$15,972以上です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225070": {
+  "scholarshipUrl": "https://www.grayson.edu/scholarships/index.html",
+  "intlAidNote": "留学生はGC財団奨学金(平均$876、最大$5,000)とBetty Cox International Student Scholarshipに応募可能。留学生の授業料は1単位$160+諸費$50、資金証明は$16,500です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -84,7 +84,7 @@
  },
  "217882": {
   "scholarshipUrl": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html",
-  "intlAidNote": "学校の案内では、学部の留学生向けの奨学金はありません。入学時に在学期間全体の資金があることの証明が必要で、支払いの猶予もありません。私的ローンには米国市民の共同署名者が必要です。姉妹州協定による授業料の減額の制度もあります(対象は限定)。",
+  "intlAidNote": "クレムソンの公式ページでは、留学生の学部生向けの奨学金はないと明記されています。多様性奨学金など一部の制度は留学生も対象になる場合があります。学校の案内では、学部の留学生向けの奨学金はありません。入学時に在学期間全体の資金があることの証明が必要で、支払いの猶予もありません。私的ローンには米国市民の共同署名者が必要です。姉妹州協定による授業料の減額の制度もあります(対象は限定)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "198419": {
@@ -193,7 +193,7 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "229115": {
-  "intlAidNote": "留学生は連邦の援助の対象外です。国際課の奨学金・助成、学部の奨学金、私的ローンがあります。競争的な奨学金を$1,000以上受けた場合は、州内生の授業料に下げる免除の対象になることがあります。留学生の学費・諸費用は年約$26,200、総額は約$44,100です。",
+  "intlAidNote": "International Undergraduate Merit Scholarship(競争型、最大年$6,000)やPresidential Merit Scholarship(非居住者を州内授業料に減額)が出願時に自動審査されます。留学生は連邦の援助の対象外です。国際課の奨学金・助成、学部の奨学金、私的ローンがあります。競争的な奨学金を$1,000以上受けた場合は、州内生の授業料に下げる免除の対象になることがあります。留学生の学費・諸費用は年約$26,200、総額は約$44,100です。",
   "intlAidCheckedAt": "2026-10-04",
   "scholarshipUrl": "https://depts.ttu.edu/admissions/international/costs-scholarships.php"
  },
@@ -404,7 +404,7 @@
  },
  "218663": {
   "scholarshipUrl": "https://sc.edu/about/offices_and_divisions/international_student_and_scholar_support/iss/new-student-arrival/understand_tuition_and_fees/university_scholarships_and_assistantships/",
-  "intlAidNote": "大学の必要性ベースの奨学金は留学生には出ません。学部の競争的な奨学金(ビジネス、工学、ホスピタリティなど)に応募できます。国際学生Excellence奨学金は毎年2人にのみ年$500です。特定地域の出身者は州内授業料になる姉妹州協定があります。",
+  "intlAidNote": "留学生の新入生向けの大型メリット奨学金は公式には案内がなく、学部ごとの競争的な奨学金が中心です(International Student Excellence奨学金は全学で毎年2名)。大学の必要性ベースの奨学金は留学生には出ません。学部の競争的な奨学金(ビジネス、工学、ホスピタリティなど)に応募できます。国際学生Excellence奨学金は毎年2人にのみ年$500です。特定地域の出身者は州内授業料になる姉妹州協定があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "221999": {
@@ -5303,7 +5303,7 @@
  },
  "228459": {
   "scholarshipUrl": "https://onestop.txst.edu/financial-aid/scholarships/international.html",
-  "intlAidNote": "2026-27の留学生の総費用の目安は約$40,600(授業料・諸費$19,700、9か月の生活費$20,900)です。新入生・低単位の編入生はAssured Scholarshipsの対象で、西半球出身者向けにはGood Neighbor Scholarship(州外授業料の差額調整)があります。Texas Public Education Grantの緊急支援(学期最大$2,000・最大2学期)も留学生に出ます。",
+  "intlAidNote": "Assured Scholarships(新入生の留学生、成績で決定、年$1,500〜$9,500)、International President's Honor Scholarship(4年で$48,000)、Competitive Scholarships(年$2,000〜$8,000)があります。2026-27の留学生の総費用の目安は約$40,600(授業料・諸費$19,700、9か月の生活費$20,900)です。新入生・低単位の編入生はAssured Scholarshipsの対象で、西半球出身者向けにはGood Neighbor Scholarship(州外授業料の差額調整)があります。Texas Public Education Grantの緊急支援(学期最大$2,000・最大2学期)も留学生に出ます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "231174": {
@@ -5508,7 +5508,7 @@
  },
  "227216": {
   "scholarshipUrl": "https://financialaid.unt.edu/international-scholarship-opportunities.html",
-  "intlAidNote": "年間費用は約$43,076〜$44,656。$1,000以上の競争的奨学金を得るとテキサス州民の授業料が適用される制度あり。UNT ExcellenceおよびTransfer Excellence奨学金あり。",
+  "intlAidNote": "UNT Excellence Scholarships(高校GPAと順位で決定、自動審査、年$1,000〜$12,000)と、非居住者が州内授業料で通えるCompetitive Scholarship Waiverがあります。年間費用は約$43,076〜$44,656。$1,000以上の競争的奨学金を得るとテキサス州民の授業料が適用される制度あり。UNT ExcellenceおよびTransfer Excellence奨学金あり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "195164": {
@@ -5598,7 +5598,7 @@
  },
  "217819": {
   "scholarshipUrl": "https://charleston.edu/cost-aid/tuition-fees/index.php",
-  "intlAidNote": "2026-27の州外学生の年間総額は約$63,856。ニードベース援助なし。International Ambassador奨学金(年$10,000)が出願時に自動審査。学科奨学金もあり。",
+  "intlAidNote": "International Ambassador奨学金(年$10,000、3月1日までの出願者に自動審査)があり、成績メリット奨学金は留学生で最低年$5,000です(最長4年更新)。旧ソ連圏の一部の国籍にはEurasia International Ambassador奨学金(年$20,000)もあります。2026-27の州外学生の年間総額は約$63,856。ニードベース援助なし。International Ambassador奨学金(年$10,000)が出願時に自動審査。学科奨学金もあり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "198385": {
@@ -5648,12 +5648,12 @@
  },
  "219471": {
   "scholarshipUrl": "https://www.usd.edu/Admissions-and-Aid/Tuition-and-Costs/International-Tuition-and-Costs",
-  "intlAidNote": "留学生の年間費用は約$25,500(授業料・諸費用$13,616、生活費$9,498、その他$2,400)。新入生はCoyote Beginnings奨学金(最大年$4,000)とGrant($1,500〜$2,500)が自動付与。編入生はGPA3.0以上で年$3,000。",
+  "intlAidNote": "成績メリット型のCoyote Beginnings奨学金(最大年$4,000、GPAで決定)とCoyote Beginnings Grant(最大年$2,500、SAT/ACTで決定)、Coyote Commitment(年$1,000〜$1,500)が自動審査されます(編入生は年$3,000)。留学生の年間費用は約$25,500(授業料・諸費用$13,616、生活費$9,498、その他$2,400)。新入生はCoyote Beginnings奨学金(最大年$4,000)とGrant($1,500〜$2,500)が自動付与。編入生はGPA3.0以上で年$3,000。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "221740": {
   "scholarshipUrl": "https://www.utc.edu/academic-affairs/center-for-global-education/international-student-and-scholar-services/prospective-students/undergraduate-cost-of-attendance",
-  "intlAidNote": "留学生学部の年間費用は約$47,022(授業料・諸費用$28,134、生活費$16,632)。連邦援助は対象外。国際新入生向け奨学金あり(最大$5,000、1年のみで更新不可)。",
+  "intlAidNote": "International Undergraduate Student Scholarship(最大$5,000、更新なし、別途応募とGPA2.5以上が必要)があります。留学生学部の年間費用は約$47,022(授業料・諸費用$28,134、生活費$16,632)。連邦援助は対象外。国際新入生向け奨学金あり(最大$5,000、1年のみで更新不可)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "230782": {
@@ -5808,7 +5808,7 @@
  },
  "219356": {
   "scholarshipUrl": "https://www.sdstate.edu/international-student-scholar-engagement/estimated-costs-international-students",
-  "intlAidNote": "留学生学部の年間費用は約$29,795(授業料・諸費用$16,284、生活費$9,814、その他$3,697)。授業料免除などの援助は留学生には出せないとされ、明確な資金証明が必須。Jackrabbit Guarantee等の奨学金は対象の場合あり。",
+  "intlAidNote": "Jackrabbit Guarantee奨学金(SAT1080以上またはACT21以上、スコアで額が決定、出願時に自動審査)と、一部の留学生新入生向けInternational First-Year Student Advantage奨学金があります。留学生学部の年間費用は約$29,795(授業料・諸費用$16,284、生活費$9,814、その他$3,697)。授業料免除などの援助は留学生には出せないとされ、明確な資金証明が必須。Jackrabbit Guarantee等の奨学金は対象の場合あり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110565": {
@@ -5923,7 +5923,7 @@
  },
  "228769": {
   "scholarshipUrl": "https://www.uta.edu/admissions/afford",
-  "intlAidNote": "留学生学部の費用は9か月で約$41,605、12か月で約$54,433。奨学金は限定的で当てにしない前提。メキシコ市民向けTAMS(州外授業料差額の免除、経済的必要度あり)等の制度あり。",
+  "intlAidNote": "成績(GPA・SAT/ACT)に基づくPresidential International Scholarship(目安年$15,000〜$25,000)やMaverick Academic Scholarship(目安年$8,000〜$12,000)など(金額は第三者情報)。留学生学部の費用は9か月で約$41,605、12か月で約$54,433。奨学金は限定的で当てにしない前提。メキシコ市民向けTAMS(州外授業料差額の免除、経済的必要度あり)等の制度あり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "160621": {

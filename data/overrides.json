@@ -1871,5 +1871,35 @@
   "scholarshipUrl": "https://www.mssu.edu/student-affairs/financial-aid/scholarships/international-scholarships.php",
   "intlAidNote": "MOSO International Achievement Scholarshipは初年度$5,500相当(24単位、更新はGPA2.75)。海外高校出身でTOEFL68/IELTS6.0/Duolingo95が目安。GPA2.25以上の新入生に1回限りの$1,000の自動奨学金もあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "201654": {
+  "scholarshipUrl": "https://www.cedarville.edu/admissions/international-students/financial-aid",
+  "intlAidNote": "留学生は出願時に学業奨学金とInternational Student Grantの自動審査対象。寮生向けInternational Need-Based Scholarshipは年$5,000〜$15,000(成績・SAT/ACTで判定、財務書類の提出が必要)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "187648": {
+  "scholarshipUrl": "https://www.enmu.edu/admission/future-greyhounds/international-student-information/affordable-education",
+  "intlAidNote": "International Programs Non-Resident Tuition Waiverで授業料が州内並みに(GPA3.0+ACT25等の条件)。Jack Williamson Outstanding Foreign Student Scholarshipなど財団奨学金は2/15締切です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127185": {
+  "scholarshipUrl": "https://www.fortlewis.edu/tuition-aid/scholarships/scholarships-home/international",
+  "intlAidNote": "新入生・編入の留学生は自動でメリット奨学金の審査対象(高校GPAで決定、年$2,000〜$8,000、最大4年更新)。学内就労の支援もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237932": {
+  "scholarshipUrl": "https://westliberty.edu/global/funding-sources-and-scholarships/",
+  "intlAidNote": "留学生は合格審査と同時に学業奨学金の対象(最高で年$12,000、SAT/ACT使用)。特定地域からの留学生向け住居グラントもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198303": {
+  "scholarshipUrl": "https://www.chowan.edu/admissions/financial-aid/scholarships-grants/",
+  "intlAidNote": "留学生も大学のメリット奨学金の対象(Scholarship Dayで Leadership 年$9,000、Dean's $5,000、Trustee $2,000など)。運動奨学金が出る競技もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237385": {
+  "scholarshipUrl": "https://www.glenville.edu/financial-aid/scholarships",
+  "intlAidNote": "新入生は自動で奨学金の審査対象。留学生向けの奨学金は年$1,000〜$3,000程度(成績に基づく)。11/15までの出願で優先審査されます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

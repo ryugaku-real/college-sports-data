@@ -3906,5 +3906,25 @@
   "scholarshipUrl": "https://www.deltacollege.edu/admission-aid/international-student-program",
   "intlAidNote": "F-1留学生は州・連邦の支援とカリフォルニア州の非居住者授業料免除の対象外です。非居住者授業料は1単位$328+登録料$46です。ESL以外の科目を1学期修了後に大学の奨学金に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "404426": {
+  "scholarshipUrl": "https://www.coconino.edu/tuition",
+  "intlAidNote": "留学生には$100の定額留学生料がかかります。CCC Foundationの奨学金には在留資格を問わず応募できるものがあります。2025-26年度から経済支援にはFAFSAの提出が必須です(留学生は提出できないため対象外になる可能性)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "163657": {
+  "scholarshipUrl": "https://www.pgcc.edu/enrollmentsteps/international-students/f-1-visa-holders/",
+  "intlAidNote": "F-1留学生は州外授業料が適用され、連邦支援は対象外です。銀行明細で$26,174以上の資金証明(全額が引き出し可能であること)が必要です。全日制(12単位以上)で、オンライン科目は1つまでです。奨学金は市民・永住者・DACA向けが中心です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198251": {
+  "scholarshipUrl": "https://www.cccc.edu/paying-college/financial-aid/what-financial-aid",
+  "intlAidNote": "大学の案内では、米国外在住の留学生の出願を現在受け付けておらず、F-1用のI-20は発行しないとされています。奨学金・経済支援は市民・対象非市民向けです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191083": {
+  "scholarshipUrl": "https://www.ecc.edu/admissions-and-aid/international-students.html",
+  "intlAidNote": "F-1留学生は$23,700以上の資金証明(スポンサー書類)が必要で、学位・証明書課程に在籍し12単位以上を継続履修します。留学生向けの経済支援はありません。ECC Foundationの奨学金(ESL向けのPhufas奨学金など)があります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -8141,5 +8141,35 @@
   "scholarshipUrl": "https://www.kean.edu/offices/office-scholarship-services/scholarship-faqs",
   "intlAidNote": "成績奨学金は出願時に自動審査。F-1留学生向けInternational Student Scholarship(GPA3.0以上、2学期修了後、3/15締切)は州内料金に減免。Out-of-State On-Campus Residency Scholarship(年$16,000)などもある。連邦援助は対象外。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "185129": {
+  "scholarshipUrl": "https://www.njcu.edu/admissions-aid/undergraduate-admissions/international-applicant/costs-scholarship-information",
+  "intlAidNote": "留学生も州内居住者と同じ授業料で、地域では割安。I-20取得には1年分の費用(学部約$42,000)の資金証明が必要。成績奨学金は年最大$2,000(GPA3.2以上、F-1、フルタイム、入学時に自動付与)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186371": {
+  "scholarshipUrl": "https://admissions.camden.rutgers.edu/costs-and-aid/scholarships",
+  "intlAidNote": "自費留学生(F-1)は入学審査のみで国際Chancellor's Scholarshipを自動審査: 年$16,000(加重GPA2.8〜3.19)/$18,000(3.2〜3.69)/$21,000(3.7〜4.0)、GPA2.5維持で更新可。#YouAreWelcomeHere奨学金は授業料の50%以上。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186399": {
+  "scholarshipUrl": "https://admissions.newark.rutgers.edu/costs-and-aid/scholarships",
+  "intlAidNote": "留学生の学部授業料は約$39,649。連邦援助は対象外だが、新入生・編入生は入学審査で成績奨学金(Chancellor's Excellence Awardは授業料の10〜100%)の対象。留学生専用の奨学金は多くない。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186618": {
+  "scholarshipUrl": "https://www.steu.edu/",
+  "intlAidNote": "授業料は年約$36,741、寮・食費約$13,126、諸費用約$4,000。奨学金・補助後の平均負担は約$18,412(平均援助約$28,480)。留学生は全体の約1%で、留学生専用の奨学金情報は限定的。要問い合わせ。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191621": {
+  "scholarshipUrl": "https://natalie.hilbert.edu/admissions-financial-aid/admissions/international-students/international-application-cost",
+  "intlAidNote": "費用目安(2022-23時点): 授業料$27,400、必須諸費用$2,500、留学生手数料$2,000で総額約$35,950。入学時に成績奨学金を付与(Franciscan全額/Mother Colette最大$13,000/Hilbert $12,000/Trustee $10,000/Assisi $6,000)。連邦援助は対象外。最新額は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "193353": {
+  "scholarshipUrl": "https://www.msmc.edu/admissions-aid/international-admissions/",
+  "intlAidNote": "2025-26の授業料は$45,630、総額約$66,046。留学生の奨学金は成績・ニーズを見て個別に決定(年$3,000〜$15,000)。学内就労が可能。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

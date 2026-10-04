@@ -6461,5 +6461,45 @@
   "scholarshipUrl": "https://trinity.edu/admissions/aid/types/international",
   "intlAidNote": "2026-27のCOAは$70,518〜$77,846(授業料・諸費用$59,280)。留学生は年$5,000〜$30,000のメリット奨学金を自動審査。ニード・アウェアで、年$45,000以上の負担が可能な出願者が最も有利。留学生にローン無し(すべて給付)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "234207": {
+  "scholarshipUrl": "https://www.wlu.edu/admissions/financial-aid/types-of-aid/international-student-aid",
+  "intlAidNote": "留学生にもニードベース(ローン無しで必要額の100%)とメリット奨学金を提供、金額は数千ドル〜年間総額全額まで。Johnson Scholarship(年最大44名、授業料・寮・食費・諸費用に夏の活動費$10,000、年$89,000超)あり。W&L Promiseの対象。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236328": {
+  "scholarshipUrl": "https://www.pugetsound.edu/admission/apply/international-students/first-year-international-students",
+  "intlAidNote": "留学生は出願時にメリット奨学金(最大年$31,000)を自動審査。フルライドのLillis・Matelich奨学金に応募可。International Student Scholarship(年$2,000)あり。非移民ビザの学生はニードベース援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237057": {
+  "scholarshipUrl": "https://www.whitman.edu/admission-and-aid/financial-aid-and-costs/international-and-daca-students",
+  "intlAidNote": "2026-27の総額は約$86,620(旅費を除く)。合格した留学生の必要額を100%充足し、ローンの代わりに奨学金で補填。申請にはWISFAA(国際学生援助申請書)を使用。出願者全員をメリット奨学金で審査。Davis UWC奨学金(年$40,000×4年)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "238333": {
+  "scholarshipUrl": "https://www.beloit.edu/admission/tuition-aid/international-student-aid/",
+  "intlAidNote": "留学生の95%が援助を受け、留学生への平均奨学金は年$35,000、メリットは年最大$45,000。授業料全額奨学金は少数のみで、フルライドは無し。ニードベースは競争的(必要度が高いほど難しい)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "239017": {
+  "scholarshipUrl": "https://www.lawrence.edu/admissions-aid/international-admissions/scholarships-aid",
+  "intlAidNote": "2025-26のComprehensive feeは$71,766。全合格者がメリット奨学金とニードベース援助を自動審査(授与額は4年間同水準で更新)。フル奨学金は無く、家庭の負担が必要。Certification of Financesで必要度を判断。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "233426": {
+  "scholarshipUrl": "https://www.roanoke.edu/admissions/international_student_admissions/tuition_and_financial_aid",
+  "intlAidNote": "総額は$58,704(授業料$38,420、寮$7,614、食費$8,732、保険込み諸費用$3,788)。メリット奨学金は高校GPAで年$10,000〜$21,000(4年)。典型的な留学生は奨学金・グラント約$32,705とローン$5,000。留学生用援助申請書あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "238476": {
+  "scholarshipUrl": "https://www.carthage.edu/admissions/international-students/costs-scholarships/",
+  "intlAidNote": "2026-27の主な費用は1学期$28,850(授業料$21,625、寮$4,575、食費$2,650)、保険は年$1,700。留学生奨学金は年$5,000〜$20,000(更新可)。スポンサーの資金保証書が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240329": {
+  "scholarshipUrl": "https://www.uwlax.edu/international-education/study-at-uwl/scholarships/",
+  "intlAidNote": "2026-27の留学生学部の年間費用は約$34,847(授業料・諸費用$21,077、留学生料$500、寮$5,801、食費$3,336、保険$1,958ほか)。州外学生向けの奨学金は最大$5,000(GPA3.0で更新)。授業料免除の対象にもなり得る。連邦援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -3268,5 +3268,35 @@
   "scholarshipUrl": "https://stlcc.edu/apply/international/",
   "intlAidNote": "留学生の授業料は2026-27で1単位$248です。4か月以内の公証済み資金証明書が必要で、連邦・州の支援は原則対象外です。奨学金の応募は5月〜翌3月ですが、留学生の対象は要確認です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "154396": {
+  "scholarshipUrl": "https://www.swcciowa.edu/admissions/international-admissions/financial-information",
+  "intlAidNote": "州外・留学生の授業料は1単位$226+諸費$13(2025-26)。年間の総費用の目安は約$17,000〜17,500、入学時に$2,000のデポジットが必要です。連邦・州の支援は対象外ですが、音楽・運動プログラムの奨学金が出る場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148380": {
+  "scholarshipUrl": "https://rockvalleycollege.edu/admissions-and-aid/international-students",
+  "intlAidNote": "留学生の授業料は1単位$228です。銀行の資金保証書が必要で、必要資金の目安は住居別に最低$15,998〜$26,056です。RVC Foundation奨学金は授業料・教材費に充当され、FAFSAが出せない旨を申請書に記載できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148991": {
+  "scholarshipUrl": "https://www.src.edu/admissions/international-students",
+  "intlAidNote": "留学生の授業料・諸費は1単位$506(2026-27)です。公立短大のため留学生への経済支援はできないとされ、資金証明書(奨学金の授与通知も可)でI-20を取得します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148007": {
+  "scholarshipUrl": "https://prairiestate.edu/apply-reg-pay/tuition-and-fees/index.aspx",
+  "intlAidNote": "州外・留学生の授業料は1単位$489(授業料$450.50+諸費$38.50、2026秋)。I-20申請には資金証明が必要です。PSC Foundationは年$75,000超の奨学金を出しますが、FAFSA提出が条件の場合があり、留学生の対象は要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147378": {
+  "scholarshipUrl": "https://www.morainevalley.edu/admissions/international-student/",
+  "intlAidNote": "州外・留学生の授業料は1単位$429(2026秋)です。F-1留学生は連邦・州の支援を受けられませんが、大学の限定的な奨学金や外部奨学金は利用可能です。授業料の分割払いは留学生には使えません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "149842": {
+  "scholarshipUrl": "https://www.harpercollege.edu/international/future/",
+  "intlAidNote": "F-1留学生には1年分で$24,500以上の資金証明が必要です(扶養家族1人につき+$3,000)。留学生も応募できる奨学金が各種あるとされています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

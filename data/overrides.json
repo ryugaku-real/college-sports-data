@@ -3731,5 +3731,35 @@
   "scholarshipUrl": "https://www.salemcc.edu/admissions/tuition-and-fees",
   "intlAidNote": "留学生の授業料は1単位$365+留学生料$300で、年間の目安は約$26,000です。I-134宣誓書と$16,000以上の銀行明細が必要です。留学生は連邦支援・緊急支援の対象外ですが、大学の奨学金に応募できるとされています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "199856": {
+  "scholarshipUrl": "https://www.waketech.edu/student-services/international-students-office/financial",
+  "intlAidNote": "留学生は経済支援の対象外ですが、Wake Tech Foundationの奨学金($300〜$3,500、平均約$1,300)が一部留学生にも出る場合があります。I-20には生活費の資金証明が必要で、1年目の就労は学内に限られ、機会はごく限定的です。EFLと一部の準学士課程がI-20対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236610": {
+  "scholarshipUrl": "https://www.shoreline.edu/international/admission/cost.aspx",
+  "intlAidNote": "新規留学生は出願時に奨学金の審査を申請でき、$500・$1,000・$2,000の枠があります(ニーズまたは成績型、GPA2.0以上)。資金証明は初年度分が必要ですが、全課程分の資金計画が求められます。連邦支援は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "162557": {
+  "scholarshipUrl": "https://www.frederick.edu/admissions/international-students.html",
+  "intlAidNote": "F-1留学生には奨学金を提供できないとされています。年間費用の最低目安は$32,000(2025秋)で、州外料金が適用され、I-134宣誓書で資金証明が必要です。連邦支援は不可ですが、移民資格でFAFSAが使えない学生向けのMaryland州の申請がありますが、F-1は通常対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "105747": {
+  "scholarshipUrl": "https://www.scottsdalecc.edu/students/international/admission-process",
+  "intlAidNote": "I-20発行には年$30,219の資金証明(Statement of Financial Support)が必要です。大学に留学生向けの奨学金・経済支援はないとされ、全期間の費用を自己負担で準備する必要があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198321": {
+  "scholarshipUrl": "https://clevelandcc.edu/admissions/international-admissions/",
+  "intlAidNote": "F-1留学生は州外授業料で、公証済みの資金証明が必要です。留学生は奨学金・経済支援の対象外とされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198233": {
+  "scholarshipUrl": "https://cvcc.edu/student-services/international-students/",
+  "intlAidNote": "留学生は州外授業料で、在学中の健康保険が必要です。CVCCは留学生に経済支援・奨学金を提供していないとされています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

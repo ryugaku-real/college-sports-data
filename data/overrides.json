@@ -2220,5 +2220,35 @@
   "scholarshipUrl": "https://www.nwosu.edu/paying-for-college/international-student-costs",
   "intlAidNote": "留学生向け奨学金は非常に限られ、あてにしないよう案内されています。新入生・編入生はGO OK授業料免除(非居住者授業料の補助)の対象です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "207856": {
+  "scholarshipUrl": "https://swcu.edu/admissions/international",
+  "intlAidNote": "新入生向けInternational Scholarship(金額はスポンサーにより決定、GPA2.5維持)。ACT/SATで学業奨学金にも応募できます。留学生は約80名・35か国です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "174358": {
+  "scholarshipUrl": "https://www.mnstate.edu/cost-aid/scholarships/international",
+  "intlAidNote": "新入留学生向けの自動奨学金があり、3.2以上のGPAなら年$2,000〜$40,000の学業奨学金の可能性。在学留学生は10/1〜2/1に財団奨学金へ一括申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190725": {
+  "scholarshipUrl": "https://www.daemen.edu/admissions/financing-your-education/scholarships-grants",
+  "intlAidNote": "留学生向けの学業奨学金が年$9,500〜$12,500(成績で決定、更新はGPA3.0)。留学生に提供されるのは学業奨学金のみで、全額奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207661": {
+  "scholarshipUrl": "https://www.rsu.edu/financial-aid/scholarships/grants-waivers/",
+  "intlAidNote": "留学生は州外授業料の免除(申請不要、州内授業料並み、更新はGPA2.5)の対象。財団奨学金にも申請できます(FAFSA不要)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "214041": {
+  "scholarshipUrl": "https://www.millersville.edu/international/financial-assistance.php",
+  "intlAidNote": "新入留学生は成績で自動のメリット奨学金(Marauder年$7,000、Voyager $5,000、Navigator $3,000)に加え、Explorer Award $3,000を併用可(各8学期更新)。全額奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "106713": {
+  "scholarshipUrl": "https://www.cbc.edu/internationalstudents",
+  "intlAidNote": "留学生向けに学業・キリスト教奉仕・運動の奨学金と、International Student Cash Scholarship(3/15締切)があります。援助は非常に限られています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

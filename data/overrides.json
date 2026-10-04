@@ -3328,5 +3328,35 @@
   "scholarshipUrl": "https://elgin.edu/admissions/apply/international-students/",
   "intlAidNote": "2025-26の年間費用の目安は$25,125(授業料・諸費$9,655、生活費$12,980、教材・必須健康保険$2,490)です。ECC Foundationに留学生向け奨学金が3種あり(新入留学生向け、Dr. David and Julie Sam、Susan Smith)、GPA2.0以上が条件です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "169275": {
+  "scholarshipUrl": "https://www.mcc.edu/financial-aid/scholarships.shtml",
+  "intlAidNote": "留学生は連邦の学生支援(Pell・ローン・Work Study)の対象外ですが、MCCの奨学金や学内アルバイトへの応募は推奨されています。F-1のI-20申請手順は大学の国際学生ページにあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210270": {
+  "scholarshipUrl": "https://umpqua.edu/cost-and-aid/tuition-fees",
+  "intlAidNote": "留学生は全日制(フルタイム)での在籍が必須で、英語力と資金力の証明が必要です。留学生はORSAA(州の学生支援申請)は不要です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "163426": {
+  "scholarshipUrl": "https://www.montgomerycollege.edu/international-students/getting-started/evidence-of-financial-support.html",
+  "intlAidNote": "I-20取得には年間$32,000以上の資金証明が必要です(学費・生活費込み)。非移民ビザ保持者はMaryland居住者になれず、州外料金が適用されます。公立のため留学生向け奨学金は限られます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236975": {
+  "scholarshipUrl": "https://www.wvc.edu/apply/future-students/international-students/costs-calendar.html",
+  "intlAidNote": "2022-23の留学生の費用目安は、授業料$9,825(12単位×3クォーター)、年間総額$20,605です。WVC Foundationの奨学金は市民権不要で、GPAや在籍状況は選考で考慮されません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168883": {
+  "scholarshipUrl": "https://www.baycollege.edu/admissions/paying-for-college/tuition-costs.php",
+  "intlAidNote": "留学生の授業料は1コンタクトアワー$383+諸費($12+$37+$13)で、15コンタクトアワーなら学期$6,480(年$12,960)です。Bay Collegeは年$650,000超の奨学金を出していますが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202356": {
+  "scholarshipUrl": "https://www.tri-c.edu/get-started/international-students/requirements-to-apply-to-tri-c.html",
+  "intlAidNote": "F-1留学生は1年分$29,539の資金証明が必要です(12単位の授業料が最低$3,674.50)。各学期12単位以上の修得が在留資格維持の条件です。留学生向けの奨学金情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -4371,5 +4371,35 @@
   "scholarshipUrl": "https://www.swccd.edu/admissions-and-financial-aid/information-for/international-students/index.aspx",
   "intlAidNote": "F-1の年間費用の目安は約$25,685(編入生は$30,431)で、スポンサーの宣誓書(Affidavit of Support)が必要です。国境地域(メキシコ)の低所得学生向けのAB91制度は州内料金(12単位で授業料$552+諸費約$110)ですが、通常のF-1は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "124113": {
+  "scholarshipUrl": "https://www.taftcollege.edu/admissions/apply/international-students/index.php",
+  "intlAidNote": "留学生の費用は初学期$5,770、次学期$5,670が目安です。12単位以上が必要でオンラインは1科目までです。連邦支援は対象外ですが、留学生・非市民も応募できる奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "125028": {
+  "scholarshipUrl": "https://www.venturacollege.edu/departments/student-services/international-students/international-applicants",
+  "intlAidNote": "F-1は非居住者授業料に加え、登録料・健康費・学生センター費・留学生サーチャージ、処理料$50がかかります(経済困窮などでサーチャージ・処理料は免除される場合あり)。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "125091": {
+  "scholarshipUrl": "https://www.vvc.edu/international-students",
+  "intlAidNote": "非居住者授業料1単位$342+登録料$46で、12単位で約$3,700/学期です。年$22,700の資金証明と、I-20発行前の$100デポジット(初学期授業料に充当)が必要です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "125462": {
+  "scholarshipUrl": "https://coalingacollege.edu/admissions/cost-of-attendance/",
+  "intlAidNote": "2025-26の留学生の授業料は1単位$351(合計$397/単位)です。授業料・寮費は登録時に支払い、出願料$50(返金不可)がかかります。留学生は州内料金の対象外で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "125471": {
+  "scholarshipUrl": "https://www.wlac.edu/cost-tuition/tuition-fees",
+  "intlAidNote": "非居住者授業料$359+登録料$46/単位で、出願処理料$50とSEVIS関連費$25(学期)がかかります。生活費込みの年間$27,500程度の資金証明が必要です。留学生・非市民も応募できる奨学金(例: KompareIt Higher Education Scholarship)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "125499": {
+  "scholarshipUrl": "https://www.westvalley.edu/services/international/",
+  "intlAidNote": "授業料は1単位$381+登録料で、出願料$100と留学生健康費$1,075.50がかかります。経済支援は対象外ですが、全日制2学期目から限定的な奨学金に応募できます。15単位以上修了・GPA3.5以上の留学生アスリート向けにWanda Wong International Athlete Scholarshipがあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

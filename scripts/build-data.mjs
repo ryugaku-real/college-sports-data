@@ -148,7 +148,8 @@ for (const sc of out) {
 // Structured "tuition" and "scholarship programs" sections for every school.
 // tuitionLines: figures from the U.S. Dept. of Education (Scorecard) + the researched per-school note; scholarshipSections: federal/state, school (researched), athletic, outside.
 const scholarshipKeys = /奨学金|グラント|Grant|Award|免除|割引|Waiver|Scholarship|援助|補助|ローン|ワークスタディ|学内就労|アシスタントシップ|Assistantship/;
-const academicKeys = /GPA|成績|メリット|Merit|学業|Academic|優秀|SAT|ACT|Honors|Dean|Presidential|特待/;
+const academicKeys = /GPA|成績|メリット|Merit|学業|Academic|優秀|SAT|ACT|Honors|Dean|Presidential|Excellence|Commitment|特待/;
+const academicScholarship = /奨学金|Scholar|Award|Commitment|Grant|Fellowship/;
 const splitSentences = (t) => (t ?? '').replace(/【[^】]*】/g, '').split(/(?<=。)/).map((x) => x.trim()).filter(Boolean);
 for (const sc of out) {
   const intl = sc.control === 'public' ? (sc.tuitionOutOfState ?? sc.tuitionInState) : (sc.tuitionInState ?? sc.tuitionOutOfState);
@@ -162,7 +163,7 @@ for (const sc of out) {
     lines.push(`留学生の総費用の目安(授業料・寮食費・教材・生活費${sc.control === 'public' ? '、州外料金で換算' : ''}): 年約${usd0(coa)}`);
   }
   const tuitionNote = [], schNote = [], acadNote = [];
-  for (const t of splitSentences(sc.intlAidNote)) (scholarshipKeys.test(t) ? (academicKeys.test(t) ? acadNote : schNote) : tuitionNote).push(t);
+  for (const t of splitSentences(sc.intlAidNote)) (academicKeys.test(t) && academicScholarship.test(t) ? acadNote : scholarshipKeys.test(t) ? schNote : tuitionNote).push(t);
   sc.tuitionLines = lines;
   sc.tuitionResearch = tuitionNote.join('');
   sc.scholarshipSections = [

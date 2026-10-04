@@ -24,7 +24,7 @@ function parseCsv(text) {
   const h = rows.shift().map((x) => x.replace(/^\uFEFF/, ''));
   return rows.filter((r) => r.length === h.length).map((r) => Object.fromEntries(h.map((k, i) => [k, r[i]])));
 }
-const KEEP = ['UNITID', 'INSTNM', 'CITY', 'STABBR', 'INSTURL', 'PREDDEG', 'CONTROL', 'LATITUDE', 'LONGITUDE', 'CURROPER', 'NPT4_PUB', 'NPT4_PRIV', 'TUITIONFEE_IN', 'TUITIONFEE_OUT'];
+const KEEP = ['UNITID', 'INSTNM', 'CITY', 'STABBR', 'INSTURL', 'PREDDEG', 'CONTROL', 'LATITUDE', 'LONGITUDE', 'CURROPER', 'NPT4_PUB', 'NPT4_PRIV', 'TUITIONFEE_IN', 'TUITIONFEE_OUT', 'COSTT4_A', 'COSTT4_P', 'BOOKSUPPLY', 'ROOMBOARD_ON', 'ROOMBOARD_OFF'];
 const rows = parseCsv(readFileSync('scorecard/Most-Recent-Cohorts-Institution.csv', 'utf8'))
   .filter((r) => r.CURROPER === '1' && ['1', '2', '3'].includes(r.PREDDEG))
   .map((r) => Object.fromEntries(KEEP.map((k) => [k, r[k]])));

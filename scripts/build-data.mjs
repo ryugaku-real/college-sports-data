@@ -64,7 +64,8 @@ for (const r of await loadScorecard()) {
     scholarshipNote: a.division === 'D3' || a.division === 'NJCAA-D3' ? 'D3はアスリート奨学金なし(学業・ニーズ型のみ)'
       : a.association === 'CCCAA' || a.association === 'NWAC' ? `${a.association}は原則アスリート奨学金なし`
       : a.association === 'NCAA' ? 'アスリート奨学金は競技・学校により異なります(Ivy Leagueなど例外あり)' : 'アスリート奨学金は競技・学校により異なります',
-    avgNetPrice: num(r.NPT4_PUB) ?? num(r.NPT4_PRIV), tuitionInState: num(r.TUITIONFEE_IN), tuitionOutOfState: num(r.TUITIONFEE_OUT),
+    avgNetPrice: num(r.NPT4_PUB) ?? num(r.NPT4_PRIV),
+    costOfAttendance: num(r.COSTT4_A) ?? num(r.COSTT4_P), roomBoardOnCampus: num(r.ROOMBOARD_ON), booksSupplies: num(r.BOOKSUPPLY), tuitionInState: num(r.TUITIONFEE_IN), tuitionOutOfState: num(r.TUITIONFEE_OUT),
     website: /^https?:/.test(r.INSTURL) ? r.INSTURL : `https://${r.INSTURL}`, verified: false,
   });
 }
@@ -112,6 +113,32 @@ const maxAid = (sc) => {
 const usd0 = (n) => '$' + Math.round(n).toLocaleString('en-US');
 for (const sc of out) sc.athleticScholarshipMax = maxAid(sc);
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
+// Structured "tuition" and "scholarship programs" sections for every school.
+// tuitionLines: figures from the U.S. Dept. of Education (Scorecard) + the researched per-school note; scholarshipSections: federal/state, school (researched), athletic, outside.
+const scholarshipKeys = /奨学金|グラント|Grant|Award|免除|割引|Waiver|Scholarship|援助|補助|ローン|ワークスタディ|学内就労|アシスタントシップ|Assistantship/;
+const splitSentences = (t) => (t ?? '').replace(/【[^】]*】/g, '').split(/(?<=。)/).map((x) => x.trim()).filter(Boolean);
+for (const sc of out) {
+  const intl = sc.control === 'public' ? (sc.tuitionOutOfState ?? sc.tuitionInState) : (sc.tuitionInState ?? sc.tuitionOutOfState);
+  const lines = [];
+  if (intl) lines.push(sc.control === 'public' ? `授業料・諸費用(留学生は州外料金が一般的): 年約${usd0(intl)}${sc.tuitionInState ? `(州内の学生は約${usd0(sc.tuitionInState)})` : ''}` : `授業料・諸費用(私立は留学生も同額が一般的): 年約${usd0(intl)}`);
+  if (sc.roomBoardOnCampus) lines.push(`寮・食費(キャンパス内): 年約${usd0(sc.roomBoardOnCampus)}`);
+  if (sc.booksSupplies) lines.push(`教材費: 年約${usd0(sc.booksSupplies)}`);
+  if (sc.costOfAttendance) {
+    // Scorecard cost of attendance is the in-state figure for public schools: swap in the out-of-state tuition for international students
+    const coa = sc.control === 'public' && sc.tuitionInState && sc.tuitionOutOfState ? sc.costOfAttendance - sc.tuitionInState + sc.tuitionOutOfState : sc.costOfAttendance;
+    lines.push(`留学生の総費用の目安(授業料・寮食費・教材・生活費${sc.control === 'public' ? '、州外料金で換算' : ''}): 年約${usd0(coa)}`);
+  }
+  const tuitionNote = [], schNote = [];
+  for (const t of splitSentences(sc.intlAidNote)) (scholarshipKeys.test(t) ? schNote : tuitionNote).push(t);
+  sc.tuitionLines = lines;
+  sc.tuitionResearch = tuitionNote.join('');
+  sc.scholarshipSections = [
+    { title: '連邦・州の学費援助', text: 'F-1留学生は米国連邦・州の学費援助(Pell Grant・連邦ローンなど)の対象外です。' },
+    { title: '大学の奨学金・留学生向け制度(個別調査)', text: schNote.join('') || sc.intlAidNote || '個別の制度は確認できていません。学校の国際学生課・奨学金ページで確認してください。' },
+    { title: 'アスリート奨学金', text: `${sc.athleticScholarship ? 'あり' : 'なし'}。${sc.athleticScholarshipMax ?? ''}` },
+    { title: '外部奨学金・その他', text: '本国政府・財団・民間団体の奨学金、保証人の資金、学内就労(F-1は就労条件あり)などを組み合わせるのが一般的です。' },
+  ];
+}
 // Schools not yet researched individually get a clearly-labelled, generic estimate built from known data.
 const usd = (n) => '$' + Math.round(n).toLocaleString('en-US');
 const athleticAidText = (sc) => ({

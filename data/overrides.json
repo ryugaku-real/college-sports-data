@@ -3478,5 +3478,35 @@
   "scholarshipUrl": "https://www.mchenry.edu/international/index.html",
   "intlAidNote": "MCCはローン・奨学金などの経済支援を留学生に提供できないとされています。I-20には1年分以上の資金証明(個人資産またはスポンサー)と宣誓書が必要で、支払い不履行はF-1資格喪失につながります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "171304": {
+  "scholarshipUrl": "https://www.muskegoncc.edu/admissions/become-a-student/international-students/",
+  "intlAidNote": "F-1留学生は連邦・州の支援の対象外で、FAFSA不要の奨学金のみ応募できます。1年分の資金証明が必要で、授業料は開講前に支払うか分割払いを設定する必要があります(未払いはF-1資格の終了につながります)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170550": {
+  "scholarshipUrl": "https://kellogg.edu/admissions/registrar/tuition/",
+  "intlAidNote": "州外・留学生の授業料は2025-26で1単位$314+諸費$30=$344です(医療系は割高)。KCCは外国人学生への経済支援を提供できないとされ、Foundationの奨学金も米国市民・対象非市民が条件のものが中心です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101301": {
+  "scholarshipUrl": "https://catalog.wccs.edu/international-students",
+  "intlAidNote": "留学生は州外料金(アラバマ居住者の2倍)です。TOEFL等の英語力と、公証済みスポンサー書類・原本の銀行明細($15,800以上)が必要です。大学の奨学金は学区内居住者向けが中心で、留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235103": {
+  "scholarshipUrl": "https://www.edmonds.edu/international/scholarships.html",
+  "intlAidNote": "2026-27の授業料は大学・高校課程で3クォーター(15単位)約$12,397、学士(BAS)で約$23,242です。新規F-1/F-2留学生は最大3クォーターで1クォーターあたり$500の授業料減額($1,500)があります。OIP New Student Scholarship($1,000、GPA3.3以上)やCurrent Student Merit($300)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "105428": {
+  "scholarshipUrl": "https://www.phoenixcollege.edu/become-student/international-students/cost-attendance",
+  "intlAidNote": "F-1留学生は年$30,219以上の資金証明が必要です。連邦・州の支援は対象外で、大学の奨学金は少数・競争的で学科限定のものもあります。Sonora(メキシコ)居住者向けに州内料金で学べる枠もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236753": {
+  "scholarshipUrl": "https://www.tacomacc.edu/costs-admission/scholarships-funding/scholarships",
+  "intlAidNote": "TCC Foundationが年約200件(総額$35万超)の奨学金を出し、留学生向けの奨学金もあります。連邦の学生支援は対象外です。国際出願の日程は大学の国際学生ページで確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

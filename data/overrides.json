@@ -4618,8 +4618,38 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "191719": {
-  "scholarshipUrl": "https://www.hvcc.edu/admissions/international/estimated-annual-financial-requirementsestimated-annual-financial-requirements-for-international-students.html",
+  "scholarshipUrl": "https://www.hvcc.edu/admissions/international/index.html",
   "intlAidNote": "2025-26の授業料・諸費は約$14,190、9か月の生活費$22,470で、総額約$36,660の資金証明が目安です。留学生は最初の学期後にHVCCの奨学金(100種以上、ニーズ・成績型)に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "192022": {
+  "scholarshipUrl": "https://sunyjefferson.edu/admissions/apply/international-students.php",
+  "intlAidNote": "1年間の費用の目安は約US$26,000(全日制授業料・諸費、住居・食費、教材)で、初年度分以上の資金証明が必要です。連邦・NY州の支援は対象外ですが、Jefferson Foundationの奨学金(年270件超・$30万超)に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "193283": {
+  "scholarshipUrl": "https://mvcc.edu/international/",
+  "intlAidNote": "留学生の授業料は年$8,220+諸費$952+必須の留学生医療保険$2,164です。1年分の授業料・生活費の資金証明が必要です。連邦支援は対象外で、MVCC Foundationが年$28万超(350名超、$100〜授業料全額)の奨学金を運営していますが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "194028": {
+  "scholarshipUrl": "https://www.nccc.edu/scholarships/",
+  "intlAidNote": "州外・留学生もHodson Scholarship等の対象で、登録時に自動で付与されます(申請不要)。Pell・連邦ローンは市民・永住者が条件で、留学生は使えません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "194222": {
+  "scholarshipUrl": "https://www.sunyocc.edu/international-student-services",
+  "intlAidNote": "留学生の授業料は学期$5,562です。大学として留学生向けの奨学金・経済支援はないとされています。F-1には1年分を賄える資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "196565": {
+  "scholarshipUrl": "https://www.tompkinscortland.edu/global-initiatives/international-admissions",
+  "intlAidNote": "州外・留学生が寮に住み、15時間の社会奉仕とGPA2.5を維持すれば州内授業料になる\"Be One of Us Scholarship\"(州外分の授業料免除)があります。F-1は医療保険(12か月)が必須で、修了後はOPTも利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "196699": {
+  "scholarshipUrl": "https://www.sunyulster.edu/apply-aid/tuition-fees/residency-requirements.php",
+  "intlAidNote": "F-1は州外料金で、12単位以上が必要です。経済支援は永住権のない非市民は対象外ですが、在籍学生は奨学金に応募できます(Ulster Foundationは年$18万超・200名超)。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

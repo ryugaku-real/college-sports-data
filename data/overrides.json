@@ -8816,5 +8816,35 @@
   "scholarshipUrl": "https://www.duny.edu/international-students/",
   "intlAidNote": "留学生は大学のメリット奨学金の対象になり得る(合格時に審査)が、検索で同名の別大学(Dominican University of California等)の情報が混在したため、金額は未確認。授業料・奨学金額は公式サイトで要確認。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "193292": {
+  "scholarshipUrl": "https://www.molloy.edu/admissions-aid/financial-aid/scholarships-and-grants",
+  "intlAidNote": "授業料は年約$41,380。成績奨学金: Molloy Award年$8,000〜$10,000、Presidential Dominican Academic Scholarship年$10,000〜$30,000(学力基準)。学生の99%が援助を受給(平均約$26,255)。留学生専用の奨学金・対象可否は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "194958": {
+  "scholarshipUrl": "https://www.roberts.edu/admissions/international-admissions/",
+  "intlAidNote": "2026-27の授業料は$38,996(国内学生と同額、1単位$1,625)。留学生向けの旧International Scholarship(年$2,000)は2016-17入学以降は廃止。奨学金・補助は保証されず、外部奨学金・私費ローン・スポンサー支援の活用を推奨。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "195243": {
+  "scholarshipUrl": "https://stac.edu/admissions-aid/international/",
+  "intlAidNote": "留学生の授業料・諸費用$42,800、住居・食事$18,850、その他$2,500で総額約$64,150。メリット奨学金はなく、ニーズ型の援助(ワークスタディ＋グラント)のみ。留学生は毎年$5,750のローン利用が前提で、残りの必要額を大学が補う。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "201690": {
+  "scholarshipUrl": "https://www.centralstate.edu/scholarships-and-employment-international-students",
+  "intlAidNote": "授業料・諸費用は年約$10,040、総額目安約$26,610(2024-25)。全額授業料奨学金の保証はないが、民間・企業の奨学金やニーズ型の学内援助の対象になり得る。バハマ教育省との提携(授業料カバー、寮・食費は大学が同額補助)あり。保証人の費用負担書類が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206349": {
+  "scholarshipUrl": "https://www.ursuline.edu/cost-aid/scholarships/scholarships-for-international-students",
+  "intlAidNote": "授業料は年$39,780。留学生は成績・テスト成績に基づくメリット奨学金を出願で自動審査(8/1までの入学許可が条件)。メリット・運動奨学金以外のニーズ型援助はない。外部奨学金・スポンサー支援を早期に確保するよう案内。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "498562": {
+  "scholarshipUrl": "https://www.commonwealthu.edu/cost-and-aid/scholarships/out-of-state",
+  "intlAidNote": "2025-26の留学生新入生の費用は奨学金前で約$37,698/年。高校GPAに基づく奨学金で州外・留学生は授業料を50%超削減できる可能性。5/1までの出願が条件。ブルームズバーグ、ロックヘイブン、マンスフィールドの統合校。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

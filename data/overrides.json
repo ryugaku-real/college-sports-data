@@ -7666,5 +7666,35 @@
   "scholarshipUrl": "https://www.lemoyne.edu/admission-financial-aid/cost-financial-aid/",
   "intlAidNote": "2026-27の授業料$42,080、諸費用$1,336、食費約$6,548。International Presidential Scholarshipは成績に基づき年最大$20,000(4年間)。財政証明書(Certificate of Finance)が必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "130934": {
+  "scholarshipUrl": "https://www.desu.edu/",
+  "intlAidNote": "留学生は州外料金で授業料は年約$18,460、寮・食費・書籍込みの総額は約$39,415。新入生向けの成績・ニーズ奨学金は少額(平均約$3,051)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "160038": {
+  "scholarshipUrl": "https://www.nsula.edu/",
+  "intlAidNote": "留学生は州外授業料(年約$19,652)で、寮・食費込みの総額目安は約$37,493。Presidential Scholars Award年約$3,000など成績奨学金は少額。留学生専用の奨学金情報は限定的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110486": {
+  "scholarshipUrl": "https://www.csub.edu/",
+  "intlAidNote": "留学生の州外授業料は年約$19,576、寮・食費等込みの総額目安は約$38,856。連邦・州の援助は対象外が多く、CSU財団奨学金などは個別に条件確認が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100724": {
+  "scholarshipUrl": "https://www.alasu.edu/admissions/international-students.php",
+  "intlAidNote": "留学生は州外料金で、寮生活込みの年間総額は約$24,139(授業料・諸費用・住居・食事・書籍・保険)。成績奨学金(例: Black and Gold年$4,000)は対象だが連邦ニーズ援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151111": {
+  "scholarshipUrl": "https://international.indianapolis.iu.edu/admissions/scholarships",
+  "intlAidNote": "留学生の年間費用目安は約$55,668(授業料$36,125、住居・食費$13,656ほか)。GPA別の成績奨学金$5,000〜$10,000、優等プログラムで年$19,000〜$27,000や全額授業料免除もあり。12/1までの出願が推奨。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "163338": {
+  "scholarshipUrl": "https://www.umes.edu/admissions/international-students/",
+  "intlAidNote": "留学生は州外授業料で年約$19,728。留学生向け奨学金は限定的で、少額の成績奨学金(例: $3,000)が中心。英語力・資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

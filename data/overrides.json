@@ -7846,5 +7846,35 @@
   "scholarshipUrl": "https://catalog.cofo.edu/content.php?catoid=23&navoid=1050",
   "intlAidNote": "全日制学生は授業料を負担しない「Tuition Assurance」奨学金があり、週15時間の学内労働が必須(大学側の教育コストは年約$23,900)。寮費・食費・書籍・諸費用は別。留学生への適用条件は要確認。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "106810": {
+  "scholarshipUrl": "https://crc.edu/financial-aid/",
+  "intlAidNote": "2026-27の授業料は1単位$530(フルタイム約$15,900)、寮生の総額は約$27,550。成績奨学金は年$1,500〜$7,000、編入$5,000など。留学生専用の奨学金額は不明で要問い合わせ。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225502": {
+  "scholarshipUrl": "https://www.tamuv.edu/international/cost-attendance/",
+  "intlAidNote": "留学生の授業料・諸費用は年約$17,839、寮・食費$10,686、必須保険$3,147で総額約$32,272(2024-25)。International Merit Scholarshipで年$3,000〜$10,000削減(州内料金相当)、Cultural Scholarship年$1,500。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176406": {
+  "scholarshipUrl": "https://www.tougaloo.edu/admissions/scholarships",
+  "intlAidNote": "留学生も州外料金の上乗せなし。授業料は年約$10,130、総額目安約$23,235。州・連邦援助は対象外で、I-20発行前に経済力の証明が必要。Presidential Academic Scholarship(授業料・寮・食費全額)は極めて競争的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "461795": {
+  "scholarshipUrl": "https://www.na.edu/admissions/undergraduate/scholarships/",
+  "intlAidNote": "2026-27の留学生授業料は12〜16単位で学期$13,500。留学生は成績奨学金が年$12,000〜$22,000(GPA・テスト基準)と手厚く、Exceptional Merit Scholarshipもある。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151333": {
+  "scholarshipUrl": "https://kokomo.iu.edu/international-student-services/admissions/international-student-scholarships.html",
+  "intlAidNote": "F-1留学生全員にAcademic and Cultural Scholarship(学部1年目最大$5,000)、さらに成績奨学金を自動審査で合計最大$20,000。4/1までの出願が推奨。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "243133": {
+  "scholarshipUrl": "https://www.upr.edu/",
+  "intlAidNote": "授業料・諸費用は年約$6,284で、州内外・留学生の区別なく安価。留学生は1%未満で授業はスペイン語中心。留学生向けの追加費用・奨学金情報は限定的。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -4541,5 +4541,35 @@
   "scholarshipUrl": "https://catalog.ocean.edu/student-affairs/admissions/",
   "intlAidNote": "留学生は全日制(12単位以上)で、授業料は州外・外国居住者と同額です。教育・生活費の資金証明が必要です。学内就労はFAFSA対象者に限定されワークスタディも対象外のため、実質ほぼ使えません。OCC Foundationの奨学金は承認された学生に提供されます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "186034": {
+  "scholarshipUrl": "https://pccc.edu/bursar/policies-procedures/",
+  "intlAidNote": "F-1留学生は登録から72時間以内に授業料を全額支払う必要があり、未払いだと科目が削除されます。全日制(秋・春)でないとI-20が終了します。PCCC Foundationの奨学金は経済支援の少ない学生向けですが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "188438": {
+  "scholarshipUrl": "https://www.sunyacc.edu/admissions-aid/admissions-process/international-students",
+  "intlAidNote": "2026-27の総費用の目安は約$28,425(授業料$8,748、住居・食費$14,716ほか)です。留学生向けの経済支援はなく、非移民ビザの学生は居住者授業料の対象外です。奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "189547": {
+  "scholarshipUrl": "https://sunybroome.edu/international/financial-documentation/",
+  "intlAidNote": "留学生の授業料は全日制で学期$5,976で、学期ごとに$750の授業料デポジットが必要です。F-1・J-1は国際医療保険が必須で、SEVIS費の支払いもあります。SUNY Broome Foundationの奨学金や外部奨学金が利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "189839": {
+  "scholarshipUrl": "https://www.cayuga-cc.edu/admissions/process/international/",
+  "intlAidNote": "留学生には経済支援・奨学金はなく、全期間分の費用を自己負担できる証明が必要です。年間の総費用の目安は約$27,716(授業料$10,560、諸費・教材・保険$4,586、生活費$10,570、交通・個人費$2,000)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190053": {
+  "scholarshipUrl": "https://admissions.clinton.edu/how-to-apply/international-students/international-student-application/",
+  "intlAidNote": "I-20には、宣誓書(Affidavit of Support)で$25,000以上の資金証明が必要です。Pell、TAP、Excelsiorなどの経済支援は市民・対象非市民向けで、F-1留学生は対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190442": {
+  "scholarshipUrl": "https://www.corning-cc.edu/admissions-future-students/international-students/admission-requirements-international.php",
+  "intlAidNote": "予算書記載の授業料・諸費をカバーする資金証明が必要です。70以上の奨学金があり、留学生向けにWerner International Scholarship(成績優秀な全日制の留学生)とRita Reimanis Scholarship to Promote International Understandingがあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

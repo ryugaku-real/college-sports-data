@@ -3418,5 +3418,35 @@
   "scholarshipUrl": "https://bigbend.edu/i-am/international-general-information",
   "intlAidNote": "留学生(州外)の授業料は下級科目で1単位約$350.12です。BBCC Foundationの奨学金に留学生も応募できるものがあり、特定プログラムで募集した学生には部分的な授業料免除や給付が出る場合があります。1年目の学内就労はできません。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "170620": {
+  "scholarshipUrl": "https://www.lakemichigancollege.edu/policies/international-students",
+  "intlAidNote": "留学生の授業料は2026-27で1コンタクトアワー$376.50です。I-20発行前に初年度の授業料・諸費相当のデポジットが必要で、獲得済みの奨学金は(入金確認後)その額から差し引けます。FAFSAは不要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "145831": {
+  "scholarshipUrl": "https://ivcc.edu/admissions/internationalpacket.pdf",
+  "intlAidNote": "F-1留学生は学区外授業料で1単位$363.18(15単位で学期$5,447.70以上)です。$23,485.40以上の資金証明が必要で、資料上は学生向け経済支援の対象外とされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172291": {
+  "scholarshipUrl": "https://sc4.edu/admissions/international-students/",
+  "intlAidNote": "留学生料金が在学中ずっと適用されます。$26,544の資金証明が必要で、授業料は登録時に全額支払います。連邦支援は対象外です。大学の寮に住む留学生は学区内料金が適用される優遇があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168607": {
+  "scholarshipUrl": "https://discover.alpenacc.edu/financial_aid/index.php",
+  "intlAidNote": "留学生はTOEFL500以上などの英語力が必要です。連邦の学生支援は対象外です。ACC Foundationの奨学金はFAFSAと申請書が条件で、留学生の対象かは大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235431": {
+  "scholarshipUrl": "https://international.highline.edu/current-students/scholarships/",
+  "intlAidNote": "ISPが留学生向け奨学金を運営し、Academic Excellence($2,000、GPA3.5以上・36単位修了)とGraduate Honors($3,000)があります。Highline College Foundationの奨学金(30種以上、$500〜$4,000)にも留学生が応募でき、最初の1クォーター修了後から応募可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "234845": {
+  "scholarshipUrl": "https://www.centralia.edu/pathways/docs/2026-27catalog.pdf",
+  "intlAidNote": "留学生は連邦・州の財政支援の対象外ですが、大学の奨学金には応募できます。授業料は最高料金区分で、各学期12単位以上・GPA2.0以上が必要です。1年分の資金証明(銀行明細・公証済み宣誓書など)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

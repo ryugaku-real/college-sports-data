@@ -6276,5 +6276,45 @@
   "scholarshipUrl": "https://www.brandeis.edu/student-financial-services/financial-aid/scholarships/international.html",
   "intlAidNote": "Wien International Scholarshipは必要額を100%充足(優秀な留学生向け)。日本在住者向けTWISP(授業料・寮・食費・保険を全額)あり。援助は入学前に申請が必要で、合格通知後は応募不可。F-1の資金証明が別途必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "166683": {
+  "scholarshipUrl": "https://sfs.mit.edu/undergraduate-students/the-cost-of-attendance/making-mit-affordable/",
+  "intlAidNote": "2026-27の総額は$92,760。留学生にもニード・ブラインド入学で必要額の100%を4年間支給(国内学生と同じ)。家族の年収$200,000未満は授業料無料、$100,000未満は親の負担なし。メリット奨学金は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168148": {
+  "scholarshipUrl": "https://admissions.tufts.edu/tuition-and-aid/applying-for-aid/international-student-aid/",
+  "intlAidNote": "留学生にも必要額の100%を在学中支給(ニードベースのみ、CSS Profile)。メリット奨学金は無し。入学時に援助を申請しなければ後から受けられない。Tufts Tuition Pactは留学生は対象外。UWC卒業生は年$10,000のグラント。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168218": {
+  "scholarshipUrl": "https://www.wellesley.edu/admission-aid/student-financial-services/understanding-financial-aid",
+  "intlAidNote": "留学生にはニード・ブラインドではなく、援助枠は限定的で競争が激しい。合格者は必要額を100%充足。援助を受ける留学生の平均パッケージは年約$55,000。2026-27は授業料$72,570、寮$12,020、食費$11,186。メリット奨学金は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168342": {
+  "scholarshipUrl": "https://www.williams.edu/admission-aid/financial-aid/cost-and-aid/",
+  "intlAidNote": "留学生も含め合格者の必要額を100%充足(ニードベースのみ)。2026-27の総額は約$95,960(授業料$76,300、寮$9,830、食費$9,490)。300以上の基金奨学金が援助申請者で自動審査(C. V. Starr奨学金は留学生を優先)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168421": {
+  "scholarshipUrl": "https://www.wpi.edu/admissions/tuition-aid/applying-for-aid/international-students",
+  "intlAidNote": "留学生への援助は限定的で、必要額の充足は保証されない(ニード・アウェア、CSS Profile必須)。競争力のある留学生は年$25,000以上の自己負担が目安。メリット奨学金あり。International Leadership Award(年2名、授業料・諸費用まで)。IB40点以上は最低$25,000の奨学金を保証。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168281": {
+  "scholarshipUrl": "https://wheatoncollege.edu/admission/international-students/",
+  "intlAidNote": "2024-25の総額(授業料・寮・食費・活動費)は$79,940。留学生もWheaton Presidential Scholarship(年$25,000〜$33,000、4年更新)の対象。ニードベースは限定的でJudy Purdy Grant等。Davis UWC・Refugee Scholarshipは全費用を支給。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "168005": {
+  "scholarshipUrl": "https://www.suffolk.edu/undergraduate-admission/information-for/international-students",
+  "intlAidNote": "全出願者がメリット奨学金を自動審査(年$5,000〜$25,000、授業料の最大50%、4年更新可)。連邦・州の援助は対象外。米国人の共同署名者付きの民間ローンが利用可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170301": {
+  "scholarshipUrl": "https://hope.edu/admissions/international-students.html",
+  "intlAidNote": "2026-27の総額は$64,420(授業料・諸費用$46,980、寮・食費$13,940、保険・書籍$3,500)。個人費$2,000〜$3,000は別途。メリット奨学金は最大年$30,000(4年更新、別申請不要)。年$30,000〜$35,000の家族負担が目安。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

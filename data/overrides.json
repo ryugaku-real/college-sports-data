@@ -4221,5 +4221,35 @@
   "scholarshipUrl": "https://www.moorparkcollege.edu/apply-and-enroll/paying-for-college/fees",
   "intlAidNote": "留学生は非居住者授業料・健康費・学生センター費などに加え、留学生サーチャージがかかります(経済困窮などで免除される場合あり)。成績・才能型の奨学金の対象になり得ます。修了後はOPTの利用ができます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "119164": {
+  "scholarshipUrl": "https://www.mtsac.edu/international/tuition_fees.html",
+  "intlAidNote": "留学生の授業料は1単位$434+登録料$46で、出願料$50(返金不可)がかかります。年間費用の目安は約$24,763(授業料・諸費$9,963、生活費$14,800)です。資金証明は6か月以内の銀行レター/明細(米ドル)が必要です。留学生向けの奨学金情報は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "119216": {
+  "scholarshipUrl": "https://catalog.msjc.edu/student-fees/enrollment-fees/",
+  "intlAidNote": "F-1は非居住者授業料(1単位約$330)+登録料$46+設備費$20が必要で、免除対象外です。出願は国際学生窓口の紙の申請で、処理料$90がかかります。MSJC Foundationが在学・編入生向けの奨学金を運営していますが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "119331": {
+  "scholarshipUrl": "https://www.napavalley.edu/programs-and-academics/academic-affairs/international-students.html",
+  "intlAidNote": "留学生の授業料は1単位$459+設備費$28+登録料$46で、24単位の年間授業料・諸費は約$13,098です。年間$32,866の資金証明が必要です。大学・州・連邦の経済支援は対象外で、民間奨学金の利用が勧められています。学内就労は週20時間まで(FWSは不可)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120290": {
+  "scholarshipUrl": "https://www.ohlone.edu/international/cost",
+  "intlAidNote": "年間費用の目安は$24,900(授業料・諸費$10,300)で、F-1にはI-20取得者向けの留学生保険料$814がかかります。経済支援は対象外ですが、在学中の留学生はOhlone Foundationの奨学金に応募できます。I-20発行前に最低費用相当の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120421": {
+  "scholarshipUrl": "https://www.oxnardcollege.edu/tuition-and-fees",
+  "intlAidNote": "留学生は登録料・健康費に加え、非居住者授業料(1単位$240)と設備費$20がかかります。F-1/J-1は資金源の制限で対象外となる支援制度があります。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120953": {
+  "scholarshipUrl": "https://www.paloverde.edu/current-students/tuition-fees.html",
+  "intlAidNote": "非居住者授業料は1単位$414+州の登録料$46で、F-1はAB540免除の対象外です。連邦・州の支援は対象外ですが、Foundationの奨学金が提供されています(留学生の対象は個別に確認が必要)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

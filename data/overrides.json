@@ -1402,11 +1402,7 @@
   "intlAidNote": "留学生向けInternational Freshman Merit Scholarshipは年$7,000〜$13,000(寮生。寮外は年$2,500減額)。編入は年最大$10,000、DECA経験者は$1,000〜$5,000。運動奨学金もあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
- "220631": {
-  "scholarshipUrl": "https://www.lincoln.edu/admissions/undergraduate/scholarships/international-student-merit-scholarship.html",
-  "intlAidNote": "F-1の新入生向けInternational Student Merit Scholarshipは授業料・一般諸費をカバーし更新可(GPA3.3以上、SAT1020/ACT20以上、フルタイム、締切2/15)。要申請。",
-  "intlAidCheckedAt": "2026-10-04"
- },
+ "220631": {},
  "155089": {
   "scholarshipUrl": "https://www.friends.edu/admissions/international-students/",
   "intlAidNote": "全額奨学金はありませんが、基準を満たす留学生は複数の大学奨学金を併用可能(留学生の平均援助パッケージ約$12,906)。初年度の資金証明は$52,846、デポジット$2,000が必要です。",
@@ -2125,6 +2121,36 @@
  "187897": {
   "scholarshipUrl": "https://www.nmhu.edu/financial-aid/scholarships/",
   "intlAidNote": "州外・留学生の新入生向けPurple and White Scholarshipは$5,000(GPA3.0以上)。ほかにInternational Student Scholarshipや財団奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "131399": {
+  "scholarshipUrl": "https://www.udc.edu/financial-aid/types-of-financial-aid/",
+  "intlAidNote": "留学生向けにPhyllis Campbell Newsome奨学金(フルタイムの留学生学部生)やMarie Racine奨学金(GPA3.0以上)などがありますが、留学生が受けられる奨学金は国内学生より少ないとされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "142328": {
+  "scholarshipUrl": "https://www.lcsc.edu/international/scholarships",
+  "intlAidNote": "合格者は自動でInternational Academic Scholarship審査。Presidential Academic Waiverは学期$6,115(GPA3.0以上)。International Student Scholarship(GPA2.5、ボランティア10時間/学期)は申請制です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175616": {
+  "scholarshipUrl": "https://www.deltastate.edu/admissions/international/",
+  "intlAidNote": "Sunflower Road Awardで年$6,450の授業料等の減額。Okra奨学金システムで自動マッチング(メリット平均年$4,800)。資金証明は年$23,500で、出願は6/1までです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204617": {
+  "scholarshipUrl": "https://www.ohiodominican.edu/international/admission/tuition-finaid.html",
+  "intlAidNote": "留学生は年$13,000〜$15,000の奨学金(International Academic Achievement 最大$15,000/GPA3.0、Opportunity 最大$13,000/GPA2.5)。初年度の寮無料(Global Connections Grant)と年$2,000のワークスタディもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207041": {
+  "scholarshipUrl": "https://www.ecok.edu/current-students/paying-college/index.php",
+  "intlAidNote": "要件を満たす留学生は非居住者授業料免除を自動で受け、州内授業料並みになります。留学生向けの財団奨学金(Rotary等)もあり、優先締切は2/1です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139199": {
+  "scholarshipUrl": "https://www.brenau.edu/tuition-financial-aid/financial-aid/scholarships/",
+  "intlAidNote": "日中プログラムの留学生向け学業奨学金は年$6,400〜$17,000(GPA別、4年更新、授業料の最大50%)。International Student Scholarship(GPA2.5・ニーズ)もあります。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

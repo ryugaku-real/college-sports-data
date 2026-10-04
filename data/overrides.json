@@ -4791,5 +4791,35 @@
   "scholarshipUrl": "https://www.maderacollege.edu/admissions-aid/business-services/fee-payments/summary-of-student-fees.html",
   "intlAidNote": "非居住者授業料は2025秋で1単位$335で、F-1は免除対象外です。大学の奨学金(年50件超、$100〜$2,000)の留学生の対象は個別確認が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "186380": {
+  "scholarshipUrl": "https://admissions.rutgers.edu/costs-and-aid/scholarships",
+  "intlAidNote": "留学生は連邦支援の対象外ですが、入学が認められた留学生はRutgersの留学生奨学金($5,000〜$16,000/年)の対象として自動で審査され、別途申請は不要です。Rutgers-Camdenでは非スポンサーのF-1学生に最大$17,000/年の奨学金があります。留学生の学費は州外・留学生料金です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164988": {
+  "scholarshipUrl": "https://www.bu.edu/finaid/undergraduate-students/international/",
+  "intlAidNote": "留学生はニーズ型の支援(BU・州・連邦)の対象外で、成績優秀者向けのメリット奨学金(Trustee・Presidentialなど)のみ競争的に検討されます。年間総費用の目安は約$98,419(授業料$73,024)です。18校のUWC卒業生向けにDavis United World College Scholarsがあり、ニーズの全額をカバーします。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227757": {
+  "scholarshipUrl": "https://oiss.rice.edu/cost-attendance",
+  "intlAidNote": "2026-27の年間総費用の目安は約$97,309(授業料$71,140、寮・生活費$20,530ほか)です。留学生はneed-aware選考で、限定された1年生に限りニーズ型の奨学金(支援)が出ます。1年目にニーズ型支援を受けた在学生は継続して申請できます。奨学金には約14%の課税があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191241": {
+  "scholarshipUrl": "https://www.fordham.edu/student-financial-services/types-of-financial-aid/international-student-scholarships/",
+  "intlAidNote": "秋入学の新入生はニーズ型支援に応募できますが、CSS ProfileでFamily Contributionが年$50,000以上必要です。留学生の支援採用率は約7%で、ローン・ワークスタディは含まれません。メリット奨学金は優秀な新入生留学生に年$10,000〜$25,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151351": {
+  "scholarshipUrl": "https://ois.iu.edu/admissions/cost-financial-aid/financial-aid/scholarships/index.html",
+  "intlAidNote": "9か月の費用の目安は約$61,156(授業料・諸費$44,339、住居・食費$12,431、保険$1,916ほか)です。留学生向け奨学金は、学力型が$1,000〜$11,000(4年更新可)、ニーズ型が$500〜$2,000、国別奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "160755": {
+  "scholarshipUrl": "https://admission.tulane.edu/international/aid",
+  "intlAidNote": "年間総費用の目安は約$99,569です。留学生もメリット奨学金(授業料全額、または総費用全額に及ぶものも)の対象で、メリット奨学金が$30,000未満の場合は最大$30,000までのニーズ型支援が出ます。連邦支援は不可で、民間ローンは米国市民・永住者の共同署名者が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

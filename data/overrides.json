@@ -2980,5 +2980,30 @@
   "scholarshipUrl": "https://www.tsc.edu/student-resources/student-services/admissions-and-records/tuition-and-fee-schedule/",
   "intlAidNote": "留学生は州外授業料(2024-25で1単位あたり約$377〜)。TSC財団などの奨学金があり、Gilman奨学金の対象になる場合も。留学生向けの内容は財務課に確認してください。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "225876": {
+  "scholarshipUrl": "https://www.jacksonvillecollege.edu/admissions/international-checklist/",
+  "intlAidNote": "非運動選手の留学生には自動でInternational Scholarship(年最大$4,000)。運動選手はコーチ経由のPerformance Discount。全日制の授業料は1学期$5,000。留学生出願料は2025年11月から$100に変更。I-20の資金証明額は財務ワークシートで案内されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229540": {
+  "scholarshipUrl": "https://www.victoriacollege.edu/Explore/GettingStarted/InternationalStudents",
+  "intlAidNote": "留学生専用の奨学金はありませんが、大学の一般奨学金申請に応募できます。年間費用の目安は約$19,538(授業料・諸費$5,328、生活費$11,710、書籍$2,500)。家族帯同は1名あたり$3,000加算です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "446163": {
+  "scholarshipUrl": "https://www.cccollege.edu/admission",
+  "intlAidNote": "留学生はオンライン受講も可。授業料は2026年夏から1クォーター単位$215、教材費なし。迫害下にある留学生向けのLowell Linden Family Scholarship(授業料・諸費全額、非米国市民)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228884": {
+  "scholarshipUrl": "https://www.texascollege.edu/office-of-bradmissions/admission-requirements/international-students/",
+  "intlAidNote": "留学生は出願を4か月前までに提出し、1年分の費用の前納と公証済み支援状が必要です。授業料は12〜18単位で学期$4,104(寮・食事・諸費込みで約$9,004)。連邦援助は対象外で、奨学金の留学生適用は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220598": {
+  "scholarshipUrl": "https://www.lanecollege.edu/financial-aid-tuition/scholarships/international-pathways-to-success-scholarship",
+  "intlAidNote": "留学生向けInternational Scholars Pathways to Success(GPA3.0以上の高校3年生、年最大$9,700)があります。TOEFLが必須で、I-20前に1年分の費用の支払いが必要です。80種超の基金奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

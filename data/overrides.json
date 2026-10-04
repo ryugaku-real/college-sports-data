@@ -2465,5 +2465,20 @@
   "scholarshipUrl": "https://twu.edu/scholar-programs/",
   "intlAidNote": "F-1留学生はメリット奨学金とTPEGの対象(ニーズベース連邦援助は不可)。$1,000以上の競争的奨学金で州内授業料扱い。州外・留学生向けHonors Scholar Programは年$2,500+留学機会です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "123572": {
+  "scholarshipUrl": "https://international.sonoma.edu/international-students/tuition-fees-scholarships",
+  "intlAidNote": "GPA3.0以上で合格したF-1学部生は自動で初年度の奨学金(President Award GPA3.60以上$5,000、Provost 3.26〜3.59 $3,000、Merit 3.0〜3.25 $2,000)。最終成績の提出は秋7/1、春1/1までです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "150774": {
+  "scholarshipUrl": "https://www.hcc-nd.edu/international-applicants/",
+  "intlAidNote": "留学生は全員がメリット奨学金の自動審査対象(年$10,000〜$22,000、GPA基準)。全額奨学金はなく、ニーズベースは限定的(要申請)。留学生の合否はニード・アウェアで、奨学金適用前に全額の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139311": {
+  "scholarshipUrl": "https://www.clayton.edu/financial-aid/resources/international-information.php",
+  "intlAidNote": "留学生は国籍要件のない大学の競争的奨学金(学業中心)や学科奨学金に応募可能。7/1までの入学・登録が条件です。連邦・州援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

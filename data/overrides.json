@@ -220,5 +220,110 @@
     "scholarshipUrl": "https://admissions.ku.edu/afford/scholarships",
     "intlAidNote": "留学生の新入生は、GPAだけで決まる奨学金(KU Excellence: 年$16,000〜KU Access: 年$8,000、総額で最大$64,000)が審査されます。編入は最大$12,000です。必要性ベースのKU International Student Tuition Grant($500〜$2,000)は、1年在学後に申請できます。",
     "intlAidCheckedAt": "2026-10-04"
+  },
+  "171100": {
+    "scholarshipUrl": "https://admissions.msu.edu/cost-aid/scholarships/international",
+    "intlAidNote": "合格した留学生は、州外生向けの成績による奨学金(President's $15,000〜Global Community Scholars $3,000)が自動で審査されます。必要性ベースの援助は学部の留学生には出ませんが、短期・限定の助成金やローン、緊急用の基金(最大$2,500など)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "147767": {
+    "scholarshipUrl": "https://admissions.northwestern.edu/tuition-aid/international-student-aid/",
+    "intlAidNote": "留学生にも必要性ベースの援助があり、1年生は必要額を100%満たし、授業料・寮費などをローンなし・就労なしの給付で賄います。ただし留学生は経済状況を選考で考慮される(need-aware)ため競争が厳しく、出願時に援助を希望すると申告する必要があります。編入の留学生は対象外です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "204796": {
+    "scholarshipUrl": "https://sfa.osu.edu/international-student/about-aid/types-of-aid/scholarships",
+    "intlAidNote": "連邦の援助は留学生は対象外です。大学の奨学金は、Scholarship Universeにプロフィールを登録して応募します(優先日2月1日)。留学生向けの国際学生助成(主に卒業間近の経済的必要性のある学生向けの少額)や、学部の奨学金があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "214777": {
+    "scholarshipUrl": "https://global.psu.edu/page/tuition-grant-information",
+    "intlAidNote": "留学生向けの経済援助は、ほぼありません。留学生だけの授業料助成(SIGIA、PSTAG)が少数あり、金額は$100〜$2,000程度です(iStartから申請、秋学期は6月15日、春学期は10月15日)。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "243780": {
+    "scholarshipUrl": "https://www.purdue.edu/dfa/students/international/",
+    "intlAidNote": "学部の留学生は、大学の奨学金を含む経済援助の対象外とされています(学校の案内)。外部の奨学金や、米国市民の共同署名者つきの私的ローンが選択肢です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "145637": {
+    "scholarshipUrl": "https://www.osfa.illinois.edu/types-of-aid/other-aid/international-students/",
+    "intlAidNote": "学部の留学生には、必要性ベースの援助はありません。学部・学科が入学書類を見て決める奨学金は、別途申請なしで審査される場合があります。留学生オフィスの限定的な奨学金・ローン(予期せぬ経済的困難向けなど)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "153658": {
+    "scholarshipUrl": "https://admissions.uiowa.edu/cost-aid/international-scholarships",
+    "intlAidNote": "州外の新入生向けに成績による奨学金(National Scholars Award: 年$2,000〜$15,000、最大4年)が審査されます(テストの点数とGPAなど)。留学生向けの奨学金は限定的です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "163286": {
+    "scholarshipUrl": "https://marylandglobal.umd.edu/global-learning-all/international-students-scholars/connect-isss/international-student-support-fund",
+    "intlAidNote": "留学生向けの大学の奨学金は少なく、在学中のF-1/J-1学生向けの小額のものが中心です(Roberta Ma奨学金は平均約$500、国際学生支援基金は母国の危機などの場合に上限$1,500)。1年分の資金証明が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "170976": {
+    "scholarshipUrl": "https://finaid.umich.edu/apply-aid/international-students",
+    "intlAidNote": "連邦の援助はなく、大学の奨学金も留学生にはごく限られています(学校の案内)。留学生向けの基金(S&S奨学金: 主にアフリカ・アジア出身のSTEM専攻で年$5,000〜$12,000など)や、工学部の必要性・成績ベースの奨学金(1学期在学後)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "181464": {
+    "scholarshipUrl": "https://admissions.unl.edu/cost/scholarships/international-scholarship-program-agreements/",
+    "intlAidNote": "合格した留学生は、成績による奨学金(Global Laureate: 年$15,000、Global Ambassador: 年$10,000、Global Delegate: 年$4,000、最大4年)が自動で審査されます。授業料はBig Tenで最も安い水準とされています。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "209551": {
+    "scholarshipUrl": "https://admissions.uoregon.edu/international/scholarships",
+    "intlAidNote": "1月15日までに出願すると、成績による奨学金(UO Excellence、Summit: GPA3.90以上、Apex: GPA3.70以上)が自動で審査されます。留学生向けには、国際文化奉仕プログラム(ICSP、授業料の一部)、国際学生の就労プログラム($1,000〜$4,500)などもあります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "236948": {
+    "scholarshipUrl": "https://www.washington.edu/circle/scholarships-and-financial-aid/",
+    "intlAidNote": "大学の財政援助オフィスは、留学生に奨学金・助成などを一切出しません(学校の案内)。学部の留学生は全費用を自己負担する準備が必要です。本国政府や民間団体、学部の奨学金を探すよう案内されています。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "240444": {
+    "scholarshipUrl": "https://admissions.wisc.edu/international-scholarships/",
+    "intlAidNote": "連邦・州の援助は留学生は対象外です。新入生が1年目に奨学金を得るのはとても難しいと案内されています。King-Morgridge Scholars(特定の国の出身者向け、全額支給)やWestern Union奨学金($1,000)があり、在学中は応募できる奨学金が増えます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "142115": {
+    "scholarshipUrl": "https://www.boisestate.edu/global-international/cost-and-scholarships/undergraduate-scholarships/",
+    "intlAidNote": "留学生は出願時に、成績による奨学金(合計で年$5,000〜$17,000: Ridgeline $5,000、Summit $10,000、Global $5,000〜$7,000)が自動で審査されます(GPA3.1以上が目安)。在学中は、州外授業料の一部を免除するGlobal Broncos奨学金($2,000〜$8,500)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "110556": {
+    "scholarshipUrl": "https://cge.fresnostate.edu/international/future/fees/financialassistance.html",
+    "intlAidNote": "留学生の州外授業料は1単位$396で、2026年秋の年間費用の目安は約$34,434です。留学生向けにDean's Scholarship Tuition Waiver($1,250〜$3,750)や、新入生の最初の学期のMuhareb Family Grant($1,000〜$1,500、申請不要)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "126818": {
+    "scholarshipUrl": "https://thehub.colostate.edu/financial-aid/international-student-scholarships/",
+    "intlAidNote": "留学生の新入生は、成績による奨学金(年$2,000〜$12,000、最大4年)が自動で審査されます(12月15日までの出願が最も有利)。留学生向けの経済援助はごく限られ、多くは大学院の学部奨学金です。2024年の年間費用の目安は約$57,098です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "235316": {
+    "scholarshipUrl": "https://www.gonzaga.edu/academics/global-engagement/international-students/accepted-international-students/scholarships-and-employment-information-for-international-students/international-undergraduate-student-scholarships",
+    "intlAidNote": "留学生も出願者全員が、成績による奨学金(新入生で年$23,500〜$32,000、4年間保証)が自動で審査されます。授業料は留学生・州外生・州内生で同じです。FAFSAなどの経済援助の申請は留学生は対象外で、私的ローンは共同署名者が必要な場合があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "209542": {
+    "scholarshipUrl": "https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships",
+    "intlAidNote": "留学生は出身地域ごとの奨学金(年$2,000〜$16,000、合格と同時に付与、GPA2.0以上で更新)が保証され、東南アジア・香港・マカオは年$8,000です。成績による奨学金(Provost's Scholarship: 年$6,000、GPA3.5以上)もあります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "122409": {
+    "scholarshipUrl": "https://psfa.sdsu.edu/international/international-scholarships",
+    "intlAidNote": "留学生の州外授業料は1単位$471で、2025-26年度の年間費用の目安は約$50,322(学外居住)です。成績・活動実績が優れた留学生の新入生向けに、限られた数のAdvantage奨学金があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "230728": {
+    "scholarshipUrl": "https://www.usu.edu/admissions/international/undergraduate-costs",
+    "intlAidNote": "成績による奨学金は少なく、GPA3.85以上の新入生・編入生は、留学生授業料から年$1,000を免除するAfton B. Tew奨学金が自動で審査されます。学部ごとの奨学金は1月に申請を受け付けて2月1日締切です。全額免除の奨学金はなく、1年分の資金証明が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "236939": {
+    "scholarshipUrl": "https://ip.wsu.edu/future-students/tuition-fees/scholarships-funding/",
+    "intlAidNote": "留学生は合格時にInternational Academic Award(年$4,000: GPA3.6以上、年$2,000: GPA3.0〜3.59、授業料免除)が保証されます。在学中のInternational Merit Award(1学期$2,000)や、緊急時の授業料減額($1,500、1回)もあります。",
+    "intlAidCheckedAt": "2026-10-04"
   }
 }

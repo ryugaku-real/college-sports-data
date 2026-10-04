@@ -4991,5 +4991,20 @@
   "scholarshipUrl": "https://financialaid.lmu.edu/international/undergraduateinternationalstudents/",
   "intlAidNote": "留学生は連邦・州の支援の対象外ですが、LMU独自の1年生向けメリット奨学金と、限定的な奨学金・アシスタントシップの対象になり得ます(2024-25の総費用の目安は約$84,677〜$94,794)。民間ローンは米国市民の共同借入人が必要な場合が多いです。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "182281": {
+  "scholarshipUrl": "https://www.unlv.edu/finaid/international-students",
+  "intlAidNote": "留学生への経済支援は限定的で、奨学金、民間の非連邦ローン、学内就労、母国からの支援が中心です。UNLVにはInternational Student Scholarshipがあります。留学生は学期ごとに$145の留学生料がかかります。ローンは通常、米国市民・永住者の共同署名者が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "163462": {
+  "scholarshipUrl": "https://msmary.edu/admissions/international-student-admissions/index.html",
+  "intlAidNote": "留学生は連邦支援の対象外ですが、大学のメリット奨学金の対象です(全額支給の留学生奨学金はありません)。授業料は年約$50,000、標準の部屋$8,160、食事$7,890です。留学生向けの民間ローンも利用でき、承認後は大学へ直接送金されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "140447": {
+  "scholarshipUrl": "https://undergrad.mercer.edu/international-admissions/",
+  "intlAidNote": "留学生はメリット奨学金(1年生の初年度$18,000〜$27,000/年)の対象ですが、州・連邦の支援とFAFSAは使えません。Stamps Scholars Program(授業料・諸費、住居・食費、iPad、最大$16,000のエンリッチメント資金)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -6116,5 +6116,45 @@
   "scholarshipUrl": "https://www.hartford.edu/admission/scholarships/default.aspx",
   "intlAidNote": "留学生の年間費用は約$63,269〜$80,514。F-1の学部生はメリット奨学金を自動審査(Hawk International Scholarshipは部分授業料$16,000〜$31,000)。芸術系は授業料全額までの奨学金あり。ニードベース援助は無し。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "110404": {
+  "scholarshipUrl": "https://www.finaid.caltech.edu/applying/international-students",
+  "intlAidNote": "留学生にもニードベースで必要額の100%を支給(ニード・アウェア)。2026年入学の平均給付は約$69,000。メリット奨学金は無し。出願時に申請しないと在学中も申請不可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111948": {
+  "scholarshipUrl": "https://www.chapman.edu/admission/undergraduate/how-to-apply/international-students/tuition-and-costs.aspx",
+  "intlAidNote": "留学生の年間総額は$94,233(授業料・諸費用$67,874、寮・食費$18,438、保険$2,321ほか)。メリット奨学金は新入生で年最大$40,000(編入は$15,000)、別申請不要。ニードベースは年最大$15,000と限定的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112260": {
+  "scholarshipUrl": "https://www.cmc.edu/financial-aid/college-costs-and-payments",
+  "intlAidNote": "2026-27の総額は約$101,990(授業料・諸費用$75,720、寮・食費$23,270ほか)。留学生の編入出願者にはニードベース援助もメリット奨学金も無し。新入生留学生の援助は公式ページで要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120254": {
+  "scholarshipUrl": "https://www.oxy.edu/financial-aid/apply/international",
+  "intlAidNote": "留学生は全員がメリット奨学金を自動審査(別申請不要)。ニードベース援助は毎年ごく少数の留学生のみで非常に競争的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "121257": {
+  "scholarshipUrl": "https://www.pitzer.edu/offices/financial-aid/apply-aid",
+  "intlAidNote": "留学生の年間総額は約$89,792(授業料・諸費用$64,888、寮・食費$22,150ほか)。新入生は全員Trustee Community奨学金(年$5,000、4年)を自動審査。ニードベースは少数に限り必要額を100%支給(PIFAAで申請)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "121345": {
+  "scholarshipUrl": "https://www.pomona.edu/financial-aid/cost-attendance",
+  "intlAidNote": "2026-27の総額は約$87,284〜$95,670(授業料$71,660)。入学した留学生の約半数が援助を受け、必要額を100%充足。メリット・スポーツ奨学金は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "128902": {
+  "scholarshipUrl": "https://www.conncoll.edu/financial-aid/applying-for-financial-aid/international-students/",
+  "intlAidNote": "留学生を含む全合格者の必要額を100%充足(授業料・寮・食費・書籍・保険までカバーし得る)。最低でも交通費・個人費は自己負担。CSS Profileと資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "212577": {
+  "scholarshipUrl": "https://www.fandm.edu/apply/international-student-admission/",
+  "intlAidNote": "留学生にもニードベースで必要額の100%を4年間支給(FAFSA・CSS Profile)。メリット奨学金は年最大$35,000(2025年入学)、International Student Grantあり。留学生専用のF&Mローン(年率4.5%)も利用可。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

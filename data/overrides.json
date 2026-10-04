@@ -2885,5 +2885,30 @@
   "scholarshipUrl": "https://www.ega.edu/admissions/start-here/international/files/intl-student-packet.pdf",
   "intlAidNote": "留学生は経済援助の対象外で、I-20には$20,000以上の資金証明が必要です(奨学金・授業料免除は差し引き可)。財団奨学金の留学生適用は国際担当に確認してください。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "105206": {
+  "scholarshipUrl": "https://www.mohave.edu/resources/international-students/",
+  "intlAidNote": "留学生は州外授業料(1単位$283.50、州内は$81)。英語力と資金宣誓書(学費・生活費・保険)が必要です。多くの奨学金は米国市民・アリゾナ居住者が条件で、留学生の適用は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218025": {
+  "scholarshipUrl": "https://www.fdtc.edu/apply-now/international-student/",
+  "intlAidNote": "留学生は1単位$363の国外授業料。資金証明は$24,000(銀行認証の宣誓書)。F-1出願は開始の3か月前まで、TOEFL(iBT61等)が必要です。奨学金は財団の応募ページがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139968": {
+  "scholarshipUrl": "https://www.gordonstate.edu/admissions/types-of-students/international-students/index.html",
+  "intlAidNote": "留学生向けの大学の経済支援は基本的になく、一部の留学生は運動奨学金(部分)を受けています。1年分の資金証明として約$35,832が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "138682": {
+  "scholarshipUrl": "https://www.albanytech.edu/admissions/tuition-fees/tuition-fees-international",
+  "intlAidNote": "留学生の授業料はジョージア州民の4倍(12単位で約$5,136+諸費)。年間の目安は約$19,072(授業料・書籍・住居)。出願料$25、初学期分の授業料の前納が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "363633": {
+  "scholarshipUrl": "https://luna.edu/admissions",
+  "intlAidNote": "留学生向けの具体情報は見つかりませんでした。奨学金の多くは米国市民・資格のある非市民が条件です。国際担当・財務課に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -5306,5 +5306,40 @@
   "scholarshipUrl": "https://www.uvm.edu/studentfinancialservices/scholarships-prospective-out-state-resident-and-international-students",
   "intlAidNote": "留学生は州外授業料で、多くは全費用を自己負担します。入学した留学生はメリット奨学金(別途申請なし)の対象で、US Pathway ProgramやGlobal Gatewayの学生向けの奨学金もあります。I-20には1年分以上の資金証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "147703": {
+  "scholarshipUrl": "https://www.niu.edu/international-admissions/paying-for-college/scholarships.shtml",
+  "intlAidNote": "2026-27の留学生の授業料は$36,488です。新入生・編入生は合格後、国際入学オフィスの奨学金の対象になり、新入生メリット(年$5,000〜$9,000)、編入メリット(年$5,000)、寮費向けHousing Scholarship(年$2,000)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "192819": {
+  "scholarshipUrl": "https://www.marist.edu/student-financial-services/international",
+  "intlAidNote": "2026-27の1年生の寮生の総費用の目安は約$76,875(授業料$50,760)です。ニーズ型の大学支援を希望する留学生はCSS Profileが必要です。メリット奨学金は年$10,000〜$30,000で、全額奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "102094": {
+  "scholarshipUrl": "https://www.southalabama.edu/departments/globalusa/internationalscholarships.html",
+  "intlAidNote": "2026-27の学位課程の留学生の総費用の目安は約$34,255(授業料・諸費$20,486、生活費$9,330、教材$1,000、保険$3,439)です。限られた優秀な留学生向けにGlobal Freshman Scholars(最長4年更新)があります。J-1学位生は費用の51%以上を個人資金以外から確保する必要があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209825": {
+  "scholarshipUrl": "https://www.up.edu/student-life/international-student-services/international-student-resources/international-student-scholarships.html",
+  "intlAidNote": "留学生は合格時に、国内学生と同じメリット奨学金(累積GPAとSAT/ACTで決定)の対象になり、別途申請は不要です。大学が用意する留学生向け奨学金はこれが唯一です。民間ローンは米国の共同署名者が必要で、連邦ローンは対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "213367": {
+  "scholarshipUrl": "https://www.lasalle.edu/admissions-and-aid/international/costs-and-payments/",
+  "intlAidNote": "留学生は大学のメリット奨学金のすべて(Christian Brothers、Founder's、Mission Grant、Community Serviceなど)の対象で、Founder's Scholarship($10,000〜$20,000)は新入生・編入生を自動審査します。最大$5,000のHousing Grantもあります。ニーズ型支援はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228796": {
+  "scholarshipUrl": "https://www.utep.edu/student-affairs/oipsa/office-of-international-programs/information/scholarships.html",
+  "intlAidNote": "州外・留学生の授業料は1セメスター時間$298です。留学生向けの奨学金は限られますが、授業料(諸費除く)を免除するGood Neighbor Scholarship、国外の予備校出身の留学生向けAnne and Roland W. Claudius Memorial Scholarshipがあります。メキシコ国籍者はPASEで州内授業料並みになる場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "232186": {
+  "scholarshipUrl": "https://www.gmu.edu/international/financial-aid",
+  "intlAidNote": "連邦支援は対象外です。限られた優秀な非移民の新入生・編入生向けに、メリット奨学金(新入生は最長4年、編入生は最長2年更新)があり、合格者は自動で審査されます。#YouAreWelcomeHere(新入生、授業料の50%以上・2年目まで更新可)もあります。共同署名者付きの民間ローンが利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

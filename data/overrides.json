@@ -2370,5 +2370,35 @@
   "scholarshipUrl": "https://www.wilmu.edu/international/financialaid.aspx",
   "intlAidNote": "F-1留学生はほとんどの経済支援の対象外ですが、GPA2.5以上等の条件を満たせば大学の奨学金に申請できます。授業料は低めに設定されています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "110574": {
+  "scholarshipUrl": "https://www.csueastbay.edu/iao/future-students/scholarships.html",
+  "intlAidNote": "Global Excellence Scholarship(州外授業料の全額免除、年$14,000超、GPA3.3以上・ニーズ、限定数)とGlobal Honors Scholarship(1年限り$2,900超)があります。Pioneer Scholarships Portalで応募(2027-28は秋学期後半に受付)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175078": {
+  "scholarshipUrl": "https://www.smsu.edu/admission/paying-for-college.html",
+  "intlAidNote": "F-1留学生向けの大学の経済支援はほとんどなく、学内就労も限られます。SMSUのScholarship Applicationで寄付型奨学金とマッチされる場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220473": {
+  "scholarshipUrl": "https://johnsonu.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けInternational Student Scholarshipで授業料の1/3〜1/2(連邦援助対象外の全日制)。奨学金申請書、英語力(Duolingo95/TOEFL iBT71/IELTS6)、1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219833": {
+  "scholarshipUrl": "https://www.cbu.edu/admissions-aid/application-resources/international/international-undergraduate-admissions/international-undergraduate-admissions-faq/",
+  "intlAidNote": "非運動選手の留学生は全員が自動でInternational Access Scholarship(年$24,200、GPA3.0以上・寮生活が条件、他の大学奨学金とは併用不可)。留学生アスリートは運動奨学金と学業メリットが対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237792": {
+  "scholarshipUrl": "https://www.shepherd.edu/prospective-international-2/scholarships-for-international-undergraduate-students",
+  "intlAidNote": "新入生は自動でDirector's($3,000)/Dean's($4,000)/President's($5,000)奨学金(GPA・SAT/ACT基準、4年更新、3/1までの出願)。編入は$3,000。McMillan留学生奨学金($1,500、2名)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "262129": {
+  "scholarshipUrl": "https://www.ncf.edu/admissions/international-students/scholarships/",
+  "intlAidNote": "F-1留学生は合格時に自動でPresidential Honors Scholarshipの審査対象(額は学業・リーダーシップで決定)。NCF財団奨学金は競争的。編入はPTK会員$1,000/年などです。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

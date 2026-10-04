@@ -5801,5 +5801,35 @@
   "scholarshipUrl": "https://www.utm.edu/admissions-and-aid/international-admission/",
   "intlAidNote": "留学生の年間費用は約$33,867(授業料・諸費用$20,487、生活費$8,380、書籍$1,500、雑費$3,500)。Ambassador International奨学金(年$2,500、最長4年で$10,000、GPA2.0以上)が自動審査。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "219356": {
+  "scholarshipUrl": "https://www.sdstate.edu/international-student-scholar-engagement/estimated-costs-international-students",
+  "intlAidNote": "留学生学部の年間費用は約$29,795(授業料・諸費用$16,284、生活費$9,814、その他$3,697)。授業料免除などの援助は留学生には出せないとされ、明確な資金証明が必須。Jackrabbit Guarantee等の奨学金は対象の場合あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110565": {
+  "scholarshipUrl": "https://international.fullerton.edu/prospective-students/cost-of-attendance/undergraduate-cost-of-attendance.html",
+  "intlAidNote": "2026-27の総額は通学で$26,768、寮で$36,148、学外居住で$37,554(留学生は州外授業料が別途加算される点に注意)。F-1は多くの援助が対象外。F-1向けにMinh Tâm Nguyen奨学金(GPA3.0以上)などあり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100654": {
+  "scholarshipUrl": "https://www.aamu.edu/admissions-aid/tuition-fees/",
+  "intlAidNote": "州外学部生の授業料・諸費用は1学期$10,241〜$15,603(単位数・寮の有無で変動)。留学生は健康保険料$951が必須。F-1留学生も学業奨学金の対象だが、テストスコアの提出が条件。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110608": {
+  "scholarshipUrl": "https://www.csun.edu/international/international-students/scholarship-opportunities-international-students",
+  "intlAidNote": "留学生の年間費用は約$38,000(授業料$17,538、生活費$18,304、保険$2,158)。連邦・州の援助は対象外。2学期目以降に応募できる奨学金あり(AS International Matador $3,000、Dianne F. Harrison Leadership $8,000)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "149772": {
+  "scholarshipUrl": "https://www.wiu.edu/student_success/financial_aid/international.php",
+  "intlAidNote": "留学生学部の年間費用は約$32,885(12単位/学期)。留学生の新入生はGPAに応じ年$4,000〜$6,000、編入生は年$1,000〜$3,000の奨学金。地域別のRegional Diversity奨学金(年$3,000)、GPA3.5以上でInternational Presidential奨学金(授業料・諸費用免除)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178402": {
+  "scholarshipUrl": "https://www.umkc.edu/isao/future-students/scholarships.html",
+  "intlAidNote": "留学生学部の年間費用(I-20記載額)は約$50,632〜$52,857。F-1向けメリット奨学金あり:Chancellor's(州外授業料差額の100%)、Provost's(80%)、Dean's(60%)、Global Scholar(50%)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

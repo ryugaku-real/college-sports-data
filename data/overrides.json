@@ -4341,5 +4341,35 @@
   "scholarshipUrl": "https://www.shastacollege.edu/global-education-center/for-international-students/scholarship/",
   "intlAidNote": "新規留学生向けのShasta College Foundation奨学金($3,000・一括)があり、学生アカウントに直接入金されます(F-1資格が条件)。CSU Chicoへの編入保証(F-1・成績・資金力の条件)があります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "123341": {
+  "scholarshipUrl": "https://www.sierracollege.edu/student-services/support-programs/international-students/intl-costs-fees/",
+  "intlAidNote": "2025-26の授業料は1単位$400+設備費$25で、授業料・生活費を合わせて年$60,000以上の目安とされています。3か月以内の銀行明細で最低$50,000の資金証明が必要です。AB540免除は対象外で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123484": {
+  "scholarshipUrl": "https://www.siskiyous.edu/international/",
+  "intlAidNote": "1年分$20,621の資金証明(銀行レター)が必要で、扶養家族ごとに追加が必要です。6.5単位以上の授業料は1単位$353($307+登録料$46)です。I-20後にF-1ビザと健康保険の証明を提出します。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123509": {
+  "scholarshipUrl": "https://skylinecollege.edu/international/",
+  "intlAidNote": "授業料は1単位$385+登録料$46+設備費$10で、健康保険は年約$2,631です。資金証明は直近3か月の書類で$32,500以上が必要です。留学生向けに50以上の奨学金があり(11月に開始)、F. L. Griffin(GPA3.0以上)やIliff Award(全日制・ニーズ・技術系)などがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123527": {
+  "scholarshipUrl": "https://www.valleycollege.edu/student-services/specialized-counseling-services/international-students/estimated-cost.php",
+  "intlAidNote": "年間費用の目安は約$31,602(授業料・諸費約$14,500、教材、保険、生活費込み)です。連邦・州の支援は対象外ですが、大学の奨学金には応募できます。学内就労は学期中週20時間・夏40時間まで可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123563": {
+  "scholarshipUrl": "https://solano.edu/admissions/enroll/international.php",
+  "intlAidNote": "F-1は秋・春入学で、非居住者授業料は1単位$406(2026秋に$409)+その他の費用です。学内就労は可能ですが、連邦のワークスタディは使えません。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123800": {
+  "scholarshipUrl": "https://www.swccd.edu/admissions-and-financial-aid/information-for/international-students/index.aspx",
+  "intlAidNote": "F-1の年間費用の目安は約$25,685(編入生は$30,431)で、スポンサーの宣誓書(Affidavit of Support)が必要です。国境地域(メキシコ)の低所得学生向けのAB91制度は州内料金(12単位で授業料$552+諸費約$110)ですが、通常のF-1は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

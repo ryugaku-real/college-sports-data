@@ -19,4 +19,5 @@ College Sports Finder アプリ用の公開データ(米国の4年制大学・�
 - NCAA: NCAA公式ディレクトリ(自動取得)
 - NAIA: NAIA公式「Schools by Conference」PDF(自動取得、年度で更新)
 - NWAC(北西部): Wikipedia「Northwest Athletic Conference」の加盟校表(Northern/Eastern/Western/Southern の地区)。手動取り込みなので、年に一度見直してください
-- NJCAA / CCCAA: 未取得(上の手順でCSVを追加すると反映されます)
+- CCCAA(カリフォルニア): Wikipediaの各カンファレンスのページ(Bay Valley / Big 8 / Central Valley / Coast / Orange Empire / Pacific Coast / South Coast / Western State)。Golden Valley など一部の学校(Butte、Shasta、Lassen、Redwoods、Siskiyous、Feather River、Lake Tahoe、Cerro Coso、Palo Verde、Copper Mountain、Woodland、LA City)は所属が確認できず未入力
+- NJCAA: 未取得(上の手順でCSVを追加すると反映されます)

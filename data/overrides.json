@@ -2595,5 +2595,35 @@
   "scholarshipUrl": "https://wcjc.edu/Admissions/tuition-and-fees.aspx",
   "intlAidNote": "州外・留学生の授業料は1単位$84+諸費(最低$200)。奨学金は地区住民向けが多く、留学生向けの具体情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "207050": {
+  "scholarshipUrl": "https://www.eosc.edu/admissions-aid/tuition-fees",
+  "intlAidNote": "非居住者・留学生の授業料は1単位約$272.96(諸費込み)+留学生費用$40/学期。資金証明は1年分以上。学業奨学金(Regents Academic Scholars 授業料全額など)はEastern Scholarship Application(優先締切11/7)で審査されますが、留学生の適用は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "247834": {
+  "scholarshipUrl": "https://www.collin.edu/foundation/students/index.html",
+  "intlAidNote": "留学生(非居住外国人)の授業料は年約$5,550。Collin College財団の一般奨学金($500〜$2,000、学期ごと、授業料・諸費・書籍に充当)に応募可能です。西半球出身者向けGood Neighbor Scholarship(授業料免除、12か月)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "135188": {
+  "scholarshipUrl": "https://www.lssc.edu/future-students/international/",
+  "intlAidNote": "留学生は州外授業料で、連邦・州援助は対象外です。LSSC財団の奨学金(年$120万超)に学期ごとに応募できます。留学生の出願手数料は$75です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219824": {
+  "scholarshipUrl": "https://www.chattanoogastate.edu/scholarships-grants",
+  "intlAidNote": "Honorsプログラムに入ると州外・留学生も州内授業料になる場合があります。財団奨学金には留学生も応募可能で、申請は毎年11/1開始・優先締切3/1。標準の資格はテネシー州居住者ですが例外審査があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148821": {
+  "scholarshipUrl": "https://www.shawneecc.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けの奨学金はありません。授業料はFY2027で1単位$255+諸費$20。TOEFL520以上と資金宣誓書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181817": {
+  "scholarshipUrl": "https://www.wncc.edu/admissions-aid/how-to-apply/international-students",
+  "intlAidNote": "2026-27の授業料は1単位$131.50+諸費$18.50。奨学金は合格後に応募でき保証はなく、事前に1年分の資金証明が必要です。留学生は野球・ソフト・サッカーのAthletic Success Scholarship(学期$500)の対象です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

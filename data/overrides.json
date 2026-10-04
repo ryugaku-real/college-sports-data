@@ -3876,5 +3876,35 @@
   "scholarshipUrl": "https://www.nwacc.edu/internationalstudents/index.html",
   "intlAidNote": "F-1留学生は連邦の学生支援の対象外です。NWACCの奨学金は、対象科目の履修・GPA2.0以上・12単位以上修了が条件です。授業料は州外料金で、年$8,000未満(最小履修)の例が示されています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "191986": {
+  "scholarshipUrl": "https://www.sunyjcc.edu/admissions/apply/international",
+  "intlAidNote": "I-20には最低$17,595の資金証明が必要です。2026-27の授業料・諸費は約$12,975(住居・食費は別)です。連邦・NY州の支援は対象外ですが、寮に住むフルタイムの留学生にはHousing Scholarshipが自動で付与されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199722": {
+  "scholarshipUrl": "https://sccnc.edu/admissions/step-to-apply/",
+  "intlAidNote": "州外授業料は1単位$268(学期上限$4,288、諸費込みで最大$4,372)です。出願は4/15まで、SEVIS費の支払いとF-1ビザ取得が必要で、I-20は海外へ郵送されます。Next NC等は州内居住者向けで留学生は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "114433": {
+  "scholarshipUrl": "https://www.frc.edu/admissions/international-students",
+  "intlAidNote": "留学生は$17,478以上の資金証明が必要で、年間費用の目安も約$17,478(住居・食費・教材・授業料込み)です。非居住者授業料は1単位$309+登録料$46などです。Phi Theta KappaのGlobal Leaders of Promise奨学金など留学生向けの限定的な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "193478": {
+  "scholarshipUrl": "https://collegecatalog.ncc.edu/current/policiesandprocedures/finances/tuition_fees_and_expenses.html",
+  "intlAidNote": "留学生の授業料は州外と同額で、フルタイム約$5,990/学期、パートタイム$500/単位です。留学生健康保険料(上限$2,000)などの追加費用があります。NY州のTAP等は居住者向けで、留学生向けの奨学金情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172918": {
+  "scholarshipUrl": "https://www.alextech.edu/college-services/tuition-payments",
+  "intlAidNote": "留学生は最低でも初年度$20,000・2年目$22,000の資金証明が必要です。大学として留学生向けの経済支援・学内就労は提供しないとされています(外部奨学金は受け入れ可能)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122658": {
+  "scholarshipUrl": "https://www.deltacollege.edu/admission-aid/international-student-program",
+  "intlAidNote": "F-1留学生は州・連邦の支援とカリフォルニア州の非居住者授業料免除の対象外です。非居住者授業料は1単位$328+登録料$46です。ESL以外の科目を1学期修了後に大学の奨学金に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

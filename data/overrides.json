@@ -4281,5 +4281,35 @@
   "scholarshipUrl": "http://www.riohondo.edu/admissions/get-started/international-student/",
   "intlAidNote": "留学生料金は1単位$409+登録料で、2学期分の$26,412以上の資金証明(銀行レター・宣誓書)が必要です。F-1は非居住者授業料の免除対象外で、連邦ローンやRío Promise(州内居住者向け)も使えません。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "121901": {
+  "scholarshipUrl": "https://rcc.edu/become-a-student/international-student.html",
+  "intlAidNote": "年間$26,273以上の資金証明が必要で、F-1は非居住者授業料です。新規・在学の全日制F-1向けに、RCCD系のCGACC-RCC International Student Scholarship(授業料減額、目安約$2,000)があります。大学の留学生向け資料では、UCに比べ大幅に節約できると案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122180": {
+  "scholarshipUrl": "https://scc.losrios.edu/admissions/financial-aid-and-fees/tuition-and-fees",
+  "intlAidNote": "非居住者授業料・登録料は1単位$475です。留学生出願料は経済困窮で免除される場合があります。12単位以上が必要で、FAFSAは対象外です。留学プログラム向けにGilman、AIFSなどの奨学金が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122205": {
+  "scholarshipUrl": "https://www.saddleback.edu/apply-pay/how-apply/international-student",
+  "intlAidNote": "I-20には年$30,000の資金保証が必要です。2026-27の非居住者授業料は1単位$409、留学生の授業料は約$512/単位とされています。12単位以上の履修が必要で、AB540免除は対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122339": {
+  "scholarshipUrl": "https://www.sdcity.edu/students/international/admission-requirements.aspx",
+  "intlAidNote": "年間$47,000の資金証明が必要で、非居住者授業料・登録料・健康費を支払います。F-1は経済支援・AB540授業料免除の対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122375": {
+  "scholarshipUrl": "https://www.sdmesa.edu/student-support/international-students/index.shtml",
+  "intlAidNote": "1年(2学期)で$47,000の資金証明が必要です。経済支援は対象外ですが、留学生が応募できる奨学金($250〜$5,000)があり、STEM専攻向けのAmerican Dream for STEM奨学金などが例です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122384": {
+  "scholarshipUrl": "https://sdmiramar.edu/services/financial-aid/tuition_and_fees",
+  "intlAidNote": "授業料は1単位$377(非居住者$331+登録料$46)で、健康費などもかかります。F-1は連邦・州の経済支援の対象外です。留学プログラム向けのGilman奨学金($5,000まで)等が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

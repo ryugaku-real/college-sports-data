@@ -4481,5 +4481,35 @@
   "scholarshipUrl": "https://minnesotanorth.edu/admissions/types-of-students/international-students/",
   "intlAidNote": "F-1は12単位以上(対面)の履修が必要で、SEVIS費$350と、Minnesota State留学生医療保険(年額を事前に請求)が必要です。授業料は居住者・協定州・州外・留学生の区分があり、財団の奨学金には全学生が応募を勧められています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "174473": {
+  "scholarshipUrl": "https://www.northlandcollege.edu/admissions/apply/international-student/",
+  "intlAidNote": "留学生の授業料は1単位$208.80です。F-1/M-1の出願では、費用の支援者・資金源を示す書類が必要です。大学は年$22万超の奨学金(ニーズ・関心・在籍・地域貢献型)を出しており、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "174738": {
+  "scholarshipUrl": "https://www.rctc.edu/admissions/applicant-categories/admission-international/",
+  "intlAidNote": "F-1は1年分の全費用(授業料、諸費、教材、住居、交通、食費、必須医療保険)の資金証明が必要です。RCTC Foundationの奨学金($200〜全額授業料、$1,000が最多)は年3回募集ですが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "174756": {
+  "scholarshipUrl": "https://sctcc.edu/international-student-services",
+  "intlAidNote": "I-20には授業料・諸費、教材、住居・食費、州法で必須の医療保険、個人費の資金証明が必要で、留学生は経済支援の対象外です。North Star Promiseなどの州の支援はミネソタ居住者向けです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175236": {
+  "scholarshipUrl": "https://ridgewater.edu/admission-aid/international-students/",
+  "intlAidNote": "6か月間維持された1年分の資金の認証が必要で、F-1は就労できません。Foundation奨学金があり、対象プログラムでは$2,500のWorkforce Development Scholarship(60名)の対象になり得ますが、留学生の適用は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175315": {
+  "scholarshipUrl": "https://www.century.edu/admissions/international-student/",
+  "intlAidNote": "留学生の授業料は米国学生と同水準で、年間費用の目安は約$23,087(授業料・諸費、教材、保険、生活費)です。経済支援はなく奨学金・学内就労は少数ですが、ニーズ型でない奨学金や、ESOLプログラム関連の多様性奨学金にF-1も応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "183655": {
+  "scholarshipUrl": "https://atlanticcape.edu/one-stop/student-types/international.php",
+  "intlAidNote": "F-1は秋・春に12単位以上が必要で、出願料(返金不可)と1年分の授業料をI-20発行前に学生口座へ入金します。留学生向けの奨学金は特になく、継続学生向けの奨学金(年1回)に応募できます。ESLなどのプログラムがあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -4136,5 +4136,35 @@
   "scholarshipUrl": "https://laney.edu/info/tuition-fees",
   "intlAidNote": "非居住者・留学生の授業料は1単位$406で、留学生の健康保険料は月$195です。F-1/F-2は連邦・州の支援の対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "117645": {
+  "scholarshipUrl": "https://www.lbcc.edu/international-student-services",
+  "intlAidNote": "留学生は非居住者授業料で、授業料・生活費の資金証明が必要です。民間や母国政府の奨学金はI-20取得の資金証明に使えます。米国の親族・知人が無償で住居・食事を提供する場合は費用が減る「cash credit」があります。連邦支援は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117690": {
+  "scholarshipUrl": "https://www.lahc.edu/student-services/spr/international-students/cost",
+  "intlAidNote": "留学生は連邦・大学のニーズ型支援の対象外ですが、民間資金によるメリット型奨学金には応募できます。海外出願は6か月以内の銀行明細で$23,800以上の資金証明が必要で、LACCDの医療保険は春・秋の授業料に自動で請求されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117706": {
+  "scholarshipUrl": "https://www.lapc.edu/student-services/spr/iss/ps/fee-schedule-living-expenses",
+  "intlAidNote": "F-1留学生の授業料は1単位$397の非居住者料金で、医療保険などの費用もかかります。連邦支援・授業料免除は対象外ですが、分割払いが使えます。外部の国際奨学金(IEFA等)の利用が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117715": {
+  "scholarshipUrl": "https://www.lasc.edu/cost-tuition/payment-plan",
+  "intlAidNote": "F-1留学生は非居住者授業料・登録料を負担し、授業料免除(BOGFW)は対象外です。12か月分の授業料・登録料・生活費を支払える資金証明が必要で、米国の無償住居提供者の証明で生活費を代替できる場合があります。分割払いが使えます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117724": {
+  "scholarshipUrl": "https://www.lattc.edu/student-services/spr/isc/new-students/steps-after-you-are-admitted",
+  "intlAidNote": "F-1/M-1は非居住者(留学生)授業料と医療保険などを支払います。連邦・州の支援は原則対象外です。SEVIS費はクレジットカード等で米ドル払いし、LACCDポータルで分割払いを設定できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117733": {
+  "scholarshipUrl": "https://www.lavc.edu/cost-tuition/cost-college",
+  "intlAidNote": "非居住者授業料は1単位$359+登録料$46で、出願料$50とSEVIS処理料$25がかかります。留学生保険は秋・春で約$774です。経済支援は対象外ですが、LAVC Foundationなどの奨学金が学生に提供されています(留学生の対象は個別確認)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

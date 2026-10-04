@@ -7966,5 +7966,35 @@
   "scholarshipUrl": "https://paulquinn.edu/office-of-financial-aid/",
   "intlAidNote": "授業料は年約$13,498、総額約$24,608(私立のため州内外の区別なし)。大学奨学金は限定的で、新入生の76%が平均約$2,572を受給。留学生の対象可否は要確認。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "111188": {
+  "scholarshipUrl": "https://maritime.calpoly.edu/admissions/tuition-and-financial-aid",
+  "intlAidNote": "2025-26の非居住者料金は授業料$6,450＋キャンパス諸費用$1,650＋非居住者追加授業料$13,320。2026秋からCal Polyの料金体系に統合。留学生は交換留学生中心で、留学生の学位取得向け費用・援助情報は限定的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "484905": {
+  "scholarshipUrl": "https://international.unt.edu/funding-awards/scholarships-grants-and-waivers/index.html",
+  "intlAidNote": "州外授業料は年約$21,894。$1,000以上の競争的奨学金(UNT Excellence、年$1,000〜$12,000)を受けるとテキサス居住者料金になる。連邦・州の援助は対象外で、成績奨学金が主な財源。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225575": {
+  "scholarshipUrl": "https://htu.edu/scholarship/international-admission-award/",
+  "intlAidNote": "授業料は年約$12,569(州内外同額)。F-1留学生向けInternational Admission Award($2,500、GPA2.75以上、初学期修了後に付与)あり。留学生は18か国222人在籍(2025春)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "165802": {
+  "scholarshipUrl": "https://www.fisher.edu/admissions-aid/financial-aid/international-cost-and-scholarships",
+  "intlAidNote": "2026-27の留学生授業料は年$36,412、諸費用$1,200。GPAに応じた成績奨学金: Presidential $12,500/International Scholar $10,500/Beacon Hill $7,500など。スポーツ奨学金は$7,750〜$15,500。大学の健康保険加入が必須。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206491": {
+  "scholarshipUrl": "https://wilberforce.edu/financial-aid/",
+  "intlAidNote": "授業料は年約$13,222(州内外同額)。留学生向け奨学金はあるが限定的で、留学生は教育費全額を自己資金で賄う前提。初年度分の授業料・寮費等のデポジットが登録前に必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217633": {
+  "scholarshipUrl": "https://andersonuniversity.edu/admission-enrollment/undergraduate/international-undergraduate/",
+  "intlAidNote": "留学生の年間総額は約$51,692。成績奨学金は$9,000〜$18,000(GPA・SAT/ACT基準)＋州外グラント$4,000。SAT/ACTなしでも年最大$11,500、成績奨学金対象外なら$8,500のInternational Grantあり。教会マッチング(最大$1,500)もある。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

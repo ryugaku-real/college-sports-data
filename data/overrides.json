@@ -3926,5 +3926,35 @@
   "scholarshipUrl": "https://www.ecc.edu/admissions-and-aid/international-students.html",
   "intlAidNote": "F-1留学生は$23,700以上の資金証明(スポンサー書類)が必要で、学位・証明書課程に在籍し12単位以上を継続履修します。留学生向けの経済支援はありません。ECC Foundationの奨学金(ESL向けのPhufas奨学金など)があります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "108667": {
+  "scholarshipUrl": "https://alameda.edu/students/future-students",
+  "intlAidNote": "F-1留学生はOpenCCCの留学生用出願が必要です。非移民ビザ保持者はUCの授業料免除やカリフォルニアの州内料金・AB540免除の対象外で、FAFSAも使えません。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "108807": {
+  "scholarshipUrl": "https://www.hancockcollege.edu/admissions/international.php?locale=en",
+  "intlAidNote": "留学生は非居住者授業料(1単位$364)+登録料$46で、経済支援は対象外、Non-Resident Merit Scholarshipも対象外です。ただし全日制の学生の授業料・諸費をカバーするHancock Promise Plusは留学生にも適用されるとされています(最新条件は大学で確認)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "109208": {
+  "scholarshipUrl": "https://arc.losrios.edu/admissions/get-started-and-apply/international-student-admission-steps/important-application-information-and-faqs-for-international-students",
+  "intlAidNote": "非居住者の授業料・登録料は1単位$475(2026秋〜2027夏)で、留学生出願料$50(返金不可)が必要です。12単位以上の履修が必須で、連邦支援は対象外です。留学生専用の奨学金はありませんが、条件を満たせば学内奨学金に応募でき、分割払いが使えます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "109350": {
+  "scholarshipUrl": "https://www.avc.edu/admissions-records/student-expenses-and-fees",
+  "intlAidNote": "非居住者の授業料は1単位$372+登録料$46+設備費$20=$438(2026 Intersession)です。TOEFL/IELTSが必要で、経済支援は対象外ですが奨学金には応募できます(締切は経済支援オフィスで確認)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "109819": {
+  "scholarshipUrl": "https://www.bakersfieldcollege.edu/enrollment-aid/international-students/newly-admitted.html",
+  "intlAidNote": "12単位以上の履修が必須で、オンライン科目は学期1つまでです。F-1はAB540授業料免除の対象外です。大学全体で300以上の奨学金がありますが、留学生が応募できるかは個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "109907": {
+  "scholarshipUrl": "https://www.barstow.edu/admissions-aid/admissions-records/special-student-populations/international-students",
+  "intlAidNote": "F-1留学生は非居住者授業料・登録料・学生活動費を払い、AB540免除の対象外です。12単位以上の継続履修が必要で、在籍は最大6学期までです。留学生向け奨学金の情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

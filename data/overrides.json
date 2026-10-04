@@ -4511,5 +4511,35 @@
   "scholarshipUrl": "https://atlanticcape.edu/one-stop/student-types/international.php",
   "intlAidNote": "F-1は秋・春に12単位以上が必要で、出願料(返金不可)と1年分の授業料をI-20発行前に学生口座へ入金します。留学生向けの奨学金は特になく、継続学生向けの奨学金(年1回)に応募できます。ESLなどのプログラムがあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "183743": {
+  "scholarshipUrl": "https://bergen.edu/international-student-center/international-student-faqs/",
+  "intlAidNote": "非移民ビザの学生は郡外授業料で、F-1は12単位(秋・春)が必要です。年約$25,000の資金証明が必要で、学外就労は法律で認められていません。Bergen Community College Foundationの奨学金が留学生にも限定的にあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "183859": {
+  "scholarshipUrl": "https://www.brookdalecc.edu/international/international-student-services/",
+  "intlAidNote": "I-20の処理料は$50で、新規F-1向けの説明会で経済支援・奨学金の情報が案内されます。Brookdale Foundationの奨学金やWilbur Ray Scholarship Initiative(授業料等の負担を軽くする支援)がありますが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "183938": {
+  "scholarshipUrl": "https://www.camdencc.edu/admissions-financial-aid/international-student-services/information-and-procedures/",
+  "intlAidNote": "留学生には年約$21,000(授業料・諸費、教材、生活費、保険、扶養家族なし)の資金が必要です。F-1は経済支援を受けられず就労もできません。Phi Theta KappaのGlobal Leaders of Promise奨学金など、留学生向けの限定的な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "184205": {
+  "scholarshipUrl": "https://www.rcsj.edu/admissions-aid/future-students/international-students/",
+  "intlAidNote": "留学生は経済支援の対象外で、入学時に全額の資金証明が必要です。F-1は12単位以上で、授業料は郡外(留学生)料金です。RCSJ Foundationは年$50万の奨学金を出しており、全学生が応募できるとされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "184791": {
+  "scholarshipUrl": "https://www.rcsj.edu/admissions-aid/future-students/international-students/",
+  "intlAidNote": "留学生は経済支援の対象外で、入学時に全額の資金証明が必要です。F-1は12単位以上で、授業料は郡外(留学生)料金です。RCSJ Foundationは年$50万の奨学金を出しており、全学生が応募できるとされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "185873": {
+  "scholarshipUrl": "https://catalog.ocean.edu/student-affairs/admissions/",
+  "intlAidNote": "留学生は全日制(12単位以上)で、授業料は州外・外国居住者と同額です。教育・生活費の資金証明が必要です。学内就労はFAFSA対象者に限定されワークスタディも対象外のため、実質ほぼ使えません。OCC Foundationの奨学金は承認された学生に提供されます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -2305,5 +2305,45 @@
   "scholarshipUrl": "https://mercy.edu/admissions-aid/international-admissions/international-undergraduate-academic-merit-scholarships",
   "intlAidNote": "新入生は自動でメリット奨学金(Presidential Excellence $10,000〜Provost $4,000/年)、編入は$3,000〜$8,000。更新可。運動奨学金も対象。大学院の奨学金はありません。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "180179": {
+  "scholarshipUrl": "https://www.msubillings.edu/internationalstudies/scholarships.htm",
+  "intlAidNote": "合格した留学生は大学の奨学金の対象(International Student Yellowstone Scholarship、Global Leadership Scholarship等)。学内ワークスタディも可能です。Hood奨学金($625、2/1締切)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "482680": {
+  "scholarshipUrl": "https://ung.edu/international-student-scholar-services/international-student-scholarships.php",
+  "intlAidNote": "F-1の学部生向けInternational Student Scholarship(州外授業料の50%免除=1学期約$3,500、GPA2.5と学内活動10ポイントが条件、最大10学期)。Presidential Tuition Waiverや財団奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210146": {
+  "scholarshipUrl": "https://sou.edu/financial-aid/scholarships/international/",
+  "intlAidNote": "Cascade International Student Scholarship(新入留学生向けメリット、年$1,000〜$9,000、更新可、優先締切4/1)とAshland Rotary Scholarship(年$1,000、3/15締切)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181783": {
+  "scholarshipUrl": "https://www.wsc.edu/scholarships/international-student-scholarships",
+  "intlAidNote": "新入の留学生はInternational Student Award(年$2,000、4年更新、GPA2.5)の対象。5/1までの合格で保証。学部の留学生は州内授業料です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "115755": {
+  "scholarshipUrl": "https://www.humboldt.edu/international-students/international-student-scholarship-application",
+  "intlAidNote": "Humboldt International Student Scholarship(F-1、学業とニーズ、非居住者授業料の一部免除で年$471〜$2,500、毎年再申請、GPA3.0)。申請はエッセイと推薦状2通が必要で、締切は5/15(春のみ10/15)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207865": {
+  "scholarshipUrl": "https://www.swosu.edu/paying-for-swosu/in-state-plus-one-dollar/index.php",
+  "intlAidNote": "In-State Plus One Dollarプログラムで留学生も州内授業料+1単位あたり$1(申請不要、1学期$3,450超の節約)。学業・学科・運動の奨学金も対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210429": {
+  "scholarshipUrl": "https://wou.edu/international/",
+  "intlAidNote": "留学生専用の保証奨学金はありませんが、GPA3.0以上で入学すると自動でMerit Scholarship(2026-27で年$5,000〜$12,000)。ニーズと成績に基づくICSP(約$9,000/年)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230807": {
+  "scholarshipUrl": "https://westminsteru.edu/admissions/international-admissions/international-student-financial-aid.html",
+  "intlAidNote": "合格した留学生は自動でメリット奨学金の審査対象。タレント奨学金(演劇・音楽・CS・ダンス)や、CSS Profile提出によるニーズベースのGriffin Grantもあります。全額をカバーする奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

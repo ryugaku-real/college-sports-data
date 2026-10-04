@@ -2400,5 +2400,25 @@
   "scholarshipUrl": "https://www.ncf.edu/admissions/international-students/scholarships/",
   "intlAidNote": "F-1留学生は合格時に自動でPresidential Honors Scholarshipの審査対象(額は学業・リーダーシップで決定)。NCF財団奨学金は競争的。編入はPTK会員$1,000/年などです。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "110510": {
+  "scholarshipUrl": "https://www.csusb.edu/financial-aid/prospective-current-students/scholarships",
+  "intlAidNote": "留学生専用の奨学金枠はなく、学内の一般奨学金(募集期間は春)に留学生も応募できます。新規の非居住者大学院生にはPresidential Scholarship(年$4,000、GPA3.5以上)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "216038": {
+  "scholarshipUrl": "https://www.sru.edu/admissions/international-admissions/international-costs-and-scholarships",
+  "intlAidNote": "新入の学部留学生は全員、授業料から約$3,500のニーズ非依存の減額を受けます。Provost Scholarship for Global Diversity($1,500/年、GPA3.0維持)、1年後にGPA3.5以上で追加$500。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "216010": {
+  "scholarshipUrl": "https://www.ship.edu/international/international_students/jfk_process/",
+  "intlAidNote": "F-1の学部留学生向けJFK Scholarship(州内授業料並み、年約$9,700の節約、GPA2.0維持)。エッセイ、推薦状2通、ニーズ分析書が必要で、締切は秋8/1、春12/1です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "490805": {
+  "scholarshipUrl": "https://www.pnw.edu/financial-aid/types-of-financial-aid/scholarships/admissions-scholarships/",
+  "intlAidNote": "留学生のメリット奨学金は年$1,000〜$3,000(GPA3.0以上かつSAT1130/ACT23以上、8学期更新)。多くの奨学金は国内学生向けで、母国からの奨学金取得も推奨されます。締切は3/1が中心です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -6356,5 +6356,40 @@
   "scholarshipUrl": "https://admissions.rowan.edu/admissions-process/international-requirements/scholarships-international-students.html",
   "intlAidNote": "留学生の年間費用は約$52,300。公立のためニードベース援助は不可。入学した留学生全員が年$1,000〜$19,000のメリット奨学金を自動審査(授業料・諸費用・寮・食費に充当、春秋学期のみ)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "191515": {
+  "scholarshipUrl": "https://www.hamilton.edu/admission/finaid/international",
+  "intlAidNote": "2026-27のComprehensive feeは$95,250(授業料$75,210、寮$10,540、食費$8,750、活動費$750)。留学生へは国内でも手厚い援助(奨学金+学内就労、必要に応じローン)だが、留学生はニード・ブラインドではない。出願時にCSS Profileで申請必須。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191968": {
+  "scholarshipUrl": "https://www.ithaca.edu/tuition-financial-aid/undergraduate-financial-aid/applying-aid-international-students",
+  "intlAidNote": "2026-27の総額は約$83,020(授業料$59,440、寮・食費$16,520、保険$4,260ほか)。連邦・州の援助は対象外。大学の奨学金・グラント・学内就労は対象。メリット奨学金(President Scholarship等)は自動審査、全額のPresidentialは別申請。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "193900": {
+  "scholarshipUrl": "https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student/first-year-applicants/the-nyu-promise.html",
+  "intlAidNote": "NYU Promiseにより、ニューヨークキャンパスの新入生(留学生含む)は期限内に援助申請すれば必要額の100%を奨学金・グラントで充足。家族年収$100,000未満(通常資産)は授業料無料。編入などは援助が非常に限定的。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "194578": {
+  "scholarshipUrl": "https://www.pratt.edu/admissions/undergraduate-admissions/finance-your-education/",
+  "intlAidNote": "4年間の総額目安は約$101,113(寮・授業料込み)。留学生にニードベース援助はなく、メリット奨学金は合格時に自動審査(金額は米国学生と同程度)。FAFSA不可。就労は大きく制限されるため資金計画が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "195030": {
+  "scholarshipUrl": "https://admissions.rochester.edu/applying/international-students/",
+  "intlAidNote": "2026-27の寮生の総額は$96,022(授業料$71,750、諸費用$1,622、寮$12,822、食費$8,506ほか)。留学生もメリット奨学金と、限られた枠でニードベース援助(必要額を100%充足、グラント・ローン・就労)あり。資金確保できない場合は不合格に。CSS Profile必須。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "195304": {
+  "scholarshipUrl": "https://www.sarahlawrence.edu/financial-aid/undergraduate/tuition.html",
+  "intlAidNote": "学部のCOAは約$98,065(請求額$94,016、間接費$1,470ほか)。I-20ではさらに保険・個人費$8,775の証明が必要。全出願者がメリット奨学金を自動審査。援助の大半はニードベースのグラント。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "195526": {
+  "scholarshipUrl": "https://www.skidmore.edu/admissions/apply/international.php",
+  "intlAidNote": "2026-27の授業料・諸費用$73,740、寮$11,630、食費$8,040、書籍・個人費・旅費約$2,980。留学生にもニードベース援助あり(限られた枠、合格者の必要額を充足)。大学全体で年$8,300万超の援助、平均パッケージは約$60,550。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -2820,5 +2820,35 @@
   "scholarshipUrl": "https://www.mccc.edu/admissions_international.shtml",
   "intlAidNote": "留学生の授業料は2026-27で1単位$450.85(12単位1学期で約$9,000)、年間費用の目安は約$22,600。MCCC財団奨学金(年約100万ドル)に応募可能。Rider大学の寮の割引プログラムもあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "222567": {
+  "scholarshipUrl": "https://www.alvincollege.edu/international-students/student-expenses.html",
+  "intlAidNote": "留学生の授業料・諸費は12単位1学期で$4,724、年間の費用目安は約$28,000。F-1は連邦援助対象外ですが、最初の学期後に大学奨学金(学科・財団・ドナー)に応募できます。到着時に最低$7,000の用意を推奨しています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148937": {
+  "scholarshipUrl": "https://sic.edu/financial-aid/tuition-payment/",
+  "intlAidNote": "国外学生の授業料は1単位$192+諸費(約$42/単位)。連邦・州援助は対象外ですが、奨学金・私費ローンは検討可能です。SIC財団の奨学金は主に地区の学生向けで、留学生の適用は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139700": {
+  "scholarshipUrl": "https://www.highlands.edu/tuition-and-fees/out-of-country-tuition/",
+  "intlAidNote": "留学生は州外(国外)授業料で、フルタイム(15単位)で約$6,330+諸費。授業料の一部を減額する留学生ウェイバーが限定数あり(先着順、授業開始前に提出)。GHC財団の奨学金にも応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227401": {
+  "scholarshipUrl": "https://www.parisjc.edu/international/financial.php",
+  "intlAidNote": "留学生向けの経済支援はなく、資金証明(銀行の封印付き書類)が必要です。一般奨学金はFAFSA完了が条件のものが多く、留学生の適用は国際担当に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221096": {
+  "scholarshipUrl": "https://www.mscc.edu/students/international.html",
+  "intlAidNote": "留学生の初年度費用の目安は$34,760で、この額以上の資金証明が必要です。大学の一般奨学金(ワンストップ申請)があり、留学プログラム向けの奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226116": {
+  "scholarshipUrl": "https://www.lamarpa.edu/admissions/admission-requirements/international-students/index.html",
+  "intlAidNote": "F-1の学位課程で受入可。授業料は非テキサス居住者で1単位$470、国際医療保険が別途かかります。新規・編入の留学生を含め大学奨学金に応募できます(GPA2.5以上)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

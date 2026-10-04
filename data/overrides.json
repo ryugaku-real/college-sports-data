@@ -5168,13 +5168,38 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "122931": {
-  "scholarshipUrl": "https://www.scu.edu/globalengagement/about/policies-and-procedures/scholarships--financial-support-for-international-students/",
+  "scholarshipUrl": "https://www.scu.edu/admission/undergraduate/",
   "intlAidNote": "2025-26の授業料$60,639+諸費$654、総費用の目安は約$78,026〜$85,800です。FAFSA/CSSは使えずStudent Financial Resource Formで1年分の資金力を示します。非居住外国人の学部生に、ニーズ型・非ニーズ型の大学の奨学金・グラントが(1人平均$42,243)出ています。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "186584": {
   "scholarshipUrl": "https://www.shu.edu/undergraduate-admissions/scholarships.html",
   "intlAidNote": "留学生も米国学生と同じメリット奨学金の対象で、入学時に自動で判定されます。University Scholarship($4,000〜$25,000・更新可)、Martin Luther King Jr. Scholarship($6,500)、編入生向けTransfer Scholarship($5,000〜$18,000)などがあります。ニーズ型支援はなく、I-20に自己資金の証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139940": {
+  "scholarshipUrl": "https://admissions.gsu.edu/kb/are-international-students-eligible-for-financial-aid/",
+  "intlAidNote": "2024-25の留学生の総費用の目安は約$37,349(授業料$22,389、諸費$1,320、生活費$15,300、保険$2,856)です。F/Jは連邦支援の対象外ですが、新入生・編入生のF-1/F-2/H4は、メリットで州外授業料を全額または半額免除するCampus Atlanta Scholarshipに応募できます。市民権を条件としない大学の奨学金にも応募可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220862": {
+  "scholarshipUrl": "https://www.memphis.edu/admissions/basics/f1costofattendance.php",
+  "intlAidNote": "年間費用の目安は約$33,040(授業料・諸費$20,040、生活費約$13,000、教材$1,000)で、年$32,824の資金証明が必要です。新規の学位課程のF-1/J-1留学生向けに、競争的なメリット奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122755": {
+  "scholarshipUrl": "https://www.sjsu.edu/enrollmentmanagement/docs/fall2025/Fall2025-steps-to-admissionINTL.pdf",
+  "intlAidNote": "2025-26の総費用の目安は約$47,219(授業料・諸費$18,490、生活費$26,479、保険$2,250)です。連邦・州の支援は対象外で、入学後はGlobal Spartan Scholarshipや、1学期修了後の大学のメリット奨学金($100〜$4,000)、学科の奨学金に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "174914": {
+  "scholarshipUrl": "https://www.stthomas.edu/admissions/international/undergraduate/merit-based-scholarships/",
+  "intlAidNote": "2025-26の総費用(奨学金前)は授業料$56,856、諸費$1,742、寮$9,812、食事$5,972、保険$2,412ほかです。留学生には授業料の30〜70%(平均50〜60%)のメリット奨学金が合格時に付与され、4年更新可で、別途申請は不要です。奨学金は授業料のみに適用されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "215655": {
+  "scholarshipUrl": "https://www.rmu.edu/admissions/financial-aid/scholarships",
+  "intlAidNote": "留学生は合格時にメリット奨学金が付与されます(加重GPA3.8以上で$28,000、GPA2.30未満の編入生で$6,000まで)。連邦のCARES Act資金は留学生に使えませんが、RMU Student Emergency Fundは留学生にも開かれています。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

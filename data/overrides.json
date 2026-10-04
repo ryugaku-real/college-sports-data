@@ -6841,5 +6841,40 @@
   "scholarshipUrl": "https://apply.yu.edu/international",
   "intlAidNote": "留学生もメリット奨学金(1ドル〜授業料・諸費用全額、成績・必要度で決定)とニードベース機関援助の対象。国際学部生援助申請書を提出。YUローンは年$8,000まで。ビザには資金証明と財務affidavitが必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "198613": {
+  "scholarshipUrl": "https://www.guilford.edu/admissions/international-students/financing",
+  "intlAidNote": "2025-26の寮生の直接費は$56,070(授業料$41,200、諸費用$1,120、寮$6,600、食費$7,150)、間接費込みで$59,130。成績・カリキュラム等に基づくメリット奨学金あり。全費用は賄えないため一部または大半は自己負担。学内就労は可(授業料には充当不可)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199865": {
+  "scholarshipUrl": "https://www.warren-wilson.edu/admission/international-students/international-financial-aid/",
+  "intlAidNote": "2024-25のCOAは約$54,550(授業料$40,480、寮・食費$13,050)。留学生奨学金はGPAに応じ最大$13,000、家族年収$150,000以下は授業料全額のMilepost One(最大20名、留学生・DACAも対象)。寮生は学内就労(年約$3,000が授業料に充当)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "201195": {
+  "scholarshipUrl": "https://www.bw.edu/admission/international/",
+  "intlAidNote": "寮生の年間総額は$58,284。留学生向けJohn Baldwin奨学金は最大$15,000(更新可)、LADO・同窓生奨学金($2,000)、音楽院Griffiths奨学金($2,000〜$8,000)。奨学金は合格時に通知。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202523": {
+  "scholarshipUrl": "https://denison.edu/campus/admission/international-applicant-financial-aid",
+  "intlAidNote": "2025-26のCOAは$92,900。留学生も国内学生と同じ機関ニードベース援助(必要額の100%充足)とメリット奨学金($5,000〜授業料全額)の対象。留学生全員がCertification of Financesの提出が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204635": {
+  "scholarshipUrl": "https://www.onu.edu/admissions-aid/international-admissions/estimated-cost-international-students",
+  "intlAidNote": "留学生の年間費用は学部により$61,895〜$68,715。全学位志望の留学生をメリット奨学金($22,000〜$34,000/年)で審査。1学期$12,000以上の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204909": {
+  "scholarshipUrl": "https://www.owu.edu/admission/apply/international-students/international-scholarships-and-need-based-aid/",
+  "intlAidNote": "留学生の年間請求額は$71,922。2026年秋はBashford奨学金(年$37,000)を対象者に付与(GPA・テスト最低基準なし、別申請不要)。ニードベースは競争的で保証なし。留学生向けローン(PES)の案内あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206525": {
+  "scholarshipUrl": "https://www.wittenberg.edu/admission/international/financial",
+  "intlAidNote": "留学生向け奨学金は年$25,000から(フルは無し、入学時に自動審査)。I-20には全額の年間費用の資金証明が必要。年$25,000未満の負担能力では審査対象外。ローンは通常利用不可、学内就労は可。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

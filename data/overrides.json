@@ -4166,5 +4166,35 @@
   "scholarshipUrl": "https://www.lavc.edu/cost-tuition/cost-college",
   "intlAidNote": "非居住者授業料は1単位$359+登録料$46で、出願料$50とSEVIS処理料$25がかかります。留学生保険は秋・春で約$774です。経済支援は対象外ですが、LAVC Foundationなどの奨学金が学生に提供されています(留学生の対象は個別確認)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "117788": {
+  "scholarshipUrl": "https://www.lacc.edu/student-services/spr/international/prospective-students/financial-proof",
+  "intlAidNote": "資金証明は直近3か月の口座明細・銀行レターで$24,000以上(1年分)が必要です。授業料は非居住者$397+登録料$46=$443/単位で、医療保険とSEVIS費$25(年)もかかります。州・連邦の支援は対象外ですが、Foundationの緊急奨学金が出る場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117867": {
+  "scholarshipUrl": "https://www.lamission.edu/student-services/spr/international-students/faq",
+  "intlAidNote": "留学生は非居住者(留学生)授業料と医療保険などを支払い、学期12単位以上の履修が必要です。連邦・州の支援は対象外ですが、奨学金には応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117894": {
+  "scholarshipUrl": "https://www.losmedanos.edu/inted/index.aspx",
+  "intlAidNote": "F-1は12単位以上・GPA2.0以上が必要で、原則就労できません。連邦支援は対象外ですが、秋・春の両学期に在籍しGPA2.0以上ならLMC奨学金に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118347": {
+  "scholarshipUrl": "https://marin.edu/iep/tuition-and-fees",
+  "intlAidNote": "F-1は非居住者授業料・登録料・健康費・技術費などを払い、12単位以上が必要です。AB540免除は対象外です。College of Marin Foundationなどの奨学金は総合窓口で扱いますが、非市民の対象は限られます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118684": {
+  "scholarshipUrl": "https://www.mendocino.edu/enrollment-services/admissions/apply-mendocino-college/welcome-international-students",
+  "intlAidNote": "非居住者授業料は1単位$258+登録料$46です。大学として留学生向けの経済支援はなく、外部就労なしで学び切れる資金の証明が必要です。扶養家族を伴う場合は追加資金を示します。Foundation奨学金の対象かは要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118718": {
+  "scholarshipUrl": "https://www.mccd.edu/enroll-at-merced-college/international-students/",
+  "intlAidNote": "非居住者授業料は1単位$336(2026秋)で、年間費用の目安は約$22,000です。$22,000以上の資金証明が必要です。新規生向け奨学金はありませんが、1学期修了後に競争的な授業料免除奨学金(部分免除を含む)へ応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -8786,5 +8786,35 @@
   "scholarshipUrl": "https://livingstone.edu/tuition-and-fees/",
   "intlAidNote": "授業料は年約$18,293、寮・食費込みの総額約$28,337。留学生は学生の約5%。新入生の平均奨学金は約$23,785。留学生専用の奨学金は確認できず、財政援助課へ要確認。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "199643": {
+  "scholarshipUrl": "https://www.shawu.edu/",
+  "intlAidNote": "授業料は年約$13,824と低額。留学生は学生の約9%で、留学生の平均援助パッケージは約$3,756。留学生向けの奨学金の詳細は確認できず、財政援助課への確認が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199999": {
+  "scholarshipUrl": "https://www.wssu.edu/admissions/apply/international-applicants.html",
+  "intlAidNote": "留学生は1学年の資金として学部で約$28,000(2学期で$32,400の資金証明)が必要。ニーズ型の連邦援助・ローンは対象外だが、Chancellor Scholarship(授業料・諸費用・寮・食費全額)やProvost Scholarship(年$7,000、GPA3.75以上)などメリット奨学金の対象になり得る。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "183026": {
+  "scholarshipUrl": "https://www.snhu.edu/tuition-and-financial-aid/paying-for-college/ways-to-save",
+  "intlAidNote": "2026-27のキャンパス学部授業料は1単位$593(年$17,790)、住居込みの総額は約$37,910〜$39,910。International Merit Scholarshipは年$1,000〜$6,000(自動審査、更新可)。F-1/J-1のニーズ型などの奨学金も複数あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "188304": {
+  "scholarshipUrl": "https://financialaid.wnmu.edu/save/",
+  "intlAidNote": "留学生の授業料は年約$12,000(学期約$6,000、年$11,400〜$14,250の情報もあり)。財団奨学金・メリット奨学金は申請可。外部奨学金も条件が合えば利用可。留学生向けの具体額は国際課へ要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190664": {
+  "scholarshipUrl": "https://www.qc.cuny.edu/academics/iss/tuition-expenses-and-scholarship/",
+  "intlAidNote": "留学生の学部授業料は1単位$620(12単位で諸費用込み年約$15,488)。大学の奨学金(Queens College Foundation等)は成績・ニーズ・専攻で設定されるが、留学生は連邦・州援助の対象外。奨学金の対象可否は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190761": {
+  "scholarshipUrl": "https://www.duny.edu/international-students/",
+  "intlAidNote": "留学生は大学のメリット奨学金の対象になり得る(合格時に審査)が、検索で同名の別大学(Dominican University of California等)の情報が混在したため、金額は未確認。授業料・奨学金額は公式サイトで要確認。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

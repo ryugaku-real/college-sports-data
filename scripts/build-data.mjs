@@ -113,6 +113,20 @@ const maxAid = (sc) => {
 const usd0 = (n) => '$' + Math.round(n).toLocaleString('en-US');
 for (const sc of out) sc.athleticScholarshipMax = maxAid(sc);
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
+// Automatic check of each note's dollar amounts against the linked official page (data/verification.json, see README).
+const verification = existsSync('data/verification.json') ? JSON.parse(readFileSync('data/verification.json', 'utf8')) : {};
+for (const sc of out) {
+  const v = verification[sc.id];
+  if (!v) continue;
+  sc.verifyNote = ({
+    verified: `リンク先の公式ページで、メモの金額${v.matched}件(全${v.total}件中)の記載を自動照合で確認済み(${v.checkedAt})。`,
+    unconfirmed: `リンク先ページは読めましたが、メモの金額を自動照合では確認できませんでした(別ページの情報やJS表示の可能性)。公式サイトで要確認(${v.checkedAt})。`,
+    unreachable: `リンク先ページに自動アクセスできず、金額は未照合です。公式サイトで要確認(${v.checkedAt})。`,
+    nofigure: 'メモに金額の記載がなく、金額の自動照合は未実施です。',
+    nourl: '専用ページのリンクがないため、金額は未照合です。',
+  })[v.status];
+  if (v.tuitionGap) sc.verifyNote += '※メモの授業料と米国教育省データ(上記)に差があります。年度・料金区分の違いの可能性があるため公式サイトで確認してください。';
+}
 // Structured "tuition" and "scholarship programs" sections for every school.
 // tuitionLines: figures from the U.S. Dept. of Education (Scorecard) + the researched per-school note; scholarshipSections: federal/state, school (researched), athletic, outside.
 const scholarshipKeys = /奨学金|グラント|Grant|Award|免除|割引|Waiver|Scholarship|援助|補助|ローン|ワークスタディ|学内就労|アシスタントシップ|Assistantship/;

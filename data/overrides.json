@@ -4311,5 +4311,35 @@
   "scholarshipUrl": "https://sdmiramar.edu/services/financial-aid/tuition_and_fees",
   "intlAidNote": "授業料は1単位$377(非居住者$331+登録料$46)で、健康費などもかかります。F-1は連邦・州の経済支援の対象外です。留学プログラム向けのGilman奨学金($5,000まで)等が案内されています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "122746": {
+  "scholarshipUrl": "https://sjcc.edu/students/international-students/apply/tuition-and-fees.aspx",
+  "intlAidNote": "非居住者・留学生の授業料は2026秋で1単位$389+登録料・活動費・健康費$46です。留学生には経済支援、授業料免除・猶予、分割払いがありません。奨学金はI-20取得の資金証明に含められます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122791": {
+  "scholarshipUrl": "http://catalog.collegeofsanmateo.edu/current/admission/international_students.php",
+  "intlAidNote": "授業料は1単位$385+登録料$46+設備費$10で、必須健康保険は年$2,631(秋$1,096.25)です。留学生向けにF. L. Griffin Scholarship(GPA3.0以上)、Patricia L. Griffin(全日制・ニーズ・技術系専攻)、Iliff Awardなどがありますが、留学生を除外する奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122889": {
+  "scholarshipUrl": "https://www.sbcc.edu/international/current/F1-Visa-Financial-Aid.php",
+  "intlAidNote": "授業料は1単位$381+国際設備費$22+登録料$46で、12単位未満は不可、追加単位は$449/単位です。連邦ローン・グラントは対象外ですが、市民権要件のない奨学金には応募でき、IEFAなどの検索サイトが案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123013": {
+  "scholarshipUrl": "https://international.santarosa.edu/scholarships",
+  "intlAidNote": "2026-27の目安は授業料・諸費で年$11,058(12単位×2学期、非居住者授業料$457/単位)です。留学生向けにDoyle Scholarship($1,200)やInternational Student Scholarships($400〜$1,000)があり、1回の申請で250以上の奨学金の審査対象になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123217": {
+  "scholarshipUrl": "https://www.cos.edu/en-us/student-support/counseling/international-students",
+  "intlAidNote": "公立短大のため留学生には経済支援・奨学金を提供していないとされています。認証済みの財務証明が必要で、留学生保険は年約$600、1年目の学外就労はできません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123299": {
+  "scholarshipUrl": "https://www.shastacollege.edu/global-education-center/for-international-students/scholarship/",
+  "intlAidNote": "新規留学生向けのShasta College Foundation奨学金($3,000・一括)があり、学生アカウントに直接入金されます(F-1資格が条件)。CSU Chicoへの編入保証(F-1・成績・資金力の条件)があります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

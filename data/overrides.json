@@ -3538,7 +3538,7 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "162779": {
-  "scholarshipUrl": "https://www.howardcc.edu/admissions-aid/pay-for-college/financial-aid/scholarship_programs/international.html",
+  "scholarshipUrl": "https://www.howardcc.edu/admissions-aid/apply-for-admission/international-citizens/overseas-f1-visa-applicants/",
   "intlAidNote": "F-1留学生の年間費用の目安は$44,000(授業料・諸費$12,500、教材$1,800、住居・食費$24,500、個人費$4,200、保険$1,000)です。連邦支援は対象外で、新規F-1には奨学金が出にくい一方、1学期以上在籍後は学業奨学金の審査対象になれます。英語プログラムには$250/$500の奨学金があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
@@ -3560,6 +3560,36 @@
  "203599": {
   "scholarshipUrl": "https://www.lakelandcc.edu/web/about/international-students-application-information",
   "intlAidNote": "F-1留学生は州外料金で、1年分$23,600の資金証明が必要です。入学後に奨学金へ応募でき、留学生向けにEYE Lighting International Scholarship(GPA3.0)とMargaret W. Wong International Student Scholarship(ニーズ型)があります。公的資金の奨学金は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235750": {
+  "scholarshipUrl": "https://lowercolumbia.edu/tuition/index.php",
+  "intlAidNote": "留学生の授業料は下級科目で1単位約$363.31です。12か月分の健康保険・送還保険への加入が必須です。学生支援・ローンは留学生は対象外で、奨学金も米国市民限定のものが多い点に注意してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236258": {
+  "scholarshipUrl": "https://pencol.edu/services/international",
+  "intlAidNote": "留学生の授業料は15単位でクォーター約$3,940(年$11,820)です。州法により授業料免除は留学生に使えませんが、州外差額分の奨学金(クォーター$2,046、年$6,138)の対象になります。公証済み宣誓書か銀行レター等で1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172635": {
+  "scholarshipUrl": "https://www.wcccd.edu/international-students/international-students-faqs",
+  "intlAidNote": "留学生の授業料は州外料金と同額で1単位$151.80です。登録時に総額の65%以上の支払いが必要です。連邦・州の支援は対象外で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107992": {
+  "scholarshipUrl": "https://www.sautech.edu/international-admissions",
+  "intlAidNote": "留学生は州外授業料+諸費です。F-1は秋・春学期に12単位以上の履修が必要で、学内就労は週20時間未満です。大学の奨学金・Pell等の案内はありますが、留学生が使えるのは学内奨学金に限られる可能性があり要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "135160": {
+  "scholarshipUrl": "https://www.fgc.edu/admissions-information/international-students/next-steps.html",
+  "intlAidNote": "F-1留学生はFlorida州内授業料の対象外です。I-20発行前に初年度の授業料・生活費の資金証明が必要で、SEVIS費も支払います。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172200": {
+  "scholarshipUrl": "https://www.schoolcraft.edu/admissions/wp-content/uploads/sites/2/2026/03/F-1-International-Student-Packet.pdf",
+  "intlAidNote": "留学生はFAFSA不可で州・連邦プログラムの対象外ですが、FAFSA不要の奨学金(Scholarship Universe経由)に応募できます。留学生の授業料は学区外料金より高く、I-20には授業料・生活費・保険等の資金証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

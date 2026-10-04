@@ -4706,5 +4706,20 @@
   "scholarshipUrl": "https://www.northampton.edu/admissions/international-students/cost-of-attendance-international.html",
   "intlAidNote": "I-20には$30,807以上の資金証明(Certification of Finance)が必要です。大学の経済支援・奨学金は留学生は対象外ですが、外部の奨学金(例: Career Fit Test Scholarship $500)に留学生も応募できるものがあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "215239": {
+  "scholarshipUrl": "https://www.ccp.edu/admission-aid/admissions/international-students/international-student-services",
+  "intlAidNote": "F-1/J-1はPhiladelphia/ペンシルベニアの居住者になれません。2026-27の授業料は1単位$522で、24単位の授業料・諸費は年$13,896です。12単位以上が必要で、大学は年$80万超・100種以上の奨学金を運営していますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219143": {
+  "scholarshipUrl": "https://www.lakeareatech.edu/paying-for-college/ways-to-pay-for-college/scholarships/outside-scholarships/",
+  "intlAidNote": "留学生は高校成績が上位半分で、TOEFL iBT74以上(またはPTE Academic)が必要です。出願時に財務証明書・スポンサーの書類・銀行明細が必要です。Foundationは2025-26に総額$570万超の奨学金を出していますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "224615": {
+  "scholarshipUrl": "https://www.dallascollege.edu/resources/multicultural/international-students/",
+  "intlAidNote": "F-1は連邦・州の経済支援の対象外です。留学生向け奨学金はmyScholarshipsで条件別に探せ、西半球(キューバ・米国除く)出身の学生向けにニーズ・成績に応じた授業料支援のGood Neighbor Programがあります。International Admissions and Compliance OfficeがF-1の支援を担当します。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

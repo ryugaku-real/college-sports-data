@@ -3591,5 +3591,35 @@
   "scholarshipUrl": "https://www.schoolcraft.edu/admissions/wp-content/uploads/sites/2/2026/03/F-1-International-Student-Packet.pdf",
   "intlAidNote": "留学生はFAFSA不可で州・連邦プログラムの対象外ですが、FAFSA不要の奨学金(Scholarship Universe経由)に応募できます。留学生の授業料は学区外料金より高く、I-20には授業料・生活費・保険等の資金証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "171395": {
+  "scholarshipUrl": "https://www.ncmich.edu/admissions/international-students.html",
+  "intlAidNote": "留学生は州外料金で、授業料・生活費・保険などすべての費用を自己負担する前提です。経済支援(Financial aid)は留学生は対象外ですが、Phi Theta Kappa財団のGlobal Leaders of Promise奨学金など留学生向けの限定的な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "144865": {
+  "scholarshipUrl": "https://cod.edu/admissions/international/expenses.html",
+  "intlAidNote": "F-1留学生の授業料は1単位$429(2026夏)、$440(2026秋)です。I-20には授業料・諸費・生活費の初年度分の資金証明が必要です。CODは留学生への経済支援を提供しないとされ、外部奨学金の利用が中心になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "238263": {
+  "scholarshipUrl": "https://madisoncollege.edu/get-started/international-admission/apply",
+  "intlAidNote": "年間費用の目安は、技術準学士・ディプロマで$26,888(授業料・諸費$6,330)、大学編入課程で$28,287(授業料・諸費$7,729)で、生活費は$20,558です。I-20に資金証明が必要です。留学(study abroad)向けの奨学金基金はありますが、新規留学生向けの奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "440402": {
+  "scholarshipUrl": "https://www.asun.edu/getstarted/scholarships.php",
+  "intlAidNote": "一般・編入課程の授業料は1単位$143で諸費はありません。ただしハンドブック上、留学生に出せる大学資金の経済支援はないとされています。I-20・I-94の写しが必要で、授業料は登録時に全額支払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173416": {
+  "scholarshipUrl": "https://www.dctc.edu/admissions/international-students/",
+  "intlAidNote": "留学生は州内(居住者)と同じ授業料で、年間費用の目安は約$27,976(授業料・諸費$6,580、教材$1,200、校外生活費$12,600ほか)です。資金証明書(奨学金も資金源に含められる)が必要で、大学・財団は年$20万超の奨学金を出していますが、留学生の対象は要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170587": {
+  "scholarshipUrl": "https://catalog.kirtland.edu/content.php?catoid=4&navoid=136",
+  "intlAidNote": "F-1・J-1の留学生は留学生料金が適用されます。奨学金の多くはFAFSAによるニーズ判定が条件で、留学生が使える奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

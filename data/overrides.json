@@ -2420,5 +2420,35 @@
   "scholarshipUrl": "https://www.pnw.edu/financial-aid/types-of-financial-aid/scholarships/admissions-scholarships/",
   "intlAidNote": "留学生のメリット奨学金は年$1,000〜$3,000(GPA3.0以上かつSAT1130/ACT23以上、8学期更新)。多くの奨学金は国内学生向けで、母国からの奨学金取得も推奨されます。締切は3/1が中心です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "208646": {
+  "scholarshipUrl": "https://www.eou.edu/fao/scholarships/scholarship-opportunities/international-scholarship-opportunities/",
+  "intlAidNote": "留学生向けInternational Student Success Award(年$500〜$2,500)やInternational Tuition Scholarshipがあります。申請は3/1まで、EOU財団の申請期間に合わせます。連邦援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "205443": {
+  "scholarshipUrl": "https://www.shawnee.edu/financial-aid/scholarships-grants",
+  "intlAidNote": "F-1/J-1留学生向けのLorentz Family Scholarship(Student Ambassador活動が条件)、Pambookian奨学金(最終学年、GPA3.0)、Rotary Portsmouth奨学金などがあります。一般の学業奨学金は200種以上あります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236133": {
+  "scholarshipUrl": "https://eagle.northwestu.edu/departments/international-student-services/scholarships/",
+  "intlAidNote": "留学生も国内学生と同じ奨学金(President's、学業、音楽、運動、プログラム等)に応募可能。ニーズがある場合はInternational Student Scholarship(米国内スポンサーが必要)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "213349": {
+  "scholarshipUrl": "https://kutztown.edu/admissions/apply/international-admissions/scholarships-and-awards.html",
+  "intlAidNote": "州外・留学生は授業料が自動で約年$7,000割引。新入生メリットは年$1,500〜$6,000(GPA、8学期更新)、編入は$1,000〜$3,000。ニーズベースのInternational Avalanche Award(最大年$4,000)や、音楽専攻向けの全額奨学金(5名)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179548": {
+  "scholarshipUrl": "https://stephens.edu/scholarships-awards/",
+  "intlAidNote": "留学生もメリット・タレント・運動・ニーズの奨学金の対象(FAFSA不可でも自動審査)。奨学金は授業料・標準諸費を上限とし、更新はGPA2.0です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207351": {
+  "scholarshipUrl": "https://opsu.edu/scholarships/",
+  "intlAidNote": "留学生もACT/SATまたはInCred評価書で競争的な学業奨学金に応募でき、全競技で運動奨学金があります(監督に連絡)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

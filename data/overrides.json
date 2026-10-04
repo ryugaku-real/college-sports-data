@@ -5636,5 +5636,40 @@
   "scholarshipUrl": "https://www.indianastate.edu/costs-aid/financial-aid/applying-and-managing-financial-aid/estimated-cost-attendance",
   "intlAidNote": "留学生の寮生活での年間総額は約$40,624(州内は$26,820)。授業料は12〜18単位で1学期$11,641。留学生向けの専用奨学金情報は限定的。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "200280": {
+  "scholarshipUrl": "https://und.edu/admissions/international/index.html",
+  "intlAidNote": "留学生は連邦援助の対象外だが、一部の奨学金は留学生も対象。大学全体では学部生に年平均約$7,190の学業奨学金。留学生専用の金額は公式ページで要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219471": {
+  "scholarshipUrl": "https://www.usd.edu/Admissions-and-Aid/Tuition-and-Costs/International-Tuition-and-Costs",
+  "intlAidNote": "留学生の年間費用は約$25,500(授業料・諸費用$13,616、生活費$9,498、その他$2,400)。新入生はCoyote Beginnings奨学金(最大年$4,000)とGrant($1,500〜$2,500)が自動付与。編入生はGPA3.0以上で年$3,000。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221740": {
+  "scholarshipUrl": "https://www.utc.edu/academic-affairs/center-for-global-education/international-student-and-scholar-services/prospective-students/undergraduate-cost-of-attendance",
+  "intlAidNote": "留学生学部の年間費用は約$47,022(授業料・諸費用$28,134、生活費$16,632)。連邦援助は対象外。国際新入生向け奨学金あり(最大$5,000、1年のみで更新不可)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230782": {
+  "scholarshipUrl": "https://www.weber.edu/FinancialAid/international.html",
+  "intlAidNote": "留学生の年間費用は約$28,757。留学生向けメリット奨学金あり(Moench年$8,000×4年、Dixon年$6,000×4年、Tracy年$5,000×4年、州外授業料に充当)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "142276": {
+  "scholarshipUrl": "https://www.isu.edu/scholarships/apply-for-scholarships/new-incoming-international-students/",
+  "intlAidNote": "奨学金なしの年間費用は約$38,176。Bengal州外授業料免除奨学金(約$16,203/年)で約$21,973に下がるが競争が激しく、不採用に備え1学期約$14,000の準備が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "232566": {
+  "scholarshipUrl": "https://www.longwood.edu/admissions/international-students/",
+  "intlAidNote": "必要な年間資金は$43,750(授業料・諸費用$29,180、寮$9,300、食費$5,270)。GPA3.0以上の新入生にメリット奨学金(12/1までの出願で優先、4年更新可)。Honors Collegeにはフルライドあり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "184603": {
+  "scholarshipUrl": "https://www.fdu.edu/admissions/international/scholarships/",
+  "intlAidNote": "2026-27の留学生学部の年間費用は約$59,799(授業料・保険など$42,799、寮・食費$17,000)。出願時に自動でメリット審査、新入生は最大年$24,000(4年更新可)。ニードベース援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -1099,7 +1099,7 @@
  },
  "148131": {
   "scholarshipUrl": "https://www.quincy.edu/costs-aid/tuition-costs-fees/",
-  "intlAidNote": "2026-27年度の授業料(本代込み)は年$39,900で、非返金の留学生費$1,200がかかります。編入奨学金が年$10,000〜$18,000です。Illinois Promiseなどは州の居住者向けで、留学生は対象外です。",
+  "intlAidNote": "入学後1年たってから応募できる小額の奨学金($500〜$1,000)が中心で、入学時に出るメリット奨学金は限られます。2026-27年度の授業料(本代込み)は年$39,900で、非返金の留学生費$1,200がかかります。編入奨学金が年$10,000〜$18,000です。Illinois Promiseなどは州の居住者向けで、留学生は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "138293": {
@@ -1350,7 +1350,7 @@
  },
  "177214": {
   "scholarshipUrl": "https://www.drury.edu/financial-aid/scholarship-information/",
-  "intlAidNote": "合格した留学生は自動でIncoming International Scholarshipの審査対象(年最大$22,000、最大4年更新)。IBディプロマ取得見込みは$25,000。見学した場合は追加$1,000のPriority Scholarshipもあります。",
+  "intlAidNote": "成績(成績証明書と英語力スコア)で決まるInternational Scholarship(年最大$30,000、4年更新)が合格者全員に自動審査されます。合格した留学生は自動でIncoming International Scholarshipの審査対象(年最大$22,000、最大4年更新)。IBディプロマ取得見込みは$25,000。見学した場合は追加$1,000のPriority Scholarshipもあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "132471": {
@@ -1565,7 +1565,7 @@
  },
  "133492": {
   "scholarshipUrl": "https://www.eckerd.edu/admissions/international/",
-  "intlAidNote": "留学生は自動で年最大$27,000のInternational Student Scholarshipの審査対象。編入は年最大$18,000。留学生向けのニーズベース支援はありません。",
+  "intlAidNote": "成績メリット型の留学生奨学金(年最大$27,000、Trustee Scholar Award 最大年$24,000、Presidential Scholar Award 最大年$17,000、いずれも4年更新)が出願時に自動審査されます。留学生向けの必要度型援助はありません。留学生は自動で年最大$27,000のInternational Student Scholarshipの審査対象。編入は年最大$18,000。留学生向けのニーズベース支援はありません。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "227845": {
@@ -1650,7 +1650,7 @@
  },
  "200156": {
   "scholarshipUrl": "https://www.uj.edu/admission-aid/financial-aid-scholarships/",
-  "intlAidNote": "新入生の留学生向けInternational Entrance Scholarshipは年$6,000〜$10,000。授業料は国内学生と同額。財務書類・保険加入・事前払いが必要です。",
+  "intlAidNote": "留学生の新入生向けInternational Scholarship(最大$10,000)とAcademic奨学金の対象になります。新入生の留学生向けInternational Entrance Scholarshipは年$6,000〜$10,000。授業料は国内学生と同額。財務書類・保険加入・事前払いが必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "155335": {
@@ -1730,7 +1730,7 @@
  },
  "142461": {
   "scholarshipUrl": "https://nnu.edu/admissions-aid/undergraduate-admissions/international-students/toefl-ielts-scholarships/",
-  "intlAidNote": "英語テストのスコアで決まる奨学金(TOEFL 90以上/IELTS 7以上/Duolingo 120以上で$18,000、中間$16,000、下位$9,000)。1年目から在学中継続。留学生向け援助枠は限られます。",
+  "intlAidNote": "英語力スコアに応じた奨学金(TOEFL 90以上/IELTS 7以上/Duolingo 120以上で年$18,000、80〜89/6.5/101〜119で$16,000、70/6.0〜6.4/95〜100で$9,000)が出ます。英語テストのスコアで決まる奨学金(TOEFL 90以上/IELTS 7以上/Duolingo 120以上で$18,000、中間$16,000、下位$9,000)。1年目から在学中継続。留学生向け援助枠は限られます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "178387": {
@@ -7063,7 +7063,7 @@
  },
  "182795": {
   "scholarshipUrl": "https://franklinpierce.edu/admissions/tuition-fees-financial-aid/cost-of-attendence.html",
-  "intlAidNote": "寮生の年間総額は約$70,770。留学生向け奨学金は限定数で最大年$20,000。Pierce Promise(NH州民向け授業料無料)は留学生は対象外。F-1には1年分の授業料・生活費の資金証明が必要。",
+  "intlAidNote": "留学生は入学時に最大年$20,000のメリット奨学金の対象になる場合があり、枠は限られます(Pierce Promiseは対象外)。寮生の年間総額は約$70,770。留学生向け奨学金は限定数で最大年$20,000。Pierce Promise(NH州民向け授業料無料)は留学生は対象外。F-1には1年分の授業料・生活費の資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "409698": {
@@ -8718,7 +8718,7 @@
  },
  "130183": {
   "scholarshipUrl": "https://post.edu/admissions/international-students/",
-  "intlAidNote": "州外・留学生の授業料は年約$17,100と私立では安価。2024-25入学の留学生は学部で4年間$20,000(1年間キャンパス居住が条件)の奨学金。大学院は$2,000(BI&A)〜$5,000(MBA)。資金証明が必要。",
+  "intlAidNote": "On Campus International Student Scholarship(最大$20,000、1年以上の寮生活・12単位以上・F-1維持が条件)があります。州外・留学生の授業料は年約$17,100と私立では安価。2024-25入学の留学生は学部で4年間$20,000(1年間キャンパス居住が条件)の奨学金。大学院は$2,000(BI&A)〜$5,000(MBA)。資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "130493": {
@@ -8903,7 +8903,7 @@
  },
  "219383": {
   "scholarshipUrl": "https://www.usiouxfalls.edu/about/offices-and-services/international-education",
-  "intlAidNote": "留学生の学部授業料は年約$23,950。学部留学生向けの国際学生奨学金あり(額は要確認)。自動審査と別途申請の奨学金が混在。国際教育課への確認が必要。",
+  "intlAidNote": "留学生向けのInternational Student奨学金があります(額・条件はInternational Education Officeで確認)。留学生の学部授業料は年約$23,950。学部留学生向けの国際学生奨学金あり(額は要確認)。自動審査と別途申請の奨学金が混在。国際教育課への確認が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "220516": {

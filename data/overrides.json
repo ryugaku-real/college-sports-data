@@ -45,7 +45,7 @@
  "141574": {
   "scholarshipUrl": "https://www.hawaii.edu/issmanoa/?page_id=2533",
   "intlAidCheckedAt": "2026-10-04",
-  "intlAidNote": "留学生(F-1)向けに、成績による奨学金が出願と同時に自動で審査されます(International Merit Award、国際学部生奨学金IUSSは年$10,000で最大4年、別途申請不要・GPA3.0以上が目安)。ほかにも留学生オフィスが運営する奨学金があります。運動奨学金は競技のコーチに確認してください。"
+  "intlAidNote": "2026-27の非居住者(留学生)の授業料は年$33,792で、総費用は親元居住で約$52,152、寮で約$55,760、校外で約$61,644です。留学生(F-1)向けに、成績による奨学金が出願と同時に自動で審査されます(International Merit Award、国際学部生奨学金IUSSは年$10,000で最大4年、別途申請不要・GPA3.0以上が目安)。ほかにも留学生オフィスが運営する奨学金があります。運動奨学金は競技のコーチに確認してください。"
  },
  "153630": {
   "scholarshipUrl": "https://www.iwcc.edu/financial-aid/scholarships/",
@@ -174,7 +174,7 @@
  },
  "153603": {
   "scholarshipUrl": "https://www.iastate.edu/admission-and-aid/admissions/international-admissions/international-merit-scholarships",
-  "intlAidNote": "合格した留学生の新入生は、成績による奨学金(International Excellence Awards: 年$6,000〜$14,000、最大8学期)が自動で付与されます。ISSOの緊急用・必要性ベースの少額の援助もあります。連邦・州の援助は対象外です。",
+  "intlAidNote": "2026-27の留学生学部の寮生の年間費用は約$50,960(留学生授業料$31,962、必須諸費用$1,586、寮・食費$11,162、教材$800ほか)です。I-20用には授業料・諸費用$33,547＋生活費$17,332の合計約$50,879が目安です。合格した留学生の新入生は、成績による奨学金(International Excellence Awards: 年$6,000〜$14,000、最大8学期)が自動で付与されます。ISSOの緊急用・必要性ベースの少額の援助もあります。連邦・州の援助は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "155399": {
@@ -254,12 +254,12 @@
  },
  "145637": {
   "scholarshipUrl": "https://www.osfa.illinois.edu/types-of-aid/other-aid/international-students/",
-  "intlAidNote": "学部の留学生には、必要性ベースの援助はありません。学部・学科が入学書類を見て決める奨学金は、別途申請なしで審査される場合があります。留学生オフィスの限定的な奨学金・ローン(予期せぬ経済的困難向けなど)があります。",
+  "intlAidNote": "2026-27の留学生学部の授業料・諸費用は専攻により年$42,248〜$53,078で、住居・食費$15,858、教材$1,200ほかを含む総費用は約$62,146〜$72,976です。学部の留学生には、必要性ベースの援助はありません。学部・学科が入学書類を見て決める奨学金は、別途申請なしで審査される場合があります。留学生オフィスの限定的な奨学金・ローン(予期せぬ経済的困難向けなど)があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "153658": {
   "scholarshipUrl": "https://admissions.uiowa.edu/cost-aid/international-scholarships",
-  "intlAidNote": "州外の新入生向けに成績による奨学金(National Scholars Award: 年$2,000〜$15,000、最大4年)が審査されます(テストの点数とGPAなど)。留学生向けの奨学金は限定的です。",
+  "intlAidNote": "2026-27の留学生学部の年間費用は学部により約$53,042〜$56,916(授業料・諸費用$35,442〜$39,316、生活費$14,022、保険$2,628、教材$950)です。州外の新入生向けに成績による奨学金(National Scholars Award: 年$2,000〜$15,000、最大4年)が審査されます(テストの点数とGPAなど)。留学生向けの奨学金は限定的です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "163286": {
@@ -294,7 +294,7 @@
  },
  "142115": {
   "scholarshipUrl": "https://www.boisestate.edu/global-international/cost-and-scholarships/undergraduate-scholarships/",
-  "intlAidNote": "留学生は出願時に、成績による奨学金(合計で年$5,000〜$17,000: Ridgeline $5,000、Summit $10,000、Global $5,000〜$7,000)が自動で審査されます(GPA3.1以上が目安)。在学中は、州外授業料の一部を免除するGlobal Broncos奨学金($2,000〜$8,500)があります。",
+  "intlAidNote": "2026-27の留学生学部の授業料・諸費用は年$29,477です。留学生は出願時に、成績による奨学金(合計で年$5,000〜$17,000: Ridgeline $5,000、Summit $10,000、Global $5,000〜$7,000)が自動で審査されます(GPA3.1以上が目安)。在学中は、州外授業料の一部を免除するGlobal Broncos奨学金($2,000〜$8,500)があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110556": {
@@ -379,7 +379,7 @@
  },
  "139959": {
   "scholarshipUrl": "https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships/",
-  "intlAidNote": "連邦・州の援助は留学生は対象外ですが、F-1の留学生は成績による奨学金の対象です(Classic: 州内外の授業料差額の半分を免除、Classic City Scholars: 全額免除、Foundation Fellowship: 差額免除に加え$30,000の支給)。",
+  "intlAidNote": "2026-27の非居住者(留学生)の年間費用は約$52,156(寮生。授業料$31,804、諸費用$1,494、住居$7,722、食費$4,718、教材$978ほか)。留学生の授業料は学期約$16,364です。連邦・州の援助は留学生は対象外ですが、F-1の留学生は成績による奨学金の対象です(Classic: 州内外の授業料差額の半分を免除、Classic City Scholars: 全額免除、Foundation Fellowship: 差額免除に加え$30,000の支給)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "157085": {
@@ -5663,7 +5663,7 @@
  },
  "142276": {
   "scholarshipUrl": "https://www.isu.edu/scholarships/apply-for-scholarships/new-incoming-international-students/",
-  "intlAidNote": "奨学金なしの年間費用は約$38,176。Bengal州外授業料免除奨学金(約$16,203/年)で約$21,973に下がるが競争が激しく、不採用に備え1学期約$14,000の準備が必要。",
+  "intlAidNote": "2026-27の非居住者(留学生)の学部授業料は年約$28,774で、総費用の目安は約$37,444〜$38,176(授業料・諸費用$28,240、寮・食費$7,336、その他$2,600)です。奨学金なしの年間費用は約$38,176。Bengal州外授業料免除奨学金(約$16,203/年)で約$21,973に下がるが競争が激しく、不採用に備え1学期約$14,000の準備が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "232566": {
@@ -5703,7 +5703,7 @@
  },
  "143358": {
   "scholarshipUrl": "https://www.bradley.edu/admissions/financial-aid/scholarships-grants/",
-  "intlAidNote": "留学生にニードベース援助なし。SAT/ACT提出の新入生は限定的なメリット奨学金あり、米国の大学・コミカレからの編入はGPAに応じた編入奨学金あり。非居住者への機関援助の平均は約$37,680。",
+  "intlAidNote": "2026-27の授業料・諸費用は$44,728、寮・食費約$14,330で、総費用は約$61,992です。留学生にニードベース援助なし。SAT/ACT提出の新入生は限定的なメリット奨学金あり、米国の大学・コミカレからの編入はGPAに応じた編入奨学金あり。非居住者への機関援助の平均は約$37,680。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "196079": {

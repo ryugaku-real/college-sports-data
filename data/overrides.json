@@ -1,12 +1,39 @@
 {
-  "_README": "学校ごとの手動修正。キーはunitid(アプリの学校IDと同じ)。例: \"243744\": { \"conference\": \"ACC\", \"scholarshipUrl\": \"https://...\" }。毎回のデータ更新後に上書きされます。",
+  "_README": "学校ごとの手動修正。キーはunitid(アプリの学校IDと同じ)。使える項目: conference, athleticsUrl, scholarshipUrl, intlAidNote(留学生向けメモ), intlAidCheckedAt(確認日)。毎回のデータ更新後も反映されます。",
   "243744": {
-    "scholarshipUrl": "https://financialaid.stanford.edu/"
+    "scholarshipUrl": "https://financialaid.stanford.edu/undergrad/how/international.html",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "留学生向けの必要性ベースの援助は限定的(留学生のおよそ3人に1人が受給)。援助を希望する場合は出願時に申告が必要で、申告すると選考がより厳しくなります。奨学金を受けるには社会保障番号(SSN)か納税者番号(ITIN)が必要です。"
   },
   "235237": {
     "conference": "NWAC Western Division"
   },
   "236708": {
     "conference": "NWAC Eastern Division"
+  },
+  "110662": {
+    "scholarshipUrl": "https://ieo.ucla.edu/finances/scholarships/",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "大学の学部生向け経済援助は米国市民・永住者が対象で、留学生は原則対象外。留学生は十分な資金の証明が必要(2026年秋入学で目安約$80,739)。外部の奨学金情報は留学生オフィス(Dashew Center)のページにあります。運動奨学金は別枠なので、コーチに直接確認してください。"
+  },
+  "141644": {
+    "scholarshipUrl": "https://www.hpu.edu/undergraduate-admissions/international/scholarships.html",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "留学生は出願時に成績による奨学金(授業料の最大50%)の対象として自動的に審査されます(別途申請不要)。新規F-1の留学生向けに授業料50%の奨学金(#YouAreWelcomeHere、締切3月1日)があります。運動奨学金は少額で、競技のヘッドコーチの裁量です。問い合わせ: international@hpu.edu"
+  },
+  "155195": {
+    "scholarshipUrl": "https://www.hutchcc.edu/international-student",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "学校のサイトでは「留学生向けの経済援助はない」と案内されています。入学前に、初年度(9か月)の費用を賄える資金($13,000)の証明が必要です。運動奨学金の扱いは、コーチに直接確認してください。"
+  },
+  "123961": {
+    "scholarshipUrl": "https://ois.usc.edu/living-in-la/money/financialaid/",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "留学生は連邦の援助や大学の必要性ベースの援助の対象外ですが、成績による奨学金や学部・学科の奨学金は対象になる場合があります。私的ローンには米国市民などの共同署名者が必要です。"
+  },
+  "122977": {
+    "scholarshipUrl": "https://www.smc.edu/admission-aid/apply/international-students/tuition-fees.php",
+    "intlAidCheckedAt": "2026-10-04",
+    "intlAidNote": "留学生の授業料は1単位$486(2026年秋〜2027年夏)で、年間24単位なら$11,664。生活費を含めた年間の目安は約$34,000です。SMC財団の奨学金(経済的必要性を問わないもの)の審査を受けられる場合があります。CCCAAのため運動奨学金は原則ありません。"
   }
 }

@@ -4761,5 +4761,35 @@
   "scholarshipUrl": "https://lemoorecollege.edu/admissions/cost-of-attendance/",
   "intlAidNote": "留学生は非居住者授業料1単位$351+登録料$46で、州内料金の対象外です。連邦支援は対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "442781": {
+  "scholarshipUrl": "https://www.tocc.edu/financial-aid-scholarships",
+  "intlAidNote": "DHSの認定を受けておらず、非移民(F-1等)の留学生は通常の入学を受け付けられないとされています。奨学金・支援は主に先住民学生向けです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "455512": {
+  "scholarshipUrl": "https://wcc.yccd.edu/enroll/tuition-fees",
+  "intlAidNote": "大学のページでは、F-1留学生の受け入れは現在行っていないとされています(過去の案内では年約$10,000の資金証明)。F-1は州の支援(AB540/AB2000等)の対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "460464": {
+  "scholarshipUrl": "https://www.norcocollege.edu/services/enrollment/admissions/index.html",
+  "intlAidNote": "F-1は非居住者授業料に加え、海外居住者向けの返金不可の1単位あたりサーチャージがかかります。連邦・州の支援は対象外で、一部の私費奨学金も対象外です。国籍・永住権を条件としない奨学金には応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "487092": {
+  "scholarshipUrl": "https://oxford.emory.edu/admission/merit_scholarships.html",
+  "intlAidNote": "2025-26の1学期の基本費用(授業料・諸費、住居・食費)は約$44,650です。F-1にはEmoryのI-20が必要です。Emory University Scholar Programsのメリット奨学金(Faculty Scholarshipで授業料・諸費の半額、Dean's Scholarshipで全額)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "489201": {
+  "scholarshipUrl": "https://www.cloviscollege.edu/admissions-and-aid/business-office/enrollment-fees.html",
+  "intlAidNote": "2024-25の非居住者・留学生の授業料は1単位$312+登録料です。F-1は州・連邦の支援(Dream Act含む)の対象外で、民間の奨学金に応募する形です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "497046": {
+  "scholarshipUrl": "https://www.maderacollege.edu/admissions-aid/business-services/fee-payments/summary-of-student-fees.html",
+  "intlAidNote": "非居住者授業料は2025秋で1単位$335で、F-1は免除対象外です。大学の奨学金(年50件超、$100〜$2,000)の留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

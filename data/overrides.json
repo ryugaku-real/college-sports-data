@@ -3778,13 +3778,33 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "162168": {
-  "scholarshipUrl": "https://info.chesapeake.edu/admissions/international-students",
+  "scholarshipUrl": "https://www.chesapeake.edu/admissions/credit/",
   "intlAidNote": "F-1留学生は州外授業料+諸費+学期ごとの留学生料金がかかります。TOEFL合格点が必要で、地元のスポンサー(親族等)の住居確保が条件です。出願締切は秋が6/1、春が11/1です。連邦・州の支援は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "211079": {
   "scholarshipUrl": "https://ccbc.edu/international-students/",
   "intlAidNote": "2年間で必要な資金の目安は最大$70,000(航空券・保険・個人費は別)で、扶養家族1人につき$2,000が加算されます。F-1は秋・春に12単位以上(オンラインは1科目まで)が必要です。連邦・州の支援は対象外で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170055": {
+  "scholarshipUrl": "https://www.grcc.edu/students-resources/admissions-student-services/apply-grcc/international/current-international-students/financial-requirements",
+  "intlAidNote": "2026-27の年間費用の目安は約$34,695(授業料$12,330=30単位×1コンタクトアワー$411、住居・食費・諸費・教材・生活費込み)です。資金は奨学金や学内就労に頼らず確保する必要があります。GRCC Foundationは$100万超の奨学金を運営していますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "185536": {
+  "scholarshipUrl": "https://middlesexcollege.edu/admissions/international-applicants/",
+  "intlAidNote": "F-1のスポンサーは年$25,140以上(家族・友人宅に住む場合は$15,640)の保証が必要です。留学生料は学期$300です。Phi Theta KappaのGlobal Leaders of Promise奨学金など留学生向けの限定的な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146418": {
+  "scholarshipUrl": "https://kish.edu/admission-aid/paying/tuition/",
+  "intlAidNote": "F-1留学生の授業料は1単位$456です。年間の資金証明は銀行残高$28,750以上(2024-25)が必要で、学期12単位以上(うち9単位以上は対面)を履修します。資料上、留学生は大学の奨学金・グラントの対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154129": {
+  "scholarshipUrl": "https://nwicc.edu/international-admissions/",
+  "intlAidNote": "3か月分の銀行明細で$20,500以上(授業料・諸費・寮・生活費の1年分)の維持が必要です。留学生専用のFiliz and Kelsey Junge International Student Scholarship($1,500)があり、一般奨学金の締切は3/1と11/1が目安です。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -2345,5 +2345,30 @@
   "scholarshipUrl": "https://westminsteru.edu/admissions/international-admissions/international-student-financial-aid.html",
   "intlAidNote": "合格した留学生は自動でメリット奨学金の審査対象。タレント奨学金(演劇・音楽・CS・ダンス)や、CSS Profile提出によるニーズベースのGriffin Grantもあります。全額をカバーする奨学金はありません。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "130989": {
+  "scholarshipUrl": "https://www.gbc.edu/admissions-aid/international-admissions/",
+  "intlAidNote": "学部の留学生は合格時にメリット奨学金の対象(GBC Academic Recognition Scholarship $4,000など)。ニーズ+成績のGilani奨学金や国際経営専攻のGore奨学金もあります。SAT/ACT提出で増額の可能性があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202514": {
+  "scholarshipUrl": "https://www.defiance.edu/international-students/",
+  "intlAidNote": "留学生は大学の奨学金・グラントの対象外とされ、ニーズベース支援もありません。資金証明(銀行の証明書等)の提出が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155177": {
+  "scholarshipUrl": "https://www.hesston.edu/admissions/international/scholarships/",
+  "intlAidNote": "留学生は全員がInternational Scholarship(最大$12,000、出身国の経済状況とニーズで決定)の対象。学業奨学金は年$6,000〜$15,000、英語力奨学金$2,000(TOEFL iBT61等)、芸術・運動・活動奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139861": {
+  "scholarshipUrl": "https://www.gcsu.edu/international/tuition-fees",
+  "intlAidNote": "留学生向けInternational Student Scholarshipは州外授業料の全額または半額免除(年約$9,400〜$18,800の削減、学業・課外活動・ニーズで決定)。出願とは別にISS申請書が必要です。編入向け奨学金や運動奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "131113": {
+  "scholarshipUrl": "https://www.wilmu.edu/international/financialaid.aspx",
+  "intlAidNote": "F-1留学生はほとんどの経済支援の対象外ですが、GPA2.5以上等の条件を満たせば大学の奨学金に申請できます。授業料は低めに設定されています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

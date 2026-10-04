@@ -6236,5 +6236,45 @@
   "scholarshipUrl": "https://www.grinnell.edu/admission/financial-aid",
   "intlAidNote": "留学生も含め、入学時に算出した必要額の100%をグラント・奨学金・学内就労で充足。成績・活動を総合したメリット奨学金は必要度に関係なく審査される場合あり。ニードベース受給者は学内就労枠(約$3,000)が付く。出願時の申請が必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "156295": {
+  "scholarshipUrl": "https://www.berea.edu/costs-and-financial-aid-for-international-students",
+  "intlAidNote": "留学生の全員に授業料・寮・食費・諸費用の100%を奨学金で支給(総額約$69,942に相当)。全員に学内就労あり(初年度約$2,500、個人費用に充当)。入学確認の預託金$2,200が必要(支払い困難な場合は追加援助あり)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "156408": {
+  "scholarshipUrl": "https://www.centre.edu/admission-aid/international-applicants/international-student-financial-aid",
+  "intlAidNote": "2026-27の総額は$79,455(基本費$73,990+保険・書籍・交通・個人費約$5,465)。メリット奨学金は年$20,000〜$45,000を自動審査。Lincoln Scholars(フルライド以上、10名)あり。留学生は年約$25,000の自己負担を見込む必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "160977": {
+  "scholarshipUrl": "https://www.bates.edu/financial-services/financial-aid/international-undergraduates/",
+  "intlAidNote": "国籍を問わず合格者全員の必要額を100%充足(ローン無し、グラント+学内就労)。最長8学期。ニード・ブラインドか否かは公式ページで確認。留学生向けの申請・資金書類が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "161004": {
+  "scholarshipUrl": "https://www.bowdoin.edu/student-aid/understanding-your-aid/international.html",
+  "intlAidNote": "留学生も含めニード・ブラインドで、必要額を100%充足(2008年からローン無し)。新入生の平均支給額は約$69,000(必要度に応じ$8,950〜$82,900)。非居住者への機関援助の平均は約$77,156。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "161086": {
+  "scholarshipUrl": "https://afa.colby.edu/cost-and-aid/tuition-and-fees/",
+  "intlAidNote": "2026-27の総額は約$97,020〜$98,270(授業料・諸費用$75,790、寮・食費$19,480ほか)。留学生にも必要額の100%をローン無しで充足。留学生用CSS Profile提出が必要。新入生の平均支給額は約$77,000超。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164465": {
+  "scholarshipUrl": "https://www.amherst.edu/offices/financialaid/international_students/costs_amherst",
+  "intlAidNote": "留学生を含めニード・ブラインド入学で、必要額を100%充足。2025-26の請求費用は授業料$73,140、寮$10,410、食費$8,850、諸費用$690。大学全体で奨学金総額$8,470万(学生の59%が受給)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164580": {
+  "scholarshipUrl": "https://www.babson.edu/undergraduate/admission/tuition-and-financial-aid/international-students/",
+  "intlAidNote": "総額は約$86,966(授業料$60,288、寮・食費ほか)。Global Scholarsプログラム(ニードベースで4年間授業料全額+必要に応じ寮・食費・保険・渡航費)、Presidential(授業料半額)、Weissman(授業料全額)奨学金あり。CSS Profileを11/15(ED)または2/1(RD)までに提出。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "165015": {
+  "scholarshipUrl": "https://www.brandeis.edu/student-financial-services/financial-aid/scholarships/international.html",
+  "intlAidNote": "Wien International Scholarshipは必要額を100%充足(優秀な留学生向け)。日本在住者向けTWISP(授業料・寮・食費・保険を全額)あり。援助は入学前に申請が必要で、合格通知後は応募不可。F-1の資金証明が別途必要。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

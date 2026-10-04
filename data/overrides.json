@@ -5771,5 +5771,35 @@
   "scholarshipUrl": "https://www.ewu.edu/apply/international-tuition-fees/",
   "intlAidNote": "州外・留学生の年間総額は約$46,087(授業料$24,894、諸費用$1,065、寮・食費$15,574ほか)。Foreign Nations Reciprocityで授業料が最大約$14,000/年割引になる場合あり。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "101879": {
+  "scholarshipUrl": "https://www.una.edu/international/costs-and-scholarships/scholarships.html",
+  "intlAidNote": "留学生の年間費用は約$36,527(授業料・諸費用$26,547、生活費$8,280、書籍等$1,700)。留学生の95%が奨学金を受給。国際学部生奨学金は初年度$10,000(学期$5,000)、Global Learning Communityは学期$1,500。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240453": {
+  "scholarshipUrl": "https://uwm.edu/cie/international-admissions/cost-scholarships/",
+  "intlAidNote": "2026-27の留学生学部の年間費用は約$41,663(授業料$22,247、諸費用$2,158、生活費$15,000、保険$2,258)。入学審査でメリット奨学金を自動審査(年最大$6,000、4年更新可)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "156125": {
+  "scholarshipUrl": "https://www.wichita.edu/admissions/international/undergraduate/globalselect.php",
+  "intlAidNote": "2026-27の留学生学部の費用は9か月で約$36,300(授業料・諸費用$20,100、寮・食費$12,700ほか)。Global Select奨学金(授業料36%割引、年約$5,500)で約$30,800に。フルは無し。入学1年後に年$500〜$2,500の奨学金もあり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "189705": {
+  "scholarshipUrl": "https://www.canisius.edu/admissions/international-admissions/international-tuition-fees-scholarships",
+  "intlAidNote": "授業料は年$34,500、総額は寮の有無で$41,920〜$55,870。入学審査で自動的にメリット奨学金を審査(全額免除は無し)。ニードベース援助は基本的に無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "144892": {
+  "scholarshipUrl": "https://www.eiu.edu/international/cost.php",
+  "intlAidNote": "留学生学部の年間費用は約$30,520(2025-26、授業料は州内の1.25倍、食・寮込み)。GPA3.5以上の新入生にUndergraduate International Excellence Award(州内授業料)が自動付与。入学後にInternational Student Scholarshipへ応募可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221768": {
+  "scholarshipUrl": "https://www.utm.edu/admissions-and-aid/international-admission/",
+  "intlAidNote": "留学生の年間費用は約$33,867(授業料・諸費用$20,487、生活費$8,380、書籍$1,500、雑費$3,500)。Ambassador International奨学金(年$2,500、最長4年で$10,000、GPA2.0以上)が自動審査。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

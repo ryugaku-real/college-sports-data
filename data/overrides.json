@@ -9,7 +9,10 @@
   "conference": "NWAC Western Division"
  },
  "236708": {
-  "conference": "NWAC Eastern Division"
+  "conference": "NWAC Eastern Division",
+  "scholarshipUrl": "https://sfcc.spokane.edu/How-to-Pay-for-College/Financial-Aid-101/Financial-Aid-and-Sources-of-Aid",
+  "intlAidNote": "留学生向けの専用奨学金の情報は見つかりませんでした。大学・財団の一般奨学金(締切は冬〜春)があり、留学生の対象は国際学生サービスに確認してください。短大は大学の約半額の費用とされています。",
+  "intlAidCheckedAt": "2026-10-04"
  },
  "110662": {
   "scholarshipUrl": "https://ieo.ucla.edu/finances/scholarships/",
@@ -3179,6 +3182,31 @@
  "143613": {
   "scholarshipUrl": "https://www.sandburg.edu/admissions-aid/admissions/international-admissions.html",
   "intlAidNote": "留学生の授業料は2025-26で1単位$303(FY2027は$317)、年間総費用の目安は約$21,000(保険$1,600込み)。Sandburg財団奨学金やコーチ・担当者裁量のタレント奨学金(運動・演劇・芸術・音楽)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202648": {
+  "scholarshipUrl": "https://www.edisonohio.edu/admissions/international-students",
+  "intlAidNote": "留学生の授業料は1単位$326.94(12単位で学期$3,923)。年間総費用の目安は約$20,056、資金証明は年$24,436以上(2年で$48,872)。学位課程のフルタイム(12単位以上)が条件です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "208035": {
+  "scholarshipUrl": "https://www.wosc.edu/index.php?page=international-students",
+  "intlAidNote": "留学生は$15,000以上の資金証明と、合格後$2,500のデポジット(申請料込み)が必要です。奨学金申請書に留学生向けオプションがありますが、多くは授業料免除型でOklahoma居住者中心です。PayMyTuitionで母国通貨決済が可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136400": {
+  "scholarshipUrl": "https://admissions.phsc.edu/start/international",
+  "intlAidNote": "留学生は国際出願料$40と、$24,894以上の資金証明が必要です。AA/ASの州外授業料・諸費は年$11,230。経済支援・奨学金の留学生適用は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100760": {
+  "scholarshipUrl": "https://www.cacc.edu/admissions-and-aid/tuition-fees",
+  "intlAidNote": "留学生は州外料金(2025-26で1単位$315)。I-20には資金証明・SEVIS費・成績証明の評価が必要です。留学生向け奨学金情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170657": {
+  "scholarshipUrl": "https://www.lcc.edu/admissions/international/international-student-scholarships.html",
+  "intlAidNote": "新規のF-1/M-1/J-1留学生向けInternational Student Scholarship(限定数、2024-25は2学期で授業料$4,224、最大4学期・2年で$8,448)。2026-27の授業料・諸費は年約$13,335、住居込みの総費用は約$32,157です。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

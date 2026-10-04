@@ -4651,5 +4651,30 @@
   "scholarshipUrl": "https://www.sunyulster.edu/apply-aid/tuition-fees/residency-requirements.php",
   "intlAidNote": "F-1は州外料金で、12単位以上が必要です。経済支援は永住権のない非市民は対象外ですが、在籍学生は奨学金に応募できます(Ulster Foundationは年$18万超・200名超)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "199634": {
+  "scholarshipUrl": "https://www.sandhills.edu/catalog/current/about/admission-registration.html",
+  "intlAidNote": "F-1出願にはStudent Financial Support Affidavitと銀行明細(学期ごと最低$8,000相当、扶養家族1人につき$2,500)が必要です。留学生は州外料金です。奨学金・Sandhills Promise(州内授業料分の最終支援)の適用範囲は限定的で、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199768": {
+  "scholarshipUrl": "https://surry.edu/paying-for-college/financial-aid",
+  "intlAidNote": "F-1はNorth Carolinaの居住者になれず州外授業料(1単位$268、学期上限$4,288)です。留学生向けの州・連邦の経済支援はありません。Foundation奨学金(ニーズ・専攻・成績型)の留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "203748": {
+  "scholarshipUrl": "https://www.lorainccc.edu/international/frequently-asked-questions/",
+  "intlAidNote": "F-1は州外授業料で、学期12単位以上が必要です。留学生は経済支援の対象外ですが、LCCC International and Study Abroad Scholarship($1,000以上・非更新)が、海外提携校から初めて来る留学生や承認済み留学プログラム参加者に出ます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204945": {
+  "scholarshipUrl": "https://www.owens.edu/student-support-campus-life/student-services/international-students/full-time/",
+  "intlAidNote": "F-1は2年分の各$22,500(または1年分$22,500+翌年以降の見込み)の資金証明と、Financial Certification Formが必要です。連邦支援は市民・永住者のみで、分割払い(Deferred Payment Plan)が使えます。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210605": {
+  "scholarshipUrl": "https://www.ccac.edu/cost-and-aid/financial-aid/scholarships.php",
+  "intlAidNote": "留学生の授業料は1〜11単位で1単位$390、12〜18単位で定額$5,850です。留学生もAwardSpringで申請すると、対象の奨学金に自動でマッチングされます(条件は奨学金ごと)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

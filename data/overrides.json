@@ -5828,8 +5828,38 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "178402": {
-  "scholarshipUrl": "https://www.umkc.edu/isao/future-students/affordability-and-funding.html",
+  "scholarshipUrl": "https://www.umkc.edu/admissions/costs-and-aid.html",
   "intlAidNote": "留学生学部の年間費用(I-20記載額)は約$50,632〜$52,857。F-1向けメリット奨学金あり:Chancellor's(州外授業料差額の100%)、Provost's(80%)、Dean's(60%)、Global Scholar(50%)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "159717": {
+  "scholarshipUrl": "https://www.mcneese.edu/student-central/international-scholarships/",
+  "intlAidNote": "留学生の新入生は高校GPA3.0以上と英語スコア(IELTS6.5/TOEFL79/Duolingo110等)で年$1,000〜の奨学金。編入生はGPA2.5〜2.9で年$500、3.0以上で年$1,000。8学期更新可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152600": {
+  "scholarshipUrl": "https://www.valpo.edu/aid/scholarships/international/",
+  "intlAidNote": "授業料・諸費用は1学期$24,225、食費は1学期$2,400〜$2,800。留学生新入生の奨学金額は米国学生と同じ。Dr. Hugh McGuigan奨学金あり。I-20に9か月分の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221838": {
+  "scholarshipUrl": "https://www.tnstate.edu/international/scholarships-grants.aspx",
+  "intlAidNote": "資金証明は授業料・諸費用で最低$28,500。留学生向けメリット奨学金:Renaissance(州外年$8,500、GPA3.75以上等)、Torch Scholars(州外年$4,500、GPA3.0〜3.24)、編入Tiger Transfer(年$3,000、GPA3.0以上)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110671": {
+  "scholarshipUrl": "https://admissions.ucr.edu/affordable-international",
+  "intlAidNote": "2026-27の州外・留学生の総額は約$75,034〜$85,809(寮の有無で変動)。Non-Resident Achievement奨学金が入学審査で自動審査され、新入生は4年で最大$89,100。大学の経済援助部門は留学生への資金なし。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181394": {
+  "scholarshipUrl": "https://www.unomaha.edu/international-at-uno/student-support/scholarships-and-funding.php",
+  "intlAidNote": "International Academic Excellence奨学金(年約$3,000〜、部分授業料)が入学後に新入・編入生を自動審査。国別の外部奨学金(インド、ブラジル等)も紹介。連邦援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "128771": {
+  "scholarshipUrl": "https://www.ccsu.edu/internationalrecruitment/tuition-scholarships",
+  "intlAidNote": "2026-27の留学生の授業料等は1学期$13,495。入学申請でメリット奨学金を自動審査。2年目から応募できる留学生向け財団奨学金あり。大学の非居住者への機関援助実績は$0と報告。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

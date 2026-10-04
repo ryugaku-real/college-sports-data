@@ -7696,5 +7696,35 @@
   "scholarshipUrl": "https://www.umes.edu/admissions/international-students/",
   "intlAidNote": "留学生は州外授業料で年約$19,728。留学生向け奨学金は限定的で、少額の成績奨学金(例: $3,000)が中心。英語力・資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "106412": {
+  "scholarshipUrl": "https://uapb.edu/admissions/undergraduate-admissions/tuition-and-fees/",
+  "intlAidNote": "2026秋の州外学部生授業料は1単位$522、留学生手数料は学期$50。GPA・ACT/SAT基準の成績奨学金あり(例: University Scholarship 4年で$48,000)だが留学生専用ではない。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218733": {
+  "scholarshipUrl": "https://www.scsu.edu/",
+  "intlAidNote": "州外の授業料・諸費用は年約$21,750(2024-25)で留学生に適用。Presidential Merit Scholarshipなど成績奨学金はあるが留学生向けの情報は限定的。要問い合わせ。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "162283": {
+  "scholarshipUrl": "https://www.coppin.edu/tuition-and-aid/tuition-and-fees",
+  "intlAidNote": "留学生の学部授業料は年約$12,200〜$15,000の目安。奨学金・費用の詳細は入学課への確認が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176044": {
+  "scholarshipUrl": "https://www.mvsu.edu/international-students",
+  "intlAidNote": "授業料は州内外とも年約$7,900、寮・食費込みの総額は約$21,154と低額。留学生は資金証明が必要で、大学奨学金が未付与かつ支払い手続き未了の場合はI-20発行前に年間の費用全額納付が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240107": {
+  "scholarshipUrl": "https://www.viterbo.edu/international-admissions/international-costs-and-scholarships",
+  "intlAidNote": "2025-26の授業料・諸費用$35,790、寮・書籍等込みの総額約$51,650。2026-27入学の留学生向け成績奨学金はGPAに応じて年$18,000〜$26,000(4年更新可)。編入は$8,000〜$14,000。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220181": {
+  "scholarshipUrl": "https://www.fisk.edu/admissions/scholarships/",
+  "intlAidNote": "学部授業料は年約$24,210、留学生は入学手数料$500と保険が別途必要。留学生は成績奨学金のみ対象でニーズ型援助なし(Presidential全額、Provost授業料全額、Outstanding Scholars $5,000〜$15,000)。学期ごとの納付か資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

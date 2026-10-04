@@ -1546,5 +1546,40 @@
   "scholarshipUrl": "https://www.dbu.edu/financial-aid/aid-types/scholarships/international/",
   "intlAidNote": "留学生向けに学業奨学金(年$8,000〜$14,000)、International Student Scholarship($500〜$2,500、ニーズ+成績)、Christian Leadership奨学金(最大$3,000)など。締切は主に1〜3月です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "148627": {
+  "scholarshipUrl": "https://www.sxu.edu/admission/international/index.html",
+  "intlAidNote": "公式の留学生ページでは留学生向け奨学金なしと案内されていますが、他情報源ではメリット奨学金年$1,000〜$4,000の記載もあり不一致です。必要な資金証明は$40,260(寮生は$53,760)。大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101189": {
+  "scholarshipUrl": "https://www.faulkner.edu/admissions/international-students/international-students-financial-information/",
+  "intlAidNote": "運動奨学金を受けない留学生は、高校GPA・SAT/ACTに基づくメリット奨学金の審査対象(別途申請不要、額は審査後に決定)。サッカー・野球・バレー・ソフト・ゴルフなどの運動奨学金はコーチに連絡。資金は限りがあるため早めの出願を。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133492": {
+  "scholarshipUrl": "https://www.eckerd.edu/admissions/international/",
+  "intlAidNote": "留学生は自動で年最大$27,000のInternational Student Scholarshipの審査対象。編入は年最大$18,000。留学生向けのニーズベース支援はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227845": {
+  "scholarshipUrl": "https://www.stedwards.edu/admission-financial-aid/undergraduate/international-students/scholarships",
+  "intlAidNote": "新入生はメリット奨学金が年$5,000〜$15,000(自動審査)、運動奨学金もあります。ニーズベースはCSS Profile(コード6619、優先締切2/15)で申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152336": {
+  "scholarshipUrl": "https://www.sf.edu/cost-and-aid/traditional-undergraduate/scholarships/",
+  "intlAidNote": "留学生向けメリット奨学金(Founders 最大$18,000、Presidential $16,000、Assisi $12,000、Dorothy Day $10,000、McGuire $8,000)。3/1までに出願が完了していれば自動審査。連邦・州・ニーズベースは対象外。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148487": {
+  "scholarshipUrl": "https://www.roosevelt.edu/admission/international",
+  "intlAidNote": "出願者は自動でInternational Merit Scholarshipの審査対象(別途申請不要)。連邦・州の援助は受けられず、全費用の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154013": {
+  "scholarshipUrl": "https://educationusa.state.gov/scholarships/mount-mercy-university-offers-academic-international-and-talent-scholarships",
+  "intlAidNote": "留学生向けメリット奨学金(情報源により年最大$14,500、または4年間年$24,000)。成績で自動審査。芸術・音楽・運動のタレント奨学金もあります。最新額は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

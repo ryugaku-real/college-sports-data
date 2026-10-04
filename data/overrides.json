@@ -6876,5 +6876,40 @@
   "scholarshipUrl": "https://www.wittenberg.edu/admission/international/financial",
   "intlAidNote": "留学生向け奨学金は年$25,000から(フルは無し、入学時に自動審査)。I-20には全額の年間費用の資金証明が必要。年$25,000未満の負担能力では審査対象外。ローンは通常利用不可、学内就労は可。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "201548": {
+  "scholarshipUrl": "https://www.capital.edu/admission-aid/international-students/international-student-scholarships/",
+  "intlAidNote": "留学生の全合格者にメリット奨学金(年$29,000から)、寮生には追加援助あり。Main Street Scholarship(最低年$20,000)にも応募可。ニードベース援助・フル奨学金は無し。残額の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "203845": {
+  "scholarshipUrl": "https://www.marietta.edu/cost-attendance",
+  "intlAidNote": "2026-27のCOAは$58,142〜$64,742。留学生はInternational Need-Aware Grant(年最大$6,000)に応募可、メリット奨学金は$14,000〜$26,000(GPA別、4.0でInternational 1835 Founders $26,000)。奨学金後の残額の支払い能力を示す必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204936": {
+  "scholarshipUrl": "https://www.otterbein.edu/apply/international/",
+  "intlAidNote": "留学生の年間費用は約$55,976(授業料$36,598、寮・食費$13,110、その他$6,268)。留学生向けメリット奨学金は年$12,000〜$22,000(出願時に自動審査)。大学の資金は100%カバーではない。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206589": {
+  "scholarshipUrl": "https://wooster.edu/admissions/international/financial-aid-for-international-students/",
+  "intlAidNote": "2026-27の留学生の総額は$86,690(授業料・諸費用$66,290、寮・食費$16,050、保険・書籍等$4,350)。フル奨学金は無し。留学生は年間費用の最低50%の自己負担が目安。Guo Bingwen Wooster-China Friendship Grant($10,000)など。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209056": {
+  "scholarshipUrl": "https://college.lclark.edu/offices/admissions/international-students/financial-aid/fact-sheet/",
+  "intlAidNote": "2026-27の総額は約$97,824(授業料$70,658、直接費$93,854、間接費約$3,880)。留学生の約95%が援助を受ける。メリット+ニードベース。2021-22の平均は約$40,000($15,000〜全額)。Davis UWC奨学金(最大年$40,000)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210401": {
+  "scholarshipUrl": "https://willamette.edu/admissions/international/college",
+  "intlAidNote": "2026-27のCOAは約$74,812(寮生)。合格した留学生に、メリット奨学金+International Student Grantで合計$52,000/年(自動付与)。それ以外は自己負担で、全額支給の枠は無し。2027年入学の出願では$36,000以上の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "210669": {
+  "scholarshipUrl": "https://sites.allegheny.edu/international-student-services/scholarships-for-international-students/",
+  "intlAidNote": "2026-27の総額は$74,664(授業料・諸費用$59,790、寮・食費$14,874)＋留学生の交通費$2,000。国内学生と同じメリット奨学金(最大年$43,000、4年保証、自動審査)。全額授業料は不可、ニードベースは合格後に限定的に相談可。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

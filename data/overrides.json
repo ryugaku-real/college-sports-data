@@ -1408,7 +1408,11 @@
   "intlAidNote": "留学生向けInternational Freshman Merit Scholarshipは年$7,000〜$13,000(寮生。寮外は年$2,500減額)。編入は年最大$10,000、DECA経験者は$1,000〜$5,000。運動奨学金もあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
- "220631": {},
+ "220631": {
+  "scholarshipUrl": "https://www.lmunet.edu/student-financial-services/financial-aid/scholarships-and-grants",
+  "intlAidNote": "留学生の学部授業料は年$25,000〜$29,999の目安。奨学金・補助後の平均負担は約$19,401(平均援助約$27,576)。留学生専用の奨学金は確認できず、財政援助課への確認が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
  "155089": {
   "scholarshipUrl": "https://www.friends.edu/admissions/international-students/",
   "intlAidNote": "全額奨学金はありませんが、基準を満たす留学生は複数の大学奨学金を併用可能(留学生の平均援助パッケージ約$12,906)。初年度の資金証明は$52,846、デポジット$2,000が必要です。",
@@ -8905,6 +8909,31 @@
  "220516": {
   "scholarshipUrl": "https://www.king.edu/admissions/financial-aid/scholarships-and-grants/",
   "intlAidNote": "留学生の学部授業料は年約$35,590。留学生は約5%。検索で同名の別大学(King's College、PA)の情報が混在したため、留学生向け奨学金額は未確認。大学の奨学金・補助は国際課で要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221892": {
+  "scholarshipUrl": "https://www.trevecca.edu/admissions/international-students",
+  "intlAidNote": "総額約$45,080、奨学金・補助後の平均負担は約$16,222。留学生も含め99%の学生が奨学金を受給(全額授業料の枠はない)。出願が奨学金の申請を兼ね、TECの成績評価で成績奨学金を決定。I-20に1年分の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "222831": {
+  "scholarshipUrl": "https://www.angelo.edu/life-on-campus/explore/center-for-international-studies/apply/",
+  "intlAidNote": "留学生の授業料・諸費用は年約$21,910、総額約$34,000〜$36,000。$1,000以上の競争的奨学金を受けるとテキサス居住者料金になる。Carr Academic Scholarshipなど。奨学金の競争にはSAT/ACTが必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226383": {
+  "scholarshipUrl": "https://lcu.edu/financial-assistance/scholarships",
+  "intlAidNote": "授業料は年約$28,540(州内外同額)。留学生向けにLedbetter奨学金やRose奨学金などの専用奨学金あり。連邦Pell前提のLCU Guaranteeは留学生対象外。成績・英語力・リーダーシップ・資金証明が重要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226833": {
+  "scholarshipUrl": "https://catalog.msutexas.edu/content.php?catoid=41&navoid=2254",
+  "intlAidNote": "留学生はテキサス居住者料金への授業料免除を目指すのが一般的(総額は情報源により$36,000程度)。Global Ambassadors奨学金(最大$1,000)、Good Neighbor Scholarship(西半球出身者、授業料12か月免除)、学科奨学金あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226152": {
+  "scholarshipUrl": "https://www.tamiu.edu/finaid/international-students.shtml",
+  "intlAidNote": "留学生の授業料・諸費用は年約$23,810。連邦援助・FAFSAは対象外。Good Neighbor Program(西半球出身者、1年間の授業料のみ免除)あり。Fund$Finderで奨学金検索可。学生の約96%が何らかの援助を受給。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -4401,5 +4401,30 @@
   "scholarshipUrl": "https://www.westvalley.edu/services/international/",
   "intlAidNote": "授業料は1単位$381+登録料で、出願料$100と留学生健康費$1,075.50がかかります。経済支援は対象外ですが、全日制2学期目から限定的な奨学金に応募できます。15単位以上修了・GPA3.5以上の留学生アスリート向けにWanda Wong International Athlete Scholarshipがあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "133960": {
+  "scholarshipUrl": "https://www.cfk.edu/admissions/international-students/",
+  "intlAidNote": "F-1留学生は州外授業料(準学士課程で1単位$438.73)で、学期12単位以上の履修と学位課程在籍が必要です。大学は留学生向け奨学金を提供しておらず、連邦支援も使えません。最近の財務書類(本人・スポンサー・奨学金)による資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146296": {
+  "scholarshipUrl": "https://jjc.edu/getting-started/admissions/international-students",
+  "intlAidNote": "留学生の授業料は1単位$475で、年間(秋・春)約$11,400です。I-20には授業料・諸費・生活費込みで$28,200の資金証明が必要です。留学生もJJCの奨学金に応募でき、民間・非営利団体の奨学金やGilman奨学金などが案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "165033": {
+  "scholarshipUrl": "https://bristolcc.edu/getstartedatbristol/admissions/internationalstudents/internationalapplicationinstructions.html",
+  "intlAidNote": "留学生の授業料は1単位$230(居住者$24)で、大学は財政的スポンサーを提供せず、I-20発行前に資金証明の確認があります。Foundation、Phi Theta Kappa、Follett Bookstoreなどの奨学金がありますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "165112": {
+  "scholarshipUrl": "https://www.bhcc.edu/internationalcenter/",
+  "intlAidNote": "非居住者・留学生は1単位$495(授業料$230+各種費用)です。I-20には、秋・春入学で$31,000、夏入学で$36,000の資金証明が必要です。F-1は一部の奨学金の対象外で、州内料金・州の支援も使えません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "166133": {
+  "scholarshipUrl": "https://www.hcc.edu/tuition-and-aid/tuition-and-fees/residency",
+  "intlAidNote": "留学生は非居住者料金で、12単位で学期$2,760(1単位$230)です。HCC Foundationの奨学金(年$25万超、200名超)に応募できますが、奨学金は州内授業料を基準に算出されます。出願時に財政支援の説明書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

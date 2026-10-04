@@ -3531,5 +3531,35 @@
   "scholarshipUrl": "https://www.hfcc.edu/payment",
   "intlAidNote": "留学生は州外・留学生料金で、2025-26は1単位$301です。HFC Foundationの奨学金がありますが、留学生の対象かは明記がなく要確認です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "102429": {
+  "scholarshipUrl": "https://www.bscc.edu/students/financial-aid/institutional-scholarships",
+  "intlAidNote": "連邦の学生支援は市民・永住者などが対象で、大学の奨学金も米国市民・永住者等の資格が条件とされています。F-1留学生が使える奨学金は確認できませんでした。留学生の受け入れ可否は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "162779": {
+  "scholarshipUrl": "https://www.howardcc.edu/admissions-aid/pay-for-college/financial-aid/scholarship_programs/international.html",
+  "intlAidNote": "F-1留学生の年間費用の目安は$44,000(授業料・諸費$12,500、教材$1,800、住居・食費$24,500、個人費$4,200、保険$1,000)です。連邦支援は対象外で、新規F-1には奨学金が出にくい一方、1学期以上在籍後は学業奨学金の審査対象になれます。英語プログラムには$250/$500の奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172307": {
+  "scholarshipUrl": "https://www.swmich.edu/admissions/admissions-process/",
+  "intlAidNote": "現在、F-1学生ビザが必要な学生の出願を受け付けていないと記載されています。出願前に大学へ最新状況を確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "161688": {
+  "scholarshipUrl": "https://www.allegany.edu/tuition-and-fees/out-of-state-tuition-fees.html",
+  "intlAidNote": "州外授業料のページがあります。財政支援は市民・対象非市民が条件で、奨学金にも米国市民・永住者限定のものが多く、F-1留学生が使える奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "104708": {
+  "scholarshipUrl": "https://www.gccaz.edu/students/global-education/international-students",
+  "intlAidNote": "留学生の年間費用は約$30,219〜$31,383(州外授業料・諸費$9,115〜$10,279、教材・保険$3,904、生活費$17,200)です。奨学金は2学期目から応募でき、新規留学生向けの経済支援は大学にないとされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "203599": {
+  "scholarshipUrl": "https://www.lakelandcc.edu/web/about/international-students-application-information",
+  "intlAidNote": "F-1留学生は州外料金で、1年分$23,600の資金証明が必要です。入学後に奨学金へ応募でき、留学生向けにEYE Lighting International Scholarship(GPA3.0)とMargaret W. Wong International Student Scholarship(ニーズ型)があります。公的資金の奨学金は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

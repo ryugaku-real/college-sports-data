@@ -1035,5 +1035,105 @@
     "scholarshipUrl": "https://umobile.edu/financial-aid/scholarships-grants/",
     "intlAidNote": "合格時に成績による奨学金が自動で審査されます(Dean's Award: GPA2.5〜2.99で年$12,000など)。授業料は年$26,340で、州内外の区別はありません。外国籍の学生向けに、Mrs. Emmett B. Frazer Foreign Studies奨学金があります。",
     "intlAidCheckedAt": "2026-10-04"
+  },
+  "140252": {
+    "scholarshipUrl": "https://www.life.edu/admissions/financial-aid/scholarships/",
+    "intlAidNote": "留学生向けに、授業料の補助(国際学生割引、地域・学期によって変動)があります(非居住ビザ、フルタイム、学費残高ゼロが条件)。大学院生には授業料50%のInternational Scholarshipがあります。運動奨学金はコーチの裁量で、保証されません(NAIA・SSAC)。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "151263": {
+    "scholarshipUrl": "https://uindy.edu/admissions-international-students/scholarships-grants-for-international-students",
+    "intlAidNote": "合格した学部の新入生は、学業奨学金を受けます(年$12,000〜$20,000を4年間。編入は年$9,000〜$17,000を3年間)。留学生の追加料金や高い授業料はありません。2026-27年度の直接費用は約$52,768です。必要性ベースの援助は留学生には出ません。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "157216": {
+    "scholarshipUrl": "https://www.lindsey.edu/about-lwc/Offices-and-Services/International-Student-services.cfm",
+    "intlAidNote": "留学生向けの奨学金があり、I-20の情報から金額が決まります。学部の授業料は2026-27年度で学期あたり$14,328(12〜18単位)です。留学生の必要性ベースの援助の対象かどうかは、窓口に確認してください。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "139630": {
+    "scholarshipUrl": "https://eu.edu/admissions/aid/eu-aid/",
+    "intlAidNote": "2026-27年度の授業料は年$27,840、1年分の資金証明は$41,100(2025-26)から奨学金分を引いた額です。成績による奨学金(最大$6,000)などがあり、留学生は学内就労制度(IWS)の対象になります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "120537": {
+    "scholarshipUrl": "https://www.hiu.edu/undergraduate-on-campus/international-students.php",
+    "intlAidNote": "留学生は成績や運動の奨学金の対象です(全額は賄えない)。学校の方針で、初学期の授業料・寮・食事・諸費用を前払いする必要があり、I-20のための預託金$550が必要です。資金証明は$36,676(援助分を引いた額)です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "153375": {
+    "scholarshipUrl": "https://www.grandview.edu/admissions/first-year/international/scholarships",
+    "intlAidNote": "留学生向けの成績による奨学金があります(Grand View Grant 最大$13,000〜Presidential 最大$21,000)。運動・学科の奨学金も、コーチ・教員の選考で出ます。必要性ベースの援助はありません。2024-25年度の授業料は$34,112です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "198215": {
+    "scholarshipUrl": "https://www.catawba.edu/international/",
+    "intlAidNote": "留学生も、成績・特技の奨学金(Presidential・Trusteeなど、$8,000〜授業料全額)の対象で、運動・音楽・舞台の奨学金もあります。連邦の援助は対象外です。開始の3か月以上前の出願が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "155520": {
+    "scholarshipUrl": "https://www.mnu.edu/admissions/financial-aid/",
+    "intlAidNote": "2025-26年度の授業料は学期$18,810(年$37,620)です。学部の奨学金(学業・運動・信仰など)は、伝統的な学士課程の学生が対象で、98%の学生が援助を受けます。国際・DACA・非市民向けに、緊急の資金から$1,000の助成があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "133553": {
+    "scholarshipUrl": "https://erau.edu/becoming-student/international-students/scholarships",
+    "intlAidNote": "留学生は、出願時に国際奨学金の申請書を出すと、成績と経済的必要性で審査されます。F在留資格の留学生は、授業料・必須諸費用を超える奨学金部分に14%の課税があります。航空系の人気校で、学費は高めです。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "170675": {
+    "scholarshipUrl": "https://ltu.edu/scholarships/intercultural-excellence-scholarship/",
+    "intlAidNote": "学部の留学生向けに、Intercultural Excellence Scholarship(年$5,000、8学期で$20,000、合格時に自動審査)があります。2025-26年度の授業料は$43,440、諸費$2,400、寮・食事$12,484で、留学生は学期ごとに$250の留学生費がかかります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "221731": {
+    "scholarshipUrl": "https://www.tnwesleyan.edu/admissions/international-admissions/",
+    "intlAidNote": "学生の100%が、成績または運動の奨学金を受けます(年間で$1,100万以上)。Neff Award(授業料全額、年2件、GPA3.75以上・ACT30以上)があります。TWU Pledgeはテネシー州の居住者のみです。留学生の担当カウンセラーが出願を支援します。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "148131": {
+    "scholarshipUrl": "https://www.quincy.edu/costs-aid/tuition-costs-fees/",
+    "intlAidNote": "2026-27年度の授業料(本代込み)は年$39,900で、非返金の留学生費$1,200がかかります。編入奨学金が年$10,000〜$18,000です。Illinois Promiseなどは州の居住者向けで、留学生は対象外です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "138293": {
+    "scholarshipUrl": "https://www.webber.edu/financial-aid/",
+    "intlAidNote": "留学生は全額を学期の開始前に払う必要があり、分割払いはありません。留学生向けに、友人紹介の奨学金($500)があり、非運動選手向けのCampus Service奨学金(年$6,000)などがあります。ほとんどの学生が奨学金を受けています。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "146612": {
+    "scholarshipUrl": "https://www.lewisu.edu/admissions/international/tuition.htm",
+    "intlAidNote": "学部の奨学金は、前の学校のGPAで自動で決まり、年最大$18,000です(留学生を含む)。米国の連邦・州の援助は市民・永住者のみで、留学生向けの他の奨学金は少ないと案内されています。Mpower Financingの学生ローンが利用できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "219806": {
+    "scholarshipUrl": "https://www.cn.edu/admissions-and-aid/international-students/international-scholarships-financial-aid/",
+    "intlAidNote": "留学生は、新入生向けの成績奨学金(Presidential Excellence 年$16,000、Presidential 年$14,000、Dean's 年$12,000)の対象です。**韓国の学生向けBilly Kim奨学金**もあります。2026-27年度の総額は約$55,300で、留学生費$125と保険(学期$938)がかかります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "172264": {
+    "scholarshipUrl": "https://www.sienaheights.edu/",
+    "intlAidNote": "留学生向けに、新入生(高校最終学年、GPA3.0以上)と編入生(GPA2.75以上)の奨学金があり、4年間更新できます。授業料は年$29,500+諸費$1,278で、寮・食事を含む直接費用は約$44,308です。留学生には年$2,000の預託金と、セッションごとの支援費$100がかかります。ESLの学生は奨学金の対象外です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "237312": {
+    "scholarshipUrl": "https://www.ucwv.edu/admissions/financial-aid/types-of-aid/scholarships/",
+    "intlAidNote": "学部の成績による奨学金が年$5,000〜$15,000で、寮生は寮・食事の奨学金も上乗せできます。最上位のPresidential奨学金は、授業料・寮・食事を4年間賄います(年最大$45,980)。留学生向けの基金($50,000)が新設されました。2026-27年度の授業料は$33,990です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "154712": {
+    "scholarshipUrl": "https://www.benedictine.edu/admission/international",
+    "intlAidNote": "留学生向けの奨学金は、成績・テストの点数・英語力で決まります(合格が条件、GPA2.5以上を維持)。新入の留学生は分割払いが使えず、3学期目から月払いが使えます。Flywireで自国通貨での支払いができます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "212601": {
+    "scholarshipUrl": "https://www.gannon.edu/tuition-and-financial-aid/types-of-financial-aid/aid-for-international-students/",
+    "intlAidNote": "多くの学部留学生が、国際奨学金(成績で決まる授業料の減額)を受けられます。2026-27年度の授業料は$42,020〜$44,570、寮・食事$17,100です。外部の資金(Fulbrightなど)の案内があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "137476": {
+    "scholarshipUrl": "https://www.stu.edu/admissions/international-admissions/",
+    "intlAidNote": "合格した留学生は、GPAに応じた学業奨学金(GPA3.6超: 最大$13,000、3.0〜3.59: $11,000、3.0未満: $9,000)が自動で審査されます。全額免除はありません。留学生は、授業料・諸費の50%を登録時に、残りを8日目までに払います。",
+    "intlAidCheckedAt": "2026-10-04"
   }
 }

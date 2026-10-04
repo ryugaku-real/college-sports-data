@@ -5236,5 +5236,40 @@
   "scholarshipUrl": "https://www.bsu.edu/admissions/financial-aid-and-scholarships/types/scholarships",
   "intlAidNote": "留学生向けのメリット奨学金は、International Undergraduate(年$12,000・4年$48,000)、Global Distinction(年$14,000・4年$56,000)、Global Presidential(年$16,000・4年$64,000)で、州外授業料の機関費用に充当されます。2026-27の授業料・諸費は(15単位)$11,242、標準の総費用は$27,658です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "160658": {
+  "scholarshipUrl": "https://louisiana.edu/scholarship/international",
+  "intlAidNote": "新入生向けにFleur-de-Lis Scholarship(州外料金を学期$6,864全額免除・最大8学期、GPA2.5以上かつACT20/SAT1030以上)などの非居住者料金免除があります。F-1/J-1は補助健康保険が必須で、2026秋は$1,144です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "234030": {
+  "scholarshipUrl": "https://admissions.vcu.edu/cost-aid/scholarships-funding/out-of-state-scholarships/",
+  "intlAidNote": "州外生(留学生を含む)の高GPA者向けに、4年間の奨学金(初年度$10,000〜$15,000、最長3年更新)があります。留学生の新入生は11/1までの出願でファーストイヤー奨学金の審査対象で、非居住外国人の学部生にニーズ型・非ニーズ型の大学支援があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137546": {
+  "scholarshipUrl": "https://www.stetson.edu/other/world/international-students/financial-planning.php",
+  "intlAidNote": "留学生もStetsonの奨学金(成績・ニーズ・寄付者型)に応募でき、外部奨学金も受け入れます。費用は授業料・諸費・寮・食事(奨学金適用後)に教材・個人費として約$4,200が加わります。MPOWERのローン・奨学金も案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "215743": {
+  "scholarshipUrl": "https://www.francis.edu/admissions/scholarships-and-aid",
+  "intlAidNote": "総費用の目安は寮生$66,000、通学生$53,502です。留学生向け奨学金は年$15,000〜$25,000(GPA3.0で更新)で、学生の99%が大学の何らかの支援を受けています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "161253": {
+  "scholarshipUrl": "https://umaine.edu/admissions/cost-aid/merit-scholarships/international-scholarships-26-27/",
+  "intlAidNote": "2026-27の留学生の総費用の目安は約$59,787(授業料$38,340、諸費$1,070、住居$7,332、食費$7,464、保険$3,581ほか)です。新入生・編入生の出願者全員が年$5,000〜$15,000の留学生奨学金の対象で、Global Flagship Match Commitment(年約$25,110)などもあります。金額は入学時に決定し4年間固定です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172699": {
+  "scholarshipUrl": "https://wmich.edu/internationaladmissions/financialaid/undergraduate",
+  "intlAidNote": "留学生の年間費用の目安は約$37,250(下級)〜$39,290(上級)で、ビジネス・工学は約$38,860〜$40,900です。ニーズ型の支援は少なく、Global Education Undergraduate Merit Scholarship(年最大$10,000・授業料に充当)があります。I-20には全費用の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100663": {
+  "scholarshipUrl": "https://www.uab.edu/admissions/cost/scholarships/international-students",
+  "intlAidNote": "2026-27の留学生の総費用の目安は約$57,211(授業料・諸費$32,490、住居$8,480、食事$5,730、保険$3,146ほか)です。海外在住の新入生向けにUAB International Scholarship(年$7,500・4年更新、先着順)があり、在学中の留学生向けの奨学金や、授業料の50%以上を4年間カバーするShegun & Mary Otluana奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

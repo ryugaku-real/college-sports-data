@@ -14,3 +14,9 @@ College Sports Finder アプリ用の公開データ(米国の4年制大学・�
 - `data/cccaa-conferences.csv`
 - `data/nwac-conferences.csv`
 学校名はScorecardの名前に近ければ自動で照合されます(同じ州内で一意に決まるときのみ)。
+
+## 出典メモ(カンファレンス・地区)
+- NCAA: NCAA公式ディレクトリ(自動取得)
+- NAIA: NAIA公式「Schools by Conference」PDF(自動取得、年度で更新)
+- NWAC(北西部): Wikipedia「Northwest Athletic Conference」の加盟校表(Northern/Eastern/Western/Southern の地区)。手動取り込みなので、年に一度見直してください
+- NJCAA / CCCAA: 未取得(上の手順でCSVを追加すると反映されます)

@@ -1901,5 +1901,40 @@
   "scholarshipUrl": "https://www.glenville.edu/financial-aid/scholarships",
   "intlAidNote": "新入生は自動で奨学金の審査対象。留学生向けの奨学金は年$1,000〜$3,000程度(成績に基づく)。11/15までの出願で優先審査されます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "207722": {
+  "scholarshipUrl": "https://usao.edu/financial-aid/financial-aid-options/international-scholarships.html",
+  "intlAidNote": "International Student Tuition Waiverが年約$8,060(正規入学、フルタイム、GPA2.0維持)。運動部所属者は運動奨学金で別途支給され、非居住者授業料免除との併用は不可です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237950": {
+  "scholarshipUrl": "https://financialaid.wvutech.edu/get-aid/types-of-aid",
+  "intlAidNote": "新入の留学生向けInternational Freshman Scholarship(Level1 年$6,500、2 $5,000、3 $3,500、4年更新)、STEM専攻は年$8,500、編入は年$4,000。出願で自動審査されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228802": {
+  "scholarshipUrl": "https://www.uttyler.edu/admissions-aid/international/freshman-scholarships/index.php",
+  "intlAidNote": "新入留学生向けの入学奨学金(Patriot Scholarship年$1,000〜$5,000、GPA3.5以上、締切は優先12/1・最終3/1)など。メリット奨学金は成績・順位に基づき、更新はGPA3.0と12単位が条件です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173328": {
+  "scholarshipUrl": "https://www.csp.edu/admissions/international-admissions-undergraduate/",
+  "intlAidNote": "留学生には入学審査中に自動で奨学金が付与されます(学部のInternational Student Scholarshipは平均年$8,000。学業奨学金$1,000〜$11,000、音楽・演劇$500〜$1,000)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127565": {
+  "scholarshipUrl": "https://www.msudenver.edu/admissions/f-1-international-student-financial-resources/msu-denver-scholarships/",
+  "intlAidNote": "F-1留学生向けInternational Students Annual Scholarshipなどがありますが、大学の奨学金は非常に限られ、授業費の大半はカバーされません。申請にはエッセイが必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154493": {
+  "scholarshipUrl": "https://uiu.edu/admissions/international-admissions/international-scholarships/",
+  "intlAidNote": "出願時に自動で成績別の奨学金審査(Trustee GPA3.5以上で年$4,000、Presidential $2,500、Dean's $1,000、Achievement $500)。編入は年$1,500、Fayetteキャンパスは$5,500の枠もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173124": {
+  "scholarshipUrl": "https://www.bemidjistate.edu/admissions/international/cost-scholarships/",
+  "intlAidNote": "留学生もミネソタ州民と同じ授業料。留学生向けに計$3,000超の奨学金(International Student Annual Scholarshipは学内就労・GPA3.0などが条件)があります。Foundation申請書で一括応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

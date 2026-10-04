@@ -3238,5 +3238,35 @@
   "scholarshipUrl": "https://www.jwcc.edu/admissions/international-students/",
   "intlAidNote": "学区外授業料は1単位$320、年間総費用の目安は約$21,000です。奨学金は学区内料金への適用のみで、留学生の恩恵は限定的です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "176008": {
+  "scholarshipUrl": "https://www.msdelta.edu/college-catalog/docs/full-catalog_2025-26_sept16.pdf",
+  "intlAidNote": "カタログ上、I-20を発行できる認定校ではなく、F-1留学生の募集・受け入れをしていないと記載されています。奨学金の多くはMississippi居住者向けです。出願前に大学へ確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206923": {
+  "scholarshipUrl": "https://carlalbert.edu/admissions/financial-aid/scholarships/",
+  "intlAidNote": "米国外在住者は留学生料金が適用されます。年150以上の奨学金(学業・リーダーシップ・ニーズ型)がありますが、留学生の対象かは明記がありません。英語力証明が必要で、入学窓口(Admissions)が留学生対応です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "208275": {
+  "scholarshipUrl": "https://bluecc.edu/cost-aid/tuition-fees/",
+  "intlAidNote": "F-1/M-1留学生は州内料金の対象外で、留学生料金を払います。BMCC Foundationが年約$277,000の奨学金を出しており(学業・ニーズ型)、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146472": {
+  "scholarshipUrl": "https://www.clcillinois.edu/audiences/international-students",
+  "intlAidNote": "州外・海外在住者の授業料は1単位$505.10(2026-27)。F-1留学生向けのSusan Smith International Student Scholarship(2学期・30単位以上修了、GPA2.5以上)や、Gene Haas等の留学生も応募可能な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "234979": {
+  "scholarshipUrl": "https://www.columbiabasin.edu/i-am/future-hawk/apply/international-student.html",
+  "intlAidNote": "留学生料金を毎学期支払い、全在学期間の資金証明が必要です。連邦・州の学生支援は対象外ですが、一部の奨学金と民間ローンは利用できる可能性があります。各クォーター12単位・GPA2.0が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179308": {
+  "scholarshipUrl": "https://stlcc.edu/apply/international/",
+  "intlAidNote": "留学生の授業料は2026-27で1単位$248です。4か月以内の公証済み資金証明書が必要で、連邦・州の支援は原則対象外です。奨学金の応募は5月〜翌3月ですが、留学生の対象は要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -3986,5 +3986,35 @@
   "scholarshipUrl": "https://www.cerrocoso.edu/enrollment-aid/determining-your-residency-status.html",
   "intlAidNote": "F-1は非居住者授業料(1単位$190、15単位で学期上限$2,850)に加え設備費・登録料がかかります。12単位が全日制の基準です。大学は300以上の奨学金を運営していますが、留学生の対象は個別に確認が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "111920": {
+  "scholarshipUrl": "https://www.chabotcollege.edu/international/costs.php",
+  "intlAidNote": "留学生の授業料は1単位$379+登録料などです。州・連邦の支援は対象外ですが、1〜2学期修了後に学内の小規模な奨学金へ応募でき、学生自治会が毎年$1,000の留学生奨学金を3件出しています。学期12単位以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111939": {
+  "scholarshipUrl": "https://www.chaffey.edu/admissions/docs/intl_new_student_welcome_pack_2024.pdf",
+  "intlAidNote": "F-1は春・秋学期に12単位以上(最大18単位)の履修が必要です。Chaffey College Foundationが学費・教材費の奨学金を運営していますが、留学生の対象かは条件ごとに確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112172": {
+  "scholarshipUrl": "https://isc.citruscollege.edu/index.cfm?FuseAction=Programs.BudgetSheet&Program_ID=10031&Term=Fall&amp=&amp=",
+  "intlAidNote": "留学生の授業料は2026-27で1単位$478、24単位(年間)で約$11,427です。International Student CenterのISC Student Scholarship($500)が、出願が受理された新規留学生に出ます。連邦支援は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112190": {
+  "scholarshipUrl": "https://www.ccsf.edu/apply-ccsf/steps-apply-international-student-f-1-visa-status",
+  "intlAidNote": "12単位/学期の目安費用は、留学生授業料約$4,908+登録料$552+保険$1,500で、合計約$6,987です。資金証明は年$32,000以上(授業料・諸費$11,000+保険$3,000ほか)が必要です。Free City制度と連邦支援は対象外で、CCSFの奨学金に小規模な枠があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112561": {
+  "scholarshipUrl": "https://gocolumbia.edu/international/fees.html",
+  "intlAidNote": "年間(8か月)の総費用の目安は約$26,555(授業料・諸費$8,475)です。非移民ビザ保持者はCalifornia Dream Actの申請対象外です。Phi Theta KappaのGlobal Leaders of Promise奨学金など、留学生向けの限定的な奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "112686": {
+  "scholarshipUrl": "https://www.compton.edu/admissions-aid/fees.aspx",
+  "intlAidNote": "F-1は非居住者授業料1単位$335+設備費$40で、AB540免除の対象外です。F-1向けの学生保険は学期$685.50(変動あり)です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

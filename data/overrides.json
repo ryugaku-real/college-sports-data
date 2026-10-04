@@ -4721,5 +4721,25 @@
   "scholarshipUrl": "https://www.dallascollege.edu/resources/multicultural/international-students/",
   "intlAidNote": "F-1は連邦・州の経済支援の対象外です。留学生向け奨学金はmyScholarshipsで条件別に探せ、西半球(キューバ・米国除く)出身の学生向けにニーズ・成績に応じた授業料支援のGood Neighbor Programがあります。International Admissions and Compliance OfficeがF-1の支援を担当します。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "233019": {
+  "scholarshipUrl": "https://www.patrickhenry.edu/how-to-get-started/international-students/",
+  "intlAidNote": "F-1は州外授業料で、2023-24は1単位$330.60に州外生の追加$23.50がかかります。授業料は登録時に全額を支払い、就労せず通学できる資金証明が必要です。大学として留学生向け奨学金はなく、学内就労も限定的です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240170": {
+  "scholarshipUrl": "https://www.westerntc.edu/admissions/how-to-apply/international-students",
+  "intlAidNote": "出願にはI-134宣誓書(米国居住者がスポンサーの場合)、パスポート、SEVIS費$350の支払い証明などが必要です。Western Foundationが年1,000件超の奨学金($10〜$3,000)を出しますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "366395": {
+  "scholarshipUrl": "https://www.sunysuffolk.edu/apply-enroll/international-student/international-f1-student/",
+  "intlAidNote": "準学士の年間費用の目安は約$21,628(授業料・諸費$12,140、生活費$7,988、教材$1,500)です。大学として留学生に経済支援を提供できず、連邦・州の支援も対象外です。資金スポンサーの宣誓フォームと原本の銀行明細が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "366401": {
+  "scholarshipUrl": "https://www.laspositascollege.edu/international/faqs.php",
+  "intlAidNote": "授業料は1単位$370+登録料$46で、12単位以上が必要です。経済支援は対象外ですが、1〜2学期修了後は条件を満たす学内奨学金に応募でき(ニーズ型は通常対象外)、IEFAなどの検索サイトが案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

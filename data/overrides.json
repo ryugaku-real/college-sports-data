@@ -4571,5 +4571,30 @@
   "scholarshipUrl": "https://www.corning-cc.edu/admissions-future-students/international-students/admission-requirements-international.php",
   "intlAidNote": "予算書記載の授業料・諸費をカバーする資金証明が必要です。70以上の奨学金があり、留学生向けにWerner International Scholarship(成績優秀な全日制の留学生)とRita Reimanis Scholarship to Promote International Understandingがあります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "190521": {
+  "scholarshipUrl": "https://www.bmcc.cuny.edu/admissions/international/",
+  "intlAidNote": "年間費用の目安は約$44,504(授業料・諸費$8,050、生活費$36,454)で、就労せずに学費を賄える資金証明が必要です。F-1は連邦支援の対象外ですが、最初の学期以降にBMCCの奨学金へ応募でき、留学プログラム向けのCIEE奨学金なども案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190530": {
+  "scholarshipUrl": "https://www.bcc.cuny.edu/about-bcc/bcc-foundation/foundation-scholarship-opportunities/",
+  "intlAidNote": "非ニューヨーク州居住者・留学生の授業料は、CUNY共通で1単位$320(フルタイムは学期料金)です。Foundation奨学金に留学生も応募でき、Carolyn Williams Memorial(ニーズ型$500)、Entrepreneurship Education、Díana Bonta Nursingなどが応募可能です。完全オンラインのプログラムではF-1の対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190585": {
+  "scholarshipUrl": "https://www.hostos.cuny.edu/Administrative-Offices/Office-of-Admissions-and-Recruitment/International-Students",
+  "intlAidNote": "留学生の授業料は1単位$320です。I-20には、スポンサーの銀行レターで$15,213.40〜$32,401.40相当の資金証明が必要で、民間・政府奨学金の授与通知も資金に使えます。授業料を期限内に払わないと在留資格を失う恐れがあり、12単位(全日制)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190619": {
+  "scholarshipUrl": "https://www.kbcc.cuny.edu/financialaid/fin_aid_faqs.html",
+  "intlAidNote": "F-1留学生は連邦・NY州の支援(Pell・SEOG・ワークスタディ・ローン)の対象外で、授業料は1単位$320+諸費です。12単位以上が必要です。留学生は民間の奨学金を検索サイトで探して応募する形です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190673": {
+  "scholarshipUrl": "https://www.qcc.cuny.edu/admissions/intl.html",
+  "intlAidNote": "授業料は年$9,600(15単位×2学期、1単位$320)です。F-1は経済支援の対象外ですが、Nathan & Rose Chao Foreign Student Scholarship Awardなど留学生向けの奨学金があり、有効な学生ビザを持つ留学生が応募できるContinuing Student Academic Merit Scholarshipもあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

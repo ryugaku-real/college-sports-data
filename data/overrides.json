@@ -3761,5 +3761,30 @@
   "scholarshipUrl": "https://cvcc.edu/student-services/international-students/",
   "intlAidNote": "留学生は州外授業料で、在学中の健康保険が必要です。CVCCは留学生に経済支援・奨学金を提供していないとされています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "106795": {
+  "scholarshipUrl": "https://www.cccua.edu/apply-enroll/",
+  "intlAidNote": "留学生は通常の授業料に加え、留学生料金(秋・春各$700、夏$100)がかかります。奨学金(ニーズ・成績・運動)はありますが、連邦支援は市民・対象非市民が条件で、留学生の対象かは要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107318": {
+  "scholarshipUrl": "https://www.asumidsouth.edu/pay-for-college/tuition-fees/",
+  "intlAidNote": "留学生は$23,000以上の資金証明(信頼できる金融機関発行)が必要です。承認済みI-20があれば奨学金の対象になり得ますが、大学の経済支援は永住者資格が条件とされ、留学生には制限があります。授業料は料金ページで確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198084": {
+  "scholarshipUrl": "https://brunswickcc.edu/frequently-asked-questions-faq/",
+  "intlAidNote": "資料上、留学生(F-1)の受け入れをしていないとされています。奨学金・補助も市民・永住者向けです。出願前に大学へ確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "162168": {
+  "scholarshipUrl": "https://info.chesapeake.edu/admissions/international-students",
+  "intlAidNote": "F-1留学生は州外授業料+諸費+学期ごとの留学生料金がかかります。TOEFL合格点が必要で、地元のスポンサー(親族等)の住居確保が条件です。出願締切は秋が6/1、春が11/1です。連邦・州の支援は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "211079": {
+  "scholarshipUrl": "https://ccbc.edu/international-students/",
+  "intlAidNote": "2年間で必要な資金の目安は最大$70,000(航空券・保険・個人費は別)で、扶養家族1人につき$2,000が加算されます。F-1は秋・春に12単位以上(オンラインは1科目まで)が必要です。連邦・州の支援は対象外で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

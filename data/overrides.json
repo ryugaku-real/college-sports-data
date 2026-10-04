@@ -1,1139 +1,1239 @@
 {
-  "_README": "学校ごとの手動修正。キーはunitid(アプリの学校IDと同じ)。使える項目: conference, athleticsUrl, scholarshipUrl, intlAidNote(留学生向けメモ), intlAidCheckedAt(確認日)。毎回のデータ更新後も反映されます。",
-  "243744": {
-    "scholarshipUrl": "https://financialaid.stanford.edu/undergrad/how/international.html",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生向けの必要性ベースの援助は限定的(留学生のおよそ3人に1人が受給)。援助を希望する場合は出願時に申告が必要で、申告すると選考がより厳しくなります。奨学金を受けるには社会保障番号(SSN)か納税者番号(ITIN)が必要です。"
-  },
-  "235237": {
-    "conference": "NWAC Western Division"
-  },
-  "236708": {
-    "conference": "NWAC Eastern Division"
-  },
-  "110662": {
-    "scholarshipUrl": "https://ieo.ucla.edu/finances/scholarships/",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "大学の学部生向け経済援助は米国市民・永住者が対象で、留学生は原則対象外。留学生は十分な資金の証明が必要(2026年秋入学で目安約$80,739)。外部の奨学金情報は留学生オフィス(Dashew Center)のページにあります。運動奨学金は別枠なので、コーチに直接確認してください。"
-  },
-  "141644": {
-    "scholarshipUrl": "https://www.hpu.edu/undergraduate-admissions/international/scholarships.html",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生は出願時に成績による奨学金(授業料の最大50%)の対象として自動的に審査されます(別途申請不要)。新規F-1の留学生向けに授業料50%の奨学金(#YouAreWelcomeHere、締切3月1日)があります。運動奨学金は少額で、競技のヘッドコーチの裁量です。問い合わせ: international@hpu.edu"
-  },
-  "155195": {
-    "scholarshipUrl": "https://www.hutchcc.edu/international-student",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "学校のサイトでは「留学生向けの経済援助はない」と案内されています。入学前に、初年度(9か月)の費用を賄える資金($13,000)の証明が必要です。運動奨学金の扱いは、コーチに直接確認してください。"
-  },
-  "123961": {
-    "scholarshipUrl": "https://ois.usc.edu/living-in-la/money/financialaid/",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生は連邦の援助や大学の必要性ベースの援助の対象外ですが、成績による奨学金や学部・学科の奨学金は対象になる場合があります。私的ローンには米国市民などの共同署名者が必要です。"
-  },
-  "122977": {
-    "scholarshipUrl": "https://www.smc.edu/admission-aid/apply/international-students/tuition-fees.php",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生の授業料は1単位$486(2026年秋〜2027年夏)で、年間24単位なら$11,664。生活費を含めた年間の目安は約$34,000です。SMC財団の奨学金(経済的必要性を問わないもの)の審査を受けられる場合があります。CCCAAのため運動奨学金は原則ありません。"
-  },
-  "141574": {
-    "scholarshipUrl": "https://www.hawaii.edu/issmanoa/?page_id=2533",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生(F-1)向けに、成績による奨学金が出願と同時に自動で審査されます(International Merit Award、国際学部生奨学金IUSSは年$10,000で最大4年、別途申請不要・GPA3.0以上が目安)。ほかにも留学生オフィスが運営する奨学金があります。運動奨学金は競技のコーチに確認してください。"
-  },
-  "153630": {
-    "scholarshipUrl": "https://www.iwcc.edu/financial-aid/scholarships/",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生の授業料は1単位$230+留学生料$100(15単位で1学期$3,705)。留学生は連邦の学生援助の対象外です。財団の奨学金(成績・活動・経済的必要性)の対象になるかは、学校に直接確認してください。"
-  },
-  "229355": {
-    "scholarshipUrl": "https://tjc.edu/scholarships/",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "学校のサイトでは「留学生向けの経済援助(一般の奨学金・ローン)はない」と案内されていますが、運動奨学金は留学生にも出される場合があります(競技ごとにNJCAA・地区の規則に従う)。授業料は州外生で年間約$6,300(2024-25、留学生料金は要確認)。"
-  },
-  "120342": {
-    "scholarshipUrl": "https://orangecoastcollege.edu/services-support/gec/international/international-admissions/attendance-cost.html",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生の授業料は1単位$502(2026年夏〜)で、F-1は各学期12単位以上が必要です。新規入学の留学生向けの奨学金・援助はなく、継続学生(または編入予定者)になってから奨学金に応募できます。1年分の学費・生活費の資金証明と、指定の医療保険への加入が必須です。CCCAAのため運動奨学金は原則ありません。"
-  },
-  "104151": {
-    "scholarshipUrl": "https://admission.asu.edu/cost-aid/international",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生は連邦・州の援助の対象外ですが、成績による奨学金(NAMU奨学金など、F-1の新入生・編入生)や、学部・学科の奨学金は対象になる場合があります。私的ローンには米国市民・永住者の共同署名者が必要です(上限の目安は約$40,000)。"
-  },
-  "227304": {
-    "scholarshipUrl": "https://www.odessa.edu/enrollment-aid/admissions/international-students.html",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生は連邦・州の援助の対象外です。F-1の学生は最初の学期は財団の奨学金の対象外ですが、2学期目の審査に向けて応募できます。州外生の授業料は1単位$747(2026-27)。入学には年間$17,000の資金証明が必要です(家族1人につき+$5,000)。"
-  },
-  "154697": {
-    "scholarshipUrl": "https://www.bartonccc.edu/admission/international",
-    "intlAidCheckedAt": "2026-10-04",
-    "intlAidNote": "留学生の授業料は1単位$230(授業料$180+諸費用$50、2026-27)。初回に$150の入学手数料がかかります。大学の奨学金は主にカンザス州の高校卒業生向けで、留学生向けの奨学金は公式ページでは確認できませんでした。運動奨学金はコーチに確認してください。"
-  },
-  "164924": {
-    "scholarshipUrl": "https://www.bc.edu/bc-web/admission/affordability.html",
-    "intlAidNote": "留学生は必要性ベースの援助の対象外(全費用を自己負担する前提)。成績による奨学金はGabelli Presidential Scholars(授業料全額、11月1日までに出願した人が審査対象、経済的必要性は問わない)の1つだけです。I-20発行には費用の資金証明(Certification of Finances)が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "217882": {
-    "scholarshipUrl": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html",
-    "intlAidNote": "学校の案内では、学部の留学生向けの奨学金はありません。入学時に在学期間全体の資金があることの証明が必要で、支払いの猶予もありません。私的ローンには米国市民の共同署名者が必要です。姉妹州協定による授業料の減額の制度もあります(対象は限定)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "198419": {
-    "scholarshipUrl": "https://financialaid.duke.edu/international-students/",
-    "intlAidNote": "留学生は出願時に援助を希望すると申告した場合のみ、必要性ベースの援助の対象になります(申告しないと在学中も申請不可)。国際CSS Profileと、保護者の外国所得申告書が必要です。受け入れは限定的で、必要額の100%を満たしますが、編入の留学生は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "134097": {
-    "scholarshipUrl": "https://cge.fsu.edu/international-students/funding/oos-tuition-waiver",
-    "intlAidNote": "新入生は州外授業料の免除(奨学金)が自動で審査されます。在学中は、GPA3.5以上などの条件で州外授業料の免除に応募できます(1単位あたり約$530相当、GPAで1〜12単位分)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "139755": {
-    "scholarshipUrl": "https://isss.oie.gatech.edu/isss/financial-assistance-international-students",
-    "intlAidNote": "連邦・州の援助の対象外で、大学の奨学金も留学生にはほとんど出ません。留学生オフィスが運営する私的な奨学金、緊急時の資金(2学期以上の在籍後)、予想外の経済的困難に対する授業料免除(限定)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "199193": {
-    "scholarshipUrl": "https://admissions.ncsu.edu/apply/international/",
-    "intlAidNote": "留学生は経済援助の対象外ですが、競争の厳しい成績による奨学金が少数あります(合格後にPACK ASSISTから申請)。2027-28年度のビザ用の資金証明は$58,423です。学部・学科の少額の奨学金がある場合もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "228246": {
-    "scholarshipUrl": "https://www.smu.edu/admission/apply/international",
-    "intlAidNote": "出願者は国籍を問わず、成績による奨学金が自動で審査されます(別途申請不要、1月15日までに出願が完了していること)。必要性ベースの援助は米国市民・永住者のみです。留学生の1年の費用の目安は約$82,626です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "196413": {
-    "scholarshipUrl": "https://www.syracuse.edu/admissions-aid/tuition-fees/international-costs/",
-    "intlAidNote": "成績による奨学金が出願の審査で決まります(合格時に通知)。留学生は一般に、寮・食事の援助、ローン、学内就労の対象外です。2026-27年度の寮生活での年間費用の目安は約$98,248です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "110635": {
-    "scholarshipUrl": "https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellor-scholarship/international-student-scholarships/",
-    "intlAidNote": "連邦・州・大学の必要性ベースの援助は留学生は対象外ですが、留学生向けの奨学金(Regents' & Chancellor's、International Leaders など)があり、合格者は別途申請なしで審査されます。外部奨学金のデータベースもあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "157289": {
-    "scholarshipUrl": "https://louisville.edu/cost-aid/undergraduate-scholarships-aid/international-scholarships-aid",
-    "intlAidNote": "F-1の留学生向けに、Global Cardinal奨学金(新入生、高校のGPAに応じて年$5,000〜$8,000、合格時に自動適用)と、Global Transfer奨学金(編入、大学GPA3.0以上で年$5,000、最大6学期)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "135726": {
-    "scholarshipUrl": "https://isss.miami.edu/students/newly-admitted-undergraduate-students/financial-matters/index.html",
-    "intlAidNote": "出願者は国籍を問わず、成績による奨学金が自動で審査されます。留学生は大学の必要性ベースの援助も申請できます(CSS Profileの提出が必要)。連邦・州の援助は対象外です。私的ローンには米国市民などの共同署名者が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "199120": {
-    "scholarshipUrl": "https://studentaid.unc.edu/special-circumstances/international-students/",
-    "intlAidNote": "学校の案内では、留学生は成績による奨学金(Academic Scholarships)の対象外で、必要性ベースの援助も米国市民・永住者のみです。留学生に出される奨学金はごく少数で、全額自己負担になる前提で準備するよう案内されています。在学期間全体の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "152080": {
-    "scholarshipUrl": "https://financialaid.nd.edu/apply-or-renew/international-students/",
-    "intlAidNote": "留学生にも、合否に経済状況を考慮しない(need-blind)選考と、必要額を100%満たす必要性ベースの援助(2026-27年度からローンなし)があります。CSS Profile(学校コード1841)の提出が必要です。成績による奨学金も少数あります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "215293": {
-    "scholarshipUrl": "https://financialaid.pitt.edu/types-of-aid/scholarships/international-student-scholarships/",
-    "intlAidNote": "2月1日までに出願した留学生の新入生は、成績による奨学金(年最大$10,000、最大8学期、別途申請不要)が自動で審査されます。合格・奨学金の通知は4月1日までです。必要性ベースの経済援助は留学生には出ません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "234076": {
-    "scholarshipUrl": "https://sfs.virginia.edu/financial-aid-new-applicants/financial-aid-basics/eligibility-requirements",
-    "intlAidNote": "学校の案内では、留学生には大学からの奨学金やローンはありません(United World College出身者の必要性ベースの援助が唯一の例外)。資金を用意できない場合は出願しないことが勧められています。私的ローンの利用は可能です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "233921": {
-    "scholarshipUrl": "https://finaid.vt.edu/undergraduate/international-students.html",
-    "intlAidNote": "留学生は学部・学科の奨学金に応募できます(出願後にScholarship Centralから)。連邦・州の援助(FAFSAなど)は対象外で、私的ローンを使う場合は、留学生向けの貸し手を比較するツールがあります。外部の奨学金は、EducationUSAやIEFAなどの情報源が案内されています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "199847": {
-    "scholarshipUrl": "https://financialaid.wfu.edu/types-of-aid/scholarships/",
-    "intlAidNote": "留学生は必要性ベースの援助の対象外ですが、成績による奨学金のほとんど(授業料・寮費などの全額を賄うStamps、Carswell、Gordon、Reynoldsを含む)の対象です。通常の出願がそのまま奨学金の審査になり、別途申請は不要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "223232": {
-    "scholarshipUrl": "https://admissions.web.baylor.edu/admission/international/financial-assistance-international-students",
-    "intlAidNote": "合格した留学生は、成績による奨学金(Baylor Distinction Award)が自動で審査されます(高校の成績の総合評価)。必要性ベースの援助を希望する場合は、Baylor International Financial Aid Application(10月1日〜、優先締切11月1日、最終2月1日)を提出します。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "230038": {
-    "scholarshipUrl": "https://enrollment.byu.edu/financial-aid/international-student-scholarships",
-    "intlAidNote": "留学生向けの奨学金は大学の窓口ではとても限られています(1月2日が新入生の締切)。Global Opportunity Scholarship(初めての海外経験に最大$5,000、必要性ベース)は留学生にも開かれている数少ない奨学金です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "153603": {
-    "scholarshipUrl": "https://www.iastate.edu/admission-and-aid/admissions/international-admissions/international-merit-scholarships",
-    "intlAidNote": "合格した留学生の新入生は、成績による奨学金(International Excellence Awards: 年$6,000〜$14,000、最大8学期)が自動で付与されます。ISSOの緊急用・必要性ベースの少額の援助もあります。連邦・州の援助は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155399": {
-    "scholarshipUrl": "https://www.k-state.edu/sfa/scholarships-aid/scholarships/future-students/additional-opportunities/international/",
-    "intlAidNote": "留学生向けの奨学金が複数あります(OIP奨学金、国際学生センター経由の奨学金、Kirmser奨学金など。経済的必要性や活動実績をエッセイで審査、春に選考して翌秋から支給)。K-State Scholarship Networkで学部・寄付者の奨学金にも応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207388": {
-    "scholarshipUrl": "https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/international-scholarships",
-    "intlAidNote": "出願だけで留学生向け奨学金(年$5,000〜$15,000)が自動で審査されます。新入生のInternational Achievement奨学金は英語試験の点数とGPAで年$9,000〜$15,000、編入は$7,000〜です。5月1日までの受諾、8月15日が最終締切です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "228875": {
-    "scholarshipUrl": "https://admissions.tcu.edu/afford/scholarship-aid/international.php",
-    "intlAidNote": "成績による奨学金($2,000〜$41,570)と、必要性ベースの援助があります(CSS Profile、学校コード6820が必要)。ただし奨学金の合計は多くの場合、費用の半分未満です。TCUは経済状況を選考で考慮し(need-aware)、年$40,000以上を負担できる出願者が有利とされています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "229115": {
-    "scholarshipUrl": "https://depts.ttu.edu/admissions/international/costs-scholarships.php",
-    "intlAidNote": "留学生は連邦の援助の対象外です。国際課の奨学金・助成、学部の奨学金、私的ローンがあります。競争的な奨学金を$1,000以上受けた場合は、州内生の授業料に下げる免除の対象になることがあります。留学生の学費・諸費用は年約$26,200、総額は約$44,100です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "104179": {
-    "scholarshipUrl": "https://financialaid.arizona.edu/apply-for-aid/international",
-    "intlAidNote": "成績による奨学金(International Tuition Award: 新入生は年$4,000〜$35,000、編入は$5,000)があります。州立大学のため、必要性ベースの援助は原則出ません。奨学金を受けない場合は全額自己負担の前提です。サービス・リーダーシップ奨学金($500〜$5,000)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "132903": {
-    "scholarshipUrl": "https://global.ucf.edu/international-students-scholars-and-professionals/scholarships/",
-    "intlAidNote": "留学生は連邦の援助の対象外で、財政援助オフィスは留学生の奨学金を原則出しません。限定的なものとして、予期せぬ困難時の州外授業料の免除(UCF Global)があります。私的奨学金のデータベース(IEFAなど)の利用が勧められています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "201885": {
-    "scholarshipUrl": "https://www.admissions.uc.edu/information/international/finance/scholarship.html",
-    "intlAidNote": "合格者は国際奨学金(International Outreach Award: メインキャンパスで年$5,000〜$15,000、GPA3.0以上)が自動で審査されます(11月1日までに出願が完了していること)。全額免除や必要性ベースの奨学金は留学生には出ません。新入生は最大8学期更新できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "126614": {
-    "scholarshipUrl": "https://www.colorado.edu/admissions/cost/scholarships-financial-aid/international",
-    "intlAidNote": "連邦の援助は留学生は対象外です。州外生向けの成績による奨学金(Presidential、Chancellor's Achievement)の審査は受けられます。運動・音楽の奨学金は、運動部・音楽学部が特に優れた人に全額または一部を出す場合があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "225511": {
-    "scholarshipUrl": "https://www.uh.edu/financial/undergraduate/types-aid/scholarships/",
-    "intlAidNote": "11月1日までに出願すると、成績による奨学金(Tier One: 授業料全額、Academic Excellence: 年最大$7,000、Cullen Leadership: 年$1,000)が審査されます。$1,000以上の競争的奨学金を受けた留学生は、州外授業料の免除を受けられる場合があります。必要性ベースの助成(TPEG)は年$100〜$1,000です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155317": {
-    "scholarshipUrl": "https://admissions.ku.edu/afford/scholarships",
-    "intlAidNote": "留学生の新入生は、GPAだけで決まる奨学金(KU Excellence: 年$16,000〜KU Access: 年$8,000、総額で最大$64,000)が審査されます。編入は最大$12,000です。必要性ベースのKU International Student Tuition Grant($500〜$2,000)は、1年在学後に申請できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "171100": {
-    "scholarshipUrl": "https://admissions.msu.edu/cost-aid/scholarships/international",
-    "intlAidNote": "合格した留学生は、州外生向けの成績による奨学金(President's $15,000〜Global Community Scholars $3,000)が自動で審査されます。必要性ベースの援助は学部の留学生には出ませんが、短期・限定の助成金やローン、緊急用の基金(最大$2,500など)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "147767": {
-    "scholarshipUrl": "https://admissions.northwestern.edu/tuition-aid/international-student-aid/",
-    "intlAidNote": "留学生にも必要性ベースの援助があり、1年生は必要額を100%満たし、授業料・寮費などをローンなし・就労なしの給付で賄います。ただし留学生は経済状況を選考で考慮される(need-aware)ため競争が厳しく、出願時に援助を希望すると申告する必要があります。編入の留学生は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "204796": {
-    "scholarshipUrl": "https://sfa.osu.edu/international-student/about-aid/types-of-aid/scholarships",
-    "intlAidNote": "連邦の援助は留学生は対象外です。大学の奨学金は、Scholarship Universeにプロフィールを登録して応募します(優先日2月1日)。留学生向けの国際学生助成(主に卒業間近の経済的必要性のある学生向けの少額)や、学部の奨学金があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "214777": {
-    "scholarshipUrl": "https://global.psu.edu/page/tuition-grant-information",
-    "intlAidNote": "留学生向けの経済援助は、ほぼありません。留学生だけの授業料助成(SIGIA、PSTAG)が少数あり、金額は$100〜$2,000程度です(iStartから申請、秋学期は6月15日、春学期は10月15日)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "243780": {
-    "scholarshipUrl": "https://www.purdue.edu/dfa/students/international/",
-    "intlAidNote": "学部の留学生は、大学の奨学金を含む経済援助の対象外とされています(学校の案内)。外部の奨学金や、米国市民の共同署名者つきの私的ローンが選択肢です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "145637": {
-    "scholarshipUrl": "https://www.osfa.illinois.edu/types-of-aid/other-aid/international-students/",
-    "intlAidNote": "学部の留学生には、必要性ベースの援助はありません。学部・学科が入学書類を見て決める奨学金は、別途申請なしで審査される場合があります。留学生オフィスの限定的な奨学金・ローン(予期せぬ経済的困難向けなど)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "153658": {
-    "scholarshipUrl": "https://admissions.uiowa.edu/cost-aid/international-scholarships",
-    "intlAidNote": "州外の新入生向けに成績による奨学金(National Scholars Award: 年$2,000〜$15,000、最大4年)が審査されます(テストの点数とGPAなど)。留学生向けの奨学金は限定的です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "163286": {
-    "scholarshipUrl": "https://marylandglobal.umd.edu/global-learning-all/international-students-scholars/connect-isss/international-student-support-fund",
-    "intlAidNote": "留学生向けの大学の奨学金は少なく、在学中のF-1/J-1学生向けの小額のものが中心です(Roberta Ma奨学金は平均約$500、国際学生支援基金は母国の危機などの場合に上限$1,500)。1年分の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "170976": {
-    "scholarshipUrl": "https://finaid.umich.edu/apply-aid/international-students",
-    "intlAidNote": "連邦の援助はなく、大学の奨学金も留学生にはごく限られています(学校の案内)。留学生向けの基金(S&S奨学金: 主にアフリカ・アジア出身のSTEM専攻で年$5,000〜$12,000など)や、工学部の必要性・成績ベースの奨学金(1学期在学後)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "181464": {
-    "scholarshipUrl": "https://admissions.unl.edu/cost/scholarships/international-scholarship-program-agreements/",
-    "intlAidNote": "合格した留学生は、成績による奨学金(Global Laureate: 年$15,000、Global Ambassador: 年$10,000、Global Delegate: 年$4,000、最大4年)が自動で審査されます。授業料はBig Tenで最も安い水準とされています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "209551": {
-    "scholarshipUrl": "https://admissions.uoregon.edu/international/scholarships",
-    "intlAidNote": "1月15日までに出願すると、成績による奨学金(UO Excellence、Summit: GPA3.90以上、Apex: GPA3.70以上)が自動で審査されます。留学生向けには、国際文化奉仕プログラム(ICSP、授業料の一部)、国際学生の就労プログラム($1,000〜$4,500)などもあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "236948": {
-    "scholarshipUrl": "https://www.washington.edu/circle/scholarships-and-financial-aid/",
-    "intlAidNote": "大学の財政援助オフィスは、留学生に奨学金・助成などを一切出しません(学校の案内)。学部の留学生は全費用を自己負担する準備が必要です。本国政府や民間団体、学部の奨学金を探すよう案内されています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "240444": {
-    "scholarshipUrl": "https://admissions.wisc.edu/international-scholarships/",
-    "intlAidNote": "連邦・州の援助は留学生は対象外です。新入生が1年目に奨学金を得るのはとても難しいと案内されています。King-Morgridge Scholars(特定の国の出身者向け、全額支給)やWestern Union奨学金($1,000)があり、在学中は応募できる奨学金が増えます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "142115": {
-    "scholarshipUrl": "https://www.boisestate.edu/global-international/cost-and-scholarships/undergraduate-scholarships/",
-    "intlAidNote": "留学生は出願時に、成績による奨学金(合計で年$5,000〜$17,000: Ridgeline $5,000、Summit $10,000、Global $5,000〜$7,000)が自動で審査されます(GPA3.1以上が目安)。在学中は、州外授業料の一部を免除するGlobal Broncos奨学金($2,000〜$8,500)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "110556": {
-    "scholarshipUrl": "https://cge.fresnostate.edu/international/future/fees/financialassistance.html",
-    "intlAidNote": "留学生の州外授業料は1単位$396で、2026年秋の年間費用の目安は約$34,434です。留学生向けにDean's Scholarship Tuition Waiver($1,250〜$3,750)や、新入生の最初の学期のMuhareb Family Grant($1,000〜$1,500、申請不要)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "126818": {
-    "scholarshipUrl": "https://thehub.colostate.edu/financial-aid/international-student-scholarships/",
-    "intlAidNote": "留学生の新入生は、成績による奨学金(年$2,000〜$12,000、最大4年)が自動で審査されます(12月15日までの出願が最も有利)。留学生向けの経済援助はごく限られ、多くは大学院の学部奨学金です。2024年の年間費用の目安は約$57,098です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "235316": {
-    "scholarshipUrl": "https://www.gonzaga.edu/academics/global-engagement/international-students/accepted-international-students/scholarships-and-employment-information-for-international-students/international-undergraduate-student-scholarships",
-    "intlAidNote": "留学生も出願者全員が、成績による奨学金(新入生で年$23,500〜$32,000、4年間保証)が自動で審査されます。授業料は留学生・州外生・州内生で同じです。FAFSAなどの経済援助の申請は留学生は対象外で、私的ローンは共同署名者が必要な場合があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "209542": {
-    "scholarshipUrl": "https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships",
-    "intlAidNote": "留学生は出身地域ごとの奨学金(年$2,000〜$16,000、合格と同時に付与、GPA2.0以上で更新)が保証され、東南アジア・香港・マカオは年$8,000です。成績による奨学金(Provost's Scholarship: 年$6,000、GPA3.5以上)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "122409": {
-    "scholarshipUrl": "https://psfa.sdsu.edu/international/international-scholarships",
-    "intlAidNote": "留学生の州外授業料は1単位$471で、2025-26年度の年間費用の目安は約$50,322(学外居住)です。成績・活動実績が優れた留学生の新入生向けに、限られた数のAdvantage奨学金があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "230728": {
-    "scholarshipUrl": "https://www.usu.edu/admissions/international/undergraduate-costs",
-    "intlAidNote": "成績による奨学金は少なく、GPA3.85以上の新入生・編入生は、留学生授業料から年$1,000を免除するAfton B. Tew奨学金が自動で審査されます。学部ごとの奨学金は1月に申請を受け付けて2月1日締切です。全額免除の奨学金はなく、1年分の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "236939": {
-    "scholarshipUrl": "https://ip.wsu.edu/future-students/tuition-fees/scholarships-funding/",
-    "intlAidNote": "留学生は合格時にInternational Academic Award(年$4,000: GPA3.6以上、年$2,000: GPA3.0〜3.59、授業料免除)が保証されます。在学中のInternational Merit Award(1学期$2,000)や、緊急時の授業料減額($1,500、1回)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "100858": {
-    "scholarshipUrl": "https://www.auburn.edu/admissions/prospective-students/international/index.php",
-    "intlAidNote": "学校の案内では、州外生向けの成績による奨学金(Academic Presidential: 年最大$17,000、Heritage: $11,000、Charter: $7,000)にAUSOMから応募します(優先締切2月中旬)。最低9か月分の資金証明が必要です。留学生向けの専用奨学金の記載は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "159391": {
-    "scholarshipUrl": "https://www.lsu.edu/financialaid/apply_for_scholarships/apply_for_international_student_scholarships.php",
-    "intlAidNote": "留学生だけを対象にした奨学金はありません(学校の案内)。米国の高校(またはアメリカンスクール)出身の留学生の新入生は、通常の新入生奨学金の対象になります。在学中の留学・研修向けの奨学金($1,500)は留学生も応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176080": {
-    "scholarshipUrl": "https://www.sfa.msstate.edu/scholarships/international-scholarships",
-    "intlAidNote": "留学生は出願時に、成績による奨学金が自動で審査されます(9〜11年次のGPA3.30以上: 年$12,000〜$16,000、4年間)。優先日は12月1日です。エージェント契約がある場合は対象外になります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "228723": {
-    "scholarshipUrl": "https://aggie.tamu.edu/financial-aid/types-of-aid/scholarships/international-student-scholarships",
-    "intlAidNote": "留学生向けの奨学金と、必要性ベースの援助(州の助成ITPEG: 最大$4,000、TASFAの申請が必要)があります。学内の奨学金(Eppright: $3,000など)は在学中の留学生が応募できます。援助は必要性ベースで、費用の全額は賄えません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "100751": {
-    "scholarshipUrl": "https://afford.ua.edu/scholarships/international/",
-    "intlAidNote": "留学生の新入生には、ACT・SATとGPAで決まる成績による奨学金(年$6,000〜$28,000)があります。連邦の援助は対象外です。州外・留学生の編入生は自動の奨学金の対象外で、別の奨学金に応募します。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "221759": {
-    "scholarshipUrl": "https://onestop.utk.edu/scholarships-financial-aid/scholarships/",
-    "intlAidNote": "留学生の新入生向けに、Global Ambassador奨学金(年$10,000〜$15,000、5月1日締切)、International Volunteer奨学金(年$3,000〜$18,000、4月1日締切)、International Undergraduate Merit奨学金(年$5,000〜$8,000)があります。全額免除の奨学金はありません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "228778": {
-    "scholarshipUrl": "https://global.utexas.edu/isss/advising-services/scholarships",
-    "intlAidNote": "留学生向けの経済援助は限られています。留学生オフィスが秋と春に募集する奨学金(各$2,000〜$5,000の学期・学年奨学金や、必要性ベースの現金援助など)があります。工学部は新入生の留学生には奨学金を出さず、在学中の留学生は一部に応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "106397": {
-    "scholarshipUrl": "https://international-admissions.uark.edu/undergraduate-studies/funding-your-studies.php",
-    "intlAidNote": "留学生の新入生も、多くの成績による奨学金に応募できます(入学出願11月1日、奨学金の優先は11月15日、最終2月1日)。特定の国・州の学生には州外授業料の一部を免除するTuition Advantage制度があります。大学のローンはなく、1年分の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "134130": {
-    "scholarshipUrl": "https://www.sfa.ufl.edu/international/",
-    "intlAidNote": "留学生向けの奨学金は少なく、主に大学院向けです。GPA3.75以上の留学生は国際学生奨学金に推薦され、5人が$1,000を受給します。新入生向けの奨学金は限られた数です。連邦の援助は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "139959": {
-    "scholarshipUrl": "https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships/",
-    "intlAidNote": "連邦・州の援助は留学生は対象外ですが、F-1の留学生は成績による奨学金の対象です(Classic: 州内外の授業料差額の半分を免除、Classic City Scholars: 全額免除、Foundation Fellowship: 差額免除に加え$30,000の支給)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "157085": {
-    "scholarshipUrl": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/international-student-undergraduate-scholarships",
-    "intlAidNote": "留学生の新入生向けに、Bluegrass奨学金(年$6,500〜$16,000、締切12月1日)、William C. Parker奨学金、International Ambassador奨学金($3,000〜授業料の50%、2月15日)があります。在学中は、経済的必要性による授業料奨学金($500〜$3,000)に応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176017": {
-    "scholarshipUrl": "https://olemiss.edu/global/international-students-oge/scholarships-international-students/",
-    "intlAidNote": "留学生の新入生は、GPAで決まる成績による奨学金が自動で付与されます(Premier: 年$28,893=授業料の約93%、GPA3.9〜4.0、各国の人数に上限あり。Champion $12,000、Magnolia $9,500、Legacy $5,000)。STEM専攻の追加奨学金($8,000)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "178396": {
-    "scholarshipUrl": "https://financialaid.missouri.edu/scholarships/international/",
-    "intlAidNote": "合格者は、州外授業料部分に適用される成績による奨学金が審査されます(2027-28年度: International Honors 年$20,000、International Merit 年$10,000。12月1日までに出願)。在学中は、授業料の10〜25%のCurator's Grant-in-Aidなどに応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207500": {
-    "scholarshipUrl": "https://www.ou.edu/globalengagement/international-student-scholarships",
-    "intlAidNote": "留学生の新入生は、SAT・ACTの点数で決まる成績による奨学金(年$10,000〜$17,000、4年間)が審査されます。United World Collegesの出身者は必要額の100%が保証されます。緊急時の基金(IAC)もあります。必要性ベースの申請(ISFAA)の案内もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "218663": {
-    "scholarshipUrl": "https://sc.edu/about/offices_and_divisions/international_student_and_scholar_support/iss/new-student-arrival/understand_tuition_and_fees/university_scholarships_and_assistantships/",
-    "intlAidNote": "大学の必要性ベースの奨学金は留学生には出ません。学部の競争的な奨学金(ビジネス、工学、ホスピタリティなど)に応募できます。国際学生Excellence奨学金は毎年2人にのみ年$500です。特定地域の出身者は州内授業料になる姉妹州協定があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "221999": {
-    "scholarshipUrl": "https://admissions.vanderbilt.edu/affordability/international-costs-and-finances/",
-    "intlAidNote": "留学生の新入生に、必要性ベースの援助を一部の学生に出します(2026年秋入学では89人、年$16,815〜$99,998を4年間)。留学生は経済状況を選考で考慮される(need-aware)ため、援助を希望すると競争が厳しくなります。CSS ProfileまたはISFAAが必要で、編入の留学生は援助の対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "142443": {
-    "scholarshipUrl": "https://www.nic.edu/international/",
-    "intlAidNote": "学校の案内では、留学生への経済的な援助や支援はありません。入学後に少額の奨学金に応募できる場合はありますが、当てにしないよう案内されています。非居住者料金で、年間$26,600までの資金が必要とされ、F-1ビザ用に1年分の資金証明が必須です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "229799": {
-    "scholarshipUrl": "https://wc.edu/paying-for-weatherford/scholarship-opportunities/index.php",
-    "intlAidNote": "留学生が使える奨学金・学内就労は限られていて、当てにしないよう案内されています。留学生の年間費用の目安は約$16,873(授業料・諸費用$4,548、生活費$8,809、本代など$3,516)。財団の一般奨学金は学期ごとに$1,000程度です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "101161": {
-    "scholarshipUrl": "https://www.coastalalabama.edu/admissions-aid/apply/international/",
-    "intlAidNote": "学校の案内では、留学生の受け入れはSEVISの再認定手続き中で現在はできないとされています(要確認)。留学生は経済援助の対象外で、運動を含む学内奨学金は米国市民・永住者だけが対象です。留学生の費用の目安は約$20,600〜$20,900です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "230746": {
-    "scholarshipUrl": "https://www.slcc.edu/iss/intl-stu-tuition.aspx",
-    "intlAidNote": "留学生は州外生の授業料で、学期ごとに管理費$125がかかります(12〜18単位は同額)。奨学金はScholarship Universeから応募できます。金額・条件は留学生オフィス(international.affairs@slcc.edu)に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "133386": {
-    "scholarshipUrl": "https://www.daytonastate.edu/tuition-and-fees/index.html",
-    "intlAidNote": "留学生は州外生の授業料(AA・AS: 1単位$398.65)で、出願料は$50〜$60です。留学生専用の奨学金は確認できませんでした。財団の奨学金は多くがFAFSA提出と米国市民・永住者などの条件があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "175652": {
-    "scholarshipUrl": "https://www.eastms.edu/admissions/prospective-students/international.html",
-    "intlAidNote": "留学生は連邦・州の援助の対象外で、財政状況の申告書と、保証人の資金証明が必要です。学校の奨学金は主にミシシッピ州の居住者向けと案内されています。1学期12単位以上の履修が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "227687": {
-    "scholarshipUrl": "https://www.rangercollege.edu/admissions/financial-aid/scholarships/index.php",
-    "intlAidNote": "留学生は1単位$250(最低$425)で、年間の費用の目安は約$14,332(授業料・寮・食事を含む)です。奨学金を受けない新入の留学生は、入学前に$8,000の預託金が必要です。留学生向けの専用奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "223427": {
-    "scholarshipUrl": "https://www.blinn.edu/international/estimated-expenses.html",
-    "intlAidNote": "留学生の年間費用の目安は約$31,162(授業料・諸費用$11,370、生活費$12,302など)です。留学生専用の奨学金はなく、350以上の基金奨学金に他の学生と一緒に応募できますが、当てにしないよう案内されています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "138761": {
-    "scholarshipUrl": "https://www.andrewcollege.edu/athletic-scholarships/",
-    "intlAidNote": "留学生向けの奨学金は限られています(連邦の援助の対象外)。NJCAA D1に所属し、運動奨学金は競技の力と将来性に応じた部分的なものを出します。授業料は年$19,604、寮と食事を含む総額は約$32,480です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "153472": {
-    "scholarshipUrl": "https://www.indianhills.edu/internationals/payingforcollege.php",
-    "intlAidNote": "留学生の授業料は1単位$255(2025-26)で、年間費用の目安は約$18,104(3学期)です。留学生向けにFreddy Miranda American Dream奨学金(年$1,300)があり、財団は全体で約$200万を奨学金に充てています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "225308": {
-    "scholarshipUrl": "https://www.tvcc.edu/scholarships/index.html",
-    "intlAidNote": "留学生は9か月ごとに$12,000以上の資金証明が必要で、TOEFL(ibt 41以上)またはIELTS 5.5が必要です(英語圏を除く)。学校は年に$100万以上の奨学金(学業・運動・芸術・クラブなど)を出しますが、留学生の扱いは国際学生の窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154800": {
-    "scholarshipUrl": "https://www.butlercc.edu/getting-started/enroll/international-students/cost-payment",
-    "intlAidNote": "留学生の授業料は1単位$209.50(2026-27)で、年間費用の目安は約$17,785です。留学生向けの奨学金はごく限られていて、当てにしないよう案内されています。入学の処理料$75がかかります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "127778": {
-    "scholarshipUrl": "https://otero.edu/international/tuition-fees/",
-    "intlAidNote": "留学生向けの奨学金が複数あります(Jim Rizzuto国際奨学金: 年$2,000、国際学業・リーダーシップ奨学金、国際スピリット奨学金、寮生活者のLive and Learn奨学金: 学期$1,000)。2025-26年度の費用の目安は約$21,348で、I-20に$22,500の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "104160": {
-    "scholarshipUrl": "https://www.azwestern.edu/international",
-    "intlAidNote": "学校の案内では、留学生向けの経済援助はありません。F-1の学生は州内授業料の対象外です。合計$16,000の資金証明(本人・保証人の銀行残高や奨学金)が必要で、授業料は履修登録時に支払います。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "142559": {
-    "scholarshipUrl": "https://www.csi.edu/international-students/interested-students.aspx",
-    "intlAidNote": "一般の奨学金申請で300以上の奨学金が自動で審査されます。運動奨学金も出る場合があり、留学生は$2,500の預託金が必要ですが、フル奨学金のレター・オブ・インテントを持つ留学生選手は免除されます。州外の授業料・諸費用は年約$7,008です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "136233": {
-    "scholarshipUrl": "https://www.nwfsc.edu/admissions/international/",
-    "intlAidNote": "学校の案内では、運動奨学金を除いて、留学生向けの経済援助はありません。留学生の年間費用の目安は約$23,000(授業料・諸費用約$11,000、生活費約$10,000、本代$2,000)で、扶養家族ごとに$2,000が加わります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "132693": {
-    "scholarshipUrl": "https://www.easternflorida.edu/admissions/international/scholarships.php",
-    "intlAidNote": "従来型の必要性ベースの援助は留学生には出ません。出身国・地域のInternational Linkage Instituteを通じた奨学金で、州外授業料部分を賄えるものがあります(F-1向け)。年間費用の目安は約$22,426(AA学位)です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "187912": {
-    "scholarshipUrl": "https://www.nmmi.edu/admissions/international-students/",
-    "intlAidNote": "留学生は学校の成績による奨学金(Merit Scholarship)と、Incentive Scholarshipの2つの対象です。短大課程では学生の約95%が連邦または学校の援助を受け、奨学金の幅は$150〜$16,000です。全寮制の軍事学校で、年間費用の目安は約$42,858です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "227146": {
-    "scholarshipUrl": "https://www.navarrocollege.edu/scholarships/",
-    "intlAidNote": "留学生の授業料は1学期(15単位)で約$3,300です。3か月以上$15,021以上の銀行残高の証明が必要です。約75の奨学金に1つの申請で応募でき、ミクロネシア出身者向けのHarold Crouch奨学金があります。秋学期の出願は7月15日までです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "152637": {
-    "scholarshipUrl": "https://www.vinu.edu/international-students/faq.html",
-    "intlAidNote": "留学生は連邦の援助の対象外で、入学には最低$29,000の資金証明が必要です。奨学金は、2年目の頃から応募できるものが多く、留学生向けにDr. Razi奨学金(2学期目以降、エッセイが必要)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "175883": {
-    "scholarshipUrl": "https://www.jcjc.edu/scholarships/",
-    "intlAidNote": "留学生の受け入れ数を制限しており、運動・芸術の奨学金を受ける留学生は限られた数だけ受け入れるとしています。学校の奨学金は州外料金をカバーしません。TOEFLの点数(紙500以上、iBT69以上)か、米国の大学での英作文Cが必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "134343": {
-    "scholarshipUrl": "https://www.gulfcoast.edu/admissions/international-students/index.html",
-    "intlAidNote": "留学生の授業料は1単位$359.71(12単位で$4,316.52)で、1年分として$23,122以上の銀行残高の証明が必要です。連邦の援助は対象外で、学校の助成・奨学金の多くは米国市民・フロリダ州の居住者が対象です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154998": {
-    "scholarshipUrl": "https://dc3.edu/admissions/international-student-guidelines/",
-    "intlAidNote": "留学生の費用は1単位あたり授業料$80+諸費用$85(2025-26)で、15単位の学期の目安は約$13,460(寮・食事を含む)です。I-20の発行前に、学期ごとに$3,000の預託金が必要です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154925": {
-    "scholarshipUrl": "https://www.coffeyville.edu/student-services/costs-fees",
-    "intlAidNote": "留学生は1単位あたり約$220(授業料$80+必須諸費用$70+留学生費$70)です。Presidential奨学金など一部の奨学金は留学生は対象外です。学業・活動・運動などの奨学金は、学校に直接確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207281": {
-    "scholarshipUrl": "https://www.noc.edu/students/current-students/scholarships/",
-    "intlAidNote": "約400の奨学金(最大$38,000)がありますが、優先されるのはオクラホマ州の居住者・米国市民・永住者で、留学生の利用は限られます。留学生用の専用の出願フォームがあります(www.noc.edu/international-students)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "128258": {
-    "scholarshipUrl": "https://trinidadstate.edu/catalog/current/start/international.html",
-    "intlAidNote": "連邦・州の援助や非居住の外国人向け奨学金は、留学生は対象外です。運動などの学校の奨学金は、授業料・諸費用を超える分が留学生の所得として扱われ、14%の税がかかります。州外の授業料・諸費用は年$7,564(2025-26)で、2年分の資金援助の証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207290": {
-    "scholarshipUrl": "https://neo.edu/current-students/financial-aid/scholarships/",
-    "intlAidNote": "州外生の授業料・諸費用は年約$14,030(2025-26)です。学業・寮・財団・運動や芸術(トライアウトやオーディション)の奨学金が100以上あり、留学生の扱いは学校に確認してください(多くの優先締切は4月1日)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155104": {
-    "scholarshipUrl": "https://www.gcccks.edu/admissions/student_type/international_student.aspx",
-    "intlAidNote": "留学生の授業料は1単位$105+諸費用$67(2025-26)です。成績による奨学金は$250〜$1,000で、運動などの活動奨学金も含め300以上あります。連邦の援助は対象外です。F-1は各学期12単位以上が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "240505": {
-    "scholarshipUrl": "https://www.caspercollege.edu/admissions/types/international-students/",
-    "intlAidNote": "留学生は連邦の援助の対象外で、学校の奨学金は1学期以上修了してから応募できます。授業料・諸費用は年約$11,000、生活費は約$8,700(寮・食事)で、保険が約$1,000です。女性向けの奨学金には留学生も応募できるものがあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154952": {
-    "scholarshipUrl": "https://cowley.edu/getting-started/how-to-apply/international/index.html",
-    "intlAidNote": "留学生は州・連邦の援助の対象外ですが、民間資金のCowley College Foundationの奨学金と、活動(運動など)奨学金に応募できます。授業料は1単位$250(2026-27)で、年間の授業料・諸費用は約$8,830です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "143215": {
-    "scholarshipUrl": "https://www.swic.edu/students/services/enrollment-services/admissions/international-admission/",
-    "intlAidNote": "留学生の授業料は1単位$236+諸費用$9で、1年の費用の目安は約$32,988(授業料$5,880、生活費$24,708、本代$2,400)、最低12単位です。出願時に1年分の資金証明が必要です。300以上の財団奨学金に1つの申請で応募できますが、留学生の対象かどうかは窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207740": {
-    "scholarshipUrl": "https://www.sscok.edu/admissions/financial-assistance/scholarships/index.html",
-    "intlAidNote": "留学生の授業料は1単位$211で、学期ごとに留学生費$109がかかります。運動・成績・必要性・財団の奨学金がありますが、多くは州内授業料分のみが対象のため、留学生(州外料金)にはほとんど効かない可能性があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "135717": {
-    "scholarshipUrl": "https://www.mdc.edu/internationalstudents/resources/tuition-assistance.aspx",
-    "intlAidNote": "留学生が奨学金を申請できる窓口があり(300以上の奨学金とマッチング)、Florida Linkage Institutesによる州外授業料の免除(特定の国・地域の学生向け)もあります。一定のオンライン課程では留学生も1単位$290の割安な授業料になります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "137759": {
-    "scholarshipUrl": "https://www.tsc.fl.edu/student-life/international-services/international-student-scholarships/",
-    "intlAidNote": "留学生向けに、秋学期の$500の奨学金(F-1、フルタイム、学位取得中、GPA3.0以上)があります。授業料は1単位$387.27で、年間費用の目安は約$25,500、I-20発行前にその金額の資金証明が必要です。Linkage Institutesの制度(州内扱い)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "101295": {
-    "scholarshipUrl": "https://www.wallacestate.edu/financial-aid/wscc-scholarships.html",
-    "intlAidNote": "学校の奨学金は米国市民(または対象となる非市民)に限られ、留学生は対象外です。アラバマ州外の学生の授業料は、州内の2倍です。外部の奨学金(Gilman留学奨学金など)は利用できる場合があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "175786": {
-    "scholarshipUrl": "https://catalog.hindscc.edu/content.php?catoid=17&navoid=756",
-    "intlAidNote": "留学生(州外)の授業料は全日制の1学期で$3,375で、留学生の保険が$650、留学生サービス料が$150(学期ごと)かかります。財団の奨学金は多くがミシシッピ州の居住者・米国市民向けで、留学生は対象外のものが多いです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176071": {
-    "scholarshipUrl": "https://mgccc.edu/paying-for-college/tuition/",
-    "intlAidNote": "留学生は、15〜21単位で学期ごとに非居住者料金$500、出願料$250(1回)、管理費$100(学期ごと)がかかります。約200の奨学金は多くが米国市民・永住者が条件です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176239": {
-    "scholarshipUrl": "https://prcc.edu/future-wildcats/admissions/tuition-and-fees/",
-    "intlAidNote": "留学生は、留学生料金で学期ごとに$1,750(15単位以上)がかかり、出願料は$250です。留学生の受け入れ数は限られていて、空きの有無は入学窓口(admissions@prcc.edu)に確認が必要です。運動などの奨学金は学校に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "226806": {
-    "scholarshipUrl": "https://www.midland.edu/enrollment-aid/steps-enroll/international/initial-i-20.php",
-    "intlAidNote": "F-1の留学生は州外授業料で、1学期12単位以上が必要です。1年(9か月)で最低$20,000の資金証明が必要です。年間$100万以上の奨学金に応募できますが、留学生の対象かどうかは学校に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "229832": {
-    "scholarshipUrl": "https://www.wtc.edu/page/internationalstudents",
-    "intlAidNote": "2026-27年度の費用の目安は$16,640(授業料・諸費用・本代・保険・1年分の生活費)で、運動奨学金を受ける場合は金額が変わることがあります。留学生専用の奨学金の記載は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "225520": {
-    "scholarshipUrl": "https://howardcollege.edu/come-to-howard-college/international.html",
-    "intlAidNote": "留学生の授業料は1単位$179(最低$200)で、1学期(15単位)で約$4,496〜$4,906です。留学生を受け入れるのは4キャンパスのうち3つです。年間$100万以上の学業奨学金があり、1学期$500以上の奨学金を受ける留学生は、TOEFLの受験料を学校が払います。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "223898": {
-    "scholarshipUrl": "https://www.cisco.edu/admissions/international-students",
-    "intlAidNote": "留学生の授業料は1単位$218(2025年秋〜)で、1年分として$15,000の資金証明が必要です。出願料$100は奨学金で免除されません。奨学金のほとんどは、地元の高校卒業生向けです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "136473": {
-    "scholarshipUrl": "https://admissions.pensacolastate.edu/international-students/",
-    "intlAidNote": "学校の案内では、留学生向けの経済援助は、ほとんどの場合ありません。年間費用の目安は最低約$25,000(授業料・諸費用$11,000、生活費$12,000、本代$2,000)で、資金が確認できるまで登録は受け付けません。約300の奨学金の多くは米国市民・永住者が対象です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "134608": {
-    "scholarshipUrl": "https://irsc.edu/admissions/international-students/",
-    "intlAidNote": "留学生の奨学金は限られ、競争が厳しいと案内されています。**日本を含む特定の国・地域の学生**は、Florida Linkage Institutesの州外授業料免除の対象になる場合があります(ブラジル、カナダ、カリブ、中国、コスタリカ、東欧、フランス、イスラエル、日本、メキシコ、西アフリカ)。授業料は1単位$390.49(準学士)です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "133021": {
-    "scholarshipUrl": "https://www.chipola.edu/admissions/international-students/",
-    "intlAidNote": "**学校の方針として、I-20は運動奨学金を受ける留学生にのみ発行されます**(運動奨学金なしの留学生は入学できない旨の案内です)。留学生料金は1単位$309.35(その他の州の居住者と同じ)+留学生費$100です。奨学金の多くはフロリダ州の居住者向けです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "179645": {
-    "scholarshipUrl": "https://trcc.edu/pay-for-college/scholarships/",
-    "intlAidNote": "留学生は州外(地区外)授業料になります。留学生は連邦・州の援助の対象外のためFAFSAの提出は不要です。奨学金(280以上)の対象かどうかは、財政援助オフィスに確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "240620": {
-    "scholarshipUrl": "https://www.lccc.wy.edu/admissions/international/costs.aspx",
-    "intlAidNote": "留学生向けの奨学金があります(Edington Family留学生奨学金、Friendship Force Club留学生奨学金など)。FAFSAを出せない留学生もPresidential(年$1,600)やDean's(年$800)奨学金の対象になり得ます。1年の費用の目安は約$19,500です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "175573": {
-    "scholarshipUrl": "https://www.colin.edu/students/financial-aid-scholarships/scholarships/",
-    "intlAidNote": "成績の奨学金はミシシッピ州の居住者向けです。留学生向けには、Phi Theta Kappaのリーダー奨学金(留学生向け)の案内があります。留学生(州外生)は、州外分の授業料を全額自己負担になります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155715": {
-    "scholarshipUrl": "https://prattcc.edu/international-students/",
-    "intlAidNote": "留学生の授業料は1単位$122+諸費用$63(2025-26)で、学期ごとに$150の追加費用がかかります。学業・運動・財団・編入の奨学金がありますが、留学生の対象かは問い合わせ(pccinternational@prattcc.edu)で確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176354": {
-    "scholarshipUrl": "https://www.smcc.edu/financial-aid/scholarships/",
-    "intlAidNote": "州外(留学生)の全日制は、学期ごとに授業料$1,740+州外授業料$1,350などがかかります。ACT成績による奨学金は、多くが州内の学生向けです。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "104346": {
-    "scholarshipUrl": "https://centralaz.edu/find-your-path/international-student/",
-    "intlAidNote": "学校の案内では、留学生向けの奨学金はなく、F-1の留学生は学内の奨学金の対象外です。年間$18,000以上(旅費を除く)の費用を用意する必要があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "227386": {
-    "scholarshipUrl": "https://www.panola.edu/admissions/international-students",
-    "intlAidNote": "留学生の年間費用の目安は約$20,633(寮・食事・保険を含む)で、12単位の1学期の授業料・諸費用は約$2,700です。出願料$50で、締切は春学期が11月1日、秋学期が6月1日です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "226019": {
-    "scholarshipUrl": "https://www.kilgore.edu/cost-financial-aid/financial-aid-scholarships/scholarships/",
-    "intlAidNote": "留学生の授業料は1単位$219(授業料$103+地区外料金$79+一般$37)です。留学生向けにJoe Hightower-Sharon Hendrix International Student Scholarshipがあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "226578": {
-    "scholarshipUrl": "https://www.mclennan.edu/international-students/int-faq.html",
-    "intlAidNote": "留学生の授業料は1単位$181(最低$385)で、1年(9か月)に約$20,000以上の資金証明が必要です。F-1は連邦の援助の対象外で、奨学金の可否は財団に問い合わせてください。F-1は各学期12単位以上が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "251260": {
-    "scholarshipUrl": "https://www.suscc.edu/admissions/Admissions_info",
-    "intlAidNote": "学校の案内では、留学生向けの経済援助は一般にありません。学校の奨学金は米国市民が条件のものがほとんどです。12か月の費用の目安は約$35,850(授業料・諸費用$11,850、寮・食事など)で、同額の資金が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "137078": {
-    "scholarshipUrl": "https://www.spcollege.edu/future-students/admissions/international-students/center-for-international-programs",
-    "intlAidNote": "財団の奨学金(350以上)に、在留資格にかかわらず1つの申請で応募できます。集中英語プログラムの新規・編入の留学生には、授業料の減額($1,000)があります。ラテンアメリカ・カリブ出身者には州内授業料の免除などがあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "230597": {
-    "scholarshipUrl": "https://snow.edu/international/scholarship.html",
-    "intlAidNote": "留学生向けのInternational Scholar Award(年$5,000、授業料免除で現金なし、更新可、GPA2.0以上)があります(締切: 秋学期3月1日、春学期10月1日)。年間の授業料・諸費用は約$15,238、総額の目安は約$23,000です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207236": {
-    "scholarshipUrl": "https://mscok.edu/admissions/financial-aid/types-of-aid",
-    "intlAidNote": "州外生の授業料のうち、非居住者分(1単位$161)が自動で免除されると案内されています(留学生に適用されるかは要確認)。入学の出願料は$50です。すべての応募者が奨学金の自動審査の対象です(2026-27年度)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "177676": {
-    "scholarshipUrl": "https://www.jeffco.edu/international-students/",
-    "intlAidNote": "留学生の年間費用の目安は約$24,567(授業料$9,750、寮・食事、保険など)です。連邦の援助は対象外ですが、学校の奨学金に応募できるものがあります(すべてが留学生に開かれているわけではありません)。運動奨学金を受ける場合は、コーチの奨学金の提示書類が必要で、残りの費用の資金証明も必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "177135": {
-    "scholarshipUrl": "https://www.crowder.edu/how-to-get-started/international-students/",
-    "intlAidNote": "留学生は1単位$188(2026年秋〜)で、入学の資金証明は約$18,664です。留学生向けにDean & Grace Farnsworth奨学金があります。運動・部門の奨学金を待つ留学生は、コーチからの「奨学金を出す意向」のレターが必要です。連邦の援助(Title IV)は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154934": {
-    "scholarshipUrl": "https://www.colbycc.edu/admissions/internationals/index.html",
-    "intlAidNote": "学校の案内では、留学生向けの経済援助は出せません。留学生の授業料は1単位$227(2026-27)、年間費用の目安は約$15,000です。奨学金のオファーがある場合は、金額に応じて資金証明の額が減ることがありますが、全額奨学金でも万一に備えた資金の証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "228158": {
-    "scholarshipUrl": "https://www.southplainscollege.edu/admission-aid/apply/first-timeinternationalstudents.php",
-    "intlAidNote": "留学生の授業料は年約$5,800で、寮など含む年間費用の目安は約$10,500とかなり低めです。学校全体の奨学金の応募は米国市民・永住者が基本ですが、学科やプログラムの奨学金($100〜$500/学期)があります。奨学金の締切は3月1日です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "240596": {
-    "scholarshipUrl": "https://ewc.wy.edu/admissions-financial-aid/scholarships-grants/",
-    "intlAidNote": "留学生は州外授業料(1単位$315、2025・2026年)で、州内の約3倍です。EWCのInternational Student Scholarshipなどに応募できます。IMG Global Student Journey奨学金は、留学生の学部・大学院生に開かれています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "221397": {
-    "scholarshipUrl": "https://www.roanestate.edu/catalog/?id=116",
-    "intlAidNote": "留学生向けの専用奨学金の記載は確認できません。財団が年400以上の奨学金を出し、1つの申請で応募できます(春に受付、5月下旬締切)。留学プログラム向けの部分奨学金(Gilman、Borenなどの外部奨学金の案内あり)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176169": {
-    "scholarshipUrl": "https://www.nemcc.edu/business-office/tuition-and-fees/index.html",
-    "intlAidNote": "留学生は州外料金で、全日制の1学期が$3,885(1単位$388.50)です。学校の奨学金は州外料金部分をカバーしません。出願締切は秋学期が5月1日、春学期が10月1日で、全日制での在籍が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "227979": {
-    "scholarshipUrl": "https://www.sanjac.edu/support/personal-support/international-students/index.php",
-    "intlAidNote": "留学生の授業料は1単位$223で、1年の費用の目安は約$35,506(授業料$6,690、生活費$22,916など)です。F-1の留学生は、州の助成金(TPEG)に応募できます。200以上の奨学金は、留学生の対象かどうか個別に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "225371": {
-    "scholarshipUrl": "https://www.hillcollege.edu/Admissions_Aid/Admissions/International.html",
-    "intlAidNote": "2026-27年度の学校費用は約$6,720(授業料$3,310、諸費用$1,410、本代$2,000)です。出願は開始の60日前までに、I-20の発行前に預託金$200(出願手数料$50を含む)が必要です。奨学金は10月1日から8月31日まで3回の受付があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "101514": {
-    "scholarshipUrl": "https://calhoun.edu/financial-aid/scholarships/",
-    "intlAidNote": "学校の案内では、奨学金は米国市民のみが対象で、留学生は州内料金・経済援助・奨学金の対象外です。留学生は州外料金(1単位$266、州内の2倍)です。TransferMateで自国通貨での支払いができます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "102067": {
-    "scholarshipUrl": "https://www.sheltonstate.edu/admissions-financial-aid/becoming-a-student/international-students/",
-    "intlAidNote": "留学生の授業料はアラバマ州居住者の2倍です。入学の条件として、公証つきの経済支援の申告書と、最低$28,000の資金証明が必要で、免除・減額はできません。学校の奨学金は、米国市民・永住者(居住者)が条件のため、留学生は原則対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "146366": {
-    "scholarshipUrl": "https://www.kaskaskia.edu/admissions/international-students/",
-    "intlAidNote": "留学生は州外・留学生料金で、1単位$425です。F-1は12単位以上のフルタイムが必要です。学費・生活費・寮などは自己負担が基本です。奨学金の対象かどうかは入学窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "146603": {
-    "scholarshipUrl": "https://www.lc.edu/admissions/apply/international-students.html",
-    "intlAidNote": "留学生の授業料は1単位$264+諸費用$30(合計$294)で、年間の費用の目安は約$20,000です。150以上の奨学金があり(約半分が授業料全額)、1つの申請でマッチングされます(秋に受付開始、4月締切)。留学生が対象かは学校に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "127389": {
-    "scholarshipUrl": "https://lamarcc.edu/paying-for-college/tuition-fees/",
-    "intlAidNote": "留学生向けに、キャンパスで受講する場合は1単位$213の奨学金があります(オンライン科目には使えません)。非居住者の授業料は、1単位$306.40です。そのほか、大学・財団・地域の奨学金があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154907": {
-    "scholarshipUrl": "https://www.cloud.edu/admissions/international-students/",
-    "intlAidNote": "留学生の授業料は州外生と同じ料金です。学業・財団・活動・運動の奨学金があり、1つの申請で応募できます(3月1日までに申請)。留学生の対象や金額は、国際学生の担当(Director of Admissions/PDSO)に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "224110": {
-    "scholarshipUrl": "https://www.nctc.edu/international-students",
-    "intlAidNote": "留学生は州外扱いで、2026年秋は1単位約$322(授業料$57+一般$60+地区外料金$205)です。2026-27年の年間費用の目安は約$28,283で、扶養家族ごとに$5,000の資金証明が加わります。財団の奨学金は年$500〜$2,000ですが、Red River Promise奨学金は留学生は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "133508": {
-    "scholarshipUrl": "https://www.fsw.edu/internationaleducation/financialinfo",
-    "intlAidNote": "留学生は州内授業料の対象外(F-1は常に母国の居住者扱い)で、準学士の年間費用の目安は約$22,090(スポンサー宅に住む場合)〜$31,019(自活)です。財団の奨学金に応募できます。留学生専用の奨学金は確認できず、留学プログラム向けの奨学金(Gilman: 最大$5,000など)があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "104425": {
-    "scholarshipUrl": "https://www.cochise.edu/admissions/international-students/index.html",
-    "intlAidNote": "学校の案内では、市民・永住者以外の学生は州外授業料で、授業料免除・奨学金など州の資金による支援の対象外です。外部の留学生向け奨学金の情報は案内があります。ソノラ州からの学生向けの特別な授業料や、WUE(西部の州の学生向け)の制度があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "134495": {
-    "scholarshipUrl": "https://www.hccfl.edu/academics/center-international-education/international-admission-requirements/paying-college-international-student",
-    "intlAidNote": "留学生向けの経済援助はありません。年間の費用として約$25,274以上を用意する必要があります(授業料・諸費用$9,111など)。奨学金は在籍中の留学生向けにごく少数だけあり、入学後に応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155186": {
-    "scholarshipUrl": "https://highlandcc.edu/admissions/tuition-fees/",
-    "intlAidNote": "留学生の授業料は1単位$290(2026年度)です。学業奨学金(授業料・本の貸与で学期あたり最大$2,000)がありますが、留学生向けの専用奨学金は確認できませんでした。Kansas Promiseは米国市民・カンザス居住者のみです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "180373": {
-    "scholarshipUrl": "https://www.milescc.edu/Admissions/International.aspx",
-    "intlAidNote": "留学生は1年に$17,445以上の資金証明と、米国で有効な医療保険が必要です。学期開始の2週間前までに、授業料の預託金$500が必要です。奨学金・授業料免除(運動を含む)は年$30万以上で、AwardSpringから応募します(2月1日〜4月1日)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "146205": {
-    "scholarshipUrl": "https://www.jalc.edu/admissions/tuition-and-fees/",
-    "intlAidNote": "留学生の授業料は1単位$242(州外生と同じ)です。John A. Logan College Foundationの奨学金(授業料・諸費用の全額のものもあり、全体で$150万以上)に応募できますが、留学生の対象は個別に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "181312": {
-    "scholarshipUrl": "https://www.mpcc.edu/admissions/international-students.php",
-    "intlAidNote": "留学生は1年分(旅費を含む)の資金証明と、入学時に1学期分の授業料・寮・本代の預託金が必要です。学校の奨学金(Presidential: 授業料100%、GPA3.8以上など)は、高校の卒業資格が条件で、留学生が対象かどうかは窓口に確認してください(締切3月1日)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "179344": {
-    "scholarshipUrl": "https://wp.missouristate.edu/Costs/default.htm",
-    "intlAidNote": "州外生の授業料・諸費用は年約$9,325(2026-27、28単位)と低めです。新入生向けの奨学金の条件に「米国に合法的に滞在していること」があり、留学生の扱いは窓口(admissions 417-255-7955)に確認してください。奨学金は米国の課税対象になることがあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "146506": {
-    "scholarshipUrl": "https://www.lakelandcollege.edu/international/",
-    "intlAidNote": "留学生の授業料・諸費用は1単位$499.54(12単位で最低$6,228.60)です。年間費用の目安は$19,000(授業料・諸費用$12,000、生活費$6,000、保険$1,000)で、分割払いはなく全額を先に払う必要があります。入学後は、財団の奨学金に応募できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "222822": {
-    "scholarshipUrl": "https://www.angelina.edu/admissions/scholarships/",
-    "intlAidNote": "200以上の奨学金(学期$100〜授業料全額)に1つの申請で応募できます(11月3日〜3月20日)。奨学金は、通常4学期連続在籍で付与され、GPA2.75が条件です。留学生向けの専用奨学金や留学生の扱いは、学校に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "229504": {
-    "scholarshipUrl": "https://www.vernoncollege.edu/information-for-international-students",
-    "intlAidNote": "連邦・州の援助は市民・永住者のみで、留学生は対象外です。100以上の奨学金(学業・基金)があり、10月1日〜3月15日が優先受付ですが、留学生が対象かどうかは窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "102030": {
-    "scholarshipUrl": "https://www.bishop.edu/financial-affairs/tuition-fees",
-    "intlAidNote": "州外(留学生)の授業料は州内の2倍で、2025-26は1単位$192(州内)の2倍が目安です。奨学金の多くは、アラバマ州の居住者・米国市民・FAFSA提出が条件のため、留学生は対象外です。F-1は保険の加入が必須です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155858": {
-    "scholarshipUrl": "https://sccc.edu/admissions-and-aid/financial-aid/types-of-aid/scholarships/sccc-scholarships/",
-    "intlAidNote": "留学生の授業料は1単位$134+諸費用$114(2026-27)です。累積GPA3.5以上の留学生は、Out-of-State Academic Distinction奨学金の対象です。TOEFL500以上(紙)または61以上(iBT)が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "106148": {
-    "scholarshipUrl": "https://www.yc.edu/v6/registrar/faq.html",
-    "intlAidNote": "留学生は州外授業料で、出願料が$200です。留学生向けの奨学金は、米国入国後の入学登録後に探す形で、学校の奨学金は$100〜$4,000です(運動・成績・必要性など)。1年分の費用の資金保証が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "136516": {
-    "scholarshipUrl": "https://www.polk.edu/admission-aid/international-students/",
-    "intlAidNote": "学校の案内では、留学生向けの経済援助はありません。年間の授業料の目安は準学士で約$12,000、学士で約$17,500、総額は$26,000〜$38,000です。F-1・M-1は12単位以上のフルタイムで、州外授業料を全期間支払います。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "127732": {
-    "scholarshipUrl": "https://www.njc.edu/international-students/prospective-students",
-    "intlAidNote": "留学生向けのNJC Foundation International Studies奨学金(新入生$500、2年生$1,000)があります。留学生に連邦・州の援助や税金を使った奨学金はありません。2025-26年度は20か国から45人が在籍しています。年間費用の目安は約$18,373です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "200022": {
-    "scholarshipUrl": "https://bismarckstate.edu/uploads/32/InternationalTuitionWaiver2.pdf",
-    "intlAidNote": "留学生は、非居住者授業料の50%を免除するInternational Tuition Waiverに応募できます(年間3〜5件程度、先着順、F-1で12単位以上・GPA2.5以上が条件)。免除は授業料のみで、諸費用・寮・本代は対象外です。学校の奨学金の多くは米国市民・永住者のみです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "178244": {
-    "scholarshipUrl": "https://www.mobap.edu/admissions/international/",
-    "intlAidNote": "留学生は連邦の援助の対象外ですが、大学の奨学金があります(新入生はSpartan Academic Awardが年$15,000〜$17,000)。授業料は1学期$17,820+学生費$900で、州内外の区別はありません。運動部に入る留学生は、成績の評価にINCREDを使い、NAIAのエリジビリティセンターの書類が必要で、入学が即、競技資格を保証するものではありません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "181330": {
-    "scholarshipUrl": "https://www.midlandu.edu/admissions/international-students/",
-    "intlAidNote": "奨学金は学生1人につき1つの総合額(複数ある場合は大きいほう)で決まります。留学生は費用(授業料・寮・保険など)から奨学金を引いた額の資金証明(英訳した支援の申告書)が必要です。Bernhardson奨学金は、Honors Programの学生で、留学生が優先される場合があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "156745": {
-    "scholarshipUrl": "https://www.georgetowncollege.edu/academics/international",
-    "intlAidNote": "留学生はすべて成績による奨学金を受け、自己負担額が大きく減ると案内されています。運動・特技の奨学金もあります。留学生は分割払い(支払いの猶予)ができません(入国管理規則のため)。出願にはSAT・ACT・TOEFL・IELTSのいずれかの点数が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154688": {
-    "scholarshipUrl": "https://www.bakeru.edu/admissions/international-students/",
-    "intlAidNote": "2025-26年度の年間費用の目安は約$51,737(授業料$35,150、寮・食事$11,000など)です。留学生は成績による奨学金と、音楽・演劇・美術などの特技の奨学金に応募できます。運動奨学金は競技ごとに個別で、成績の奨学金と併用はできません。留学生向けの必要性ベースの基金(Hysko奨学金)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "179964": {
-    "scholarshipUrl": "https://www.williamwoods.edu/admissions/international/",
-    "intlAidNote": "留学生は約20か国から在籍し、TOEFL550以上(相当の試験でも可)と、授業料・寮・食事を賄える経済支援の申告書が必要です。学業・芸術・運動の奨学金があり、留学生の対象や金額は国際入学の窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154590": {
-    "scholarshipUrl": "https://www.wmpenn.edu/admissions-aid/admissions/international-students/",
-    "intlAidNote": "F-1の留学生で初めての学士課程を学ぶ人向けに、留学生奨学金があります。2026-27年度の全日制の授業料は$32,000で、寮・食事を含む総額は約$40,990です。学生の98%が奨学金・助成を受けています。留学生は経済支援の申告書が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "207458": {
-    "scholarshipUrl": "https://www.okcu.edu/paying-for-ocu/scholarships-and-assistance/international-scholarships",
-    "intlAidNote": "留学生の大半が、成績による奨学金(GPA3.0以上: 年$6,000〜$8,000)を自動で受けます。学部の奨学金(文理・ビジネス・看護: 年$3,000〜$5,000)は上乗せでき、芸術の特技の奨学金もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "178369": {
-    "scholarshipUrl": "https://www.moval.edu/admissions-financial-aid/tuition-financial-aid/financial-aid-information-for-international-students/",
-    "intlAidNote": "2026-27年度の授業料は$23,500(12〜18単位)、寮$6,500、食事$6,250、諸費$2,250です。留学生は連邦の援助の対象外で、学校の奨学金・州の援助の対象になる場合があります。学生の約98%が授業料の援助を受けています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "151786": {
-    "scholarshipUrl": "https://www.marian.edu/admissions/financial-aid/international-scholarships",
-    "intlAidNote": "留学生は、成績による奨学金(Marian Scholars: 年$8,000〜$18,000、累積GPA2.75以上)のほか、運動・特技・信仰の奨学金の対象になります。Global Studies奨学金、アート・デザインの奨学金もあります(締切12月1日)。出願・奨学金の締切は秋学期が6月1日です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155511": {
-    "scholarshipUrl": "https://www.mcpherson.edu/admissions/scholarships/",
-    "intlAidNote": "留学生は連邦・州の援助の対象外ですが、学校の奨学金の対象です。**留学生全員に年$2,000のInternational Student Awardがあり、運動などの奨学金と併用できます。**2026-27年度の直接費用の目安は約$51,258(授業料・寮・食事)です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "153126": {
-    "scholarshipUrl": "https://clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-international-students/",
-    "intlAidNote": "留学生の新入生は、成績による奨学金(年$22,000〜$25,000、高校GPAで決まる)が審査されます。**Katherine Lam奨学金は、日本・中国・韓国などアジア出身の留学生を優先**します。必要性ベースのInternational Need Grantは、1年修了後に申請できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "123457": {
-    "scholarshipUrl": "https://simpsonu.edu/tuition-fees/",
-    "intlAidNote": "留学生向けのMosaic奨学金(学業に優れ、文化・平等の促進を望む留学生向け、4年間)があります。George So奨学金は、オンラインなどで学ぶ留学生向けです。出願にはGPA2.7以上と英語力の証明(TOEFL、IELTS、Duolingo、SAT・ACT)が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155627": {
-    "scholarshipUrl": "https://www.ottawa.edu/ouks/admissions/scholarships",
-    "intlAidNote": "合格すると、学校の奨学金が自動で審査されます(Presidential: 授業料全額、Provost: 80%、Dean: 60%、Scholars Programの競争で決定)。2026-27年度の全日制の授業料は年$34,000です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "159656": {
-    "scholarshipUrl": "https://www.loyno.edu/admissions/tuition-financial-aid/scholarships",
-    "intlAidNote": "留学生向けの成績による奨学金(年$14,000〜$23,000、累積GPA3.0以上、授業料全額のものも)があります。連邦の必要性ベースの援助は対象外ですが、必要性ベースの援助を少額出します。F-1の留学生には、文化理解への貢献を評価するInternational Student Scholarshipもあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "105899": {
-    "scholarshipUrl": "https://www.arizonachristian.edu/financial-aid/types/scholarships/",
-    "intlAidNote": "年$350万以上の奨学金(学業・リーダーシップ・奉仕など5分野)があり、全日制でGPA2.0以上が条件です。留学生は、処理に6か月以上かかるため早めの出願が必要で、医療保険の加入が必須です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "157863": {
-    "scholarshipUrl": "https://www.unionky.edu/admissions-aid/cost-aid/tuition-fees",
-    "intlAidNote": "学部生の100%が奨学金や援助を受けています。成績による奨学金は、GPAだけで決まります。留学生向けは主に大学院プログラム(SEVP承認)のため、学部の留学生の扱いは入学窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "152099": {
-    "scholarshipUrl": "https://www.oak.edu/admissions/international-students/",
-    "intlAidNote": "留学生向けのInternational Student Scholarshipがあります。2025-26年度の学部の授業料は学期あたり$27,900(12〜18単位)です。1年分の費用の資金証明が必要で、奨学金計算ツールで目安を確認できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "219198": {
-    "scholarshipUrl": "https://www.mountmarty.edu/admission/undergraduate-students/international-students",
-    "intlAidNote": "留学生向けに、成績による奨学金(年$13,000〜$18,000、GPAで決まる)と、運動・特技の奨学金があります。2023-24年度の直接費用は約$42,400(授業料$30,250、諸費用$2,850、寮・食事$9,300)で、旅費・保険などの間接費が約$8,182です。奨学金後の自己負担は約$21,000が平均とされています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "135081": {
-    "scholarshipUrl": "https://residential.keiseruniversity.edu/admissions/international-students/",
-    "intlAidNote": "留学生向けの成績による奨学金が年$2,000〜$19,000です。資金証明は費用の上限(約$56,561)までを求められます。60か国以上から学生が在籍しています。International Center卒業生向けの授業料75%減の奨学金もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "218441": {
-    "scholarshipUrl": "https://www.ngu.edu/admissions/how-to-apply/international/",
-    "intlAidNote": "留学生向けのInternational Student Scholarship(寮生は年$3,000、通学生は年$1,500、F-1・GPA2.0以上)があります。年間費用の目安は約$27,360〜$30,000(授業料$9,960〜$12,600、寮、食事、交通など)で、I-20の前に資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "176947": {
-    "scholarshipUrl": "https://centralmethodist.edu/international/annual-expenses.html",
-    "intlAidNote": "留学生の年間の直接費用は約$37,030(授業料$27,030、寮・食事$9,170、諸費$780)です。成績による奨学金(新入生で年$4,000〜$12,000、編入で年$3,000〜$11,000)があります。最初にInternational Student Financial Aid Application(ISFAA)の提出が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "486901": {
-    "scholarshipUrl": "https://milligan.edu/admissions/financial-aid/",
-    "intlAidNote": "学部生の95%以上が奨学金・助成を受けています(2026-27年度は授業料据え置き、成績奨学金を拡充)。ただし、多様性奨学金(Goah Scholars)などは米国市民・永住者が条件で、留学生専用の奨学金は確認できませんでした。留学生は入学窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "199032": {
-    "scholarshipUrl": "https://www.montreat.edu/on-campus/tuition-aid/scholarships/",
-    "intlAidNote": "成績による奨学金と、Honorsプログラムの奨学金(全額免除1件、年$12,000〜$2,500など)があり、重ねて使えます。韓国系の学生向けにKorean Christian Heritage奨学金(年$13,200)もあります。2027-28年度の総額は約$54,979です。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "206835": {
-    "scholarshipUrl": "https://www.okwu.edu/admissions/international-students/",
-    "intlAidNote": "留学生は連邦の援助の対象外で、現金払いが前提です。留学生向けの奨学金枠(International Student Scholarship)があります。授業料は学士で1単位あたり約$447で、入学前に残額の50%を払う必要があります。1年分の資金証明が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "151290": {
-    "scholarshipUrl": "https://international.indianatech.edu/undergrad/finaid/",
-    "intlAidNote": "留学生は出願時に自動で奨学金が審査され、95%の留学生が援助を受けます(成績による奨学金は年$5,000〜$18,000)。年に2件の全額授業料の奨学金(Global Scholar of Excellence)があります。運動選手でない留学生は成績の奨学金が最大$15,000です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154721": {
-    "scholarshipUrl": "https://www.bethanylb.edu/tuition",
-    "intlAidNote": "2026-27年度の授業料は$34,500、寮・食事は$13,500で総額は約$48,000です。留学生を歓迎し、出願の総合審査で奨学金・助成が決まります。留学生専用の奨学金は確認できませんでした。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "147013": {
-    "scholarshipUrl": "https://www.mckendree.edu/offices/financial-aid/international/scholarships.php",
-    "intlAidNote": "留学生は合格時に成績による奨学金が決まります。編入はGPA2.75〜4.0で年$8,000、PTK会員で年$2,000です。Make Your Mark International奨学金(6件、各$2,000)もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "219949": {
-    "scholarshipUrl": "https://www.cumberland.edu/financial/sources-of-aid/",
-    "intlAidNote": "留学生には学期ごとに$125の留学生費がかかります。授業料は学期$13,620です。History & International Students向けのMonty & Pace Pope奨学金など、100以上の基金奨学金があります(締切4月1日)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "202763": {
-    "scholarshipUrl": "https://www.findlay.edu/admissions/international/scholarships",
-    "intlAidNote": "成績による奨学金が自動で適用されます(2026-27年度の新入生: Trustee 4.0以上で$25,000〜Merit $18,500)。編入も同様($18,500〜$25,000)。年間費用の目安は学士で約$60,000です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "140872": {
-    "scholarshipUrl": "https://www.reinhardt.edu/admissions-aid/how-to-apply/how-to-apply-international/",
-    "intlAidNote": "留学生にも、成績・運動の奨学金への同じアクセスがあり、合格審査と同時に審査されます(SATまたはACTの提出が必要)。留学生費が年$2,500で、1年分の資金証明は$51,264です(奨学金で調整)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "219000": {
-    "scholarshipUrl": "https://www.augie.edu/admission-aid/financial-aid-costs-scholarships/comprehensive-costs/international-student-costs",
-    "intlAidNote": "全日制の留学生は、全員が奨学金(年$15,000〜$25,000)を受けます。2026-27年度の総額$57,322から、奨学金後の自己負担は年$24,000〜$30,000です。出身国と成績で決まるGlobal Leaders奨学金もあります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "140951": {
-    "scholarshipUrl": "https://www.scad.edu/admission/financial-aid-and-scholarships/scholarships",
-    "intlAidNote": "留学生は連邦・州の援助の対象外ですが、合格者は大学の奨学金の自動審査を受けます(先着で枠は限られる)。留学生向けにInternational Student Scholarship(500語のエッセイ)があり、ポートフォリオ・オーディションも審査されます。奨学金で授業料・生活費の全額は賄えません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "164447": {
-    "scholarshipUrl": "https://www.aic.edu/admissions/undergraduate/scholarships/",
-    "intlAidNote": "留学生には必要性ベースの援助は出ません。成績による奨学金(年$20,000〜$30,000、4年間、成績維持が条件)が受験者に付与されます。学費・諸費は年$45,530です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "199962": {
-    "scholarshipUrl": "https://www.wingate.edu/admissions/international",
-    "intlAidNote": "留学生の成績による奨学金は年$15,000〜$30,500(保証ではない)です。入学前に授業料の預託金$2,200が必要で、学期ごとに留学生費$100がかかります。奨学金の額に応じて、資金証明は$30,000〜$49,000です。全額奨学金はありません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "101693": {
-    "scholarshipUrl": "https://umobile.edu/financial-aid/scholarships-grants/",
-    "intlAidNote": "合格時に成績による奨学金が自動で審査されます(Dean's Award: GPA2.5〜2.99で年$12,000など)。授業料は年$26,340で、州内外の区別はありません。外国籍の学生向けに、Mrs. Emmett B. Frazer Foreign Studies奨学金があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "140252": {
-    "scholarshipUrl": "https://www.life.edu/admissions/financial-aid/scholarships/",
-    "intlAidNote": "留学生向けに、授業料の補助(国際学生割引、地域・学期によって変動)があります(非居住ビザ、フルタイム、学費残高ゼロが条件)。大学院生には授業料50%のInternational Scholarshipがあります。運動奨学金はコーチの裁量で、保証されません(NAIA・SSAC)。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "151263": {
-    "scholarshipUrl": "https://uindy.edu/admissions-international-students/scholarships-grants-for-international-students",
-    "intlAidNote": "合格した学部の新入生は、学業奨学金を受けます(年$12,000〜$20,000を4年間。編入は年$9,000〜$17,000を3年間)。留学生の追加料金や高い授業料はありません。2026-27年度の直接費用は約$52,768です。必要性ベースの援助は留学生には出ません。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "157216": {
-    "scholarshipUrl": "https://www.lindsey.edu/about-lwc/Offices-and-Services/International-Student-services.cfm",
-    "intlAidNote": "留学生向けの奨学金があり、I-20の情報から金額が決まります。学部の授業料は2026-27年度で学期あたり$14,328(12〜18単位)です。留学生の必要性ベースの援助の対象かどうかは、窓口に確認してください。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "139630": {
-    "scholarshipUrl": "https://eu.edu/admissions/aid/eu-aid/",
-    "intlAidNote": "2026-27年度の授業料は年$27,840、1年分の資金証明は$41,100(2025-26)から奨学金分を引いた額です。成績による奨学金(最大$6,000)などがあり、留学生は学内就労制度(IWS)の対象になります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "120537": {
-    "scholarshipUrl": "https://www.hiu.edu/undergraduate-on-campus/international-students.php",
-    "intlAidNote": "留学生は成績や運動の奨学金の対象です(全額は賄えない)。学校の方針で、初学期の授業料・寮・食事・諸費用を前払いする必要があり、I-20のための預託金$550が必要です。資金証明は$36,676(援助分を引いた額)です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "153375": {
-    "scholarshipUrl": "https://www.grandview.edu/admissions/first-year/international/scholarships",
-    "intlAidNote": "留学生向けの成績による奨学金があります(Grand View Grant 最大$13,000〜Presidential 最大$21,000)。運動・学科の奨学金も、コーチ・教員の選考で出ます。必要性ベースの援助はありません。2024-25年度の授業料は$34,112です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "198215": {
-    "scholarshipUrl": "https://www.catawba.edu/international/",
-    "intlAidNote": "留学生も、成績・特技の奨学金(Presidential・Trusteeなど、$8,000〜授業料全額)の対象で、運動・音楽・舞台の奨学金もあります。連邦の援助は対象外です。開始の3か月以上前の出願が必要です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "155520": {
-    "scholarshipUrl": "https://www.mnu.edu/admissions/financial-aid/",
-    "intlAidNote": "2025-26年度の授業料は学期$18,810(年$37,620)です。学部の奨学金(学業・運動・信仰など)は、伝統的な学士課程の学生が対象で、98%の学生が援助を受けます。国際・DACA・非市民向けに、緊急の資金から$1,000の助成があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "133553": {
-    "scholarshipUrl": "https://erau.edu/becoming-student/international-students/scholarships",
-    "intlAidNote": "留学生は、出願時に国際奨学金の申請書を出すと、成績と経済的必要性で審査されます。F在留資格の留学生は、授業料・必須諸費用を超える奨学金部分に14%の課税があります。航空系の人気校で、学費は高めです。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "170675": {
-    "scholarshipUrl": "https://ltu.edu/scholarships/intercultural-excellence-scholarship/",
-    "intlAidNote": "学部の留学生向けに、Intercultural Excellence Scholarship(年$5,000、8学期で$20,000、合格時に自動審査)があります。2025-26年度の授業料は$43,440、諸費$2,400、寮・食事$12,484で、留学生は学期ごとに$250の留学生費がかかります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "221731": {
-    "scholarshipUrl": "https://www.tnwesleyan.edu/admissions/international-admissions/",
-    "intlAidNote": "学生の100%が、成績または運動の奨学金を受けます(年間で$1,100万以上)。Neff Award(授業料全額、年2件、GPA3.75以上・ACT30以上)があります。TWU Pledgeはテネシー州の居住者のみです。留学生の担当カウンセラーが出願を支援します。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "148131": {
-    "scholarshipUrl": "https://www.quincy.edu/costs-aid/tuition-costs-fees/",
-    "intlAidNote": "2026-27年度の授業料(本代込み)は年$39,900で、非返金の留学生費$1,200がかかります。編入奨学金が年$10,000〜$18,000です。Illinois Promiseなどは州の居住者向けで、留学生は対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "138293": {
-    "scholarshipUrl": "https://www.webber.edu/financial-aid/",
-    "intlAidNote": "留学生は全額を学期の開始前に払う必要があり、分割払いはありません。留学生向けに、友人紹介の奨学金($500)があり、非運動選手向けのCampus Service奨学金(年$6,000)などがあります。ほとんどの学生が奨学金を受けています。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "146612": {
-    "scholarshipUrl": "https://www.lewisu.edu/admissions/international/tuition.htm",
-    "intlAidNote": "学部の奨学金は、前の学校のGPAで自動で決まり、年最大$18,000です(留学生を含む)。米国の連邦・州の援助は市民・永住者のみで、留学生向けの他の奨学金は少ないと案内されています。Mpower Financingの学生ローンが利用できます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "219806": {
-    "scholarshipUrl": "https://www.cn.edu/admissions-and-aid/international-students/international-scholarships-financial-aid/",
-    "intlAidNote": "留学生は、新入生向けの成績奨学金(Presidential Excellence 年$16,000、Presidential 年$14,000、Dean's 年$12,000)の対象です。**韓国の学生向けBilly Kim奨学金**もあります。2026-27年度の総額は約$55,300で、留学生費$125と保険(学期$938)がかかります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "172264": {
-    "scholarshipUrl": "https://www.sienaheights.edu/",
-    "intlAidNote": "留学生向けに、新入生(高校最終学年、GPA3.0以上)と編入生(GPA2.75以上)の奨学金があり、4年間更新できます。授業料は年$29,500+諸費$1,278で、寮・食事を含む直接費用は約$44,308です。留学生には年$2,000の預託金と、セッションごとの支援費$100がかかります。ESLの学生は奨学金の対象外です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "237312": {
-    "scholarshipUrl": "https://www.ucwv.edu/admissions/financial-aid/types-of-aid/scholarships/",
-    "intlAidNote": "学部の成績による奨学金が年$5,000〜$15,000で、寮生は寮・食事の奨学金も上乗せできます。最上位のPresidential奨学金は、授業料・寮・食事を4年間賄います(年最大$45,980)。留学生向けの基金($50,000)が新設されました。2026-27年度の授業料は$33,990です。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "154712": {
-    "scholarshipUrl": "https://www.benedictine.edu/admission/international",
-    "intlAidNote": "留学生向けの奨学金は、成績・テストの点数・英語力で決まります(合格が条件、GPA2.5以上を維持)。新入の留学生は分割払いが使えず、3学期目から月払いが使えます。Flywireで自国通貨での支払いができます。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "212601": {
-    "scholarshipUrl": "https://www.gannon.edu/tuition-and-financial-aid/types-of-financial-aid/aid-for-international-students/",
-    "intlAidNote": "多くの学部留学生が、国際奨学金(成績で決まる授業料の減額)を受けられます。2026-27年度の授業料は$42,020〜$44,570、寮・食事$17,100です。外部の資金(Fulbrightなど)の案内があります。",
-    "intlAidCheckedAt": "2026-10-04"
-  },
-  "137476": {
-    "scholarshipUrl": "https://www.stu.edu/admissions/international-admissions/",
-    "intlAidNote": "合格した留学生は、GPAに応じた学業奨学金(GPA3.6超: 最大$13,000、3.0〜3.59: $11,000、3.0未満: $9,000)が自動で審査されます。全額免除はありません。留学生は、授業料・諸費の50%を登録時に、残りを8日目までに払います。",
-    "intlAidCheckedAt": "2026-10-04"
-  }
+ "_README": "学校ごとの手動修正。キーはunitid(アプリの学校IDと同じ)。使える項目: conference, athleticsUrl, scholarshipUrl, intlAidNote(留学生向けメモ), intlAidCheckedAt(確認日)。毎回のデータ更新後も反映されます。",
+ "243744": {
+  "scholarshipUrl": "https://financialaid.stanford.edu/undergrad/how/international.html",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生向けの必要性ベースの援助は限定的(留学生のおよそ3人に1人が受給)。援助を希望する場合は出願時に申告が必要で、申告すると選考がより厳しくなります。奨学金を受けるには社会保障番号(SSN)か納税者番号(ITIN)が必要です。"
+ },
+ "235237": {
+  "conference": "NWAC Western Division"
+ },
+ "236708": {
+  "conference": "NWAC Eastern Division"
+ },
+ "110662": {
+  "scholarshipUrl": "https://ieo.ucla.edu/finances/scholarships/",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "大学の学部生向け経済援助は米国市民・永住者が対象で、留学生は原則対象外。留学生は十分な資金の証明が必要(2026年秋入学で目安約$80,739)。外部の奨学金情報は留学生オフィス(Dashew Center)のページにあります。運動奨学金は別枠なので、コーチに直接確認してください。"
+ },
+ "141644": {
+  "scholarshipUrl": "https://www.hpu.edu/undergraduate-admissions/international/scholarships.html",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生は出願時に成績による奨学金(授業料の最大50%)の対象として自動的に審査されます(別途申請不要)。新規F-1の留学生向けに授業料50%の奨学金(#YouAreWelcomeHere、締切3月1日)があります。運動奨学金は少額で、競技のヘッドコーチの裁量です。問い合わせ: international@hpu.edu"
+ },
+ "155195": {
+  "scholarshipUrl": "https://www.hutchcc.edu/international-student",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "学校のサイトでは「留学生向けの経済援助はない」と案内されています。入学前に、初年度(9か月)の費用を賄える資金($13,000)の証明が必要です。運動奨学金の扱いは、コーチに直接確認してください。"
+ },
+ "123961": {
+  "scholarshipUrl": "https://ois.usc.edu/living-in-la/money/financialaid/",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生は連邦の援助や大学の必要性ベースの援助の対象外ですが、成績による奨学金や学部・学科の奨学金は対象になる場合があります。私的ローンには米国市民などの共同署名者が必要です。"
+ },
+ "122977": {
+  "scholarshipUrl": "https://www.smc.edu/admission-aid/apply/international-students/tuition-fees.php",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生の授業料は1単位$486(2026年秋〜2027年夏)で、年間24単位なら$11,664。生活費を含めた年間の目安は約$34,000です。SMC財団の奨学金(経済的必要性を問わないもの)の審査を受けられる場合があります。CCCAAのため運動奨学金は原則ありません。"
+ },
+ "141574": {
+  "scholarshipUrl": "https://www.hawaii.edu/issmanoa/?page_id=2533",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生(F-1)向けに、成績による奨学金が出願と同時に自動で審査されます(International Merit Award、国際学部生奨学金IUSSは年$10,000で最大4年、別途申請不要・GPA3.0以上が目安)。ほかにも留学生オフィスが運営する奨学金があります。運動奨学金は競技のコーチに確認してください。"
+ },
+ "153630": {
+  "scholarshipUrl": "https://www.iwcc.edu/financial-aid/scholarships/",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生の授業料は1単位$230+留学生料$100(15単位で1学期$3,705)。留学生は連邦の学生援助の対象外です。財団の奨学金(成績・活動・経済的必要性)の対象になるかは、学校に直接確認してください。"
+ },
+ "229355": {
+  "scholarshipUrl": "https://tjc.edu/scholarships/",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "学校のサイトでは「留学生向けの経済援助(一般の奨学金・ローン)はない」と案内されていますが、運動奨学金は留学生にも出される場合があります(競技ごとにNJCAA・地区の規則に従う)。授業料は州外生で年間約$6,300(2024-25、留学生料金は要確認)。"
+ },
+ "120342": {
+  "scholarshipUrl": "https://orangecoastcollege.edu/services-support/gec/international/international-admissions/attendance-cost.html",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生の授業料は1単位$502(2026年夏〜)で、F-1は各学期12単位以上が必要です。新規入学の留学生向けの奨学金・援助はなく、継続学生(または編入予定者)になってから奨学金に応募できます。1年分の学費・生活費の資金証明と、指定の医療保険への加入が必須です。CCCAAのため運動奨学金は原則ありません。"
+ },
+ "104151": {
+  "scholarshipUrl": "https://admission.asu.edu/cost-aid/international",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生は連邦・州の援助の対象外ですが、成績による奨学金(NAMU奨学金など、F-1の新入生・編入生)や、学部・学科の奨学金は対象になる場合があります。私的ローンには米国市民・永住者の共同署名者が必要です(上限の目安は約$40,000)。"
+ },
+ "227304": {
+  "scholarshipUrl": "https://www.odessa.edu/enrollment-aid/admissions/international-students.html",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生は連邦・州の援助の対象外です。F-1の学生は最初の学期は財団の奨学金の対象外ですが、2学期目の審査に向けて応募できます。州外生の授業料は1単位$747(2026-27)。入学には年間$17,000の資金証明が必要です(家族1人につき+$5,000)。"
+ },
+ "154697": {
+  "scholarshipUrl": "https://www.bartonccc.edu/admission/international",
+  "intlAidCheckedAt": "2026-10-04",
+  "intlAidNote": "留学生の授業料は1単位$230(授業料$180+諸費用$50、2026-27)。初回に$150の入学手数料がかかります。大学の奨学金は主にカンザス州の高校卒業生向けで、留学生向けの奨学金は公式ページでは確認できませんでした。運動奨学金はコーチに確認してください。"
+ },
+ "164924": {
+  "scholarshipUrl": "https://www.bc.edu/bc-web/admission/affordability.html",
+  "intlAidNote": "留学生は必要性ベースの援助の対象外(全費用を自己負担する前提)。成績による奨学金はGabelli Presidential Scholars(授業料全額、11月1日までに出願した人が審査対象、経済的必要性は問わない)の1つだけです。I-20発行には費用の資金証明(Certification of Finances)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217882": {
+  "scholarshipUrl": "https://www.clemson.edu/admissions/undergraduate-admissions/apply/international.html",
+  "intlAidNote": "学校の案内では、学部の留学生向けの奨学金はありません。入学時に在学期間全体の資金があることの証明が必要で、支払いの猶予もありません。私的ローンには米国市民の共同署名者が必要です。姉妹州協定による授業料の減額の制度もあります(対象は限定)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198419": {
+  "scholarshipUrl": "https://financialaid.duke.edu/international-students/",
+  "intlAidNote": "留学生は出願時に援助を希望すると申告した場合のみ、必要性ベースの援助の対象になります(申告しないと在学中も申請不可)。国際CSS Profileと、保護者の外国所得申告書が必要です。受け入れは限定的で、必要額の100%を満たしますが、編入の留学生は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134097": {
+  "scholarshipUrl": "https://cge.fsu.edu/international-students/funding/oos-tuition-waiver",
+  "intlAidNote": "新入生は州外授業料の免除(奨学金)が自動で審査されます。在学中は、GPA3.5以上などの条件で州外授業料の免除に応募できます(1単位あたり約$530相当、GPAで1〜12単位分)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139755": {
+  "scholarshipUrl": "https://isss.oie.gatech.edu/isss/financial-assistance-international-students",
+  "intlAidNote": "連邦・州の援助の対象外で、大学の奨学金も留学生にはほとんど出ません。留学生オフィスが運営する私的な奨学金、緊急時の資金(2学期以上の在籍後)、予想外の経済的困難に対する授業料免除(限定)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199193": {
+  "scholarshipUrl": "https://admissions.ncsu.edu/apply/international/",
+  "intlAidNote": "留学生は経済援助の対象外ですが、競争の厳しい成績による奨学金が少数あります(合格後にPACK ASSISTから申請)。2027-28年度のビザ用の資金証明は$58,423です。学部・学科の少額の奨学金がある場合もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228246": {
+  "scholarshipUrl": "https://www.smu.edu/admission/apply/international",
+  "intlAidNote": "出願者は国籍を問わず、成績による奨学金が自動で審査されます(別途申請不要、1月15日までに出願が完了していること)。必要性ベースの援助は米国市民・永住者のみです。留学生の1年の費用の目安は約$82,626です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "196413": {
+  "scholarshipUrl": "https://www.syracuse.edu/admissions-aid/tuition-fees/international-costs/",
+  "intlAidNote": "成績による奨学金が出願の審査で決まります(合格時に通知)。留学生は一般に、寮・食事の援助、ローン、学内就労の対象外です。2026-27年度の寮生活での年間費用の目安は約$98,248です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110635": {
+  "scholarshipUrl": "https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellor-scholarship/international-student-scholarships/",
+  "intlAidNote": "連邦・州・大学の必要性ベースの援助は留学生は対象外ですが、留学生向けの奨学金(Regents' & Chancellor's、International Leaders など)があり、合格者は別途申請なしで審査されます。外部奨学金のデータベースもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157289": {
+  "scholarshipUrl": "https://louisville.edu/cost-aid/undergraduate-scholarships-aid/international-scholarships-aid",
+  "intlAidNote": "F-1の留学生向けに、Global Cardinal奨学金(新入生、高校のGPAに応じて年$5,000〜$8,000、合格時に自動適用)と、Global Transfer奨学金(編入、大学GPA3.0以上で年$5,000、最大6学期)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "135726": {
+  "scholarshipUrl": "https://isss.miami.edu/students/newly-admitted-undergraduate-students/financial-matters/index.html",
+  "intlAidNote": "出願者は国籍を問わず、成績による奨学金が自動で審査されます。留学生は大学の必要性ベースの援助も申請できます(CSS Profileの提出が必要)。連邦・州の援助は対象外です。私的ローンには米国市民などの共同署名者が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199120": {
+  "scholarshipUrl": "https://studentaid.unc.edu/special-circumstances/international-students/",
+  "intlAidNote": "学校の案内では、留学生は成績による奨学金(Academic Scholarships)の対象外で、必要性ベースの援助も米国市民・永住者のみです。留学生に出される奨学金はごく少数で、全額自己負担になる前提で準備するよう案内されています。在学期間全体の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152080": {
+  "scholarshipUrl": "https://financialaid.nd.edu/apply-or-renew/international-students/",
+  "intlAidNote": "留学生にも、合否に経済状況を考慮しない(need-blind)選考と、必要額を100%満たす必要性ベースの援助(2026-27年度からローンなし)があります。CSS Profile(学校コード1841)の提出が必要です。成績による奨学金も少数あります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "215293": {
+  "scholarshipUrl": "https://financialaid.pitt.edu/types-of-aid/scholarships/international-student-scholarships/",
+  "intlAidNote": "2月1日までに出願した留学生の新入生は、成績による奨学金(年最大$10,000、最大8学期、別途申請不要)が自動で審査されます。合格・奨学金の通知は4月1日までです。必要性ベースの経済援助は留学生には出ません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "234076": {
+  "scholarshipUrl": "https://sfs.virginia.edu/financial-aid-new-applicants/financial-aid-basics/eligibility-requirements",
+  "intlAidNote": "学校の案内では、留学生には大学からの奨学金やローンはありません(United World College出身者の必要性ベースの援助が唯一の例外)。資金を用意できない場合は出願しないことが勧められています。私的ローンの利用は可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "233921": {
+  "scholarshipUrl": "https://finaid.vt.edu/undergraduate/international-students.html",
+  "intlAidNote": "留学生は学部・学科の奨学金に応募できます(出願後にScholarship Centralから)。連邦・州の援助(FAFSAなど)は対象外で、私的ローンを使う場合は、留学生向けの貸し手を比較するツールがあります。外部の奨学金は、EducationUSAやIEFAなどの情報源が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199847": {
+  "scholarshipUrl": "https://financialaid.wfu.edu/types-of-aid/scholarships/",
+  "intlAidNote": "留学生は必要性ベースの援助の対象外ですが、成績による奨学金のほとんど(授業料・寮費などの全額を賄うStamps、Carswell、Gordon、Reynoldsを含む)の対象です。通常の出願がそのまま奨学金の審査になり、別途申請は不要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "223232": {
+  "scholarshipUrl": "https://admissions.web.baylor.edu/admission/international/financial-assistance-international-students",
+  "intlAidNote": "合格した留学生は、成績による奨学金(Baylor Distinction Award)が自動で審査されます(高校の成績の総合評価)。必要性ベースの援助を希望する場合は、Baylor International Financial Aid Application(10月1日〜、優先締切11月1日、最終2月1日)を提出します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230038": {
+  "scholarshipUrl": "https://enrollment.byu.edu/financial-aid/international-student-scholarships",
+  "intlAidNote": "留学生向けの奨学金は大学の窓口ではとても限られています(1月2日が新入生の締切)。Global Opportunity Scholarship(初めての海外経験に最大$5,000、必要性ベース)は留学生にも開かれている数少ない奨学金です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153603": {
+  "scholarshipUrl": "https://www.iastate.edu/admission-and-aid/admissions/international-admissions/international-merit-scholarships",
+  "intlAidNote": "合格した留学生の新入生は、成績による奨学金(International Excellence Awards: 年$6,000〜$14,000、最大8学期)が自動で付与されます。ISSOの緊急用・必要性ベースの少額の援助もあります。連邦・州の援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155399": {
+  "scholarshipUrl": "https://www.k-state.edu/sfa/scholarships-aid/scholarships/future-students/additional-opportunities/international/",
+  "intlAidNote": "留学生向けの奨学金が複数あります(OIP奨学金、国際学生センター経由の奨学金、Kirmser奨学金など。経済的必要性や活動実績をエッセイで審査、春に選考して翌秋から支給)。K-State Scholarship Networkで学部・寄付者の奨学金にも応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207388": {
+  "scholarshipUrl": "https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/international-scholarships",
+  "intlAidNote": "出願だけで留学生向け奨学金(年$5,000〜$15,000)が自動で審査されます。新入生のInternational Achievement奨学金は英語試験の点数とGPAで年$9,000〜$15,000、編入は$7,000〜です。5月1日までの受諾、8月15日が最終締切です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228875": {
+  "scholarshipUrl": "https://admissions.tcu.edu/afford/scholarship-aid/international.php",
+  "intlAidNote": "成績による奨学金($2,000〜$41,570)と、必要性ベースの援助があります(CSS Profile、学校コード6820が必要)。ただし奨学金の合計は多くの場合、費用の半分未満です。TCUは経済状況を選考で考慮し(need-aware)、年$40,000以上を負担できる出願者が有利とされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229115": {
+  "scholarshipUrl": "https://depts.ttu.edu/admissions/international/costs-scholarships.php",
+  "intlAidNote": "留学生は連邦の援助の対象外です。国際課の奨学金・助成、学部の奨学金、私的ローンがあります。競争的な奨学金を$1,000以上受けた場合は、州内生の授業料に下げる免除の対象になることがあります。留学生の学費・諸費用は年約$26,200、総額は約$44,100です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "104179": {
+  "scholarshipUrl": "https://financialaid.arizona.edu/apply-for-aid/international",
+  "intlAidNote": "成績による奨学金(International Tuition Award: 新入生は年$4,000〜$35,000、編入は$5,000)があります。州立大学のため、必要性ベースの援助は原則出ません。奨学金を受けない場合は全額自己負担の前提です。サービス・リーダーシップ奨学金($500〜$5,000)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "132903": {
+  "scholarshipUrl": "https://global.ucf.edu/international-students-scholars-and-professionals/scholarships/",
+  "intlAidNote": "留学生は連邦の援助の対象外で、財政援助オフィスは留学生の奨学金を原則出しません。限定的なものとして、予期せぬ困難時の州外授業料の免除(UCF Global)があります。私的奨学金のデータベース(IEFAなど)の利用が勧められています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "201885": {
+  "scholarshipUrl": "https://www.admissions.uc.edu/information/international/finance/scholarship.html",
+  "intlAidNote": "合格者は国際奨学金(International Outreach Award: メインキャンパスで年$5,000〜$15,000、GPA3.0以上)が自動で審査されます(11月1日までに出願が完了していること)。全額免除や必要性ベースの奨学金は留学生には出ません。新入生は最大8学期更新できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "126614": {
+  "scholarshipUrl": "https://www.colorado.edu/admissions/cost/scholarships-financial-aid/international",
+  "intlAidNote": "連邦の援助は留学生は対象外です。州外生向けの成績による奨学金(Presidential、Chancellor's Achievement)の審査は受けられます。運動・音楽の奨学金は、運動部・音楽学部が特に優れた人に全額または一部を出す場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225511": {
+  "scholarshipUrl": "https://www.uh.edu/financial/undergraduate/types-aid/scholarships/",
+  "intlAidNote": "11月1日までに出願すると、成績による奨学金(Tier One: 授業料全額、Academic Excellence: 年最大$7,000、Cullen Leadership: 年$1,000)が審査されます。$1,000以上の競争的奨学金を受けた留学生は、州外授業料の免除を受けられる場合があります。必要性ベースの助成(TPEG)は年$100〜$1,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155317": {
+  "scholarshipUrl": "https://admissions.ku.edu/afford/scholarships",
+  "intlAidNote": "留学生の新入生は、GPAだけで決まる奨学金(KU Excellence: 年$16,000〜KU Access: 年$8,000、総額で最大$64,000)が審査されます。編入は最大$12,000です。必要性ベースのKU International Student Tuition Grant($500〜$2,000)は、1年在学後に申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171100": {
+  "scholarshipUrl": "https://admissions.msu.edu/cost-aid/scholarships/international",
+  "intlAidNote": "合格した留学生は、州外生向けの成績による奨学金(President's $15,000〜Global Community Scholars $3,000)が自動で審査されます。必要性ベースの援助は学部の留学生には出ませんが、短期・限定の助成金やローン、緊急用の基金(最大$2,500など)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147767": {
+  "scholarshipUrl": "https://admissions.northwestern.edu/tuition-aid/international-student-aid/",
+  "intlAidNote": "留学生にも必要性ベースの援助があり、1年生は必要額を100%満たし、授業料・寮費などをローンなし・就労なしの給付で賄います。ただし留学生は経済状況を選考で考慮される(need-aware)ため競争が厳しく、出願時に援助を希望すると申告する必要があります。編入の留学生は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204796": {
+  "scholarshipUrl": "https://sfa.osu.edu/international-student/about-aid/types-of-aid/scholarships",
+  "intlAidNote": "連邦の援助は留学生は対象外です。大学の奨学金は、Scholarship Universeにプロフィールを登録して応募します(優先日2月1日)。留学生向けの国際学生助成(主に卒業間近の経済的必要性のある学生向けの少額)や、学部の奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "214777": {
+  "scholarshipUrl": "https://global.psu.edu/page/tuition-grant-information",
+  "intlAidNote": "留学生向けの経済援助は、ほぼありません。留学生だけの授業料助成(SIGIA、PSTAG)が少数あり、金額は$100〜$2,000程度です(iStartから申請、秋学期は6月15日、春学期は10月15日)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "243780": {
+  "scholarshipUrl": "https://www.purdue.edu/dfa/students/international/",
+  "intlAidNote": "学部の留学生は、大学の奨学金を含む経済援助の対象外とされています(学校の案内)。外部の奨学金や、米国市民の共同署名者つきの私的ローンが選択肢です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "145637": {
+  "scholarshipUrl": "https://www.osfa.illinois.edu/types-of-aid/other-aid/international-students/",
+  "intlAidNote": "学部の留学生には、必要性ベースの援助はありません。学部・学科が入学書類を見て決める奨学金は、別途申請なしで審査される場合があります。留学生オフィスの限定的な奨学金・ローン(予期せぬ経済的困難向けなど)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153658": {
+  "scholarshipUrl": "https://admissions.uiowa.edu/cost-aid/international-scholarships",
+  "intlAidNote": "州外の新入生向けに成績による奨学金(National Scholars Award: 年$2,000〜$15,000、最大4年)が審査されます(テストの点数とGPAなど)。留学生向けの奨学金は限定的です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "163286": {
+  "scholarshipUrl": "https://marylandglobal.umd.edu/global-learning-all/international-students-scholars/connect-isss/international-student-support-fund",
+  "intlAidNote": "留学生向けの大学の奨学金は少なく、在学中のF-1/J-1学生向けの小額のものが中心です(Roberta Ma奨学金は平均約$500、国際学生支援基金は母国の危機などの場合に上限$1,500)。1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170976": {
+  "scholarshipUrl": "https://finaid.umich.edu/apply-aid/international-students",
+  "intlAidNote": "連邦の援助はなく、大学の奨学金も留学生にはごく限られています(学校の案内)。留学生向けの基金(S&S奨学金: 主にアフリカ・アジア出身のSTEM専攻で年$5,000〜$12,000など)や、工学部の必要性・成績ベースの奨学金(1学期在学後)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181464": {
+  "scholarshipUrl": "https://admissions.unl.edu/cost/scholarships/international-scholarship-program-agreements/",
+  "intlAidNote": "合格した留学生は、成績による奨学金(Global Laureate: 年$15,000、Global Ambassador: 年$10,000、Global Delegate: 年$4,000、最大4年)が自動で審査されます。授業料はBig Tenで最も安い水準とされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209551": {
+  "scholarshipUrl": "https://admissions.uoregon.edu/international/scholarships",
+  "intlAidNote": "1月15日までに出願すると、成績による奨学金(UO Excellence、Summit: GPA3.90以上、Apex: GPA3.70以上)が自動で審査されます。留学生向けには、国際文化奉仕プログラム(ICSP、授業料の一部)、国際学生の就労プログラム($1,000〜$4,500)などもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236948": {
+  "scholarshipUrl": "https://www.washington.edu/circle/scholarships-and-financial-aid/",
+  "intlAidNote": "大学の財政援助オフィスは、留学生に奨学金・助成などを一切出しません(学校の案内)。学部の留学生は全費用を自己負担する準備が必要です。本国政府や民間団体、学部の奨学金を探すよう案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240444": {
+  "scholarshipUrl": "https://admissions.wisc.edu/international-scholarships/",
+  "intlAidNote": "連邦・州の援助は留学生は対象外です。新入生が1年目に奨学金を得るのはとても難しいと案内されています。King-Morgridge Scholars(特定の国の出身者向け、全額支給)やWestern Union奨学金($1,000)があり、在学中は応募できる奨学金が増えます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "142115": {
+  "scholarshipUrl": "https://www.boisestate.edu/global-international/cost-and-scholarships/undergraduate-scholarships/",
+  "intlAidNote": "留学生は出願時に、成績による奨学金(合計で年$5,000〜$17,000: Ridgeline $5,000、Summit $10,000、Global $5,000〜$7,000)が自動で審査されます(GPA3.1以上が目安)。在学中は、州外授業料の一部を免除するGlobal Broncos奨学金($2,000〜$8,500)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110556": {
+  "scholarshipUrl": "https://cge.fresnostate.edu/international/future/fees/financialassistance.html",
+  "intlAidNote": "留学生の州外授業料は1単位$396で、2026年秋の年間費用の目安は約$34,434です。留学生向けにDean's Scholarship Tuition Waiver($1,250〜$3,750)や、新入生の最初の学期のMuhareb Family Grant($1,000〜$1,500、申請不要)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "126818": {
+  "scholarshipUrl": "https://thehub.colostate.edu/financial-aid/international-student-scholarships/",
+  "intlAidNote": "留学生の新入生は、成績による奨学金(年$2,000〜$12,000、最大4年)が自動で審査されます(12月15日までの出願が最も有利)。留学生向けの経済援助はごく限られ、多くは大学院の学部奨学金です。2024年の年間費用の目安は約$57,098です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235316": {
+  "scholarshipUrl": "https://www.gonzaga.edu/academics/global-engagement/international-students/accepted-international-students/scholarships-and-employment-information-for-international-students/international-undergraduate-student-scholarships",
+  "intlAidNote": "留学生も出願者全員が、成績による奨学金(新入生で年$23,500〜$32,000、4年間保証)が自動で審査されます。授業料は留学生・州外生・州内生で同じです。FAFSAなどの経済援助の申請は留学生は対象外で、私的ローンは共同署名者が必要な場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209542": {
+  "scholarshipUrl": "https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships",
+  "intlAidNote": "留学生は出身地域ごとの奨学金(年$2,000〜$16,000、合格と同時に付与、GPA2.0以上で更新)が保証され、東南アジア・香港・マカオは年$8,000です。成績による奨学金(Provost's Scholarship: 年$6,000、GPA3.5以上)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "122409": {
+  "scholarshipUrl": "https://psfa.sdsu.edu/international/international-scholarships",
+  "intlAidNote": "留学生の州外授業料は1単位$471で、2025-26年度の年間費用の目安は約$50,322(学外居住)です。成績・活動実績が優れた留学生の新入生向けに、限られた数のAdvantage奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230728": {
+  "scholarshipUrl": "https://www.usu.edu/admissions/international/undergraduate-costs",
+  "intlAidNote": "成績による奨学金は少なく、GPA3.85以上の新入生・編入生は、留学生授業料から年$1,000を免除するAfton B. Tew奨学金が自動で審査されます。学部ごとの奨学金は1月に申請を受け付けて2月1日締切です。全額免除の奨学金はなく、1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236939": {
+  "scholarshipUrl": "https://ip.wsu.edu/future-students/tuition-fees/scholarships-funding/",
+  "intlAidNote": "留学生は合格時にInternational Academic Award(年$4,000: GPA3.6以上、年$2,000: GPA3.0〜3.59、授業料免除)が保証されます。在学中のInternational Merit Award(1学期$2,000)や、緊急時の授業料減額($1,500、1回)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100858": {
+  "scholarshipUrl": "https://www.auburn.edu/admissions/prospective-students/international/index.php",
+  "intlAidNote": "学校の案内では、州外生向けの成績による奨学金(Academic Presidential: 年最大$17,000、Heritage: $11,000、Charter: $7,000)にAUSOMから応募します(優先締切2月中旬)。最低9か月分の資金証明が必要です。留学生向けの専用奨学金の記載は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "159391": {
+  "scholarshipUrl": "https://www.lsu.edu/financialaid/apply_for_scholarships/apply_for_international_student_scholarships.php",
+  "intlAidNote": "留学生だけを対象にした奨学金はありません(学校の案内)。米国の高校(またはアメリカンスクール)出身の留学生の新入生は、通常の新入生奨学金の対象になります。在学中の留学・研修向けの奨学金($1,500)は留学生も応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176080": {
+  "scholarshipUrl": "https://www.sfa.msstate.edu/scholarships/international-scholarships",
+  "intlAidNote": "留学生は出願時に、成績による奨学金が自動で審査されます(9〜11年次のGPA3.30以上: 年$12,000〜$16,000、4年間)。優先日は12月1日です。エージェント契約がある場合は対象外になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228723": {
+  "scholarshipUrl": "https://aggie.tamu.edu/financial-aid/types-of-aid/scholarships/international-student-scholarships",
+  "intlAidNote": "留学生向けの奨学金と、必要性ベースの援助(州の助成ITPEG: 最大$4,000、TASFAの申請が必要)があります。学内の奨学金(Eppright: $3,000など)は在学中の留学生が応募できます。援助は必要性ベースで、費用の全額は賄えません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100751": {
+  "scholarshipUrl": "https://afford.ua.edu/scholarships/international/",
+  "intlAidNote": "留学生の新入生には、ACT・SATとGPAで決まる成績による奨学金(年$6,000〜$28,000)があります。連邦の援助は対象外です。州外・留学生の編入生は自動の奨学金の対象外で、別の奨学金に応募します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221759": {
+  "scholarshipUrl": "https://onestop.utk.edu/scholarships-financial-aid/scholarships/",
+  "intlAidNote": "留学生の新入生向けに、Global Ambassador奨学金(年$10,000〜$15,000、5月1日締切)、International Volunteer奨学金(年$3,000〜$18,000、4月1日締切)、International Undergraduate Merit奨学金(年$5,000〜$8,000)があります。全額免除の奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228778": {
+  "scholarshipUrl": "https://global.utexas.edu/isss/advising-services/scholarships",
+  "intlAidNote": "留学生向けの経済援助は限られています。留学生オフィスが秋と春に募集する奨学金(各$2,000〜$5,000の学期・学年奨学金や、必要性ベースの現金援助など)があります。工学部は新入生の留学生には奨学金を出さず、在学中の留学生は一部に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "106397": {
+  "scholarshipUrl": "https://international-admissions.uark.edu/undergraduate-studies/funding-your-studies.php",
+  "intlAidNote": "留学生の新入生も、多くの成績による奨学金に応募できます(入学出願11月1日、奨学金の優先は11月15日、最終2月1日)。特定の国・州の学生には州外授業料の一部を免除するTuition Advantage制度があります。大学のローンはなく、1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134130": {
+  "scholarshipUrl": "https://www.sfa.ufl.edu/international/",
+  "intlAidNote": "留学生向けの奨学金は少なく、主に大学院向けです。GPA3.75以上の留学生は国際学生奨学金に推薦され、5人が$1,000を受給します。新入生向けの奨学金は限られた数です。連邦の援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139959": {
+  "scholarshipUrl": "https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships/",
+  "intlAidNote": "連邦・州の援助は留学生は対象外ですが、F-1の留学生は成績による奨学金の対象です(Classic: 州内外の授業料差額の半分を免除、Classic City Scholars: 全額免除、Foundation Fellowship: 差額免除に加え$30,000の支給)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157085": {
+  "scholarshipUrl": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/international-student-undergraduate-scholarships",
+  "intlAidNote": "留学生の新入生向けに、Bluegrass奨学金(年$6,500〜$16,000、締切12月1日)、William C. Parker奨学金、International Ambassador奨学金($3,000〜授業料の50%、2月15日)があります。在学中は、経済的必要性による授業料奨学金($500〜$3,000)に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176017": {
+  "scholarshipUrl": "https://olemiss.edu/global/international-students-oge/scholarships-international-students/",
+  "intlAidNote": "留学生の新入生は、GPAで決まる成績による奨学金が自動で付与されます(Premier: 年$28,893=授業料の約93%、GPA3.9〜4.0、各国の人数に上限あり。Champion $12,000、Magnolia $9,500、Legacy $5,000)。STEM専攻の追加奨学金($8,000)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178396": {
+  "scholarshipUrl": "https://financialaid.missouri.edu/scholarships/international/",
+  "intlAidNote": "合格者は、州外授業料部分に適用される成績による奨学金が審査されます(2027-28年度: International Honors 年$20,000、International Merit 年$10,000。12月1日までに出願)。在学中は、授業料の10〜25%のCurator's Grant-in-Aidなどに応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207500": {
+  "scholarshipUrl": "https://www.ou.edu/globalengagement/international-student-scholarships",
+  "intlAidNote": "留学生の新入生は、SAT・ACTの点数で決まる成績による奨学金(年$10,000〜$17,000、4年間)が審査されます。United World Collegesの出身者は必要額の100%が保証されます。緊急時の基金(IAC)もあります。必要性ベースの申請(ISFAA)の案内もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218663": {
+  "scholarshipUrl": "https://sc.edu/about/offices_and_divisions/international_student_and_scholar_support/iss/new-student-arrival/understand_tuition_and_fees/university_scholarships_and_assistantships/",
+  "intlAidNote": "大学の必要性ベースの奨学金は留学生には出ません。学部の競争的な奨学金(ビジネス、工学、ホスピタリティなど)に応募できます。国際学生Excellence奨学金は毎年2人にのみ年$500です。特定地域の出身者は州内授業料になる姉妹州協定があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221999": {
+  "scholarshipUrl": "https://admissions.vanderbilt.edu/affordability/international-costs-and-finances/",
+  "intlAidNote": "留学生の新入生に、必要性ベースの援助を一部の学生に出します(2026年秋入学では89人、年$16,815〜$99,998を4年間)。留学生は経済状況を選考で考慮される(need-aware)ため、援助を希望すると競争が厳しくなります。CSS ProfileまたはISFAAが必要で、編入の留学生は援助の対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "142443": {
+  "scholarshipUrl": "https://www.nic.edu/international/",
+  "intlAidNote": "学校の案内では、留学生への経済的な援助や支援はありません。入学後に少額の奨学金に応募できる場合はありますが、当てにしないよう案内されています。非居住者料金で、年間$26,600までの資金が必要とされ、F-1ビザ用に1年分の資金証明が必須です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229799": {
+  "scholarshipUrl": "https://wc.edu/paying-for-weatherford/scholarship-opportunities/index.php",
+  "intlAidNote": "留学生が使える奨学金・学内就労は限られていて、当てにしないよう案内されています。留学生の年間費用の目安は約$16,873(授業料・諸費用$4,548、生活費$8,809、本代など$3,516)。財団の一般奨学金は学期ごとに$1,000程度です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101161": {
+  "scholarshipUrl": "https://www.coastalalabama.edu/admissions-aid/apply/international/",
+  "intlAidNote": "学校の案内では、留学生の受け入れはSEVISの再認定手続き中で現在はできないとされています(要確認)。留学生は経済援助の対象外で、運動を含む学内奨学金は米国市民・永住者だけが対象です。留学生の費用の目安は約$20,600〜$20,900です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230746": {
+  "scholarshipUrl": "https://www.slcc.edu/iss/intl-stu-tuition.aspx",
+  "intlAidNote": "留学生は州外生の授業料で、学期ごとに管理費$125がかかります(12〜18単位は同額)。奨学金はScholarship Universeから応募できます。金額・条件は留学生オフィス(international.affairs@slcc.edu)に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133386": {
+  "scholarshipUrl": "https://www.daytonastate.edu/tuition-and-fees/index.html",
+  "intlAidNote": "留学生は州外生の授業料(AA・AS: 1単位$398.65)で、出願料は$50〜$60です。留学生専用の奨学金は確認できませんでした。財団の奨学金は多くがFAFSA提出と米国市民・永住者などの条件があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175652": {
+  "scholarshipUrl": "https://www.eastms.edu/admissions/prospective-students/international.html",
+  "intlAidNote": "留学生は連邦・州の援助の対象外で、財政状況の申告書と、保証人の資金証明が必要です。学校の奨学金は主にミシシッピ州の居住者向けと案内されています。1学期12単位以上の履修が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227687": {
+  "scholarshipUrl": "https://www.rangercollege.edu/admissions/financial-aid/scholarships/index.php",
+  "intlAidNote": "留学生は1単位$250(最低$425)で、年間の費用の目安は約$14,332(授業料・寮・食事を含む)です。奨学金を受けない新入の留学生は、入学前に$8,000の預託金が必要です。留学生向けの専用奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "223427": {
+  "scholarshipUrl": "https://www.blinn.edu/international/estimated-expenses.html",
+  "intlAidNote": "留学生の年間費用の目安は約$31,162(授業料・諸費用$11,370、生活費$12,302など)です。留学生専用の奨学金はなく、350以上の基金奨学金に他の学生と一緒に応募できますが、当てにしないよう案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "138761": {
+  "scholarshipUrl": "https://www.andrewcollege.edu/athletic-scholarships/",
+  "intlAidNote": "留学生向けの奨学金は限られています(連邦の援助の対象外)。NJCAA D1に所属し、運動奨学金は競技の力と将来性に応じた部分的なものを出します。授業料は年$19,604、寮と食事を含む総額は約$32,480です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153472": {
+  "scholarshipUrl": "https://www.indianhills.edu/internationals/payingforcollege.php",
+  "intlAidNote": "留学生の授業料は1単位$255(2025-26)で、年間費用の目安は約$18,104(3学期)です。留学生向けにFreddy Miranda American Dream奨学金(年$1,300)があり、財団は全体で約$200万を奨学金に充てています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225308": {
+  "scholarshipUrl": "https://www.tvcc.edu/scholarships/index.html",
+  "intlAidNote": "留学生は9か月ごとに$12,000以上の資金証明が必要で、TOEFL(ibt 41以上)またはIELTS 5.5が必要です(英語圏を除く)。学校は年に$100万以上の奨学金(学業・運動・芸術・クラブなど)を出しますが、留学生の扱いは国際学生の窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154800": {
+  "scholarshipUrl": "https://www.butlercc.edu/getting-started/enroll/international-students/cost-payment",
+  "intlAidNote": "留学生の授業料は1単位$209.50(2026-27)で、年間費用の目安は約$17,785です。留学生向けの奨学金はごく限られていて、当てにしないよう案内されています。入学の処理料$75がかかります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127778": {
+  "scholarshipUrl": "https://otero.edu/international/tuition-fees/",
+  "intlAidNote": "留学生向けの奨学金が複数あります(Jim Rizzuto国際奨学金: 年$2,000、国際学業・リーダーシップ奨学金、国際スピリット奨学金、寮生活者のLive and Learn奨学金: 学期$1,000)。2025-26年度の費用の目安は約$21,348で、I-20に$22,500の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "104160": {
+  "scholarshipUrl": "https://www.azwestern.edu/international",
+  "intlAidNote": "学校の案内では、留学生向けの経済援助はありません。F-1の学生は州内授業料の対象外です。合計$16,000の資金証明(本人・保証人の銀行残高や奨学金)が必要で、授業料は履修登録時に支払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "142559": {
+  "scholarshipUrl": "https://www.csi.edu/international-students/interested-students.aspx",
+  "intlAidNote": "一般の奨学金申請で300以上の奨学金が自動で審査されます。運動奨学金も出る場合があり、留学生は$2,500の預託金が必要ですが、フル奨学金のレター・オブ・インテントを持つ留学生選手は免除されます。州外の授業料・諸費用は年約$7,008です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136233": {
+  "scholarshipUrl": "https://www.nwfsc.edu/admissions/international/",
+  "intlAidNote": "学校の案内では、運動奨学金を除いて、留学生向けの経済援助はありません。留学生の年間費用の目安は約$23,000(授業料・諸費用約$11,000、生活費約$10,000、本代$2,000)で、扶養家族ごとに$2,000が加わります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "132693": {
+  "scholarshipUrl": "https://www.easternflorida.edu/admissions/international/scholarships.php",
+  "intlAidNote": "従来型の必要性ベースの援助は留学生には出ません。出身国・地域のInternational Linkage Instituteを通じた奨学金で、州外授業料部分を賄えるものがあります(F-1向け)。年間費用の目安は約$22,426(AA学位)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "187912": {
+  "scholarshipUrl": "https://www.nmmi.edu/admissions/international-students/",
+  "intlAidNote": "留学生は学校の成績による奨学金(Merit Scholarship)と、Incentive Scholarshipの2つの対象です。短大課程では学生の約95%が連邦または学校の援助を受け、奨学金の幅は$150〜$16,000です。全寮制の軍事学校で、年間費用の目安は約$42,858です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227146": {
+  "scholarshipUrl": "https://www.navarrocollege.edu/scholarships/",
+  "intlAidNote": "留学生の授業料は1学期(15単位)で約$3,300です。3か月以上$15,021以上の銀行残高の証明が必要です。約75の奨学金に1つの申請で応募でき、ミクロネシア出身者向けのHarold Crouch奨学金があります。秋学期の出願は7月15日までです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152637": {
+  "scholarshipUrl": "https://www.vinu.edu/international-students/faq.html",
+  "intlAidNote": "留学生は連邦の援助の対象外で、入学には最低$29,000の資金証明が必要です。奨学金は、2年目の頃から応募できるものが多く、留学生向けにDr. Razi奨学金(2学期目以降、エッセイが必要)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175883": {
+  "scholarshipUrl": "https://www.jcjc.edu/scholarships/",
+  "intlAidNote": "留学生の受け入れ数を制限しており、運動・芸術の奨学金を受ける留学生は限られた数だけ受け入れるとしています。学校の奨学金は州外料金をカバーしません。TOEFLの点数(紙500以上、iBT69以上)か、米国の大学での英作文Cが必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134343": {
+  "scholarshipUrl": "https://www.gulfcoast.edu/admissions/international-students/index.html",
+  "intlAidNote": "留学生の授業料は1単位$359.71(12単位で$4,316.52)で、1年分として$23,122以上の銀行残高の証明が必要です。連邦の援助は対象外で、学校の助成・奨学金の多くは米国市民・フロリダ州の居住者が対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154998": {
+  "scholarshipUrl": "https://dc3.edu/admissions/international-student-guidelines/",
+  "intlAidNote": "留学生の費用は1単位あたり授業料$80+諸費用$85(2025-26)で、15単位の学期の目安は約$13,460(寮・食事を含む)です。I-20の発行前に、学期ごとに$3,000の預託金が必要です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154925": {
+  "scholarshipUrl": "https://www.coffeyville.edu/student-services/costs-fees",
+  "intlAidNote": "留学生は1単位あたり約$220(授業料$80+必須諸費用$70+留学生費$70)です。Presidential奨学金など一部の奨学金は留学生は対象外です。学業・活動・運動などの奨学金は、学校に直接確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207281": {
+  "scholarshipUrl": "https://www.noc.edu/students/current-students/scholarships/",
+  "intlAidNote": "約400の奨学金(最大$38,000)がありますが、優先されるのはオクラホマ州の居住者・米国市民・永住者で、留学生の利用は限られます。留学生用の専用の出願フォームがあります(www.noc.edu/international-students)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "128258": {
+  "scholarshipUrl": "https://trinidadstate.edu/catalog/current/start/international.html",
+  "intlAidNote": "連邦・州の援助や非居住の外国人向け奨学金は、留学生は対象外です。運動などの学校の奨学金は、授業料・諸費用を超える分が留学生の所得として扱われ、14%の税がかかります。州外の授業料・諸費用は年$7,564(2025-26)で、2年分の資金援助の証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207290": {
+  "scholarshipUrl": "https://neo.edu/current-students/financial-aid/scholarships/",
+  "intlAidNote": "州外生の授業料・諸費用は年約$14,030(2025-26)です。学業・寮・財団・運動や芸術(トライアウトやオーディション)の奨学金が100以上あり、留学生の扱いは学校に確認してください(多くの優先締切は4月1日)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155104": {
+  "scholarshipUrl": "https://www.gcccks.edu/admissions/student_type/international_student.aspx",
+  "intlAidNote": "留学生の授業料は1単位$105+諸費用$67(2025-26)です。成績による奨学金は$250〜$1,000で、運動などの活動奨学金も含め300以上あります。連邦の援助は対象外です。F-1は各学期12単位以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240505": {
+  "scholarshipUrl": "https://www.caspercollege.edu/admissions/types/international-students/",
+  "intlAidNote": "留学生は連邦の援助の対象外で、学校の奨学金は1学期以上修了してから応募できます。授業料・諸費用は年約$11,000、生活費は約$8,700(寮・食事)で、保険が約$1,000です。女性向けの奨学金には留学生も応募できるものがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154952": {
+  "scholarshipUrl": "https://cowley.edu/getting-started/how-to-apply/international/index.html",
+  "intlAidNote": "留学生は州・連邦の援助の対象外ですが、民間資金のCowley College Foundationの奨学金と、活動(運動など)奨学金に応募できます。授業料は1単位$250(2026-27)で、年間の授業料・諸費用は約$8,830です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "143215": {
+  "scholarshipUrl": "https://www.swic.edu/students/services/enrollment-services/admissions/international-admission/",
+  "intlAidNote": "留学生の授業料は1単位$236+諸費用$9で、1年の費用の目安は約$32,988(授業料$5,880、生活費$24,708、本代$2,400)、最低12単位です。出願時に1年分の資金証明が必要です。300以上の財団奨学金に1つの申請で応募できますが、留学生の対象かどうかは窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207740": {
+  "scholarshipUrl": "https://www.sscok.edu/admissions/financial-assistance/scholarships/index.html",
+  "intlAidNote": "留学生の授業料は1単位$211で、学期ごとに留学生費$109がかかります。運動・成績・必要性・財団の奨学金がありますが、多くは州内授業料分のみが対象のため、留学生(州外料金)にはほとんど効かない可能性があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "135717": {
+  "scholarshipUrl": "https://www.mdc.edu/internationalstudents/resources/tuition-assistance.aspx",
+  "intlAidNote": "留学生が奨学金を申請できる窓口があり(300以上の奨学金とマッチング)、Florida Linkage Institutesによる州外授業料の免除(特定の国・地域の学生向け)もあります。一定のオンライン課程では留学生も1単位$290の割安な授業料になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137759": {
+  "scholarshipUrl": "https://www.tsc.fl.edu/student-life/international-services/international-student-scholarships/",
+  "intlAidNote": "留学生向けに、秋学期の$500の奨学金(F-1、フルタイム、学位取得中、GPA3.0以上)があります。授業料は1単位$387.27で、年間費用の目安は約$25,500、I-20発行前にその金額の資金証明が必要です。Linkage Institutesの制度(州内扱い)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101295": {
+  "scholarshipUrl": "https://www.wallacestate.edu/financial-aid/wscc-scholarships.html",
+  "intlAidNote": "学校の奨学金は米国市民(または対象となる非市民)に限られ、留学生は対象外です。アラバマ州外の学生の授業料は、州内の2倍です。外部の奨学金(Gilman留学奨学金など)は利用できる場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175786": {
+  "scholarshipUrl": "https://catalog.hindscc.edu/content.php?catoid=17&navoid=756",
+  "intlAidNote": "留学生(州外)の授業料は全日制の1学期で$3,375で、留学生の保険が$650、留学生サービス料が$150(学期ごと)かかります。財団の奨学金は多くがミシシッピ州の居住者・米国市民向けで、留学生は対象外のものが多いです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176071": {
+  "scholarshipUrl": "https://mgccc.edu/paying-for-college/tuition/",
+  "intlAidNote": "留学生は、15〜21単位で学期ごとに非居住者料金$500、出願料$250(1回)、管理費$100(学期ごと)がかかります。約200の奨学金は多くが米国市民・永住者が条件です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176239": {
+  "scholarshipUrl": "https://prcc.edu/future-wildcats/admissions/tuition-and-fees/",
+  "intlAidNote": "留学生は、留学生料金で学期ごとに$1,750(15単位以上)がかかり、出願料は$250です。留学生の受け入れ数は限られていて、空きの有無は入学窓口(admissions@prcc.edu)に確認が必要です。運動などの奨学金は学校に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226806": {
+  "scholarshipUrl": "https://www.midland.edu/enrollment-aid/steps-enroll/international/initial-i-20.php",
+  "intlAidNote": "F-1の留学生は州外授業料で、1学期12単位以上が必要です。1年(9か月)で最低$20,000の資金証明が必要です。年間$100万以上の奨学金に応募できますが、留学生の対象かどうかは学校に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229832": {
+  "scholarshipUrl": "https://www.wtc.edu/page/internationalstudents",
+  "intlAidNote": "2026-27年度の費用の目安は$16,640(授業料・諸費用・本代・保険・1年分の生活費)で、運動奨学金を受ける場合は金額が変わることがあります。留学生専用の奨学金の記載は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225520": {
+  "scholarshipUrl": "https://howardcollege.edu/come-to-howard-college/international.html",
+  "intlAidNote": "留学生の授業料は1単位$179(最低$200)で、1学期(15単位)で約$4,496〜$4,906です。留学生を受け入れるのは4キャンパスのうち3つです。年間$100万以上の学業奨学金があり、1学期$500以上の奨学金を受ける留学生は、TOEFLの受験料を学校が払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "223898": {
+  "scholarshipUrl": "https://www.cisco.edu/admissions/international-students",
+  "intlAidNote": "留学生の授業料は1単位$218(2025年秋〜)で、1年分として$15,000の資金証明が必要です。出願料$100は奨学金で免除されません。奨学金のほとんどは、地元の高校卒業生向けです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136473": {
+  "scholarshipUrl": "https://admissions.pensacolastate.edu/international-students/",
+  "intlAidNote": "学校の案内では、留学生向けの経済援助は、ほとんどの場合ありません。年間費用の目安は最低約$25,000(授業料・諸費用$11,000、生活費$12,000、本代$2,000)で、資金が確認できるまで登録は受け付けません。約300の奨学金の多くは米国市民・永住者が対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134608": {
+  "scholarshipUrl": "https://irsc.edu/admissions/international-students/",
+  "intlAidNote": "留学生の奨学金は限られ、競争が厳しいと案内されています。**日本を含む特定の国・地域の学生**は、Florida Linkage Institutesの州外授業料免除の対象になる場合があります(ブラジル、カナダ、カリブ、中国、コスタリカ、東欧、フランス、イスラエル、日本、メキシコ、西アフリカ)。授業料は1単位$390.49(準学士)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133021": {
+  "scholarshipUrl": "https://www.chipola.edu/admissions/international-students/",
+  "intlAidNote": "**学校の方針として、I-20は運動奨学金を受ける留学生にのみ発行されます**(運動奨学金なしの留学生は入学できない旨の案内です)。留学生料金は1単位$309.35(その他の州の居住者と同じ)+留学生費$100です。奨学金の多くはフロリダ州の居住者向けです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179645": {
+  "scholarshipUrl": "https://trcc.edu/pay-for-college/scholarships/",
+  "intlAidNote": "留学生は州外(地区外)授業料になります。留学生は連邦・州の援助の対象外のためFAFSAの提出は不要です。奨学金(280以上)の対象かどうかは、財政援助オフィスに確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240620": {
+  "scholarshipUrl": "https://www.lccc.wy.edu/admissions/international/costs.aspx",
+  "intlAidNote": "留学生向けの奨学金があります(Edington Family留学生奨学金、Friendship Force Club留学生奨学金など)。FAFSAを出せない留学生もPresidential(年$1,600)やDean's(年$800)奨学金の対象になり得ます。1年の費用の目安は約$19,500です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "175573": {
+  "scholarshipUrl": "https://www.colin.edu/students/financial-aid-scholarships/scholarships/",
+  "intlAidNote": "成績の奨学金はミシシッピ州の居住者向けです。留学生向けには、Phi Theta Kappaのリーダー奨学金(留学生向け)の案内があります。留学生(州外生)は、州外分の授業料を全額自己負担になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155715": {
+  "scholarshipUrl": "https://prattcc.edu/international-students/",
+  "intlAidNote": "留学生の授業料は1単位$122+諸費用$63(2025-26)で、学期ごとに$150の追加費用がかかります。学業・運動・財団・編入の奨学金がありますが、留学生の対象かは問い合わせ(pccinternational@prattcc.edu)で確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176354": {
+  "scholarshipUrl": "https://www.smcc.edu/financial-aid/scholarships/",
+  "intlAidNote": "州外(留学生)の全日制は、学期ごとに授業料$1,740+州外授業料$1,350などがかかります。ACT成績による奨学金は、多くが州内の学生向けです。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "104346": {
+  "scholarshipUrl": "https://centralaz.edu/find-your-path/international-student/",
+  "intlAidNote": "学校の案内では、留学生向けの奨学金はなく、F-1の留学生は学内の奨学金の対象外です。年間$18,000以上(旅費を除く)の費用を用意する必要があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227386": {
+  "scholarshipUrl": "https://www.panola.edu/admissions/international-students",
+  "intlAidNote": "留学生の年間費用の目安は約$20,633(寮・食事・保険を含む)で、12単位の1学期の授業料・諸費用は約$2,700です。出願料$50で、締切は春学期が11月1日、秋学期が6月1日です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226019": {
+  "scholarshipUrl": "https://www.kilgore.edu/cost-financial-aid/financial-aid-scholarships/scholarships/",
+  "intlAidNote": "留学生の授業料は1単位$219(授業料$103+地区外料金$79+一般$37)です。留学生向けにJoe Hightower-Sharon Hendrix International Student Scholarshipがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226578": {
+  "scholarshipUrl": "https://www.mclennan.edu/international-students/int-faq.html",
+  "intlAidNote": "留学生の授業料は1単位$181(最低$385)で、1年(9か月)に約$20,000以上の資金証明が必要です。F-1は連邦の援助の対象外で、奨学金の可否は財団に問い合わせてください。F-1は各学期12単位以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "251260": {
+  "scholarshipUrl": "https://www.suscc.edu/admissions/Admissions_info",
+  "intlAidNote": "学校の案内では、留学生向けの経済援助は一般にありません。学校の奨学金は米国市民が条件のものがほとんどです。12か月の費用の目安は約$35,850(授業料・諸費用$11,850、寮・食事など)で、同額の資金が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137078": {
+  "scholarshipUrl": "https://www.spcollege.edu/future-students/admissions/international-students/center-for-international-programs",
+  "intlAidNote": "財団の奨学金(350以上)に、在留資格にかかわらず1つの申請で応募できます。集中英語プログラムの新規・編入の留学生には、授業料の減額($1,000)があります。ラテンアメリカ・カリブ出身者には州内授業料の免除などがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230597": {
+  "scholarshipUrl": "https://snow.edu/international/scholarship.html",
+  "intlAidNote": "留学生向けのInternational Scholar Award(年$5,000、授業料免除で現金なし、更新可、GPA2.0以上)があります(締切: 秋学期3月1日、春学期10月1日)。年間の授業料・諸費用は約$15,238、総額の目安は約$23,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207236": {
+  "scholarshipUrl": "https://mscok.edu/admissions/financial-aid/types-of-aid",
+  "intlAidNote": "州外生の授業料のうち、非居住者分(1単位$161)が自動で免除されると案内されています(留学生に適用されるかは要確認)。入学の出願料は$50です。すべての応募者が奨学金の自動審査の対象です(2026-27年度)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "177676": {
+  "scholarshipUrl": "https://www.jeffco.edu/international-students/",
+  "intlAidNote": "留学生の年間費用の目安は約$24,567(授業料$9,750、寮・食事、保険など)です。連邦の援助は対象外ですが、学校の奨学金に応募できるものがあります(すべてが留学生に開かれているわけではありません)。運動奨学金を受ける場合は、コーチの奨学金の提示書類が必要で、残りの費用の資金証明も必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "177135": {
+  "scholarshipUrl": "https://www.crowder.edu/how-to-get-started/international-students/",
+  "intlAidNote": "留学生は1単位$188(2026年秋〜)で、入学の資金証明は約$18,664です。留学生向けにDean & Grace Farnsworth奨学金があります。運動・部門の奨学金を待つ留学生は、コーチからの「奨学金を出す意向」のレターが必要です。連邦の援助(Title IV)は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154934": {
+  "scholarshipUrl": "https://www.colbycc.edu/admissions/internationals/index.html",
+  "intlAidNote": "学校の案内では、留学生向けの経済援助は出せません。留学生の授業料は1単位$227(2026-27)、年間費用の目安は約$15,000です。奨学金のオファーがある場合は、金額に応じて資金証明の額が減ることがありますが、全額奨学金でも万一に備えた資金の証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228158": {
+  "scholarshipUrl": "https://www.southplainscollege.edu/admission-aid/apply/first-timeinternationalstudents.php",
+  "intlAidNote": "留学生の授業料は年約$5,800で、寮など含む年間費用の目安は約$10,500とかなり低めです。学校全体の奨学金の応募は米国市民・永住者が基本ですが、学科やプログラムの奨学金($100〜$500/学期)があります。奨学金の締切は3月1日です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "240596": {
+  "scholarshipUrl": "https://ewc.wy.edu/admissions-financial-aid/scholarships-grants/",
+  "intlAidNote": "留学生は州外授業料(1単位$315、2025・2026年)で、州内の約3倍です。EWCのInternational Student Scholarshipなどに応募できます。IMG Global Student Journey奨学金は、留学生の学部・大学院生に開かれています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221397": {
+  "scholarshipUrl": "https://www.roanestate.edu/catalog/?id=116",
+  "intlAidNote": "留学生向けの専用奨学金の記載は確認できません。財団が年400以上の奨学金を出し、1つの申請で応募できます(春に受付、5月下旬締切)。留学プログラム向けの部分奨学金(Gilman、Borenなどの外部奨学金の案内あり)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176169": {
+  "scholarshipUrl": "https://www.nemcc.edu/business-office/tuition-and-fees/index.html",
+  "intlAidNote": "留学生は州外料金で、全日制の1学期が$3,885(1単位$388.50)です。学校の奨学金は州外料金部分をカバーしません。出願締切は秋学期が5月1日、春学期が10月1日で、全日制での在籍が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227979": {
+  "scholarshipUrl": "https://www.sanjac.edu/support/personal-support/international-students/index.php",
+  "intlAidNote": "留学生の授業料は1単位$223で、1年の費用の目安は約$35,506(授業料$6,690、生活費$22,916など)です。F-1の留学生は、州の助成金(TPEG)に応募できます。200以上の奨学金は、留学生の対象かどうか個別に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225371": {
+  "scholarshipUrl": "https://www.hillcollege.edu/Admissions_Aid/Admissions/International.html",
+  "intlAidNote": "2026-27年度の学校費用は約$6,720(授業料$3,310、諸費用$1,410、本代$2,000)です。出願は開始の60日前までに、I-20の発行前に預託金$200(出願手数料$50を含む)が必要です。奨学金は10月1日から8月31日まで3回の受付があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101514": {
+  "scholarshipUrl": "https://calhoun.edu/financial-aid/scholarships/",
+  "intlAidNote": "学校の案内では、奨学金は米国市民のみが対象で、留学生は州内料金・経済援助・奨学金の対象外です。留学生は州外料金(1単位$266、州内の2倍)です。TransferMateで自国通貨での支払いができます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "102067": {
+  "scholarshipUrl": "https://www.sheltonstate.edu/admissions-financial-aid/becoming-a-student/international-students/",
+  "intlAidNote": "留学生の授業料はアラバマ州居住者の2倍です。入学の条件として、公証つきの経済支援の申告書と、最低$28,000の資金証明が必要で、免除・減額はできません。学校の奨学金は、米国市民・永住者(居住者)が条件のため、留学生は原則対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146366": {
+  "scholarshipUrl": "https://www.kaskaskia.edu/admissions/international-students/",
+  "intlAidNote": "留学生は州外・留学生料金で、1単位$425です。F-1は12単位以上のフルタイムが必要です。学費・生活費・寮などは自己負担が基本です。奨学金の対象かどうかは入学窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146603": {
+  "scholarshipUrl": "https://www.lc.edu/admissions/apply/international-students.html",
+  "intlAidNote": "留学生の授業料は1単位$264+諸費用$30(合計$294)で、年間の費用の目安は約$20,000です。150以上の奨学金があり(約半分が授業料全額)、1つの申請でマッチングされます(秋に受付開始、4月締切)。留学生が対象かは学校に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127389": {
+  "scholarshipUrl": "https://lamarcc.edu/paying-for-college/tuition-fees/",
+  "intlAidNote": "留学生向けに、キャンパスで受講する場合は1単位$213の奨学金があります(オンライン科目には使えません)。非居住者の授業料は、1単位$306.40です。そのほか、大学・財団・地域の奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154907": {
+  "scholarshipUrl": "https://www.cloud.edu/admissions/international-students/",
+  "intlAidNote": "留学生の授業料は州外生と同じ料金です。学業・財団・活動・運動の奨学金があり、1つの申請で応募できます(3月1日までに申請)。留学生の対象や金額は、国際学生の担当(Director of Admissions/PDSO)に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "224110": {
+  "scholarshipUrl": "https://www.nctc.edu/international-students",
+  "intlAidNote": "留学生は州外扱いで、2026年秋は1単位約$322(授業料$57+一般$60+地区外料金$205)です。2026-27年の年間費用の目安は約$28,283で、扶養家族ごとに$5,000の資金証明が加わります。財団の奨学金は年$500〜$2,000ですが、Red River Promise奨学金は留学生は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133508": {
+  "scholarshipUrl": "https://www.fsw.edu/internationaleducation/financialinfo",
+  "intlAidNote": "留学生は州内授業料の対象外(F-1は常に母国の居住者扱い)で、準学士の年間費用の目安は約$22,090(スポンサー宅に住む場合)〜$31,019(自活)です。財団の奨学金に応募できます。留学生専用の奨学金は確認できず、留学プログラム向けの奨学金(Gilman: 最大$5,000など)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "104425": {
+  "scholarshipUrl": "https://www.cochise.edu/admissions/international-students/index.html",
+  "intlAidNote": "学校の案内では、市民・永住者以外の学生は州外授業料で、授業料免除・奨学金など州の資金による支援の対象外です。外部の留学生向け奨学金の情報は案内があります。ソノラ州からの学生向けの特別な授業料や、WUE(西部の州の学生向け)の制度があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134495": {
+  "scholarshipUrl": "https://www.hccfl.edu/academics/center-international-education/international-admission-requirements/paying-college-international-student",
+  "intlAidNote": "留学生向けの経済援助はありません。年間の費用として約$25,274以上を用意する必要があります(授業料・諸費用$9,111など)。奨学金は在籍中の留学生向けにごく少数だけあり、入学後に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155186": {
+  "scholarshipUrl": "https://highlandcc.edu/admissions/tuition-fees/",
+  "intlAidNote": "留学生の授業料は1単位$290(2026年度)です。学業奨学金(授業料・本の貸与で学期あたり最大$2,000)がありますが、留学生向けの専用奨学金は確認できませんでした。Kansas Promiseは米国市民・カンザス居住者のみです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "180373": {
+  "scholarshipUrl": "https://www.milescc.edu/Admissions/International.aspx",
+  "intlAidNote": "留学生は1年に$17,445以上の資金証明と、米国で有効な医療保険が必要です。学期開始の2週間前までに、授業料の預託金$500が必要です。奨学金・授業料免除(運動を含む)は年$30万以上で、AwardSpringから応募します(2月1日〜4月1日)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146205": {
+  "scholarshipUrl": "https://www.jalc.edu/admissions/tuition-and-fees/",
+  "intlAidNote": "留学生の授業料は1単位$242(州外生と同じ)です。John A. Logan College Foundationの奨学金(授業料・諸費用の全額のものもあり、全体で$150万以上)に応募できますが、留学生の対象は個別に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181312": {
+  "scholarshipUrl": "https://www.mpcc.edu/admissions/international-students.php",
+  "intlAidNote": "留学生は1年分(旅費を含む)の資金証明と、入学時に1学期分の授業料・寮・本代の預託金が必要です。学校の奨学金(Presidential: 授業料100%、GPA3.8以上など)は、高校の卒業資格が条件で、留学生が対象かどうかは窓口に確認してください(締切3月1日)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179344": {
+  "scholarshipUrl": "https://wp.missouristate.edu/Costs/default.htm",
+  "intlAidNote": "州外生の授業料・諸費用は年約$9,325(2026-27、28単位)と低めです。新入生向けの奨学金の条件に「米国に合法的に滞在していること」があり、留学生の扱いは窓口(admissions 417-255-7955)に確認してください。奨学金は米国の課税対象になることがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146506": {
+  "scholarshipUrl": "https://www.lakelandcollege.edu/international/",
+  "intlAidNote": "留学生の授業料・諸費用は1単位$499.54(12単位で最低$6,228.60)です。年間費用の目安は$19,000(授業料・諸費用$12,000、生活費$6,000、保険$1,000)で、分割払いはなく全額を先に払う必要があります。入学後は、財団の奨学金に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "222822": {
+  "scholarshipUrl": "https://www.angelina.edu/admissions/scholarships/",
+  "intlAidNote": "200以上の奨学金(学期$100〜授業料全額)に1つの申請で応募できます(11月3日〜3月20日)。奨学金は、通常4学期連続在籍で付与され、GPA2.75が条件です。留学生向けの専用奨学金や留学生の扱いは、学校に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229504": {
+  "scholarshipUrl": "https://www.vernoncollege.edu/information-for-international-students",
+  "intlAidNote": "連邦・州の援助は市民・永住者のみで、留学生は対象外です。100以上の奨学金(学業・基金)があり、10月1日〜3月15日が優先受付ですが、留学生が対象かどうかは窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "102030": {
+  "scholarshipUrl": "https://www.bishop.edu/financial-affairs/tuition-fees",
+  "intlAidNote": "州外(留学生)の授業料は州内の2倍で、2025-26は1単位$192(州内)の2倍が目安です。奨学金の多くは、アラバマ州の居住者・米国市民・FAFSA提出が条件のため、留学生は対象外です。F-1は保険の加入が必須です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155858": {
+  "scholarshipUrl": "https://sccc.edu/admissions-and-aid/financial-aid/types-of-aid/scholarships/sccc-scholarships/",
+  "intlAidNote": "留学生の授業料は1単位$134+諸費用$114(2026-27)です。累積GPA3.5以上の留学生は、Out-of-State Academic Distinction奨学金の対象です。TOEFL500以上(紙)または61以上(iBT)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "106148": {
+  "scholarshipUrl": "https://www.yc.edu/v6/registrar/faq.html",
+  "intlAidNote": "留学生は州外授業料で、出願料が$200です。留学生向けの奨学金は、米国入国後の入学登録後に探す形で、学校の奨学金は$100〜$4,000です(運動・成績・必要性など)。1年分の費用の資金保証が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136516": {
+  "scholarshipUrl": "https://www.polk.edu/admission-aid/international-students/",
+  "intlAidNote": "学校の案内では、留学生向けの経済援助はありません。年間の授業料の目安は準学士で約$12,000、学士で約$17,500、総額は$26,000〜$38,000です。F-1・M-1は12単位以上のフルタイムで、州外授業料を全期間支払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127732": {
+  "scholarshipUrl": "https://www.njc.edu/international-students/prospective-students",
+  "intlAidNote": "留学生向けのNJC Foundation International Studies奨学金(新入生$500、2年生$1,000)があります。留学生に連邦・州の援助や税金を使った奨学金はありません。2025-26年度は20か国から45人が在籍しています。年間費用の目安は約$18,373です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "200022": {
+  "scholarshipUrl": "https://bismarckstate.edu/uploads/32/InternationalTuitionWaiver2.pdf",
+  "intlAidNote": "留学生は、非居住者授業料の50%を免除するInternational Tuition Waiverに応募できます(年間3〜5件程度、先着順、F-1で12単位以上・GPA2.5以上が条件)。免除は授業料のみで、諸費用・寮・本代は対象外です。学校の奨学金の多くは米国市民・永住者のみです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178244": {
+  "scholarshipUrl": "https://www.mobap.edu/admissions/international/",
+  "intlAidNote": "留学生は連邦の援助の対象外ですが、大学の奨学金があります(新入生はSpartan Academic Awardが年$15,000〜$17,000)。授業料は1学期$17,820+学生費$900で、州内外の区別はありません。運動部に入る留学生は、成績の評価にINCREDを使い、NAIAのエリジビリティセンターの書類が必要で、入学が即、競技資格を保証するものではありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181330": {
+  "scholarshipUrl": "https://www.midlandu.edu/admissions/international-students/",
+  "intlAidNote": "奨学金は学生1人につき1つの総合額(複数ある場合は大きいほう)で決まります。留学生は費用(授業料・寮・保険など)から奨学金を引いた額の資金証明(英訳した支援の申告書)が必要です。Bernhardson奨学金は、Honors Programの学生で、留学生が優先される場合があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "156745": {
+  "scholarshipUrl": "https://www.georgetowncollege.edu/academics/international",
+  "intlAidNote": "留学生はすべて成績による奨学金を受け、自己負担額が大きく減ると案内されています。運動・特技の奨学金もあります。留学生は分割払い(支払いの猶予)ができません(入国管理規則のため)。出願にはSAT・ACT・TOEFL・IELTSのいずれかの点数が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154688": {
+  "scholarshipUrl": "https://www.bakeru.edu/admissions/international-students/",
+  "intlAidNote": "2025-26年度の年間費用の目安は約$51,737(授業料$35,150、寮・食事$11,000など)です。留学生は成績による奨学金と、音楽・演劇・美術などの特技の奨学金に応募できます。運動奨学金は競技ごとに個別で、成績の奨学金と併用はできません。留学生向けの必要性ベースの基金(Hysko奨学金)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179964": {
+  "scholarshipUrl": "https://www.williamwoods.edu/admissions/international/",
+  "intlAidNote": "留学生は約20か国から在籍し、TOEFL550以上(相当の試験でも可)と、授業料・寮・食事を賄える経済支援の申告書が必要です。学業・芸術・運動の奨学金があり、留学生の対象や金額は国際入学の窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154590": {
+  "scholarshipUrl": "https://www.wmpenn.edu/admissions-aid/admissions/international-students/",
+  "intlAidNote": "F-1の留学生で初めての学士課程を学ぶ人向けに、留学生奨学金があります。2026-27年度の全日制の授業料は$32,000で、寮・食事を含む総額は約$40,990です。学生の98%が奨学金・助成を受けています。留学生は経済支援の申告書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207458": {
+  "scholarshipUrl": "https://www.okcu.edu/paying-for-ocu/scholarships-and-assistance/international-scholarships",
+  "intlAidNote": "留学生の大半が、成績による奨学金(GPA3.0以上: 年$6,000〜$8,000)を自動で受けます。学部の奨学金(文理・ビジネス・看護: 年$3,000〜$5,000)は上乗せでき、芸術の特技の奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178369": {
+  "scholarshipUrl": "https://www.moval.edu/admissions-financial-aid/tuition-financial-aid/financial-aid-information-for-international-students/",
+  "intlAidNote": "2026-27年度の授業料は$23,500(12〜18単位)、寮$6,500、食事$6,250、諸費$2,250です。留学生は連邦の援助の対象外で、学校の奨学金・州の援助の対象になる場合があります。学生の約98%が授業料の援助を受けています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151786": {
+  "scholarshipUrl": "https://www.marian.edu/admissions/financial-aid/international-scholarships",
+  "intlAidNote": "留学生は、成績による奨学金(Marian Scholars: 年$8,000〜$18,000、累積GPA2.75以上)のほか、運動・特技・信仰の奨学金の対象になります。Global Studies奨学金、アート・デザインの奨学金もあります(締切12月1日)。出願・奨学金の締切は秋学期が6月1日です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155511": {
+  "scholarshipUrl": "https://www.mcpherson.edu/admissions/scholarships/",
+  "intlAidNote": "留学生は連邦・州の援助の対象外ですが、学校の奨学金の対象です。**留学生全員に年$2,000のInternational Student Awardがあり、運動などの奨学金と併用できます。**2026-27年度の直接費用の目安は約$51,258(授業料・寮・食事)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153126": {
+  "scholarshipUrl": "https://clarke.edu/admission-aid/financial-aid/scholarships/merit-scholarships-for-international-students/",
+  "intlAidNote": "留学生の新入生は、成績による奨学金(年$22,000〜$25,000、高校GPAで決まる)が審査されます。**Katherine Lam奨学金は、日本・中国・韓国などアジア出身の留学生を優先**します。必要性ベースのInternational Need Grantは、1年修了後に申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "123457": {
+  "scholarshipUrl": "https://simpsonu.edu/tuition-fees/",
+  "intlAidNote": "留学生向けのMosaic奨学金(学業に優れ、文化・平等の促進を望む留学生向け、4年間)があります。George So奨学金は、オンラインなどで学ぶ留学生向けです。出願にはGPA2.7以上と英語力の証明(TOEFL、IELTS、Duolingo、SAT・ACT)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155627": {
+  "scholarshipUrl": "https://www.ottawa.edu/ouks/admissions/scholarships",
+  "intlAidNote": "合格すると、学校の奨学金が自動で審査されます(Presidential: 授業料全額、Provost: 80%、Dean: 60%、Scholars Programの競争で決定)。2026-27年度の全日制の授業料は年$34,000です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "159656": {
+  "scholarshipUrl": "https://www.loyno.edu/admissions/tuition-financial-aid/scholarships",
+  "intlAidNote": "留学生向けの成績による奨学金(年$14,000〜$23,000、累積GPA3.0以上、授業料全額のものも)があります。連邦の必要性ベースの援助は対象外ですが、必要性ベースの援助を少額出します。F-1の留学生には、文化理解への貢献を評価するInternational Student Scholarshipもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "105899": {
+  "scholarshipUrl": "https://www.arizonachristian.edu/financial-aid/types/scholarships/",
+  "intlAidNote": "年$350万以上の奨学金(学業・リーダーシップ・奉仕など5分野)があり、全日制でGPA2.0以上が条件です。留学生は、処理に6か月以上かかるため早めの出願が必要で、医療保険の加入が必須です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157863": {
+  "scholarshipUrl": "https://www.unionky.edu/admissions-aid/cost-aid/tuition-fees",
+  "intlAidNote": "学部生の100%が奨学金や援助を受けています。成績による奨学金は、GPAだけで決まります。留学生向けは主に大学院プログラム(SEVP承認)のため、学部の留学生の扱いは入学窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152099": {
+  "scholarshipUrl": "https://www.oak.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けのInternational Student Scholarshipがあります。2025-26年度の学部の授業料は学期あたり$27,900(12〜18単位)です。1年分の費用の資金証明が必要で、奨学金計算ツールで目安を確認できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219198": {
+  "scholarshipUrl": "https://www.mountmarty.edu/admission/undergraduate-students/international-students",
+  "intlAidNote": "留学生向けに、成績による奨学金(年$13,000〜$18,000、GPAで決まる)と、運動・特技の奨学金があります。2023-24年度の直接費用は約$42,400(授業料$30,250、諸費用$2,850、寮・食事$9,300)で、旅費・保険などの間接費が約$8,182です。奨学金後の自己負担は約$21,000が平均とされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "135081": {
+  "scholarshipUrl": "https://residential.keiseruniversity.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けの成績による奨学金が年$2,000〜$19,000です。資金証明は費用の上限(約$56,561)までを求められます。60か国以上から学生が在籍しています。International Center卒業生向けの授業料75%減の奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218441": {
+  "scholarshipUrl": "https://www.ngu.edu/admissions/how-to-apply/international/",
+  "intlAidNote": "留学生向けのInternational Student Scholarship(寮生は年$3,000、通学生は年$1,500、F-1・GPA2.0以上)があります。年間費用の目安は約$27,360〜$30,000(授業料$9,960〜$12,600、寮、食事、交通など)で、I-20の前に資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176947": {
+  "scholarshipUrl": "https://centralmethodist.edu/international/annual-expenses.html",
+  "intlAidNote": "留学生の年間の直接費用は約$37,030(授業料$27,030、寮・食事$9,170、諸費$780)です。成績による奨学金(新入生で年$4,000〜$12,000、編入で年$3,000〜$11,000)があります。最初にInternational Student Financial Aid Application(ISFAA)の提出が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "486901": {
+  "scholarshipUrl": "https://milligan.edu/admissions/financial-aid/",
+  "intlAidNote": "学部生の95%以上が奨学金・助成を受けています(2026-27年度は授業料据え置き、成績奨学金を拡充)。ただし、多様性奨学金(Goah Scholars)などは米国市民・永住者が条件で、留学生専用の奨学金は確認できませんでした。留学生は入学窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199032": {
+  "scholarshipUrl": "https://www.montreat.edu/on-campus/tuition-aid/scholarships/",
+  "intlAidNote": "成績による奨学金と、Honorsプログラムの奨学金(全額免除1件、年$12,000〜$2,500など)があり、重ねて使えます。韓国系の学生向けにKorean Christian Heritage奨学金(年$13,200)もあります。2027-28年度の総額は約$54,979です。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206835": {
+  "scholarshipUrl": "https://www.okwu.edu/admissions/international-students/",
+  "intlAidNote": "留学生は連邦の援助の対象外で、現金払いが前提です。留学生向けの奨学金枠(International Student Scholarship)があります。授業料は学士で1単位あたり約$447で、入学前に残額の50%を払う必要があります。1年分の資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151290": {
+  "scholarshipUrl": "https://international.indianatech.edu/undergrad/finaid/",
+  "intlAidNote": "留学生は出願時に自動で奨学金が審査され、95%の留学生が援助を受けます(成績による奨学金は年$5,000〜$18,000)。年に2件の全額授業料の奨学金(Global Scholar of Excellence)があります。運動選手でない留学生は成績の奨学金が最大$15,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154721": {
+  "scholarshipUrl": "https://www.bethanylb.edu/tuition",
+  "intlAidNote": "2026-27年度の授業料は$34,500、寮・食事は$13,500で総額は約$48,000です。留学生を歓迎し、出願の総合審査で奨学金・助成が決まります。留学生専用の奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147013": {
+  "scholarshipUrl": "https://www.mckendree.edu/offices/financial-aid/international/scholarships.php",
+  "intlAidNote": "留学生は合格時に成績による奨学金が決まります。編入はGPA2.75〜4.0で年$8,000、PTK会員で年$2,000です。Make Your Mark International奨学金(6件、各$2,000)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219949": {
+  "scholarshipUrl": "https://www.cumberland.edu/financial/sources-of-aid/",
+  "intlAidNote": "留学生には学期ごとに$125の留学生費がかかります。授業料は学期$13,620です。History & International Students向けのMonty & Pace Pope奨学金など、100以上の基金奨学金があります(締切4月1日)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202763": {
+  "scholarshipUrl": "https://www.findlay.edu/admissions/international/scholarships",
+  "intlAidNote": "成績による奨学金が自動で適用されます(2026-27年度の新入生: Trustee 4.0以上で$25,000〜Merit $18,500)。編入も同様($18,500〜$25,000)。年間費用の目安は学士で約$60,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "140872": {
+  "scholarshipUrl": "https://www.reinhardt.edu/admissions-aid/how-to-apply/how-to-apply-international/",
+  "intlAidNote": "留学生にも、成績・運動の奨学金への同じアクセスがあり、合格審査と同時に審査されます(SATまたはACTの提出が必要)。留学生費が年$2,500で、1年分の資金証明は$51,264です(奨学金で調整)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219000": {
+  "scholarshipUrl": "https://www.augie.edu/admission-aid/financial-aid-costs-scholarships/comprehensive-costs/international-student-costs",
+  "intlAidNote": "全日制の留学生は、全員が奨学金(年$15,000〜$25,000)を受けます。2026-27年度の総額$57,322から、奨学金後の自己負担は年$24,000〜$30,000です。出身国と成績で決まるGlobal Leaders奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "140951": {
+  "scholarshipUrl": "https://www.scad.edu/admission/financial-aid-and-scholarships/scholarships",
+  "intlAidNote": "留学生は連邦・州の援助の対象外ですが、合格者は大学の奨学金の自動審査を受けます(先着で枠は限られる)。留学生向けにInternational Student Scholarship(500語のエッセイ)があり、ポートフォリオ・オーディションも審査されます。奨学金で授業料・生活費の全額は賄えません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164447": {
+  "scholarshipUrl": "https://www.aic.edu/admissions/undergraduate/scholarships/",
+  "intlAidNote": "留学生には必要性ベースの援助は出ません。成績による奨学金(年$20,000〜$30,000、4年間、成績維持が条件)が受験者に付与されます。学費・諸費は年$45,530です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199962": {
+  "scholarshipUrl": "https://www.wingate.edu/admissions/international",
+  "intlAidNote": "留学生の成績による奨学金は年$15,000〜$30,500(保証ではない)です。入学前に授業料の預託金$2,200が必要で、学期ごとに留学生費$100がかかります。奨学金の額に応じて、資金証明は$30,000〜$49,000です。全額奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101693": {
+  "scholarshipUrl": "https://umobile.edu/financial-aid/scholarships-grants/",
+  "intlAidNote": "合格時に成績による奨学金が自動で審査されます(Dean's Award: GPA2.5〜2.99で年$12,000など)。授業料は年$26,340で、州内外の区別はありません。外国籍の学生向けに、Mrs. Emmett B. Frazer Foreign Studies奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "140252": {
+  "scholarshipUrl": "https://www.life.edu/admissions/financial-aid/scholarships/",
+  "intlAidNote": "留学生向けに、授業料の補助(国際学生割引、地域・学期によって変動)があります(非居住ビザ、フルタイム、学費残高ゼロが条件)。大学院生には授業料50%のInternational Scholarshipがあります。運動奨学金はコーチの裁量で、保証されません(NAIA・SSAC)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151263": {
+  "scholarshipUrl": "https://uindy.edu/admissions-international-students/scholarships-grants-for-international-students",
+  "intlAidNote": "合格した学部の新入生は、学業奨学金を受けます(年$12,000〜$20,000を4年間。編入は年$9,000〜$17,000を3年間)。留学生の追加料金や高い授業料はありません。2026-27年度の直接費用は約$52,768です。必要性ベースの援助は留学生には出ません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157216": {
+  "scholarshipUrl": "https://www.lindsey.edu/about-lwc/Offices-and-Services/International-Student-services.cfm",
+  "intlAidNote": "留学生向けの奨学金があり、I-20の情報から金額が決まります。学部の授業料は2026-27年度で学期あたり$14,328(12〜18単位)です。留学生の必要性ベースの援助の対象かどうかは、窓口に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139630": {
+  "scholarshipUrl": "https://eu.edu/admissions/aid/eu-aid/",
+  "intlAidNote": "2026-27年度の授業料は年$27,840、1年分の資金証明は$41,100(2025-26)から奨学金分を引いた額です。成績による奨学金(最大$6,000)などがあり、留学生は学内就労制度(IWS)の対象になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120537": {
+  "scholarshipUrl": "https://www.hiu.edu/undergraduate-on-campus/international-students.php",
+  "intlAidNote": "留学生は成績や運動の奨学金の対象です(全額は賄えない)。学校の方針で、初学期の授業料・寮・食事・諸費用を前払いする必要があり、I-20のための預託金$550が必要です。資金証明は$36,676(援助分を引いた額)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153375": {
+  "scholarshipUrl": "https://www.grandview.edu/admissions/first-year/international/scholarships",
+  "intlAidNote": "留学生向けの成績による奨学金があります(Grand View Grant 最大$13,000〜Presidential 最大$21,000)。運動・学科の奨学金も、コーチ・教員の選考で出ます。必要性ベースの援助はありません。2024-25年度の授業料は$34,112です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198215": {
+  "scholarshipUrl": "https://www.catawba.edu/international/",
+  "intlAidNote": "留学生も、成績・特技の奨学金(Presidential・Trusteeなど、$8,000〜授業料全額)の対象で、運動・音楽・舞台の奨学金もあります。連邦の援助は対象外です。開始の3か月以上前の出願が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155520": {
+  "scholarshipUrl": "https://www.mnu.edu/admissions/financial-aid/",
+  "intlAidNote": "2025-26年度の授業料は学期$18,810(年$37,620)です。学部の奨学金(学業・運動・信仰など)は、伝統的な学士課程の学生が対象で、98%の学生が援助を受けます。国際・DACA・非市民向けに、緊急の資金から$1,000の助成があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133553": {
+  "scholarshipUrl": "https://erau.edu/becoming-student/international-students/scholarships",
+  "intlAidNote": "留学生は、出願時に国際奨学金の申請書を出すと、成績と経済的必要性で審査されます。F在留資格の留学生は、授業料・必須諸費用を超える奨学金部分に14%の課税があります。航空系の人気校で、学費は高めです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170675": {
+  "scholarshipUrl": "https://ltu.edu/scholarships/intercultural-excellence-scholarship/",
+  "intlAidNote": "学部の留学生向けに、Intercultural Excellence Scholarship(年$5,000、8学期で$20,000、合格時に自動審査)があります。2025-26年度の授業料は$43,440、諸費$2,400、寮・食事$12,484で、留学生は学期ごとに$250の留学生費がかかります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "221731": {
+  "scholarshipUrl": "https://www.tnwesleyan.edu/admissions/international-admissions/",
+  "intlAidNote": "学生の100%が、成績または運動の奨学金を受けます(年間で$1,100万以上)。Neff Award(授業料全額、年2件、GPA3.75以上・ACT30以上)があります。TWU Pledgeはテネシー州の居住者のみです。留学生の担当カウンセラーが出願を支援します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "148131": {
+  "scholarshipUrl": "https://www.quincy.edu/costs-aid/tuition-costs-fees/",
+  "intlAidNote": "2026-27年度の授業料(本代込み)は年$39,900で、非返金の留学生費$1,200がかかります。編入奨学金が年$10,000〜$18,000です。Illinois Promiseなどは州の居住者向けで、留学生は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "138293": {
+  "scholarshipUrl": "https://www.webber.edu/financial-aid/",
+  "intlAidNote": "留学生は全額を学期の開始前に払う必要があり、分割払いはありません。留学生向けに、友人紹介の奨学金($500)があり、非運動選手向けのCampus Service奨学金(年$6,000)などがあります。ほとんどの学生が奨学金を受けています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146612": {
+  "scholarshipUrl": "https://www.lewisu.edu/admissions/international/tuition.htm",
+  "intlAidNote": "学部の奨学金は、前の学校のGPAで自動で決まり、年最大$18,000です(留学生を含む)。米国の連邦・州の援助は市民・永住者のみで、留学生向けの他の奨学金は少ないと案内されています。Mpower Financingの学生ローンが利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219806": {
+  "scholarshipUrl": "https://www.cn.edu/admissions-and-aid/international-students/international-scholarships-financial-aid/",
+  "intlAidNote": "留学生は、新入生向けの成績奨学金(Presidential Excellence 年$16,000、Presidential 年$14,000、Dean's 年$12,000)の対象です。**韓国の学生向けBilly Kim奨学金**もあります。2026-27年度の総額は約$55,300で、留学生費$125と保険(学期$938)がかかります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172264": {
+  "scholarshipUrl": "https://www.sienaheights.edu/",
+  "intlAidNote": "留学生向けに、新入生(高校最終学年、GPA3.0以上)と編入生(GPA2.75以上)の奨学金があり、4年間更新できます。授業料は年$29,500+諸費$1,278で、寮・食事を含む直接費用は約$44,308です。留学生には年$2,000の預託金と、セッションごとの支援費$100がかかります。ESLの学生は奨学金の対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237312": {
+  "scholarshipUrl": "https://www.ucwv.edu/admissions/financial-aid/types-of-aid/scholarships/",
+  "intlAidNote": "学部の成績による奨学金が年$5,000〜$15,000で、寮生は寮・食事の奨学金も上乗せできます。最上位のPresidential奨学金は、授業料・寮・食事を4年間賄います(年最大$45,980)。留学生向けの基金($50,000)が新設されました。2026-27年度の授業料は$33,990です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154712": {
+  "scholarshipUrl": "https://www.benedictine.edu/admission/international",
+  "intlAidNote": "留学生向けの奨学金は、成績・テストの点数・英語力で決まります(合格が条件、GPA2.5以上を維持)。新入の留学生は分割払いが使えず、3学期目から月払いが使えます。Flywireで自国通貨での支払いができます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "212601": {
+  "scholarshipUrl": "https://www.gannon.edu/tuition-and-financial-aid/types-of-financial-aid/aid-for-international-students/",
+  "intlAidNote": "多くの学部留学生が、国際奨学金(成績で決まる授業料の減額)を受けられます。2026-27年度の授業料は$42,020〜$44,570、寮・食事$17,100です。外部の資金(Fulbrightなど)の案内があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137476": {
+  "scholarshipUrl": "https://www.stu.edu/admissions/international-admissions/",
+  "intlAidNote": "合格した留学生は、GPAに応じた学業奨学金(GPA3.6超: 最大$13,000、3.0〜3.59: $11,000、3.0未満: $9,000)が自動で審査されます。全額免除はありません。留学生は、授業料・諸費の50%を登録時に、残りを8日目までに払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181020": {
+  "scholarshipUrl": "https://www.doane.edu/admissions/international-students",
+  "intlAidNote": "留学生向け学業奨学金は年$10,000〜$20,000(出身国のGPAで決定、追加書類不要)。資金証明は必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "219718": {
+  "scholarshipUrl": "https://www.bethelu.edu/admissions/international/",
+  "intlAidNote": "授業料は1学期$10,080(2026-27)。学業メリット奨学金は出願時に自動審査されます。新規留学生は最初の学期分を全額前納。学生保険が必須です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181127": {
+  "scholarshipUrl": "https://www.hastings.edu/admissions/apply-to-hastings/international-students/",
+  "intlAidNote": "留学生向けInternational Student Grantが自動で年$15,000(最大4年)。タレント/運動奨学金もあります。授業料+諸費用は約$41,244、寮・食費は約$13,200です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "180984": {
+  "scholarshipUrl": "https://www.cune.edu/admissions/international/",
+  "intlAidNote": "授業料は約$43,000(総額約$55,910)。F-1留学生はPaul Scholarsの対象外です。公証された銀行残高証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198835": {
+  "scholarshipUrl": "https://www.lr.edu/admission-aid/international-students",
+  "intlAidNote": "授業料を約$30,000に引き下げ。入学時に学業メリット奨学金が自動で付与されます(授業料の50%以上になる例も多い)。授業料無料の保証はNC/SC州居住者のみが対象です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "169479": {
+  "scholarshipUrl": "https://www.davenport.edu/admissions/international-students",
+  "intlAidNote": "留学生向けのメリット奨学金は年最大$10,000。大学の奨学金は1年に1種類のみ受け取れます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "136950": {
+  "scholarshipUrl": "https://www.rollins.edu/admission-aid/international-students/",
+  "intlAidNote": "留学生向けメリット奨学金は$15,000〜授業料全額。ニーズベース支援は留学生には限定的です(出願時に申請、締切2/1)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170082": {
+  "scholarshipUrl": "https://www.gvsu.edu/admissions/international-scholarships-and-assistantships-74.htm",
+  "intlAidNote": "F-1学部生は州内授業料並みになる補助(年約$6,700、4年更新)に加え、International Merit Scholarship $2,500。入学後は年$250〜$3,000の留学生奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "156365": {
+  "scholarshipUrl": "https://www.campbellsville.edu/admissions/international/",
+  "intlAidNote": "授業料は1学期$14,880(2026-27)。学部の留学生専用奨学金の情報は見つかりませんでした。運動奨学金はコーチに確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206048": {
+  "scholarshipUrl": "https://www.tiffin.edu/international-admissions",
+  "intlAidNote": "留学生も国内学生と同じ授業料(年$35,700)。学業メリット$11,000〜$18,000と$1,000グラントがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "137847": {
+  "scholarshipUrl": "https://www.ut.edu/admissions/international-admissions",
+  "intlAidNote": "学業メリット奨学金は自動審査。非市民向けのニーズベース支援はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153250": {
+  "scholarshipUrl": "https://www.dordt.edu/admissions/international-students",
+  "intlAidNote": "2025-26の総費用は約$50,530。ISTG等の学業奨学金で一部支援されますが、全体の50%を超えることはまれです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "132657": {
+  "scholarshipUrl": "https://www.lynn.edu/admission/international",
+  "intlAidNote": "メリット奨学金は年$16,000〜$28,000。Presidential奨学金は授業料+寮+食費を全額カバー(海外在住学生に毎年1名)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171128": {
+  "scholarshipUrl": "https://www.mtu.edu/finaid/students/international/",
+  "intlAidNote": "International Ambassador Scholarshipが年$11,000〜$14,300(4年更新)。ビジネス学部はDean's Award $2,000〜$20,000もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "176628": {
+  "scholarshipUrl": "https://www.avila.edu/admissions/international/",
+  "intlAidNote": "授業料は$41,540(平均奨学金$25,815)。F-1用保険は年$1,260、学部のデポジットは$12,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "179043": {
+  "scholarshipUrl": "https://www.rockhurst.edu/admission/international-students/",
+  "intlAidNote": "学部留学生向けメリット奨学金は$14,000〜$28,000(別ページでは$5,000〜$14,000と記載、要確認)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "446048": {
+  "scholarshipUrl": "https://www.avemaria.edu/admissions/international-students/",
+  "intlAidNote": "授業料は年$30,248(2024-25)、総額は$41,006〜$50,056。President's Scholarship Weekendで$26,000以上の奨学金の機会があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164739": {
+  "scholarshipUrl": "https://www.bentley.edu/admission/international-students",
+  "intlAidNote": "留学生向けニーズベース支援はなし。メリット奨学金は$10,000〜授業料全額。ISFAF($500〜$2,000)の困窮時基金あり。初年度総額は約$94,270です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "126775": {
+  "scholarshipUrl": "https://www.mines.edu/admissions/international/",
+  "intlAidNote": "留学生専用の情報は限定的。州外学生向けProvost Award $6,000〜$10,000があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155937": {
+  "scholarshipUrl": "https://www.sterling.edu/admissions/international",
+  "intlAidNote": "I-20発行前に1年分の授業料・寮・食費の支払いが必要。TOEFL 525/iBT70。全日制学生は全員が大学奨学金を受けます。締切は7/15と12/15です。",
+  "intlAidCheckedAt": "2026-10-04"
+ }
 }

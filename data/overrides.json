@@ -3956,5 +3956,35 @@
   "scholarshipUrl": "https://www.barstow.edu/admissions-aid/admissions-records/special-student-populations/international-students",
   "intlAidNote": "F-1留学生は非居住者授業料・登録料・学生活動費を払い、AB540免除の対象外です。12単位以上の継続履修が必要で、在籍は最大6学期までです。留学生向け奨学金の情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "110246": {
+  "scholarshipUrl": "https://www.butte.edu/apply-and-pay/tuition_and_fees/",
+  "intlAidNote": "非居住者・留学生は標準の登録料・学生サービス費に加え、授業料が1単位$340追加でかかります。F-1は留学生用の出願が必要です。奨学金(成績・ニーズ・活動型)がありますが、留学生が応募できるかは個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110334": {
+  "scholarshipUrl": "https://www.cabrillo.edu/international/",
+  "intlAidNote": "12単位/学期で年間授業料の目安は約$11,000です。非移民ビザ保持者は州内料金の対象外で、資金証明とI-20が必要です。州・連邦の支援は対象外ですが、民間団体・企業などの奨学金や、IEFA(国際奨学金データベース)の利用が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111434": {
+  "scholarshipUrl": "https://canadacollege.edu/international/expenses.php",
+  "intlAidNote": "年間費用の目安は約$32,500(授業料・諸費$10,584、保険$2,631、住居・食費$13,750、その他$5,535)です。州・連邦の支援は対象外で、2026-27は留学生の出願料が免除されています。学期12単位以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111461": {
+  "scholarshipUrl": "https://www.canyons.edu/academics/isp/international_students/apply.php",
+  "intlAidNote": "留学生は非居住者授業料に設備費・登録料などが加算されます。学期12単位以上の履修が必要で、学内就労は週20時間まで(1年後にCPT可)です。一般の奨学金は市民・永住者限定のものが多く、留学生向けは限定的です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111887": {
+  "scholarshipUrl": "https://www.cerritos.edu/academics/international/enrollment-fees-2.htm",
+  "intlAidNote": "F-1留学生は1単位$397(非居住者授業料$359+設備費$38)に加え、登録料$46/単位です。SEVIS費$350も必要です。経済支援は対象外で、登録後に限定的な奨学金に応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "111896": {
+  "scholarshipUrl": "https://www.cerrocoso.edu/enrollment-aid/determining-your-residency-status.html",
+  "intlAidNote": "F-1は非居住者授業料(1単位$190、15単位で学期上限$2,850)に加え設備費・登録料がかかります。12単位が全日制の基準です。大学は300以上の奨学金を運営していますが、留学生の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

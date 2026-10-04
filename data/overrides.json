@@ -3448,5 +3448,35 @@
   "scholarshipUrl": "https://www.centralia.edu/pathways/docs/2026-27catalog.pdf",
   "intlAidNote": "留学生は連邦・州の財政支援の対象外ですが、大学の奨学金には応募できます。授業料は最高料金区分で、各学期12単位以上・GPA2.0以上が必要です。1年分の資金証明(銀行明細・公証済み宣誓書など)が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "184481": {
+  "scholarshipUrl": "https://www.essex.edu/international-students/",
+  "intlAidNote": "F-1等の留学生は郡外(out-of-county)授業料が適用されます。年間費用の目安は約$22,700で、財政支援者の証明が必要です。Professor John Hills International Student Scholarshipなど留学生向け奨学金があります。夏期のみの受講はできません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147800": {
+  "scholarshipUrl": "https://www.oakton.edu/admissions/apply-to-oakton/international-student/",
+  "intlAidNote": "F-1は州外料金で、$29,500以上の資金証明が必要です。連邦・州の支援は対象外ですが、1学期修了後に大学の一部奨学金とAmerican Dream Scholarshipに応募できます。各学期12単位以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236638": {
+  "scholarshipUrl": "https://www.skagit.edu/international/faqs.html",
+  "intlAidNote": "新規のF-1留学生はInternational Education Scholarship(授業料補填・書店クレジット、現金不可)の対象になり得ます。一方、留学生向けの経済支援は現時点でないとの記載もあるため、最新条件は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107637": {
+  "scholarshipUrl": "https://www.seark.edu/international-students",
+  "intlAidNote": "州外授業料は1単位$240で、留学生にも適用されます。資金証明と医療・傷害保険の証明が必要です。奨学金はFAFSAが条件のものが多く、非居住外国人は連邦支援の対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "149727": {
+  "scholarshipUrl": "https://www.waubonsee.edu/admissions/financial-aid-and-scholarships",
+  "intlAidNote": "授業料は学区・州外・留学生に区分されます。奨学金は授業料・諸費・教材費への充当で、多くは米国市民などの要件があり、留学生は応募できないものが多い点に注意してください(締切は2月)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147004": {
+  "scholarshipUrl": "https://www.mchenry.edu/international/index.html",
+  "intlAidNote": "MCCはローン・奨学金などの経済支援を留学生に提供できないとされています。I-20には1年分以上の資金証明(個人資産またはスポンサー)と宣誓書が必要で、支払い不履行はF-1資格喪失につながります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

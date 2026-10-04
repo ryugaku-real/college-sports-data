@@ -4456,5 +4456,30 @@
   "scholarshipUrl": "https://www.stcc.edu/apply/international-students/",
   "intlAidNote": "F-1の1年間の費用の目安は$29,458(授業料・諸費$18,258、生活費$10,000、教材$1,200)で、1年分の資金証明が必要です。STCCには個人・財団・企業による奨学金がありますが、留学生向けの個別情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "172963": {
+  "scholarshipUrl": "https://www.anokaramsey.edu/admissions/how-to-apply/international-student.html",
+  "intlAidNote": "1年分の費用(授業料・諸費、教材、住居・食費、交通、医療保険など)として、公証済みの銀行明細で$26,832以上の資金証明が必要です。大学の奨学金($1,000〜$2,000/年)がありますが、FAFSA前提のものが多く、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173203": {
+  "scholarshipUrl": "https://www.clcmn.edu/international-education-at-clc/certification-of-finances/",
+  "intlAidNote": "授業料・諸費、教材、住居・食費、州法で必須の健康保険、個人費をカバーする資金証明(本人・家族・奨学金・政府等)が必要で、大学の経済支援や米国内の就労収入には頼れません。CLC Foundation(年約$37.5万)の奨学金は6単位以上の履修が条件です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173559": {
+  "scholarshipUrl": "https://www.minnesota.edu/admissions",
+  "intlAidNote": "受け入れ対象は、米国内の他校からF-1/M-1で転入する在籍ステータスの有効な留学生とカナダ出身者です。訪問学生は経済支援の対象外です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173638": {
+  "scholarshipUrl": "https://mnwest.edu/admission/international-student/application",
+  "intlAidNote": "I-20には授業料・諸費・教材・医療保険・個人費の全期間分の資金証明が必要で、年約$12,000程度が目安とされています。大学として留学生向けの経済支援はありません。North Star Promiseはミネソタ居住者向けで対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "173735": {
+  "scholarshipUrl": "https://minnesotanorth.edu/admissions/types-of-students/international-students/",
+  "intlAidNote": "F-1は12単位以上(対面)の履修が必要で、SEVIS費$350と、Minnesota State留学生医療保険(年額を事前に請求)が必要です。授業料は居住者・協定州・州外・留学生の区分があり、財団の奨学金には全学生が応募を勧められています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

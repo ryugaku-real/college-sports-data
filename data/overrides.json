@@ -1376,5 +1376,45 @@
   "scholarshipUrl": "https://seu.edu/admission/international/",
   "intlAidNote": "留学生も学業・運動・音楽・演劇/映画のメリット奨学金の対象(基準は国内学生と同じ)。ニーズベース/FAFSA系は対象外。個別奨学金は2/15や3/1が締切です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "498571": {
+  "scholarshipUrl": "https://www.pennwest.edu/admissions/international/undergraduate.php",
+  "intlAidNote": "留学生向けPennWest International Student Scholarshipは新入生で年$1,000〜$4,000(GPA別)、編入は年$1,000〜$2,000。GPA2.5以上で授業料を州外居住者並みに下げる学業奨学金もあり、住居補助$3,000も受けられます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154855": {
+  "scholarshipUrl": "https://www.centralchristian.edu/scholarships/",
+  "intlAidNote": "留学生向けに個別の学費支援を案内しています。奨学金は最大年$20,720、平均パッケージは約$20,000。詳細は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "238078": {
+  "scholarshipUrl": "https://wheeling.edu/admissions/international-students/internationalfaqs/",
+  "intlAidNote": "留学生の奨学金は自動で組まれ、追加書類は不要(運動奨学金・競争的奨学金を除く)。学業奨学金は年$8,000〜$16,000。招待制の全額授業料奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "146339": {
+  "scholarshipUrl": "https://www.judsonu.edu/admissions-aid/undergraduate-admissions/international-students/",
+  "intlAidNote": "留学生も運動・メリット・ニーズベースの奨学金を受けられます。メリット審査にはSAT/ACTを推奨します。一部の奨学金は米国市民・永住者限定です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171492": {
+  "scholarshipUrl": "https://international.northwood.edu/admissions/scholarships-grants/",
+  "intlAidNote": "留学生向けInternational Freshman Merit Scholarshipは年$7,000〜$13,000(寮生。寮外は年$2,500減額)。編入は年最大$10,000、DECA経験者は$1,000〜$5,000。運動奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220631": {
+  "scholarshipUrl": "https://www.lincoln.edu/admissions/undergraduate/scholarships/international-student-merit-scholarship.html",
+  "intlAidNote": "F-1の新入生向けInternational Student Merit Scholarshipは授業料・一般諸費をカバーし更新可(GPA3.3以上、SAT1020/ACT20以上、フルタイム、締切2/15)。要申請。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155089": {
+  "scholarshipUrl": "https://www.friends.edu/admissions/international-students/",
+  "intlAidNote": "全額奨学金はありませんが、基準を満たす留学生は複数の大学奨学金を併用可能(留学生の平均援助パッケージ約$12,906)。初年度の資金証明は$52,846、デポジット$2,000が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107044": {
+  "scholarshipUrl": "https://www.harding.edu/about/offices-departments/international-education/international-students/scholars/",
+  "intlAidNote": "留学生向けにWalton International Scholarship(中米・メキシコ出身者)、Sam Walton Scholarship(年$3,000、ビジネス専攻優先)、東アジア出身者向けプログラムなどがあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

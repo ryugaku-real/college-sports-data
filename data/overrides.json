@@ -6156,5 +6156,45 @@
   "scholarshipUrl": "https://www.fandm.edu/apply/international-student-admission/",
   "intlAidNote": "留学生にもニードベースで必要額の100%を4年間支給(FAFSA・CSS Profile)。メリット奨学金は年最大$35,000(2025年入学)、International Student Grantあり。留学生専用のF&Mローン(年率4.5%)も利用可。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "130590": {
+  "scholarshipUrl": "https://www.trincoll.edu/admissions/finaid/consumer-information/",
+  "intlAidNote": "総額は約$98,480(授業料$72,820、寮$13,150、食費$7,180ほか)。ニードベース援助は少数の留学生のみ(奨学金・ローン)。援助希望者はCSS Profileを提出、不要な場合は資金証明書が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "130697": {
+  "scholarshipUrl": "https://www.wesleyan.edu/admission/afford-aid/process-international.html",
+  "intlAidNote": "総額は約$88,720(授業料$66,716、寮・食費$19,034ほか)。ニードベース援助は非常に競争的で、入学出願時に申請必須。African Scholars・Freeman Asian Scholarsは全費用(渡航費含む、$100,000超)を支給(各年約10名)。編入留学生への援助は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "131283": {
+  "scholarshipUrl": "https://financial-aid.catholic.edu/undergraduate/international/index.html",
+  "intlAidNote": "2026-27の総額は約$89,486(授業料$60,500ほか)。連邦援助・大学のニードベース援助は対象外。メリット奨学金は留学生も対象で最大年$33,000。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139144": {
+  "scholarshipUrl": "https://berry.edu/admission/how-to-apply/international",
+  "intlAidNote": "2026-27の寮生の総額は約$62,769。留学生向けに成績に基づくメリット奨学金が自動付与(要件を満たした場合)。ニードベース奨学金は留学生は対象外。Certification of Financesが必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "139658": {
+  "scholarshipUrl": "https://studentaid.emory.edu/undergraduate/apply/new-students/international.html",
+  "intlAidNote": "2026-27の授業料は年$70,300。留学生には選抜された少数にニードベース援助、限定的な競争的メリット奨学金あり。援助希望者は資金証明の額を$0〜COAの範囲で申告可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "140696": {
+  "scholarshipUrl": "https://oglethorpe.edu/admission/apply/international-application/scholarships-financial-aid/",
+  "intlAidNote": "留学生は全員がメリット奨学金(年最大$21,000)を自動審査。11/15までに書類を出した新入生はScholarship Weekendで授業料全額奨学金(最大10名)の対象。ニードベースも検討、留学生ローン(米国人の共同署名不要)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "144050": {
+  "scholarshipUrl": "https://financialaid.uchicago.edu/undergraduate/how-aid-works/types-of-aid/undergraduate-international-aid/",
+  "intlAidNote": "留学生もニードベースの援助(奨学金+授業料外の食・住・渡航費用向けの留学生スタイペンド)を受けられる。援助は入学審査時に決定され、入学時に申請しないと後からは申請不可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "145646": {
+  "scholarshipUrl": "https://www.iwu.edu/international/scholarships.html",
+  "intlAidNote": "2025-26の留学生の総額は約$78,514(授業料$59,226、寮$8,498、食費$5,376ほか)。メリット奨学金は年最大$38,000(4年更新)、毎年2名に授業料全額奨学金。年$30,000以上の家族負担が示せれば必要度の審査なしで評価。CSS Profile提出時の平均パッケージは約$42,614。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

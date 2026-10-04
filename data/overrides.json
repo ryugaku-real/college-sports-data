@@ -1936,5 +1936,40 @@
   "scholarshipUrl": "https://www.bemidjistate.edu/admissions/international/cost-scholarships/",
   "intlAidNote": "留学生もミネソタ州民と同じ授業料。留学生向けに計$3,000超の奨学金(International Student Annual Scholarshipは学内就労・GPA3.0などが条件)があります。Foundation申請書で一括応募できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "155025": {
+  "scholarshipUrl": "https://www.emporia.edu/office-international-education/admissions-costs/scholarships/",
+  "intlAidNote": "新入生・編入生はPresidential/Transfer Scholarship(年$9,500〜$20,000、成績で自動審査、更新可)の対象。入学後はInternational Ambassador Scholarship(学期$400)等にも申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "184773": {
+  "scholarshipUrl": "https://georgian.edu/admissions/international/",
+  "intlAidNote": "留学生が使えるのは大学のメリット奨学金のみ(Presidential/Provost/Dean's、ニーズベースなし)。I-20発行前に財政証明書と授業料デポジット$250が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107071": {
+  "scholarshipUrl": "https://www.hsu.edu/academics/international-programs/international-undergraduate-admissions/",
+  "intlAidNote": "留学生に保証された奨学金はなく、主要な学業奨学金は国内学生中心です。必要な資金証明は最低$19,620。Foundation奨学金は申請可能(3/1締切)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "141361": {
+  "scholarshipUrl": "https://www.yhc.edu/pay-for-college/financial-aid/scholarships/",
+  "intlAidNote": "留学生も学業・運動・芸術のメリット奨学金の対象。Academic Merit Awardは在学期間中で計$18,000〜$23,000。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "156356": {
+  "scholarshipUrl": "https://www.brescia.edu/institutional-financial-aid-programs/",
+  "intlAidNote": "出願者は自動でメリット奨学金の審査対象(年$6,000〜$27,000の範囲)。Centennial Scholarshipは年$5,000〜$25,000(8学期更新)。留学生専用の金額は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236452": {
+  "scholarshipUrl": "https://www.stmartin.edu/documents/scholarships-international-students",
+  "intlAidNote": "留学生向けInternational Excellence Scholarship(年$8,000〜$15,000)、Benedictine Grant(最大年$10,000)、学業メリット(年$18,000〜$20,000)。Leadership/Service Award各$1,000も。多くは入学時に自動付与です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237969": {
+  "scholarshipUrl": "https://www.wvwc.edu/international-student-apply/",
+  "intlAidNote": "留学生は学業奨学金(年$13,000〜$18,000)の自動審査対象。芸術・運動・地域貢献・eスポーツの奨学金も。年最低$25,000は自己負担が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

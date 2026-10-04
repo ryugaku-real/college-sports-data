@@ -5731,5 +5731,45 @@
   "scholarshipUrl": "https://www.murraystate.edu/admissions/international/Costs.aspx",
   "intlAidNote": "留学生学部の年間費用は約$26,178(授業料・諸費用$14,058、寮$5,558、食費$4,330ほか)。提携校奨学金(年$2,000)、International Leadership奨学金(年$1,000)あり。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "171571": {
+  "scholarshipUrl": "https://www.oakland.edu/futurestudents/apply/international/",
+  "intlAidNote": "留学生の年間費用は約$33,534(州外授業料$19,788、生活費$11,454、保険$2,292)＋書籍・雑費約$4,000。留学生は原則として大学奨学金の対象外(カナダ・メキシコ市民は州内授業料になるNon-Resident Awardあり)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "232937": {
+  "scholarshipUrl": "https://www.nsu.edu/Admissions-Aid/Apply-to-NSU/International-Students/Tuition-and-Financial-Aid",
+  "intlAidNote": "留学生は連邦援助・ワークスタディの対象外。I-20発行には初年度の費用の資金証明が必要。専用の大型奨学金情報は少なく、外部奨学金や母国の銀行ローンが中心。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153269": {
+  "scholarshipUrl": "https://www.drake.edu/admission-aid/international-students",
+  "intlAidNote": "留学生も米国学生と同じ授業料(在学中は値上げなしの保証)。International Student Grant(必要額に応じ、総額の40%まで、更新可)、Bahamas奨学金年$5,000、Hebei省奨学金年$3,000あり。I-20に初年度分の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "433660": {
+  "scholarshipUrl": "https://www.fgcu.edu/admissionsandaid/undergraduateadmissions/internationalstudents/estimatedexpenses",
+  "intlAidNote": "留学生は連邦ローン・Pell対象外。Out-of-State Waiver(選抜)に採用されると州内授業料が適用。大学全体で年$3,000万の奨学金。I-20に必要額の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199157": {
+  "scholarshipUrl": "https://www.nccu.edu/admissions/international-students",
+  "intlAidNote": "留学生は連邦援助の対象外。Financial Statement Certificateで授業料・生活費の資金証明が必要(スポンサー利用時は初年度分、自己資金は全年分)。母国や外部の奨学金(Fulbrightなど)の活用が前提。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "154095": {
+  "scholarshipUrl": "https://admissions.uni.edu/international/undergraduate-students/scholarships",
+  "intlAidNote": "2026-27の留学生学部の年間総額は$38,196(授業料$21,579、諸費用$1,451、保険$2,520、寮・食費$10,646ほか)。International Scholars Award(年$2,000〜$5,000)、International Excel Award(年$1,000〜$4,000、4年)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "169716": {
+  "scholarshipUrl": "https://www.udmercy.edu/admission/financial-aid/type/international.php",
+  "intlAidNote": "留学生の新入生は大学奨学金で最大$10,000、編入生(米・加の認定校から)は最大$9,000(フルタイム)。連邦・州の援助は対象外。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235097": {
+  "scholarshipUrl": "https://www.ewu.edu/apply/international-tuition-fees/",
+  "intlAidNote": "州外・留学生の年間総額は約$46,087(授業料$24,894、諸費用$1,065、寮・食費$15,574ほか)。Foreign Nations Reciprocityで授業料が最大約$14,000/年割引になる場合あり。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -4676,5 +4676,35 @@
   "scholarshipUrl": "https://www.ccac.edu/cost-and-aid/financial-aid/scholarships.php",
   "intlAidNote": "留学生の授業料は1〜11単位で1単位$390、12〜18単位で定額$5,850です。留学生もAwardSpringで申請すると、対象の奨学金に自動でマッチングされます(条件は奨学金ごと)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "211343": {
+  "scholarshipUrl": "https://bc3.edu/admission-aid/apply-to-bc3/international.html",
+  "intlAidNote": "2025-26のF-1の授業料・諸費は学期$4,920(12単位)〜$7,380(18単位)で、年間の資金証明は約$21,340〜$26,260が目安です。連邦・州の支援は対象外で、学内就労(空きがある場合)は可能です。留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "211927": {
+  "scholarshipUrl": "https://dccc.edu/admissions-financial-aid/international-students/international-admissions",
+  "intlAidNote": "F-1は秋・春に全日制で、留学生は設備費$6/単位がかかります。経済支援は対象外ですが、Education Foundation(年約$62.5万)の奨学金の多くは留学生にも開かれています(条件は奨学金ごと)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "212878": {
+  "scholarshipUrl": "https://www.hacc.edu/Admissions/HowtoApply/InternationalStudents/index.cfm",
+  "intlAidNote": "2025-26の年間資金証明は$31,760が必要で、12単位(うち9単位以上は対面)が必須です。連邦支援は対象外ですが、F-1向けのHACC Foundation奨学金が限定的にあります。IEFAなどの国際奨学金検索の利用が案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "213659": {
+  "scholarshipUrl": "https://www.luzerne.edu/businessoffice/tuition.jsp",
+  "intlAidNote": "留学生は在学中ずっと州外扱いで、全日制(12〜18単位)の授業料は学期$7,650+技術・総合サービス費です。Foundationが年320件の奨学金を出しますが、留学生の対象は個別確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "214111": {
+  "scholarshipUrl": "https://www.mc3.edu/admissions/applying-to-mccc/international-students",
+  "intlAidNote": "留学生は州外授業料で、12単位以上が必要です。大学として留学生向けの奨学金・経済支援はないとされ、授業料と生活費を賄える資金の証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "214379": {
+  "scholarshipUrl": "https://www.northampton.edu/admissions/international-students/cost-of-attendance-international.html",
+  "intlAidNote": "I-20には$30,807以上の資金証明(Certification of Finance)が必要です。大学の経済支援・奨学金は留学生は対象外ですが、外部の奨学金(例: Career Fit Test Scholarship $500)に留学生も応募できるものがあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

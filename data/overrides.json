@@ -5971,5 +5971,45 @@
   "scholarshipUrl": "https://www.uncw.edu/seahawk-life/support-success/international/students-scholars/resources/financial-resources",
   "intlAidNote": "州外学生の2026-27の年間費用は約$48,127。F-1が必要な学部生向けに、高い学力を示した学生へ年$2,000〜$5,000の奨学金あり。EducationUSAの検索ツール活用を案内。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "130794": {
+  "scholarshipUrl": "https://admissions.yale.edu/financial-aid-international-applicants",
+  "intlAidNote": "2026-27の総額は約$102,000超(授業料$72,500、寮$12,080、食費$9,520ほか)。国籍・在留資格を問わずニードベースで必要額の100%を奨学金(ローン無し)で支給。メリット奨学金は無し。出願時に申請が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "166027": {
+  "scholarshipUrl": "https://college.harvard.edu/financial-aid/how-aid-works",
+  "intlAidNote": "2026-27の請求額は約$91,634(授業料$62,226、諸費用$6,216、寮$14,250、食費$8,942)。留学生も米国学生と全く同じ援助(ニードベース)。年収$200,000未満の家庭は授業料全額をカバー。メリット奨学金は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "182670": {
+  "scholarshipUrl": "https://financialaid.dartmouth.edu/how-aid-works/understanding-your-offer",
+  "intlAidNote": "費用総額は約$98,677(授業料$71,697、寮$13,032、食費$8,496ほか)。留学生も含めニード・ブラインド入学で、必要額の100%を支給。奨学金は$10,000〜授業料全額、平均$29,290(別申請不要)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186131": {
+  "scholarshipUrl": "https://www.princeton.edu/admission-aid/international-students",
+  "intlAidNote": "2026-27の総額は約$94,624(授業料$68,140、寮$13,010、食費$9,110ほか)。留学生も含めニード・ブラインドで必要額を100%充足、ローン無しの給付型。メリット奨学金は無し。平均支給額は約$83,000超。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190150": {
+  "scholarshipUrl": "https://undergrad.admissions.columbia.edu/apply/international/aid",
+  "intlAidNote": "2026-27の総額は約$99,774(授業料$72,800、諸費用$4,160、寮$12,522ほか)。必要額の100%を充足(ローン無し)だが、留学生はニード・アウェア(支払能力が合否に影響)。国際生の平均支給額は約$79,375。メリット奨学金は無し。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "190415": {
+  "scholarshipUrl": "https://finaid.cornell.edu/first-year-and-transfer-students-international",
+  "intlAidNote": "留学生にもニードベースで必要額の100%を支給(奨学金+ワークスタディ+適度なローン)。ただし留学生はニード・アウェア。Levitan Family奨学金(全額)、Tata奨学金(約20名)あり。出願時に申請が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "215062": {
+  "scholarshipUrl": "https://srfs.upenn.edu/financial-aid/international",
+  "intlAidNote": "2026-27の授業料・諸費用$73,978、総額約$89,000(寮・食費込み)。留学生もニードベースで必要額の100%を給付型で支給するが、ニード・アウェア入学。入学時に申請しないと後から申請不可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217156": {
+  "scholarshipUrl": "https://admission.brown.edu/international/financial-aid",
+  "intlAidNote": "2025-26の留学生の総額は約$102,228(授業料・諸費用$74,650、生活費$18,514ほか)。2029年卒からニード・ブラインド入学で必要額を100%充足。保険料と年1回の往復航空券も支給。出願時に申請が必要。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

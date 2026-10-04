@@ -3806,5 +3806,30 @@
   "scholarshipUrl": "https://nwicc.edu/international-admissions/",
   "intlAidNote": "3か月分の銀行明細で$20,500以上(授業料・諸費・寮・生活費の1年分)の維持が必要です。留学生専用のFiliz and Kelsey Junge International Student Scholarship($1,500)があり、一般奨学金の締切は3/1と11/1が目安です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "107521": {
+  "scholarshipUrl": "https://www.asutr.edu/page/tuition-and-fees",
+  "intlAidNote": "留学生の授業料は1単位$317に、留学生処理料$100が加算されます。Foundation奨学金(学期$1,000・要再申請)や学業奨学金がありますが、留学生の対象かは個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "184180": {
+  "scholarshipUrl": "https://www.ccm.edu/admissions/international-students/",
+  "intlAidNote": "大学の案内ページにF-1留学生の出願受け付けを停止している旨の記載があります。留学生の受け入れ状況は出願前に大学へ確認してください。F-1の学内就労はFWSではなくキャンパス雇用のみです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "203155": {
+  "scholarshipUrl": "https://www.hocking.edu/international-students-resource-center",
+  "intlAidNote": "出願料は$150で、書類評価後にI-20が発行されます。バハマ・ジャマイカ出身の学生にはGREAT奨学金があり、全日制なら州内授業料が適用されます。外部奨学金の受け入れも可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "201973": {
+  "scholarshipUrl": "https://www.clarkstate.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けの経済支援はないとされています。I-20には、6か月以内の書類で財務証明(Financial Certification and Affidavit)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191339": {
+  "scholarshipUrl": "https://genesee.edu/admissions/international-students/",
+  "intlAidNote": "I-20には約$16,990以上の資金証明が必要です(授業料・諸費$6,500、生活費$9,048、教材・保険$1,442)。留学生は州外料金で、経済支援は対象外ですが、Foundationの奨学金に応募できるものがあります(資金証明の代わりにはなりません)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -1826,5 +1826,50 @@
   "scholarshipUrl": "https://www.dyu.edu/cost-aid/tuition-fees/student-financial-services",
   "intlAidNote": "留学生も大学のメリット奨学金の対象(Honorsは授業料の半額+寮・食費1/4、SAT1100/ACT24以上、更新はGPA2.75)。編入はGPA2.7以上のTransfer Achievement奨学金。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "123651": {
+  "scholarshipUrl": "https://www.vanguard.edu/admissions/undergraduate/international-students",
+  "intlAidNote": "学部の新入生向け学業奨学金は年$10,000〜$26,000程度(部分奨学金)。留学生は才能(タレント)奨学金を除き、ニーズベース支援は対象外です。財政スポンサーの宣誓書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "234827": {
+  "scholarshipUrl": "https://www.cwu.edu/admissions-aid/apply/international.php",
+  "intlAidNote": "合格後に自動でInternational Student Scholarshipの審査対象(GPA2.7以上、年約$6,979〜$12,380、授業料の最大約50%、更新可)。受諾の確認は8/1までです。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "181215": {
+  "scholarshipUrl": "https://www.unk.edu/international/international-admissions/scholarship-opportunities.php",
+  "intlAidNote": "出願者は自動でInternational Loper Scholarship(授業料30%減、更新はGPA2.5・年24単位以上)の審査対象。Rotary系の国際奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100830": {
+  "scholarshipUrl": "https://www.aum.edu/global-initiatives/international-scholarship/",
+  "intlAidNote": "学部の留学生向けにInternational Warhawk Scholarship(年$4,000)とAUM Scholarship(年$2,000)があり、成績で決まり授業料のみに適用されます。運動奨学金・授業料免除との併用は不可。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "100706": {
+  "scholarshipUrl": "https://globalscholarships.com/institutions/university-of-alabama-in-huntsville/",
+  "intlAidNote": "F-1の新入生向けに留学生専用の奨学金が年$5,000と年$10,000(GPA3.5以上)で、最大4年更新。UAHのメリット奨学金も自動審査されます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157809": {
+  "scholarshipUrl": "https://www.thomasmore.edu/admissions/international-students/",
+  "intlAidNote": "海外高校出身の留学生は、GPA3.0以上でACT23/SAT1060以上なら$13,000、ACT20〜22/SAT940〜1050なら$11,000。米国高校卒業者は$7,000〜$14,000、編入は最大$14,000です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "151306": {
+  "scholarshipUrl": "https://www.usi.edu/financial-aid/apply-for-aid/international-students",
+  "intlAidNote": "International Merit Scholarshipは年$500〜$3,000(GPA3.25以上、別途申請・エッセイ・推薦書が必要)。Global Leader Scholarshipは州内授業料並み(年約$10,656相当)の枠です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "150941": {
+  "scholarshipUrl": "https://www.huntington.edu/admissions/international/faq",
+  "intlAidNote": "新入生は高校GPAに応じた学業奨学金を自動で受けます(President's $15,000〜Merillat $6,000)。Global Christian Leadership Scholarshipは授業料全額(締切3/1)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178341": {
+  "scholarshipUrl": "https://www.mssu.edu/student-affairs/financial-aid/scholarships/international-scholarships.php",
+  "intlAidNote": "MOSO International Achievement Scholarshipは初年度$5,500相当(24単位、更新はGPA2.75)。海外高校出身でTOEFL68/IELTS6.0/Duolingo95が目安。GPA2.25以上の新入生に1回限りの$1,000の自動奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

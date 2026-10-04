@@ -179,7 +179,7 @@
  },
  "155399": {
   "scholarshipUrl": "https://www.k-state.edu/sfa/scholarships-aid/scholarships/future-students/additional-opportunities/international/",
-  "intlAidNote": "留学生向けの奨学金が複数あります(OIP奨学金、国際学生センター経由の奨学金、Kirmser奨学金など。経済的必要性や活動実績をエッセイで審査、春に選考して翌秋から支給)。K-State Scholarship Networkで学部・寄付者の奨学金にも応募できます。",
+  "intlAidNote": "Wildcat Nonresident Award(高校GPAに応じて非居住者授業料の50〜100%を減額)と、GPA3.75以上の新入生にInternational Excellence Scholarship(年$8,000、更新はGPA3.0以上)があります。留学生向けの奨学金が複数あります(OIP奨学金、国際学生センター経由の奨学金、Kirmser奨学金など。経済的必要性や活動実績をエッセイで審査、春に選考して翌秋から支給)。K-State Scholarship Networkで学部・寄付者の奨学金にも応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "207388": {
@@ -204,7 +204,7 @@
  },
  "132903": {
   "scholarshipUrl": "https://global.ucf.edu/international-students-scholars-and-professionals/scholarships/",
-  "intlAidNote": "2026-27の非フロリダ州居住者(留学生を含む)の年間費用は約$43,832(授業料・諸費用$22,482、住居$8,750、食費$6,170、教材$1,200ほか)です。留学生は連邦の援助の対象外で、財政援助オフィスは留学生の奨学金を原則出しません。限定的なものとして、予期せぬ困難時の州外授業料の免除(UCF Global)があります。私的奨学金のデータベース(IEFAなど)の利用が勧められています。",
+  "intlAidNote": "全新入生が成績メリット奨学金を自動審査されます。留学生向けにInternational Knights Scholarship(授業料の一部免除、年度ごとの予算で額が変わる)があり、Pegasus奨学金は最大で授業料全額です。2026-27の非フロリダ州居住者(留学生を含む)の年間費用は約$43,832(授業料・諸費用$22,482、住居$8,750、食費$6,170、教材$1,200ほか)です。留学生は連邦の援助の対象外で、財政援助オフィスは留学生の奨学金を原則出しません。限定的なものとして、予期せぬ困難時の州外授業料の免除(UCF Global)があります。私的奨学金のデータベース(IEFAなど)の利用が勧められています。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "201885": {
@@ -4818,7 +4818,7 @@
  },
  "151351": {
   "scholarshipUrl": "https://ois.iu.edu/admissions/cost-financial-aid/financial-aid/scholarships/index.html",
-  "intlAidNote": "9か月の費用の目安は約$61,156(授業料・諸費$44,339、住居・食費$12,431、保険$1,916ほか)です。留学生向け奨学金は、学力型が$1,000〜$11,000(4年更新可)、ニーズ型が$500〜$2,000、国別奨学金があります。",
+  "intlAidNote": "成績(高校GPA・科目の難度)で決まるIU Academic Scholarshipsとglobal engagement系の4年奨学金に留学生も応募できます(早期出願の期限あり)。9か月の費用の目安は約$61,156(授業料・諸費$44,339、住居・食費$12,431、保険$1,916ほか)です。留学生向け奨学金は、学力型が$1,000〜$11,000(4年更新可)、ニーズ型が$500〜$2,000、国別奨学金があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "160755": {
@@ -5273,7 +5273,7 @@
  },
  "100663": {
   "scholarshipUrl": "https://www.uab.edu/admissions/cost/scholarships/international-students",
-  "intlAidNote": "2026-27の留学生の総費用の目安は約$57,211(授業料・諸費$32,490、住居$8,480、食事$5,730、保険$3,146ほか)です。海外在住の新入生向けにUAB International Scholarship(年$7,500・4年更新、先着順)があり、在学中の留学生向けの奨学金や、授業料の50%以上を4年間カバーするShegun & Mary Otluana奨学金もあります。",
+  "intlAidNote": "成績メリット型のUAB International Scholarship(年$7,500、高校GPA3.0以上、F-1予定の新入生、別途応募不要)が自動審査されます。2026-27の留学生の総費用の目安は約$57,211(授業料・諸費$32,490、住居$8,480、食事$5,730、保険$3,146ほか)です。海外在住の新入生向けにUAB International Scholarship(年$7,500・4年更新、先着順)があり、在学中の留学生向けの奨学金や、授業料の50%以上を4年間カバーするShegun & Mary Otluana奨学金もあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "201441": {
@@ -5323,7 +5323,7 @@
  },
  "102094": {
   "scholarshipUrl": "https://www.southalabama.edu/departments/globalusa/internationalscholarships.html",
-  "intlAidNote": "2026-27の学位課程の留学生の総費用の目安は約$34,255(授業料・諸費$20,486、生活費$9,330、教材$1,000、保険$3,439)です。限られた優秀な留学生向けにGlobal Freshman Scholars(最長4年更新)があります。J-1学位生は費用の51%以上を個人資金以外から確保する必要があります。",
+  "intlAidNote": "成績メリット型の奨学金が出ます(Global Freshman Scholars Award 最大年$10,000、4年更新。Global USA Scholars AwardはACT28以上・GPA3.5以上)。授業料の最大30%の免除もあります。2026-27の学位課程の留学生の総費用の目安は約$34,255(授業料・諸費$20,486、生活費$9,330、教材$1,000、保険$3,439)です。限られた優秀な留学生向けにGlobal Freshman Scholars(最長4年更新)があります。J-1学位生は費用の51%以上を個人資金以外から確保する必要があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "209825": {
@@ -5498,7 +5498,7 @@
  },
  "102368": {
   "scholarshipUrl": "https://www.troy.edu/international/tuition-fees.html",
-  "intlAidNote": "【再確認で補足】2026-27の留学生授業料は1単位$746(州外授業料年約$19,864)。I-20用の総費用は約$37,254(保険$1,860、教材$624、諸費$3,250、寮$7,000、食費$4,456ほか)。International Trojan Opportunity Scholarshipで州外授業料分を免除すると約$27,322。新入生・編入生(全日制12単位以上)が対象で、成績維持で翌年度も継続。International Student Scholarshipなどもあり。",
+  "intlAidNote": "成績・学業実績に基づくInternational Education Scholarship・International Trojan Opportunity(新入生・編入生、12単位以上)があります。応募はAcademicWorksで行います。【再確認で補足】2026-27の留学生授業料は1単位$746(州外授業料年約$19,864)。I-20用の総費用は約$37,254(保険$1,860、教材$624、諸費$3,250、寮$7,000、食費$4,456ほか)。International Trojan Opportunity Scholarshipで州外授業料分を免除すると約$27,322。新入生・編入生(全日制12単位以上)が対象で、成績維持で翌年度も継続。International Student Scholarshipなどもあり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "239105": {
@@ -5558,7 +5558,7 @@
  },
  "149222": {
   "scholarshipUrl": "https://siu.edu/international/admissions/cost.php",
-  "intlAidNote": "必要な資金証明は年$30,197〜$41,762(約$40,000目安)。留学生向け授業料奨学金は、1年以上在籍した学生に競争的に少数のみ付与。",
+  "intlAidNote": "High Achievers Alternate Tuition Rate(成績優秀者が州内授業料相当で通える制度)があります。必要な資金証明は年$30,197〜$41,762(約$40,000目安)。留学生向け授業料奨学金は、1年以上在籍した学生に競争的に少数のみ付与。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "150534": {
@@ -5638,7 +5638,7 @@
  },
  "151324": {
   "scholarshipUrl": "https://www.indianastate.edu/costs-aid/financial-aid/applying-and-managing-financial-aid/estimated-cost-attendance",
-  "intlAidNote": "留学生の寮生活での年間総額は約$40,624(州内は$26,820)。授業料は12〜18単位で1学期$11,641。留学生向けの専用奨学金情報は限定的。",
+  "intlAidNote": "International Scholar Award(年$5,000、高校GPA3.0以上、3年更新、自動審査)があります。留学生の寮生活での年間総額は約$40,624(州内は$26,820)。授業料は12〜18単位で1学期$11,641。留学生向けの専用奨学金情報は限定的。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "200280": {
@@ -5678,7 +5678,7 @@
  },
  "142285": {
   "scholarshipUrl": "https://www.uidaho.edu/admissions/international/costs-and-scholarships",
-  "intlAidNote": "2024-25の年間総額は約$46,499(授業料・諸費用$28,700、寮・食費$11,243ほか)。Invitation to Idaho奨学金が自動審査され授業料が$29,016→$13,294(総額約$30,641)。#YouAreWelcomeHere奨学金(授業料50%、4年更新)もあるが併用不可。",
+  "intlAidNote": "新入生の留学生は自動でInvitation to Idaho(年間の留学生授業料$29,016を約$13,294に減額)の対象になります。成績・エッセイで決まる#YouAreWelcomeHere奨学金(授業料の50%、4年更新、応募が必要)もあります。2024-25の年間総額は約$46,499(授業料・諸費用$28,700、寮・食費$11,243ほか)。Invitation to Idaho奨学金が自動審査され授業料が$29,016→$13,294(総額約$30,641)。#YouAreWelcomeHere奨学金(授業料50%、4年更新)もあるが併用不可。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "220075": {
@@ -5913,7 +5913,7 @@
  },
  "136172": {
   "scholarshipUrl": "https://www.unf.edu/intlctr/international-students/scholarship.html",
-  "intlAidNote": "2026-27のF-1学部生の年間費用は約$37,583(授業料・諸費用$16,635、寮・食費$11,810、保険$2,781ほか)。ISA奨学金(州外授業料免除、年最大$12,000)、LAC奨学金(州内授業料扱い)、Gonzalez奨学金($2,000)あり。FAFSA必須の奨学金は対象外。",
+  "intlAidNote": "International Student Admissions(ISA)奨学金(州外授業料の一部免除、年最大$12,000)があります。入学後1年以上たった留学生は、成績と必要度でNon-Florida Tuition Waiverも申請できます。2026-27のF-1学部生の年間費用は約$37,583(授業料・諸費用$16,635、寮・食費$11,810、保険$2,781ほか)。ISA奨学金(州外授業料免除、年最大$12,000)、LAC奨学金(州内授業料扱い)、Gonzalez奨学金($2,000)あり。FAFSA必須の奨学金は対象外。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "175856": {

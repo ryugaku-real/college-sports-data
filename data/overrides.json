@@ -3676,5 +3676,35 @@
   "scholarshipUrl": "https://www.macomb.edu/admissions-aid/international-students/f-1-students/admission-information.html",
   "intlAidNote": "F-1留学生は州外授業料で、60日以内の銀行明細で$22,700以上(扶養家族1人につき生活費+$8,000)の資金証明が必要です。連邦支援は対象外ですが、Macombのオンライン奨学金システムから学内奨学金に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "186645": {
+  "scholarshipUrl": "https://www.raritanval.edu/admissions/international-students/",
+  "intlAidNote": "年間$20,500以上の資金証明が必要です(授業料・諸費$8,000+住居・食費$12,500)。F-1は秋・春入学のみで、全費用は本人・スポンサーの責任です。RVCC Foundationは年$30万超の奨学金(ニーズ・成績型)を出しますが、留学生の対象は要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199333": {
+  "scholarshipUrl": "https://pittcc.edu/academics/pcc-global/international-students/",
+  "intlAidNote": "非居住者の授業料は1単位$268(フルタイムで学期$4,288が上限)です。$26,154以上の資金証明(銀行明細・公証済み支援書)が必要で、連邦・州の支援は対象外です。Foundationが180種以上の奨学金を出しており、F-1の対象かは個別条件によります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "107460": {
+  "scholarshipUrl": "https://www.northark.edu/financial-aid/",
+  "intlAidNote": "留学生はF-1ビザ取得予定者が対象です。大学全体で100種以上・年約$50万の奨学金がありますが、経済支援は米国市民・対象非市民が条件で、留学生が使える奨学金は確認できませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209746": {
+  "scholarshipUrl": "https://www.pcc.edu/international-students/student-resources/tuition-financial/",
+  "intlAidNote": "F-1留学生は州外料金で1単位$298(12単位で$3,576+諸費)です。FAFSAは不可ですが、PCC Foundationの奨学金には留学生も応募でき、留学生向けの財務ワークシートを添付します。初学期の授業料はオリエンテーションで案内され、授業初日までに支払います。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "235343": {
+  "scholarshipUrl": "https://www.greenriver.edu/international/scholarships.html",
+  "intlAidNote": "新規・在学のフルタイムF-1向けに、授業料免除と学内ワークグラントがあります。新入生はAchievement/Merit/Leadership($200〜$500)、編入生で成績優秀な学生はInternational Tuition Award($2,000〜$10,000)に応募できます。留学生は分割払い不可で期限内の全額払いが必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198534": {
+  "scholarshipUrl": "https://faytechcc.edu/scholarships/",
+  "intlAidNote": "州外授業料は1単位$268(準学士60単位で$16,080)です。F-1向けの出願書類と財務証明書(International Student Financial Certificate)があり、学歴はNACES会員機関による評価が必要です。Foundation奨学金はありますが、Next NC等は州居住者限定です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

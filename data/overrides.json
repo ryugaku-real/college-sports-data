@@ -6,7 +6,10 @@
   "intlAidNote": "留学生向けの必要性ベースの援助は限定的(留学生のおよそ3人に1人が受給)。援助を希望する場合は出願時に申告が必要で、申告すると選考がより厳しくなります。奨学金を受けるには社会保障番号(SSN)か納税者番号(ITIN)が必要です。"
  },
  "235237": {
-  "conference": "NWAC Western Division"
+  "conference": "NWAC Western Division",
+  "scholarshipUrl": "https://www.pierce.ctc.edu/programs/international/admissions/tuition.html",
+  "intlAidNote": "2025-26の授業料は年$11,283(クォーター$3,761)で、住居・食費・保険・教材込みの総費用の目安は約$24,149です。留学生向けの奨学金は、Pierceで10単位以上修了後に応募できる競争的な部分授業料クレジットがあり、Foundation奨学金にも応募できます(6単位以上・GPA2.5以上)。",
+  "intlAidCheckedAt": "2026-10-04"
  },
  "236708": {
   "conference": "NWAC Eastern Division",
@@ -3507,6 +3510,26 @@
  "236753": {
   "scholarshipUrl": "https://www.tacomacc.edu/costs-admission/scholarships-funding/scholarships",
   "intlAidNote": "TCC Foundationが年約200件(総額$35万超)の奨学金を出し、留学生向けの奨学金もあります。連邦の学生支援は対象外です。国際出願の日程は大学の国際学生ページで確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "169974": {
+  "scholarshipUrl": "https://www.glenoaks.edu/admissions/tell-us-who-you-are/international-student.php",
+  "intlAidNote": "留学生料金は1コンタクトアワー$294です。銀行・保護者の資金証明または宣誓書が必要で、連邦支援は対象外です。留学生向けの奨学金情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "236656": {
+  "scholarshipUrl": "https://spscc.edu/admissions/international/costs",
+  "intlAidNote": "年間(9か月)の授業料・諸費は準学士で約$11,850、総費用は約$20,340で、I-20にはこの額の資金証明が必要です。新規・在学の留学生が応募できる$500〜$4,000の奨学金が年に数百件あります。学期ごとに健康保険要件があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237039": {
+  "scholarshipUrl": "https://www.whatcom.edu/academics/international-programs/request-information/future-students/costs-payments",
+  "intlAidNote": "2026-27の留学生の授業料は年$12,339.45で、総費用の目安は$27,275.85です(教材$600・生活費$12,900・保険$1,436.40込み)。WCC Foundationの奨学金の多くは留学生も応募できますが、個別の制限があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170240": {
+  "scholarshipUrl": "https://www.hfcc.edu/payment",
+  "intlAidNote": "留学生は州外・留学生料金で、2025-26は1単位$301です。HFC Foundationの奨学金がありますが、留学生の対象かは明記がなく要確認です。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

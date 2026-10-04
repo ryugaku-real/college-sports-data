@@ -7051,5 +7051,40 @@
   "scholarshipUrl": "https://www.siue.edu/paying-for-college/international.shtml",
   "intlAidNote": "2026-27の留学生学部の総額は約$40,970(授業料$20,531、諸費用$3,069、生活費・保険$17,370)。GEO award(州内授業料の1.2倍)や、24単位取得後に州内授業料になる制度、International Legacy(州内授業料)あり。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "236896": {
+  "scholarshipUrl": "https://www.wallawalla.edu/admissions-and-aid/student-financial-services/your-student-account/international-students",
+  "intlAidNote": "留学生は多くのローン・グラントの対象外だが、Achievement、Out of Area、Leadership、National Merit等の大学奨学金は条件を満たせば対象。FAFSA不可の場合はCSS Profileで審査。12か月分の銀行書類、$1,000のデポジット、保険加入が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "182795": {
+  "scholarshipUrl": "https://franklinpierce.edu/admissions/tuition-fees-financial-aid/cost-of-attendence.html",
+  "intlAidNote": "寮生の年間総額は約$70,770。留学生向け奨学金は限定数で最大年$20,000。Pierce Promise(NH州民向け授業料無料)は留学生は対象外。F-1には1年分の授業料・生活費の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "409698": {
+  "scholarshipUrl": "https://csumb.edu/international/student-resources/scholarships/",
+  "intlAidNote": "留学生向けのInternational Student Scholarship(州外授業料部分をカバー)、F-1学位生向けのNon-Resident Fee Waiver(州外授業料の一部または全額、$1,000〜$12,000、毎年申請)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110495": {
+  "scholarshipUrl": "https://www.csustan.edu/financial-aid-scholarship/cost-attendance-net-price",
+  "intlAidNote": "留学生・州外学生は1単位$471の州外授業料が基本授業料に加算される。留学生向けの専用奨学金情報は限定的で、大学の一般奨学金と外部資金の活用が中心。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "110547": {
+  "scholarshipUrl": "https://www.csudh.edu/future-students/international/financial-certification",
+  "intlAidNote": "留学生の初年度の資金証明額は$38,292(州外授業料1単位$396、寮・食$15,083、書籍$1,970、保険$1,494ほか)。CSUDHには留学生向けの奨学金・財政援助は無い。スポンサーのAffidavit of Financial Supportが必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "366711": {
+  "scholarshipUrl": "https://www.csusm.edu/global/admissions/tuitionandfees.html",
+  "intlAidNote": "2025-26の留学生の年間費用は約$45,809(授業料・諸費用$19,114、寮・食$18,556、生活費$8,139)。優秀な留学生には部分的な授業料免除(1学期3単位以上)あり。#YouAreWelcomeHere奨学金(州外授業料の50%以上)、Rowe Fundローン(最大$15,000)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217873": {
+  "scholarshipUrl": "https://www.claflin.edu/admissions-aid/how-to-apply/international-students",
+  "intlAidNote": "留学生は連邦援助の対象外で、自己負担が前提(限定的な奨学金のみ)。国際同窓会奨学金(年$1,000以上、4名以上)、Alice Carson Tisdale Honors College奨学金($2,000〜授業料・寮・食費全額)あり。寮生の1学期は約$14,619(2025-26)。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

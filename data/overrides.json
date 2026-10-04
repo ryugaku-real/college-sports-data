@@ -5926,5 +5926,10 @@
   "scholarshipUrl": "https://www.subr.edu/page/awarding-financial-aid",
   "intlAidNote": "留学生は連邦・州の援助対象外だが、非連邦の奨学金には応募可。寮生の費用の目安は9か月で$22,600〜$25,208(同大学の学部COA)。奨学金・助成は期限内の申請者が対象。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "227526": {
+  "scholarshipUrl": "https://www.pvamu.edu/faid/resources/cost-of-attendance/",
+  "intlAidNote": "2026-27の学部COAは寮生で約$42,479(自宅通学$32,283)。留学生は1学期$75の国際学生サービス料が別途。奨学金は$500〜$3,000程度で、多くは連邦援助の資格と必要度が条件。Regents奨学金は授業料・寮・食費・書籍をカバー。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

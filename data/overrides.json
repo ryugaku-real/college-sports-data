@@ -2185,5 +2185,40 @@
   "scholarshipUrl": "https://www.uwp.edu/live/offices/financialaid/international-student-scholarships.cfm",
   "intlAidNote": "留学生向けにAchievement(GPA3.5以上、年$5,000)、Rising(3.25〜、$4,000)、Talent(3.0〜、$3,000)。F-1・フルタイムが条件で、入学時のみ決定、4年更新(GPA2.5以上)です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "489937": {
+  "scholarshipUrl": "https://carolinau.edu/admissions/international-students",
+  "intlAidNote": "留学生はPresidential Scholarship(授業料の10〜最大80%相当、GPAで決定、更新可)やInternational/Stevens/Diversity奨学金の対象。合格後に奨学金の申請が必要です。パートナー校(エルサルバドルFESA等)向けの30〜100%奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "204486": {
+  "scholarshipUrl": "https://www.unoh.edu/future-students/international_students.html",
+  "intlAidNote": "留学生向けの経済支援・奨学金は提供されていません。十分な資金の証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "174075": {
+  "scholarshipUrl": "https://crk.umn.edu/admissions/international-students",
+  "intlAidNote": "全学生が州内授業料。24単位取得後は留学生向けに授業料半額免除を申請可能(GPA3.0以上、リーダーシップ、推薦状1通、競争的)。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "200253": {
+  "scholarshipUrl": "https://www.minotstateu.edu/enroll/international/cost-aid.shtml",
+  "intlAidNote": "正規合格した留学生は大学奨学金に応募可能(2/15締切)。新入生向けAcademic Excellence Scholarshipは最大$10,000。ニーズベースはFAFSA結果が条件のため留学生は対象外のことがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170037": {
+  "scholarshipUrl": "https://www.cornerstone.edu/admissions/international-students/",
+  "intlAidNote": "留学生向けのドナー奨学金(Chapman、Garcia、ネパール出身者向け等)があります。メリット奨学金・制度は学生の区分で異なり、奨学金は資金証明には含められません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220701": {
+  "scholarshipUrl": "https://utsouthern.edu/admissions/international-students/",
+  "intlAidNote": "成績・テストに基づくメリット奨学金(Provost's $6,000、Dean's $3,000、Firehawk $1,500、Rising $1,000)が対象となり得ます。留学生の概算費用は年約$25,307で、州外授業料はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "207306": {
+  "scholarshipUrl": "https://www.nwosu.edu/paying-for-college/international-student-costs",
+  "intlAidNote": "留学生向け奨学金は非常に限られ、あてにしないよう案内されています。新入生・編入生はGO OK授業料免除(非居住者授業料の補助)の対象です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

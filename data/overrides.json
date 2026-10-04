@@ -113,7 +113,8 @@
  },
  "110635": {
   "intlAidNote": "連邦・州・大学の必要性ベースの援助は留学生は対象外ですが、留学生向けの奨学金(Regents' & Chancellor's、International Leaders など)があり、合格者は別途申請なしで審査されます。外部奨学金のデータベースもあります。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://financialaid.berkeley.edu/types-of-aid-at-berkeley/scholarships/regents-and-chancellor-scholarship/international-student-scholarships/"
  },
  "157289": {
   "scholarshipUrl": "https://louisville.edu/cost-aid/undergraduate-scholarships-aid/international-scholarships-aid",
@@ -187,7 +188,8 @@
  },
  "229115": {
   "intlAidNote": "留学生は連邦の援助の対象外です。国際課の奨学金・助成、学部の奨学金、私的ローンがあります。競争的な奨学金を$1,000以上受けた場合は、州内生の授業料に下げる免除の対象になることがあります。留学生の学費・諸費用は年約$26,200、総額は約$44,100です。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://depts.ttu.edu/admissions/international/costs-scholarships.php"
  },
  "104179": {
   "scholarshipUrl": "https://financialaid.arizona.edu/apply-for-aid/international",
@@ -341,7 +343,8 @@
  },
  "228723": {
   "intlAidNote": "留学生向けの奨学金と、必要性ベースの援助(州の助成ITPEG: 最大$4,000、TASFAの申請が必要)があります。学内の奨学金(Eppright: $3,000など)は在学中の留学生が応募できます。援助は必要性ベースで、費用の全額は賄えません。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://aggie.tamu.edu/financial-aid/types-of-aid/scholarships/international-student-scholarships"
  },
  "100751": {
   "scholarshipUrl": "https://afford.ua.edu/scholarships/international/",
@@ -435,7 +438,8 @@
  },
  "227687": {
   "intlAidNote": "留学生は1単位$250(最低$425)で、年間の費用の目安は約$14,332(授業料・寮・食事を含む)です。奨学金を受けない新入の留学生は、入学前に$8,000の預託金が必要です。留学生向けの専用奨学金は確認できませんでした。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://www.rangercollege.edu/admissions/financial-aid/scholarships/index.php"
  },
  "223427": {
   "scholarshipUrl": "https://www.blinn.edu/international/estimated-expenses.html",
@@ -694,7 +698,8 @@
  },
  "177676": {
   "intlAidNote": "留学生の年間費用の目安は約$24,567(授業料$9,750、寮・食事、保険など)です。連邦の援助は対象外ですが、学校の奨学金に応募できるものがあります(すべてが留学生に開かれているわけではありません)。運動奨学金を受ける場合は、コーチの奨学金の提示書類が必要で、残りの費用の資金証明も必要です。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://www.jeffco.edu/international-students/"
  },
  "177135": {
   "scholarshipUrl": "https://www.crowder.edu/how-to-get-started/international-students/",
@@ -883,7 +888,8 @@
  },
  "154590": {
   "intlAidNote": "F-1の留学生で初めての学士課程を学ぶ人向けに、留学生奨学金があります。2026-27年度の全日制の授業料は$32,000で、寮・食事を含む総額は約$40,990です。学生の98%が奨学金・助成を受けています。留学生は経済支援の申告書が必要です。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://www.wmpenn.edu/admissions-aid/admissions/international-students/"
  },
  "207458": {
   "scholarshipUrl": "https://www.okcu.edu/paying-for-ocu/scholarships-and-assistance/international-scholarships",
@@ -937,7 +943,8 @@
  },
  "152099": {
   "intlAidNote": "留学生向けのInternational Student Scholarshipがあります。2025-26年度の学部の授業料は学期あたり$27,900(12〜18単位)です。1年分の費用の資金証明が必要で、奨学金計算ツールで目安を確認できます。",
-  "intlAidCheckedAt": "2026-10-04"
+  "intlAidCheckedAt": "2026-10-04",
+  "scholarshipUrl": "https://www.oak.edu/admissions/international-students/"
  },
  "219198": {
   "scholarshipUrl": "https://www.mountmarty.edu/admission/undergraduate-students/international-students",
@@ -1218,6 +1225,76 @@
  "155937": {
   "scholarshipUrl": "https://www.sterling.edu/admissions/international",
   "intlAidNote": "I-20発行前に1年分の授業料・寮・食費の支払いが必要。TOEFL 525/iBT70。全日制学生は全員が大学奨学金を受けます。締切は7/15と12/15です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "201104": {
+  "scholarshipUrl": "https://www.ashland.edu/international-admissions",
+  "intlAidNote": "学部の新入留学生は、成績(GPA)に応じた更新可能なメリット奨学金を受けられます(年$1,000〜$14,000)。編入は年$2,500〜$10,000(GPA2.70以上)。留学生の授業料は年約$29,940〜$37,500です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218414": {
+  "scholarshipUrl": "https://www.newberry.edu/giving/endowed-scholarships",
+  "intlAidNote": "留学生向けにFisher International Student Scholarship(基金奨学金)があります。留学生の総費用は約$42,288。詳細は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "133881": {
+  "scholarshipUrl": "https://www.fit.edu/admission/applying/international/",
+  "intlAidNote": "出願者は自動で学業メリット奨学金の審査を受けます(年$12,000〜授業料50%、更新にはGPA2.0以上)。留学生向けのニーズベース支援・全額奨学金はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171456": {
+  "scholarshipUrl": "https://nmu.edu/internationalprograms/scholarships",
+  "intlAidNote": "GPA3.0以上でInternational Academic Awardが自動付与(年$2,200)。ほかに$500のInternational Student Scholarshipなど。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "172644": {
+  "scholarshipUrl": "https://wayne.edu/scholarships/international",
+  "intlAidNote": "全ての新入生が自動でメリット奨学金の審査対象(Warrior年最大$6,500、Gold $4,500、Green $2,500、4年間)。市民権は不要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "134079": {
+  "scholarshipUrl": "https://www.flsouthern.edu/admissions/undergraduate/international-students",
+  "intlAidNote": "全留学生が自動でメリット奨学金の審査対象(年$10,000〜$26,000、最大4年)。McClurg(授業料全額)等の競争的奨学金もあります。ニーズベース支援はありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "152992": {
+  "scholarshipUrl": "https://www.briarcliff.edu/future-chargers/tuition-and-aid/scholarships",
+  "intlAidNote": "留学生向けの奨学金・メリット奨学金・運動奨学金がありますが、留学生向け援助は限定的とされます。詳細は大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "220215": {
+  "scholarshipUrl": "https://fhu.edu/admissions-aid/undergrad/international-students/",
+  "intlAidNote": "留学生は財政証明書を提出し、奨学金額は同時期に確定します。メリット奨学金は年$4,000〜$12,000、Trustees'は$18,000。FHU Promiseで未カバー分の最大90%を補填します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199069": {
+  "scholarshipUrl": "https://umo.edu/academic-scholarships/",
+  "intlAidNote": "Leadership Scholarshipは留学生も対象(GPA2.8以上、SAT920/ACT19以上、フルタイム)。他にPresidential/Merit等の奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "129941": {
+  "scholarshipUrl": "https://www.newhaven.edu/admissions/financial-aid/international.php",
+  "intlAidNote": "出願者はほぼ全員が自動でメリット奨学金の審査対象(年$15,000〜$32,000)。Presidential $21,000〜$26,000。締切は秋入学5/1、春入学1/1です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "231554": {
+  "scholarshipUrl": "https://www.bluefield.edu/bluefield-central/financial-aid/grants-scholarships/",
+  "intlAidNote": "留学生専用の奨学金情報は見つかりませんでした。一般のメリット奨学金(Presidentialは授業料100%等)があります。大学に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "180595": {
+  "scholarshipUrl": "https://rocky.edu/international-programs/prospective-international-students/",
+  "intlAidNote": "新入生メリット奨学金は年$9,000〜$17,000(GPA基準、4年更新)。運動奨学金もあります。入学前に初年度分の財政証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "147828": {
+  "scholarshipUrl": "https://www.olivet.edu/admissions/financial-aid-new-student-tuition/applying-aid/",
+  "intlAidNote": "学業・音楽・美術・運動のメリット奨学金があり、合格後に通知されます。留学生専用の情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "170806": {
+  "scholarshipUrl": "https://www.madonna.edu/admissions/international/",
+  "intlAidNote": "留学生は出願審査でメリット奨学金の対象(年$4,000〜$14,000)。2024年秋から奨学金が増額されました。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

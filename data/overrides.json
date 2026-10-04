@@ -775,5 +775,90 @@
     "scholarshipUrl": "https://www.nctc.edu/international-students",
     "intlAidNote": "留学生は州外扱いで、2026年秋は1単位約$322(授業料$57+一般$60+地区外料金$205)です。2026-27年の年間費用の目安は約$28,283で、扶養家族ごとに$5,000の資金証明が加わります。財団の奨学金は年$500〜$2,000ですが、Red River Promise奨学金は留学生は対象外です。",
     "intlAidCheckedAt": "2026-10-04"
+  },
+  "133508": {
+    "scholarshipUrl": "https://www.fsw.edu/internationaleducation/financialinfo",
+    "intlAidNote": "留学生は州内授業料の対象外(F-1は常に母国の居住者扱い)で、準学士の年間費用の目安は約$22,090(スポンサー宅に住む場合)〜$31,019(自活)です。財団の奨学金に応募できます。留学生専用の奨学金は確認できず、留学プログラム向けの奨学金(Gilman: 最大$5,000など)があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "104425": {
+    "scholarshipUrl": "https://www.cochise.edu/admissions/international-students/index.html",
+    "intlAidNote": "学校の案内では、市民・永住者以外の学生は州外授業料で、授業料免除・奨学金など州の資金による支援の対象外です。外部の留学生向け奨学金の情報は案内があります。ソノラ州からの学生向けの特別な授業料や、WUE(西部の州の学生向け)の制度があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "134495": {
+    "scholarshipUrl": "https://www.hccfl.edu/academics/center-international-education/international-admission-requirements/paying-college-international-student",
+    "intlAidNote": "留学生向けの経済援助はありません。年間の費用として約$25,274以上を用意する必要があります(授業料・諸費用$9,111など)。奨学金は在籍中の留学生向けにごく少数だけあり、入学後に応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "155186": {
+    "scholarshipUrl": "https://highlandcc.edu/admissions/tuition-fees/",
+    "intlAidNote": "留学生の授業料は1単位$290(2026年度)です。学業奨学金(授業料・本の貸与で学期あたり最大$2,000)がありますが、留学生向けの専用奨学金は確認できませんでした。Kansas Promiseは米国市民・カンザス居住者のみです。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "180373": {
+    "scholarshipUrl": "https://www.milescc.edu/Admissions/International.aspx",
+    "intlAidNote": "留学生は1年に$17,445以上の資金証明と、米国で有効な医療保険が必要です。学期開始の2週間前までに、授業料の預託金$500が必要です。奨学金・授業料免除(運動を含む)は年$30万以上で、AwardSpringから応募します(2月1日〜4月1日)。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "146205": {
+    "scholarshipUrl": "https://www.jalc.edu/admissions/tuition-and-fees/",
+    "intlAidNote": "留学生の授業料は1単位$242(州外生と同じ)です。John A. Logan College Foundationの奨学金(授業料・諸費用の全額のものもあり、全体で$150万以上)に応募できますが、留学生の対象は個別に確認してください。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "181312": {
+    "scholarshipUrl": "https://www.mpcc.edu/admissions/international-students.php",
+    "intlAidNote": "留学生は1年分(旅費を含む)の資金証明と、入学時に1学期分の授業料・寮・本代の預託金が必要です。学校の奨学金(Presidential: 授業料100%、GPA3.8以上など)は、高校の卒業資格が条件で、留学生が対象かどうかは窓口に確認してください(締切3月1日)。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "179344": {
+    "scholarshipUrl": "https://wp.missouristate.edu/Costs/default.htm",
+    "intlAidNote": "州外生の授業料・諸費用は年約$9,325(2026-27、28単位)と低めです。新入生向けの奨学金の条件に「米国に合法的に滞在していること」があり、留学生の扱いは窓口(admissions 417-255-7955)に確認してください。奨学金は米国の課税対象になることがあります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "146506": {
+    "scholarshipUrl": "https://www.lakelandcollege.edu/international/",
+    "intlAidNote": "留学生の授業料・諸費用は1単位$499.54(12単位で最低$6,228.60)です。年間費用の目安は$19,000(授業料・諸費用$12,000、生活費$6,000、保険$1,000)で、分割払いはなく全額を先に払う必要があります。入学後は、財団の奨学金に応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "222822": {
+    "scholarshipUrl": "https://www.angelina.edu/admissions/scholarships/",
+    "intlAidNote": "200以上の奨学金(学期$100〜授業料全額)に1つの申請で応募できます(11月3日〜3月20日)。奨学金は、通常4学期連続在籍で付与され、GPA2.75が条件です。留学生向けの専用奨学金や留学生の扱いは、学校に確認してください。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "229504": {
+    "scholarshipUrl": "https://www.vernoncollege.edu/information-for-international-students",
+    "intlAidNote": "連邦・州の援助は市民・永住者のみで、留学生は対象外です。100以上の奨学金(学業・基金)があり、10月1日〜3月15日が優先受付ですが、留学生が対象かどうかは窓口に確認してください。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "102030": {
+    "scholarshipUrl": "https://www.bishop.edu/financial-affairs/tuition-fees",
+    "intlAidNote": "州外(留学生)の授業料は州内の2倍で、2025-26は1単位$192(州内)の2倍が目安です。奨学金の多くは、アラバマ州の居住者・米国市民・FAFSA提出が条件のため、留学生は対象外です。F-1は保険の加入が必須です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "155858": {
+    "scholarshipUrl": "https://sccc.edu/admissions-and-aid/financial-aid/types-of-aid/scholarships/sccc-scholarships/",
+    "intlAidNote": "留学生の授業料は1単位$134+諸費用$114(2026-27)です。累積GPA3.5以上の留学生は、Out-of-State Academic Distinction奨学金の対象です。TOEFL500以上(紙)または61以上(iBT)が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "106148": {
+    "scholarshipUrl": "https://www.yc.edu/v6/registrar/faq.html",
+    "intlAidNote": "留学生は州外授業料で、出願料が$200です。留学生向けの奨学金は、米国入国後の入学登録後に探す形で、学校の奨学金は$100〜$4,000です(運動・成績・必要性など)。1年分の費用の資金保証が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "136516": {
+    "scholarshipUrl": "https://www.polk.edu/admission-aid/international-students/",
+    "intlAidNote": "学校の案内では、留学生向けの経済援助はありません。年間の授業料の目安は準学士で約$12,000、学士で約$17,500、総額は$26,000〜$38,000です。F-1・M-1は12単位以上のフルタイムで、州外授業料を全期間支払います。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "127732": {
+    "scholarshipUrl": "https://www.njc.edu/international-students/prospective-students",
+    "intlAidNote": "留学生向けのNJC Foundation International Studies奨学金(新入生$500、2年生$1,000)があります。留学生に連邦・州の援助や税金を使った奨学金はありません。2025-26年度は20か国から45人が在籍しています。年間費用の目安は約$18,373です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "200022": {
+    "scholarshipUrl": "https://bismarckstate.edu/uploads/32/InternationalTuitionWaiver2.pdf",
+    "intlAidNote": "留学生は、非居住者授業料の50%を免除するInternational Tuition Waiverに応募できます(年間3〜5件程度、先着順、F-1で12単位以上・GPA2.5以上が条件)。免除は授業料のみで、諸費用・寮・本代は対象外です。学校の奨学金の多くは米国市民・永住者のみです。",
+    "intlAidCheckedAt": "2026-10-04"
   }
 }

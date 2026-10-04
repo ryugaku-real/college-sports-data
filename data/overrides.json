@@ -3706,5 +3706,30 @@
   "scholarshipUrl": "https://faytechcc.edu/scholarships/",
   "intlAidNote": "州外授業料は1単位$268(準学士60単位で$16,080)です。F-1向けの出願書類と財務証明書(International Student Financial Certificate)があり、学歴はNACES会員機関による評価が必要です。Foundation奨学金はありますが、Next NC等は州居住者限定です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "235334": {
+  "scholarshipUrl": "https://www.ghc.edu/admissions/international-students",
+  "intlAidNote": "留学生はI-20取得が必要で、連邦支援は対象外です(在留資格でFAFSAが使えない学生にはWASFAがありますが、F-1は通常対象外)。GHC Foundationの一般奨学金は年2回募集で、成績・ニーズ・専攻などの条件があります。留学生の対象は要確認です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "200314": {
+  "scholarshipUrl": "https://www.dakotacollege.edu/admissions-financial-aid/international-students",
+  "intlAidNote": "2024-25の留学生の年間費用の目安は、カナダ居住者$18,812、その他の留学生$21,920です。1年分の授業料・生活費の資金証明が必要で、条件を満たす学生に限定数の授業料免除があります。奨学金の優先締切は3/15です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "171155": {
+  "scholarshipUrl": "https://midmich.edu/admissions/start/international/",
+  "intlAidNote": "留学生の授業料は州外と同額で1単位$375(2026-27)です。年$29,496(非医療系)の資金証明が必要で、留学生向けのグラント・ローン・学内就労はないとされています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "161767": {
+  "scholarshipUrl": "https://www.aacc.edu/apply-and-register/credit-application/international-students/",
+  "intlAidNote": "年間費用の目安は$34,532(授業料・諸費$13,850、教材$1,200、生活費$19,482)です。F-1は州外授業料で学期12単位以上が必須、銀行明細で1年分の資金証明が必要です。留学生は緊急支援などの対象外で、奨学金の対象は個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186469": {
+  "scholarshipUrl": "https://www.salemcc.edu/admissions/tuition-and-fees",
+  "intlAidNote": "留学生の授業料は1単位$365+留学生料$300で、年間の目安は約$26,000です。I-134宣誓書と$16,000以上の銀行明細が必要です。留学生は連邦支援・緊急支援の対象外ですが、大学の奨学金に応募できるとされています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

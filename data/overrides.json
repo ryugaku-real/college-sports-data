@@ -2086,5 +2086,45 @@
   "scholarshipUrl": "https://www.esu.edu/admission-aid/scholarships-aid/scholarships/merit-based-scholarships.php",
   "intlAidNote": "新入生・編入生向けのInternational Merit-Based Scholarshipが成績に基づき自動審査されます(遅い出願は資金がある限り)。在学後はAysha Begum奨学金(GPA3.0)などに申請できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "213020": {
+  "scholarshipUrl": "https://www.iup.edu/international/students-scholars/students/new/international-student-scholarships.html",
+  "intlAidNote": "Partial Tuition Waiver(ニーズ基準、全日制で1学期$2,500、社会奉仕40時間)が主な支援。州内授業料並み+学期$1,000の奨学金や、フランス語圏出身者向けMauchant奨学金(授業料全額)もあります。一般の大学奨学金は留学生対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "141486": {
+  "scholarshipUrl": "https://chaminade.edu/admissions/international-students/",
+  "intlAidNote": "留学生は大学のメリット奨学金の対象外とされています。入学許可後に財政証明書(Certificate of Finances)の提出がI-20発行の条件です。ニーズ以外の支援は財務課に確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "215284": {
+  "scholarshipUrl": "https://www.johnstown.pitt.edu/international-program-support-services/international-student-scholarships",
+  "intlAidNote": "合格者は自動で奨学金審査(SAT等で額が決定)。International Student/Housing Incentive Scholarshipは4年更新可(GPA3.0以上)です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "127918": {
+  "scholarshipUrl": "https://www.regis.edu/financial-aid/types-of-financial-aid/international-students",
+  "intlAidNote": "F-1/J-1の留学生はメリット奨学金・学科のタレント奨学金の対象。学部の資金証明は奨学金差引前で$64,784以上が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "237011": {
+  "scholarshipUrl": "https://admissions.wwu.edu/international/international-scholarships",
+  "intlAidNote": "International Achievement Award(新入生はGPA3.6〜4.0で年$2,500、3.0〜3.59で$1,500、4年間)。出願の優先締切は1/31で別途申請不要。編入にも枠があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217925": {
+  "scholarshipUrl": "https://ciu.edu/cost-aid/undergraduate/",
+  "intlAidNote": "新入の全日制学部留学生向けInternational Student Scholarshipは年最大$3,000(4年)。留学生デポジット$3,000と2/1までの資金証明が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "102614": {
+  "scholarshipUrl": "https://www.uaf.edu/finaid/nonresident.php",
+  "intlAidNote": "合格した留学生はNanook Pledge(メリット)奨学金とAlaska Adventure Awardの自動審査対象。財団奨学金にも申請できます。連邦援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "187897": {
+  "scholarshipUrl": "https://www.nmhu.edu/financial-aid/scholarships/",
+  "intlAidNote": "州外・留学生の新入生向けPurple and White Scholarshipは$5,000(GPA3.0以上)。ほかにInternational Student Scholarshipや財団奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

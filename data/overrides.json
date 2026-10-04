@@ -149,12 +149,12 @@
  },
  "234076": {
   "scholarshipUrl": "https://sfs.virginia.edu/financial-aid-new-applicants/financial-aid-basics/eligibility-requirements",
-  "intlAidNote": "学校の案内では、留学生には大学からの奨学金やローンはありません(United World College出身者の必要性ベースの援助が唯一の例外)。資金を用意できない場合は出願しないことが勧められています。私的ローンの利用は可能です。",
+  "intlAidNote": "留学生には大学の財政援助・ローンはありません(UWC出身者のみ例外)。Jefferson Scholarshipなど一部の競争的な奨学金のみ、少数の留学生が対象です。学校の案内では、留学生には大学からの奨学金やローンはありません(United World College出身者の必要性ベースの援助が唯一の例外)。資金を用意できない場合は出願しないことが勧められています。私的ローンの利用は可能です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "233921": {
   "scholarshipUrl": "https://finaid.vt.edu/undergraduate/international-students.html",
-  "intlAidNote": "2026-27のバージニア工科大学の州外(留学生)学部授業料・必須諸費用は年$40,180です。留学生は学部・学科の奨学金に応募できます(出願後にScholarship Centralから)。連邦・州の援助(FAFSAなど)は対象外で、私的ローンを使う場合は、留学生向けの貸し手を比較するツールがあります。外部の奨学金は、EducationUSAやIEFAなどの情報源が案内されています。",
+  "intlAidNote": "留学生の学部生向けの大学全体の奨学金・財政援助はありません。学部・学科の奨学金には応募できます。2026-27のバージニア工科大学の州外(留学生)学部授業料・必須諸費用は年$40,180です。留学生は学部・学科の奨学金に応募できます(出願後にScholarship Centralから)。連邦・州の援助(FAFSAなど)は対象外で、私的ローンを使う場合は、留学生向けの貸し手を比較するツールがあります。外部の奨学金は、EducationUSAやIEFAなどの情報源が案内されています。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "199847": {
@@ -249,7 +249,7 @@
  },
  "243780": {
   "scholarshipUrl": "https://www.purdue.edu/dfa/students/international/",
-  "intlAidNote": "2026-27の留学生学部の授業料・諸費用は年約$32,104(州外授業料と留学生授業料年$3,310を含む)で、寮・食費約$16,734、教材約$1,090などを含む総費用は約$45,000〜$52,000です。学部の留学生は、大学の奨学金を含む経済援助の対象外とされています(学校の案内)。外部の奨学金や、米国市民の共同署名者つきの私的ローンが選択肢です。",
+  "intlAidNote": "成績メリット奨学金(Trustees 年$10,000〜$16,000、Presidential 年$20,000〜$25,000)が出願時に自動審査されますが、競争的です(受給は約15%)。2026-27の留学生学部の授業料・諸費用は年約$32,104(州外授業料と留学生授業料年$3,310を含む)で、寮・食費約$16,734、教材約$1,090などを含む総費用は約$45,000〜$52,000です。学部の留学生は、大学の奨学金を含む経済援助の対象外とされています(学校の案内)。外部の奨学金や、米国市民の共同署名者つきの私的ローンが選択肢です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "145637": {
@@ -289,7 +289,7 @@
  },
  "240444": {
   "scholarshipUrl": "https://admissions.wisc.edu/international-scholarships/",
-  "intlAidNote": "2026-27のウィスコンシン大学マディソン校の非居住者(留学生)授業料は年$44,232、学生諸費用$1,699で、合計約$45,900です。連邦・州の援助は留学生は対象外です。新入生が1年目に奨学金を得るのはとても難しいと案内されています。King-Morgridge Scholars(特定の国の出身者向け、全額支給)やWestern Union奨学金($1,000)があり、在学中は応募できる奨学金が増えます。",
+  "intlAidNote": "留学生向けのInternational Student Scholarships(年$2,000〜半額授業料、更新可)があり、出願書類に応募が含まれています。King-Morgridge Scholars(毎年6名、授業料・寮・食費など全額)とWISc(招待制)もあります。2026-27のウィスコンシン大学マディソン校の非居住者(留学生)授業料は年$44,232、学生諸費用$1,699で、合計約$45,900です。連邦・州の援助は留学生は対象外です。新入生が1年目に奨学金を得るのはとても難しいと案内されています。King-Morgridge Scholars(特定の国の出身者向け、全額支給)やWestern Union奨学金($1,000)があり、在学中は応募できる奨学金が増えます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "142115": {
@@ -5023,7 +5023,7 @@
  },
  "238032": {
   "scholarshipUrl": "https://financialaid.wvu.edu/home/scholarships/international",
-  "intlAidNote": "WVUは留学生にも奨学金を提供し(州内・州外・留学生が対象)、2024-25にMorgantownキャンパスで$1.65億超を支給しました。オファーは12月ごろから順次届きます。政府・企業などの全額スポンサーがいる留学生は奨学金は支給されず、スポンサーに割引授業料が請求されます。",
+  "intlAidNote": "Global Affairs Merit Awards(新入生のF-1/J-1、Level 1 年$8,000、Level 2 年$6,000、Level 3 年$4,000、GPA2.75以上で更新)と、一般の新入生メリット奨学金があります。You Are Welcome Here奨学金(授業料の50%以上)も応募できます。WVUは留学生にも奨学金を提供し(州内・州外・留学生が対象)、2024-25にMorgantownキャンパスで$1.65億超を支給しました。オファーは12月ごろから順次届きます。政府・企業などの全額スポンサーがいる留学生は奨学金は支給されず、スポンサーに割引授業料が請求されます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "195809": {
@@ -5073,7 +5073,7 @@
  },
  "231624": {
   "scholarshipUrl": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/international-applicants/expensesaid/",
-  "intlAidNote": "学位課程の学部生の総費用の目安は約$79,224(授業料・諸費$54,642、生活費$20,768、保険$3,814)です。大学には学部の留学生向けの奨学金・ローン資金は基本的になく、全額を自己負担できる準備が必要です。共同署名者付きローン(Prodigy、MPOWER等)やIEFAが案内されています。留学生料は初回$165、各学期$85です。",
+  "intlAidNote": "留学生も成績メリット奨学金(1693 Scholars、James Monroe Scholars、Provost Scholar Awards、W&M Scholars)を自動審査されますが、少数で競争的です。必要度型援助は留学生には限られます。学位課程の学部生の総費用の目安は約$79,224(授業料・諸費$54,642、生活費$20,768、保険$3,814)です。大学には学部の留学生向けの奨学金・ローン資金は基本的になく、全額を自己負担できる準備が必要です。共同署名者付きローン(Prodigy、MPOWER等)やIEFAが案内されています。留学生料は初回$165、各学期$85です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "187985": {
@@ -5113,7 +5113,7 @@
  },
  "240727": {
   "scholarshipUrl": "https://www.uwyo.edu/sfa/scholarships/international/index.html",
-  "intlAidNote": "2026-27のワイオミング大学の非居住者の学部授業料は年$22,470(1学期$11,235)、必須諸費用込みで約$24,600です。留学生向けの外部奨学金の探し方(College Board、FastWeb、IEFA)が案内されています。OASのRowe Fundは、ラテンアメリカ・カリブ出身のF/Jビザ保持者に最終2年間の無利子ローンと、承認時に$2,000の奨学金を提供します。大学の奨学金の個別情報は見つかりませんでした。",
+  "intlAidNote": "Brown and Gold Commitment(新入生の留学生、国際GPA3.4〜4.0で年$8,000、3.0〜3.39で年$5,000、4年更新、別途応募不要)があります。2026-27のワイオミング大学の非居住者の学部授業料は年$22,470(1学期$11,235)、必須諸費用込みで約$24,600です。留学生向けの外部奨学金の探し方(College Board、FastWeb、IEFA)が案内されています。OASのRowe Fundは、ラテンアメリカ・カリブ出身のF/Jビザ保持者に最終2年間の無利子ローンと、承認時に$2,000の奨学金を提供します。大学の奨学金の個別情報は見つかりませんでした。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "129242": {
@@ -5338,7 +5338,7 @@
  },
  "228796": {
   "scholarshipUrl": "https://www.utep.edu/student-affairs/oipsa/office-of-international-programs/information/scholarships.html",
-  "intlAidNote": "州外・留学生の授業料は1セメスター時間$298です。留学生向けの奨学金は限られますが、授業料(諸費除く)を免除するGood Neighbor Scholarship、国外の予備校出身の留学生向けAnne and Roland W. Claudius Memorial Scholarshipがあります。メキシコ国籍者はPASEで州内授業料並みになる場合があります。",
+  "intlAidNote": "成績メリット奨学金(Presidential 年$20,000、Excellence 年$8,000)の対象になる場合があります(留学生向けの詳細は要確認)。州外・留学生の授業料は1セメスター時間$298です。留学生向けの奨学金は限られますが、授業料(諸費除く)を免除するGood Neighbor Scholarship、国外の予備校出身の留学生向けAnne and Roland W. Claudius Memorial Scholarshipがあります。メキシコ国籍者はPASEで州内授業料並みになる場合があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "232186": {
@@ -5568,7 +5568,7 @@
  },
  "227881": {
   "scholarshipUrl": "https://www.shsu.edu/cost-aid/cost-attendance",
-  "intlAidNote": "2026-27の州外(留学生含む)の年間予算は$41,860(15単位の1学期分の表記、州内は$29,420)。授業料・諸費用は州外$23,810。留学生向けの専用奨学金は要確認。",
+  "intlAidNote": "International Excellence Scholarship(成績優秀な留学生向け、非居住者授業料をテキサス居住者に近い額まで減額)があります。2026-27の州外(留学生含む)の年間予算は$41,860(15単位の1学期分の表記、州内は$29,420)。授業料・諸費用は州外$23,810。留学生向けの専用奨学金は要確認。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110653": {
@@ -5883,7 +5883,7 @@
  },
  "230737": {
   "scholarshipUrl": "https://www.uvu.edu/financialaid/cost/",
-  "intlAidNote": "留学生の年間費用は約$31,167(州外授業料・諸費用$19,017、生活費$12,150)。ユタ州法により州の予算は留学生に使えないため、奨学金は第三者・民間資金による限定的なもの。奨学金は補助として扱い、自己資金証明が必須。",
+  "intlAidNote": "留学生向けのAcademic Scholarship(累積GPA3.0以上、UVUで24単位取得後に応募)とInternational Student Council奨学金(GPA3.0以上、F-1維持)があります。留学生の年間費用は約$31,167(州外授業料・諸費用$19,017、生活費$12,150)。ユタ州法により州の予算は留学生に使えないため、奨学金は第三者・民間資金による限定的なもの。奨学金は補助として扱い、自己資金証明が必須。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "230171": {

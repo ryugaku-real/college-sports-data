@@ -4851,5 +4851,30 @@
   "scholarshipUrl": "https://www.colgate.edu/admission-aid/financial-aid/colgate-commitment",
   "intlAidNote": "授業料は$73,206、諸費$440、寮・食費$18,446(1年生)です。留学生も含め、認められたニーズを100%カバーしますが、留学生向けのグラントは毎年限られた件数のみです。ニーズ型支援は出願時に希望し、入学判定前に申請書類を提出した場合のみ審査され、通常ローンは含まれません。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "166850": {
+  "scholarshipUrl": "https://www.merrimack.edu/admission/undergraduate/international/",
+  "intlAidNote": "留学生は連邦・ニーズ型の支援の対象外ですが、出願者はメリット奨学金(過去の学業成績に基づき総費用に充当)の対象として自動で審査されます。民間ローンや分割払いも利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "167358": {
+  "scholarshipUrl": "https://studentfinance.northeastern.edu/applying-for-aid/international-students/",
+  "intlAidNote": "ボストンキャンパスの年間費用の目安は約$95,131(授業料・諸費$67,403、生活費$27,728)です。ニーズ型支援は米国市民・対象非市民のみで、留学生は年$10,000〜$30,000の非常に競争的なメリット奨学金(Presidential Global Scholarsなど)の対象です。出願時に1年分の財務証明書(DCF)が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "130943": {
+  "scholarshipUrl": "https://www.udel.edu/apply/undergraduate-admissions/financing-your-degree/international-students/",
+  "intlAidNote": "公立のためニーズ型支援は出せません。留学生の年間の請求額は約$61,634(授業料$42,470、諸費$2,550、住居$9,286、食費$7,328)で、総費用の目安は約$65,884です。新入生で出願した留学生は自動で審査され、奨学金は年$5,000〜$15,000で、Distinguished Scholarship(授業料・寮費、GPA3.0維持で4年)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "230764": {
+  "scholarshipUrl": "https://admissions.utah.edu/international/scholarships.php",
+  "intlAidNote": "留学生は連邦支援と大学の奨学金・経済支援オフィス管轄のメリット奨学金の対象外です。工学部・ビジネス学部の学科奨学金や、ISSSの在学留学生向け奨学金、国別の外部奨学金(Aga Khanなど)、共同署名者不要のMPower・Prodigyなどのローンが案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "213543": {
+  "scholarshipUrl": "https://www2.lehigh.edu/admissions/international-students",
+  "intlAidNote": "2026-27の目安は授業料$69,420、住居$11,470、食費$7,760で合計約$89,820です。新入生で認められた留学生にはニーズ型の限定的な支援があります(CSS Profileが必要)。メリット奨学金は$5,000〜授業料全額で、別途申請は不要です。入学時に支援を受けなかった留学生は後から対象になりません。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

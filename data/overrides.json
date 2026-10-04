@@ -9330,5 +9330,50 @@
   "scholarshipUrl": "https://www.ccri.edu/onestop/admissions/international/",
   "intlAidNote": "留学生は州外料金で1単位$756、フルタイムの授業料・諸費用は年約$15,580。書籍約$1,200、交通約$1,824等のほか、寮はなく生活費は別(約$15,426)。留学生向け財政援助はなく、フルタイム12単位が必須。証明書課程は留学生対象外。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "233037": {
+  "scholarshipUrl": "https://www.pdc.edu/attend/paying-for-college/tuition-and-fees/",
+  "intlAidNote": "バージニア州の公立短大。州外授業料・諸費用は1単位約$395.75(2026秋)。留学生の在籍は0%で、受け入れ条件・留学生向け奨学金は確認できず、入学課へ要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "233754": {
+  "scholarshipUrl": "https://www.vpcc.edu/admissions/financial-aid/cost-of-attendance/",
+  "intlAidNote": "州外授業料・諸費用は年約$10,620(州内約$4,962)。留学生の在籍は0%で、留学生向けの受け入れ・奨学金は確認できず、入学課へ要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "239910": {
+  "scholarshipUrl": "https://www.swtc.edu/student-resources/financial-resources/tuition-fees",
+  "intlAidNote": "州外授業料は1単位約$236.18(2026-27、州内$157.45)。留学生は在籍・卒業実績がほとんどなく、受け入れ体制・奨学金は限定的。入学課(608-822-3262)へ要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "395362": {
+  "scholarshipUrl": "https://www.cmccd.edu/admissions/enroll/",
+  "intlAidNote": "留学生(F-1)プログラムがなく、F-1ビザのスポンサーにならない。州外授業料は年約$11,040。F-1留学生が通学したい場合は他のカリフォルニア州の短大を検討。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "115861": {
+  "scholarshipUrl": "https://www.imperial.edu/admissions/binational-international-program.html",
+  "intlAidNote": "非居住者授業料は1単位$332、入学登録料$46/単位(12単位の学期で約$7,968＋$1,104)。2学期分の資金証明が必要で、自立した生活の総費用目安は約$24,723。メキシコ国籍者向けのF-1国境通学(Fronterizo)枠あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "117274": {
+  "scholarshipUrl": "https://www.lassencollege.edu/student-services/tuition-and-fees/",
+  "intlAidNote": "非居住者授業料は6.5単位以上で1単位$436(年約$9,280)。留学生は約1%で留学生アドバイザーあり。留学生向けの奨学金は確認できず要確認。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118772": {
+  "scholarshipUrl": "https://www.peralta.edu/international/tuition-and-fees",
+  "intlAidNote": "ペラルタ・コミュニティカレッジ群の国際教育課経由でF-1を受け入れ。留学生の授業料・諸費用は年約$13,410(非居住者$401×30単位＋$46×30単位)、寮・食費約$10,000、保険約$2,100で年間総額約$25,970。フルタイム12単位が必須。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "126119": {
+  "scholarshipUrl": "https://yc.yccd.edu/admissions/how-international/",
+  "intlAidNote": "現在、F-1留学生のプログラムはなく、留学生の受け入れは行っていない。州外・外国籍の授業料は1単位$319＋登録料(年約$8,208)。F-1を希望する場合は他のカリフォルニア州短大を検討。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "218706": {
+  "scholarshipUrl": "https://sc.edu/about/offices_and_divisions/international_student_and_scholar_support/about/international-student-fees/index.php",
+  "intlAidNote": "州外授業料・諸費用は年約$18,238で留学生に適用(州内$7,558)。F-1/J-1には学期$225の国際学生登録料。2年制で、卒業後にUSC本校等へ編入する人が多い。留学生向けの奨学金は要確認。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

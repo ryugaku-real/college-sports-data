@@ -69,6 +69,31 @@ for (const r of await loadScorecard()) {
   });
 }
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
+// Schools not yet researched individually get a clearly-labelled, generic estimate built from known data.
+const usd = (n) => '$' + Math.round(n).toLocaleString('en-US');
+const athleticAidText = (sc) => ({
+  D1: 'NCAA D1は運動奨学金を出せます(学費・寮・食費・教材までの範囲、競技・チームにより差があります)。',
+  D2: 'NCAA D2は運動奨学金を部分的に出せます(競技・コーチの裁量)。',
+  D3: 'NCAA D3は運動奨学金がありません(学業・ニーズ型のみ)。',
+  NAIA: 'NAIAは運動奨学金を出せます(競技・コーチの裁量)。',
+  'NJCAA-D1': 'NJCAA D1は運動奨学金を出せます(学費・寮・食費・教材まで)。',
+  'NJCAA-D2': 'NJCAA D2は運動奨学金を出せます(学費・諸費・教材まで、寮・食費は対象外)。',
+  'NJCAA-D3': 'NJCAA D3は運動奨学金がありません。',
+}[sc.division] ?? (sc.association === 'CCCAA' || sc.association === 'NWAC' ? `${sc.association}は原則運動奨学金がありません。` : ''));
+for (const sc of out) {
+  if (sc.intlAidNote) continue;
+  const parts = ['【個別調査前の目安】'];
+  if (sc.control === 'public' && sc.tuitionOutOfState) {
+    parts.push(`公立校のため、留学生は通常、州外学生の授業料${sc.tuitionInState ? `(州内${usd(sc.tuitionInState)}/州外${usd(sc.tuitionOutOfState)}・年額目安)` : `(年額約${usd(sc.tuitionOutOfState)})`}が適用されます。`);
+  } else if (sc.tuitionOutOfState || sc.tuitionInState) {
+    parts.push(`授業料は年額約${usd(sc.tuitionOutOfState ?? sc.tuitionInState)}で、私立校は留学生も同額が一般的です。`);
+  }
+  const ath = athleticAidText(sc);
+  if (ath) parts.push(ath);
+  parts.push('F-1留学生は連邦・州の学費援助の対象外で、I-20発行には1年分の資金証明が必要です。留学生向け奨学金の有無・金額は、学校の国際学生課・出願ページで確認してください。');
+  sc.intlAidNote = parts.join('');
+  sc.intlAidAuto = true;
+}
 mkdirSync('public-data', { recursive: true });
 const updatedAt = new Date().toISOString();
 writeFileSync('public-data/schools.json', JSON.stringify({ updatedAt, schools: out }));

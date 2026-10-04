@@ -1746,5 +1746,45 @@
   "scholarshipUrl": "https://www.bridgeport.edu/cost-financial-aid/financial-aid/types-of-aid",
   "intlAidNote": "新入の留学生は自動で学業奨学金審査(年$10,000〜$18,000、更新可。Trustee $20,000、Presidential $15,000、Provost $12,500、Dean's $10,000)。最上位のPresidentialは授業料・寮・食費全額で競争的です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "210331": {
+  "scholarshipUrl": "https://www.corban.edu/admissions-aid/apply/international-students/estimated-costs/",
+  "intlAidNote": "成績(GPA2.7以上)に基づく学業奨学金が年$9,000〜$18,000(自動、他奨学金と併用可、4年更新)。寮生活の学部生が対象。財務責任書とTOEFL等の英語力、信仰についての文書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155681": {
+  "scholarshipUrl": "https://www.pittstate.edu/international/scholarships.html",
+  "intlAidNote": "新入留学生向けGorilla International Scholarshipは年$2,000〜$6,000(GPA別、最大4年)。International Undergraduate Academic Excellenceは初年度最大$3,000(1回のみ)、Study English in the USAは最大$1,000。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "155061": {
+  "scholarshipUrl": "https://www.fhsu.edu/international/admissions/financial/scholarships/",
+  "intlAidNote": "新入生奨学金は年$1,500〜$3,750(ACT/SATとGPA、3年更新)、編入は$500〜$1,500(自動)。World Ready International Scholarshipもあります。1学期在籍後はStouffer奨学金等に申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229814": {
+  "scholarshipUrl": "https://www.wtamu.edu/student-support/scholarships/international-students.html",
+  "intlAidNote": "新入生は成績・テストで決まるScholar奨学金(例: President's Scholar $2,500+授業料免除枠$12,000)。申請は12/1(早期)または2/1(優先)。$1,000以上の奨学金で授業料が下がる制度もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157076": {
+  "scholarshipUrl": "https://kwc.edu/admissions/prospective-students/international-student/",
+  "intlAidNote": "全ての新入生(国外含む)が高校GPAに基づくメリット奨学金の自動審査対象です。留学生専用の金額情報は見つかりませんでした。早めの出願を推奨します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "203757": {
+  "scholarshipUrl": "https://lourdes.edu/international-admission/",
+  "intlAidNote": "留学生もキャラクター奨学金とメリット奨学金が自動審査され、運動奨学金はコーチの勧誘が条件です。Lourdesの奨学金分は必要な資金証明額から差し引かれます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "101709": {
+  "scholarshipUrl": "https://www.montevallo.edu/admissions-aid/international-admissions/",
+  "intlAidNote": "留学生向けの財政支援プログラムはなく、学業系奨学金が使える場合があります。2025-26の資金証明額は$44,130で、成績評価書はNACES加盟機関のものが必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "162584": {
+  "scholarshipUrl": "https://www.frostburg.edu/admissions-and-cost/financial-aid/applying-for-aid/international-students.php",
+  "intlAidNote": "留学生は連邦・州・大学の一般援助の対象外ですが、国際教育センターが合格時に限定的な大学奨学金を付与します。Rowe International Student Scholarship(GPA2.5以上、ニーズ重視)にも申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

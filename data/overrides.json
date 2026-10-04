@@ -3621,5 +3621,35 @@
   "scholarshipUrl": "https://catalog.kirtland.edu/content.php?catoid=4&navoid=136",
   "intlAidNote": "F-1・J-1の留学生は留学生料金が適用されます。奨学金の多くはFAFSAによるニーズ判定が条件で、留学生が使える奨学金は確認できませんでした。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "162690": {
+  "scholarshipUrl": "https://www.hagerstowncc.edu/financial-aid/tuition-fees",
+  "intlAidNote": "HCC Foundationの奨学金は留学生も応募できるとされ、条件は学期6単位以上・GPA2.0以上です(2027春分は2026/10/1〜12/1申請)。留学生の具体的な授業料(州外料金)は授業料ページで確認してください。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "169992": {
+  "scholarshipUrl": "https://www.gogebic.edu/admissions/fa/25tutitionandfee.html",
+  "intlAidNote": "留学生の授業料は1単位$274(州内・州外より高い料金)です。連邦支援は対象外で、利用できる資金計画は経済支援オフィスに相談する形です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "105792": {
+  "scholarshipUrl": "https://www.southmountaincc.edu/become-student/international-education/f-1-student-visa",
+  "intlAidNote": "ビザ保持者の授業料区分は入学・記録オフィスで確認が必要です。Arizona州法により、非市民はMaricopa Grant(授業料支援)の対象外です。留学生向けの奨学金情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "209940": {
+  "scholarshipUrl": "https://www.roguecc.edu/BOE/policies/AP5030.asp",
+  "intlAidNote": "RCCのビザ留学生は留学生料金で、2020-21は1単位$387でした(最新額は大学で確認)。TOEFL490以上などの英語力が必要です。FAFSAは市民・対象非市民のみで、Oregon居住の非市民はORSAAで州の補助を申請できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "187198": {
+  "scholarshipUrl": "https://www.ucc.edu/international/",
+  "intlAidNote": "2026-27の留学生の授業料は、フルタイム(12〜18単位)で学期$5,235、パートタイムで1単位$425です。留学生向け奨学金が1つあり、FAFSA不可の学生も内部奨学金申請(6単位以上・学位/証明書課程)が可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "105154": {
+  "scholarshipUrl": "https://www.mesacc.edu/international-education/current-f-1-students/scholarships-loans",
+  "intlAidNote": "F-1専用の奨学金はありませんが、学内の各部署・Honors(Honors Achievement Award)、Follett Bookstore、Maricopa Foundationの奨学金などに留学生も応募できます。F-1 Scholarship Fundへの寄付ページもあります。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

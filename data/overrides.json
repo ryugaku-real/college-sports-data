@@ -3856,5 +3856,25 @@
   "scholarshipUrl": "https://catalog.delta.edu/content.php?catoid=6&navoid=613",
   "intlAidNote": "留学生(F-1)にはローン・奨学金・経済支援・支払い猶予がなく、授業料は登録時に全額支払います。I-20にはスポンサーの宣誓書と資金証明(銀行明細)が必要で、全日制(12単位以上)が条件です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "216825": {
+  "scholarshipUrl": "https://www.westmoreland.edu/admissions_aid/financial-aid/how-aid-works.html",
+  "intlAidNote": "F-1出願には全課程分の財政支援の説明書と、$36,000以上の資金証明が必要です。経済支援は市民・対象非市民が条件で、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "238397": {
+  "scholarshipUrl": "https://catalog.blackhawk.edu/admission/international-students/",
+  "intlAidNote": "F-1留学生は州外授業料で、TOEFL500(紙)/61(iBT)以上、学歴の第三者評価、資金証明が必要です。留学生向けのInternational Student Scholarshipがありますが、金額は変動します。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198376": {
+  "scholarshipUrl": "https://www.davidsondavie.edu/financial-aid/cost-of-attendance/",
+  "intlAidNote": "F-1ビザ保持者はNorth Carolinaの居住者になれず、州外授業料です。留学生向けの連邦・州の経済支援はありません。留学プログラム向けの部分奨学金($250〜$1,000程度)はDavidson-Davie生が応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "367459": {
+  "scholarshipUrl": "https://www.nwacc.edu/internationalstudents/index.html",
+  "intlAidNote": "F-1留学生は連邦の学生支援の対象外です。NWACCの奨学金は、対象科目の履修・GPA2.0以上・12単位以上修了が条件です。授業料は州外料金で、年$8,000未満(最小履修)の例が示されています。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

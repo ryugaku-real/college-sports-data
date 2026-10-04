@@ -8411,5 +8411,35 @@
   "scholarshipUrl": "https://www.ycp.edu/admissions/undergraduate-admissions/international",
   "intlAidNote": "授業料は年約$24,606と私立では低め。International Merit Scholarshipは年$6,500〜$9,000(4年間、高校成績基準)。全額奨学金はなく、財務計画の提出が必要。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "217420": {
+  "scholarshipUrl": "https://www.ric.edu/admissions-financial-aid/undergraduate-admission/international-student-admission",
+  "intlAidNote": "留学生は州外料金で授業料は年約$28,268(寮・食費・書籍別)。大学のメリット奨学金・連邦援助は留学生対象外で、留学生向け奨学金はない。I-20発行前に総費用相当の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217536": {
+  "scholarshipUrl": "https://salve.edu/",
+  "intlAidNote": "留学生も授業料は国内学生と同じ(年$40,000〜$45,000)。ニーズ型援助は対象外だが、成績奨学金(年$15,000〜$30,000、更新可)を入学審査で自動審査。授業料全額の枠も少数あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "224527": {
+  "scholarshipUrl": "https://www.etbu.edu/admissions/affordability/scholarships",
+  "intlAidNote": "年間総額は約$47,076(授業料・諸費用$31,760、寮・食費$11,622ほか)。留学生は学力・英語力・リーダーシップ等に基づく奨学金の対象。学生平均援助は約$26,000(留学生に限らない数値)。留学生向けの学内就労は不明。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225247": {
+  "scholarshipUrl": "https://www.hsutx.edu/admissions/international/international/",
+  "intlAidNote": "高成績の留学生向けに奨学金$16,000(成績・テスト・課外活動等で審査、入学後に評価)。Heritage Scholarshipは留学生対象外。最初の学費支払いは来米前に必要。問い合わせ: financialaid@hsutx.edu。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "225548": {
+  "scholarshipUrl": "https://www.hputx.edu/campus-offices/financial-aid/scholarships/",
+  "intlAidNote": "留学生の授業料目安は年$30,000〜$34,999。大学の奨学金・補助は留学生にも提供されるが、留学生向けの具体額は確認できず要問い合わせ。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "226587": {
+  "scholarshipUrl": "https://mcm.edu/admissions-overview/international-student/",
+  "intlAidNote": "留学生の授業料$34,284、諸費用$530、寮・食費$9,906。成績・テストに基づく奨学金は年$16,000〜$18,000(4年更新可、先着順)。Honorsプログラムで追加援助の可能性。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

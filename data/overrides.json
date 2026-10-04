@@ -4196,5 +4196,30 @@
   "scholarshipUrl": "https://www.mccd.edu/enroll-at-merced-college/international-students/",
   "intlAidNote": "非居住者授業料は1単位$336(2026秋)で、年間費用の目安は約$22,000です。$22,000以上の資金証明が必要です。新規生向け奨学金はありませんが、1学期修了後に競争的な授業料免除奨学金(部分免除を含む)へ応募できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "118912": {
+  "scholarshipUrl": "https://www.miracosta.edu/student-services/international-students/tuition-and-fees.html",
+  "intlAidNote": "F-1の授業料は1単位約$415(非居住者$369+登録料$46)で、年間総費用の目安は約$28,500です。年200件超の奨学金($500〜$2,000)は留学生も応募できます。経済的に困窮する在籍中のF-1には、留学生全体の10%以内で非居住者授業料の免除枠があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118930": {
+  "scholarshipUrl": "https://missioncollege.edu/student-services/international-students/index.html",
+  "intlAidNote": "非居住者授業料は1単位$381(2026秋)+登録料$46で、留学生保険は1学期$1,075.50(2026秋)です。留学生向けにInternational Achievement ScholarshipやCarol Qazi International Student Scholarshipがあります。無償授業制度(AB 3158)は対象外ですが、駐車・健康サービスは無料です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "118976": {
+  "scholarshipUrl": "https://www.mjc.edu/business/tuition.html",
+  "intlAidNote": "留学生は非居住者登録料$338+登録料$46=$384/単位(2026夏、学士課程は$468/単位)です。連邦支援は対象外です。MJCは留学生の学業・就労・移民面の支援を提供しており、留学生向け奨学金の個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "119067": {
+  "scholarshipUrl": "https://www.mpc.edu/admissions-financial-aid/how-to-apply/international-students/tuition-fees.html",
+  "intlAidNote": "年間費用の目安は約$21,781(授業料・諸費$10,596、必須保険$2,185、生活費$9,000)です。MPCは留学生向けの奨学金を直接は出さず、入学後に応募できる機会が少数あるのみです。MPC Promise Grantは対象外で、州・連邦の支援もありません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "119137": {
+  "scholarshipUrl": "https://www.moorparkcollege.edu/apply-and-enroll/paying-for-college/fees",
+  "intlAidNote": "留学生は非居住者授業料・健康費・学生センター費などに加え、留学生サーチャージがかかります(経済困窮などで免除される場合あり)。成績・才能型の奨学金の対象になり得ます。修了後はOPTの利用ができます。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

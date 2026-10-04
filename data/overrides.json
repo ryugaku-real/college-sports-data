@@ -2450,5 +2450,20 @@
   "scholarshipUrl": "https://opsu.edu/scholarships/",
   "intlAidNote": "留学生もACT/SATまたはInCred評価書で競争的な学業奨学金に応募でき、全競技で運動奨学金があります(監督に連絡)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "213598": {
+  "scholarshipUrl": "https://www.lincoln.edu/admissions/financial-aid/types-aid/international-students-financial-aid.html",
+  "intlAidNote": "留学生向けInternational Scholars Scholarship(毎年10名、SAT1000以上・GPA3.3以上、授業料・諸費全額、4年更新)と、F-1向けのInternational Student Merit Scholarship(競争的、授業料・諸費相当、締切2/15)があります。連邦・州の援助は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "108092": {
+  "scholarshipUrl": "https://uafs.edu/admissions/international/application-process.php",
+  "intlAidNote": "留学生向けにMyles Friedman Honors Program Scholarship(競争的)などに応募可。成績証明のNACES評価書が必要で、Pell系奨学金は対象外。資金証明は$25,941です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229179": {
+  "scholarshipUrl": "https://twu.edu/scholar-programs/",
+  "intlAidNote": "F-1留学生はメリット奨学金とTPEGの対象(ニーズベース連邦援助は不可)。$1,000以上の競争的奨学金で州内授業料扱い。州外・留学生向けHonors Scholar Programは年$2,500+留学機会です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

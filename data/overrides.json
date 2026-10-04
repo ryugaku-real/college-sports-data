@@ -5341,5 +5341,30 @@
   "scholarshipUrl": "https://www.gmu.edu/international/financial-aid",
   "intlAidNote": "連邦支援は対象外です。限られた優秀な非移民の新入生・編入生向けに、メリット奨学金(新入生は最長4年、編入生は最長2年更新)があり、合格者は自動で審査されます。#YouAreWelcomeHere(新入生、授業料の50%以上・2年目まで更新可)もあります。共同署名者付きの民間ローンが利用できます。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "236595": {
+  "scholarshipUrl": "https://seattleu.edu/financial-aid/receiving-financial-aid/international-student-financial-aid",
+  "intlAidNote": "初めての学士課程に入学する留学生は合格者全員が自動でメリット奨学金の審査を受けますが、留学生の費用全額を賄うものはありません。留学生は連邦支援・連邦ローンの対象外で、民間ローンを利用でき、母国や外部団体の資金も探すよう案内されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "195474": {
+  "scholarshipUrl": "https://www.siena.edu/offices/admissions/international-students/tuition-and-fees/",
+  "intlAidNote": "1年生の授業料$48,300、諸費$2,253、寮・食事$17,895で、支援前の総額は約$68,448です。高校成績とSAT/ACTに基づくメリット奨学金があり、財務書類を提出した留学生には最低$57,000の支援(大学の保証)が示されています。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "120883": {
+  "scholarshipUrl": "https://www.pacific.edu/financial-aid/scholarships/international-students",
+  "intlAidNote": "留学生の総費用は約$78,888(授業料・諸費$58,140、住居$15,211、その他$5,274)です。全額・授業料全額の奨学金はありませんが、出願者は自動でInternational Student Merit Scholarship(米国外の高校卒業者向け$15,000など)の審査を受け、新入生向けにPowell Scholarship(2021-22で$43,000相当)もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "229027": {
+  "scholarshipUrl": "https://onestop.utsa.edu/financialaid/apply/financial-aid-for-international-students/",
+  "intlAidNote": "留学生は連邦支援・FAFSAの対象外ですが、ニーズ型のInternational Student Grant(学部・大学院)があり、西半球(キューバ除く)出身者にはGood Neighbor Programの授業料免除があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199139": {
+  "scholarshipUrl": "https://admissions.charlotte.edu/financing-your-education/",
+  "intlAidNote": "2025-26の留学生の総費用の目安は約$49,500(授業料・諸費$25,000、寮・食事$12,500、保険$3,000、間接費$9,000)です。大学の奨学金・支援の多くは米国市民・永住者向けで、ビザ保持者は外部奨学金・スポンサーを探す形です(外部資金は受け入れ)。ISSOが留学生の学部生に年$1,000の奨学金を1名に出します。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

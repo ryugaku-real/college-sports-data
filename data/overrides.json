@@ -5581,5 +5581,30 @@
   "scholarshipUrl": "https://www.georgiasouthern.edu/admissions-aid/tuition-and-scholarships/cost-of-attendance",
   "intlAidNote": "2026-27の留学生の年間費用は約$37,590(授業料・諸費用$18,550、寮・食費$11,904ほか)。International Merit Scholarship(年約$13,000)と、州内授業料になる州外授業料免除が少数あり。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "156286": {
+  "scholarshipUrl": "https://www.bellarmine.edu/financial-aid/undergraduate-financial-aid-tuition.php",
+  "intlAidNote": "F-1留学生は連邦・州のニードベース援助の対象外。入学事務局経由のメリット奨学金あり(新入生全員に奨学金を保証)。州外学生の機関援助の平均は約$24,264。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "228431": {
+  "scholarshipUrl": "https://www.sfasu.edu/finaid/coa",
+  "intlAidNote": "州外の年間費用は約$43,412。資金証明は$39,428、$1,000以上の奨学金受給時は$28,708でOK。OIP/SFA国際奨学金(年$1,000)、Good Neighbor奨学金あり。競争的奨学金$1,000以上でテキサス州民授業料が適用。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217819": {
+  "scholarshipUrl": "https://charleston.edu/cost-aid/tuition-fees/index.php",
+  "intlAidNote": "2026-27の州外学生の年間総額は約$63,856。ニードベース援助なし。International Ambassador奨学金(年$10,000)が出願時に自動審査。学科奨学金もあり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198385": {
+  "scholarshipUrl": "https://www.davidson.edu/admission-and-financial-aid/cost-attendance",
+  "intlAidNote": "2026-27の留学生の請求総額は$93,140(授業料$73,090、諸費用$650、寮$9,220〜$9,840、食費$9,560)。ニードベース援助は出願時に申請すれば受けられ、必要額の100%を充足(新入生のみ)。一般のメリット奨学金はなし。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206695": {
+  "scholarshipUrl": "https://ysu.edu/international-programs-office/apply-now/quick-menu/scholarship",
+  "intlAidNote": "留学生の年間費用は約$27,870(授業料・諸費用$13,000、寮・食費$12,000ほか)。国際奨学金はGPAに応じ年$1,000〜$3,000、新入生向け住居奨学金$2,000あり。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

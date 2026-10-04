@@ -3831,5 +3831,30 @@
   "scholarshipUrl": "https://genesee.edu/admissions/international-students/",
   "intlAidNote": "I-20には約$16,990以上の資金証明が必要です(授業料・諸費$6,500、生活費$9,048、教材・保険$1,442)。留学生は州外料金で、経済支援は対象外ですが、Foundationの奨学金に応募できるものがあります(資金証明の代わりにはなりません)。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "405872": {
+  "scholarshipUrl": "https://catalog.carrollcc.edu/content.php?catoid=7&navoid=507",
+  "intlAidNote": "F-1留学生の授業料・諸費は1単位$423.25で、2学期(12単位以上)の最低合計は約$9,000です。入学には現地口座の$15,000以上の資金証明(米ドル・銀行レターヘッド)が必要で、連邦支援は対象外です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "198622": {
+  "scholarshipUrl": "https://www.gtcc.edu/admissions-and-aid/international-students/index.php",
+  "intlAidNote": "F-1留学生は州外授業料(1単位$268、州内は$76)です。Access Amazing Scholarshipなどの学費支援は州内居住者向けで留学生は使えません。学内就労は国際学生アドバイザーの許可制で、機会は限定的です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "197294": {
+  "scholarshipUrl": "https://www.sunywcc.edu/apply-enroll/financial-aid/scholarships/",
+  "intlAidNote": "F-1留学生は連邦・州の支援と大学の経済支援の対象外ですが、International Student Scholarship申請で学期ごとにFoundation奨学金へ競争応募できます(入学・履修済みが条件)。Kathryn W. Davis Global Community Scholars、Hirsch Family、Gateway Scholarshipsなどが留学生も応募可能です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "153311": {
+  "scholarshipUrl": "https://eicc.edu/admission-aid/applying-enrolling/process/international/",
+  "intlAidNote": "F-1留学生は$28,727以上の資金証明(授業料$6,456、生活費$19,530、保険$741、教材$2,000)が必要です。書類の推奨締切は秋が6/1、春が11/1です。留学生向け奨学金の情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "169521": {
+  "scholarshipUrl": "https://catalog.delta.edu/content.php?catoid=6&navoid=613",
+  "intlAidNote": "留学生(F-1)にはローン・奨学金・経済支援・支払い猶予がなく、授業料は登録時に全額支払います。I-20にはスポンサーの宣誓書と資金証明(銀行明細)が必要で、全日制(12単位以上)が条件です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

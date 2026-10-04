@@ -5201,5 +5201,40 @@
   "scholarshipUrl": "https://www.rmu.edu/admissions/financial-aid/scholarships",
   "intlAidNote": "留学生は合格時にメリット奨学金が付与されます(加重GPA3.8以上で$28,000、GPA2.30未満の編入生で$6,000まで)。連邦のCARES Act資金は留学生に使えませんが、RMU Student Emergency Fundは留学生にも開かれています。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "123554": {
+  "scholarshipUrl": "https://www.stmarys-ca.edu/financial-aid/scholarships/international-undergraduate-scholarships",
+  "intlAidNote": "留学生の奨学金は年$2,000〜$38,000で、合格時に決定し、4年連続の全日制在籍で自動適用されます(ニーズ・メリット型)。国務省の要件で初年度の資金力の証明が必要です。夏期の生活費、渡航費、ビザ申請費は含まれません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "164076": {
+  "scholarshipUrl": "https://www.towson.edu/admissions/international/cost.html",
+  "intlAidNote": "2026-27の総費用の目安は約$57,025(授業料・諸費$33,198、住居・食費$16,366ほか)で、地元スポンサー宅に住む場合は$43,841に下がります。ニーズ型・連邦・メリーランド州の支援は対象外で、新入生向けInternational Student Scholarshipと、授業料の約半額のYou Are Welcome Here Scholarshipがあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "206622": {
+  "scholarshipUrl": "https://www.xavier.edu/international-admission/scholarships/index",
+  "intlAidNote": "総費用の目安は約$69,760です。合格者全員が年$23,000〜$30,000のメリット奨学金(4年更新可)の審査を受けます。ニーズ型の奨学金や全額支給はありません。留学生は連邦支援の対象外で、民間ローンは米国市民の共同署名者が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "196060": {
+  "scholarshipUrl": "https://www.albany.edu/cost-aid/tuition-fees/international-students",
+  "intlAidNote": "寮生の総費用は約$53,662、校外生は約$44,316です。新入生の最大奨学金は年$20,500(4年で$82,000・GPA2.5以上で更新)で、新規の留学生向けの奨学金資金は限られています。奨学金・フェローシップ・アシスタントシップの対象になります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "196097": {
+  "scholarshipUrl": "https://www.stonybrook.edu/commcms/finaid/scholarships/International.php",
+  "intlAidNote": "2026-27のF-1学部生の総費用は約$63,574(授業料・諸費$36,889、生活費$24,340、保険$2,345)です。連邦・州の支援は対象外ですが、高校3年の留学生出願者は自動で4年間のメリット奨学金の審査を受けます。共同署名者付きの民間ローンと分割払いが利用できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "188030": {
+  "scholarshipUrl": "https://global.nmsu.edu/cost/",
+  "intlAidNote": "留学生は州外扱いで、Las Cruces本校の年間費用の目安は約$43,550です。International Competitive Scholarship(州内授業料への割引+学期ごと$100の給付)や授業料免除枠があり、新入生はGPA3.50以上とTOEFL(またはIELTS/Duolingo)が基準です。免除枠は州が全体の6%、うち10%が外国人学生に割り当てられます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "150136": {
+  "scholarshipUrl": "https://www.bsu.edu/admissions/financial-aid-and-scholarships/types/scholarships",
+  "intlAidNote": "留学生向けのメリット奨学金は、International Undergraduate(年$12,000・4年$48,000)、Global Distinction(年$14,000・4年$56,000)、Global Presidential(年$16,000・4年$64,000)で、州外授業料の機関費用に充当されます。2026-27の授業料・諸費は(15単位)$11,242、標準の総費用は$27,658です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

@@ -2046,5 +2046,25 @@
   "scholarshipUrl": "https://www.nelson.edu/admissions/international-student-admissions/",
   "intlAidNote": "留学生専用の奨学金はありません。学業・運動・音楽・ニーズベースの一般奨学金の対象か、大学に確認してください。F-1受入可で、財政支援書の提出が必要です。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "170639": {
+  "scholarshipUrl": "https://www.lssu.edu/admissions/financial-aid/scholarships/incoming-student-scholarship/",
+  "intlAidNote": "州外・留学生向けのBoard of Trustees U.S. and Foreign Distinguished Scholarshipは最大$4,000(GPA3.7以上またはACT28以上、更新可)。カナダ出身者には別のLukenda奨学金もあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "217776": {
+  "scholarshipUrl": "https://www.swu.edu/on-campus/financial-aid/scholarships-and-grants/",
+  "intlAidNote": "学業奨学金に加え、州外・留学生の新入生/編入生に追加の$2,500(Out-of-State/International Scholarship)が付きます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "178420": {
+  "scholarshipUrl": "https://www.umsl.edu/global/admissions/undergrad.html",
+  "intlAidNote": "出願時に自動でInternational Merit Scholarshipの審査対象(競争的、最大年$14,000)。新入生メリットは年$2,500〜$6,000。資金証明と宣誓書が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "106467": {
+  "scholarshipUrl": "https://www.atu.edu/imsso/scholarships.php",
+  "intlAidNote": "International Excellence Scholarshipは1学期$4,500(最大8学期、GPA3.25以上、寮生活が条件)、IB Scholarshipは$2,550/学期。申請は秋入学3/31、春入学9/30までで推薦状2通が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

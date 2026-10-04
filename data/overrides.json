@@ -5931,5 +5931,45 @@
   "scholarshipUrl": "https://www.pvamu.edu/faid/resources/cost-of-attendance/",
   "intlAidNote": "2026-27の学部COAは寮生で約$42,479(自宅通学$32,283)。留学生は1学期$75の国際学生サービス料が別途。奨学金は$500〜$3,000程度で、多くは連邦援助の資格と必要度が条件。Regents奨学金は授業料・寮・食費・書籍をカバー。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "200004": {
+  "scholarshipUrl": "https://www.wcu.edu/learn/office-of-global-engagement/international-students/index.aspx",
+  "intlAidNote": "留学生の学部生はNC Promise制度で授業料が1学期$3,500に大幅減額(州外扱いでも低額)。Kendall W. King基金など在学生向け支援あり。I-20に初年度の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "224147": {
+  "scholarshipUrl": "https://www.tamucc.edu/cost-and-aid/scholarships/international-students.php",
+  "intlAidNote": "2026-27の留学生の寮生の年間費用は$43,924(授業料・諸費用$24,469、州内生は$29,486)。留学生奨学金は年$1,000〜$4,000(GPAとIELTS/TOEFLで決定)。Good Neighbor奨学金(授業料免除)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "186432": {
+  "scholarshipUrl": "https://saintpeters.edu/international/scholarships-and-financial-aid",
+  "intlAidNote": "年間総額は約$61,244(授業料・諸費用$39,954、生活費$21,290)。成績・テストスコアに基づくメリット奨学金(最長4年・120単位)。フルの奨学金は無し。初年度分の資金証明が必要。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "227368": {
+  "scholarshipUrl": "https://www.utrgv.edu/iss/funding-resources/cost-of-attendance/index.htm",
+  "intlAidNote": "F-1の費用は住居などで変動(I-20用の標準額を毎年算出)。国際学生サービス・財政援助部門の留学生向けグラント(必要度あり)、Good Neighbor奨学金(授業料免除)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "202134": {
+  "scholarshipUrl": "https://www.csuohio.edu/international-admissions/international-student-scholarships",
+  "intlAidNote": "2025-26の留学生学部の年間総額は$44,809(授業料・諸費用$20,116、寮・食費$16,800、保険$3,523ほか)。連邦援助は対象外。留学生向け奨学金は公式ページで確認、外部奨学金・ローンも案内。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "157447": {
+  "scholarshipUrl": "https://nku.edu/admissions/international/prospective-students/scholarships-finances/undergraduate-costs.html",
+  "intlAidNote": "2025-26の留学生の年間費用は$30,762(授業料$15,000、寮$7,360、食費$4,954ほか)。新入生はExecutive(年最大$7,500/GPA3.5)、Diplomat($4,500/3.0)、Global Envoy($3,000/2.75)を自動審査。EDGE(GPA2.5以上で州内授業料+$500)あり。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "159966": {
+  "scholarshipUrl": "https://www.nicholls.edu/international/",
+  "intlAidNote": "留学生は州外授業料がかからず、年間費用は約$19,810〜$24,700(授業料・諸費用約$9,000、寮$4,492〜$9,382、食費$3,818ほか)。留学生向けの専用奨学金情報は限定的で低コストが強み。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "199218": {
+  "scholarshipUrl": "https://www.uncw.edu/seahawk-life/support-success/international/students-scholars/resources/financial-resources",
+  "intlAidNote": "州外学生の2026-27の年間費用は約$48,127。F-1が必要な学部生向けに、高い学力を示した学生へ年$2,000〜$5,000の奨学金あり。EducationUSAの検索ツール活用を案内。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

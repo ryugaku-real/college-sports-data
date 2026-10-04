@@ -4076,5 +4076,15 @@
   "scholarshipUrl": "https://catalog.evc.edu/admissions-registration-fees-financial-aid/international-students/",
   "intlAidNote": "非居住者・留学生の授業料は1単位$428です。授業料は登録期限(Census Day)までに支払わないと在留資格が即時終了します。経済支援・グラント・授業料の猶予は対象外ですが、EVCの奨学金(sjeccd.academicworks.com)には応募できる可能性があります。",
   "intlAidCheckedAt": "2026-10-04"
+ },
+ "114716": {
+  "scholarshipUrl": "https://foothill.edu/international/resources/tuition-and-fees.html",
+  "intlAidNote": "留学生は基本の登録料に加え、授業料(Foreign student tuition)が1単位$253かかります。各クォーターの健康保険加入と12単位以上の履修が必須です。連邦・州の支援は対象外で、新規F-1向けの奨学金はなく、2年目以降に$500〜$4,000の奨学金へ応募できます。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "114789": {
+  "scholarshipUrl": "https://www.fresnocitycollege.edu/student-services/international-students/international-tuition.html",
+  "intlAidNote": "留学生の授業料は1単位$381(2026夏)、$388(2026秋・2027春)です。秋・春に12単位以上が必要です。FCCは年200件超の奨学金($100〜$1,500)を出しますが、現役学生向けで申請期間は10/1〜3/2です。留学生の対象かは個別に確認が必要です。",
+  "intlAidCheckedAt": "2026-10-04"
  }
 }

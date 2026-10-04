@@ -111,7 +111,23 @@ const maxAid = (sc) => {
   }
 };
 const usd0 = (n) => '$' + Math.round(n).toLocaleString('en-US');
-for (const sc of out) sc.athleticScholarshipMax = maxAid(sc);
+// Max athletic scholarship as a share of the total cost of attendance (what percent can be covered for one athlete).
+const maxPct = (sc) => {
+  switch (sc.division) {
+    case 'D1': return (sc.conference ?? '').includes('Ivy') ? 0 : 100;
+    case 'D2': case 'NAIA': case 'NJCAA-D1': return 100;
+    case 'NJCAA-D2': {
+      const t = sc.tuitionOutOfState || sc.tuitionInState;
+      const coa = sc.control === 'public' && sc.tuitionInState && sc.tuitionOutOfState ? sc.costOfAttendance - sc.tuitionInState + sc.tuitionOutOfState : sc.costOfAttendance;
+      return t && coa ? Math.min(100, Math.round((t / coa) * 100)) : null;
+    }
+    default: return 0;
+  }
+};
+for (const sc of out) {
+  sc.athleticScholarshipMax = maxAid(sc);
+  sc.athleticScholarshipPct = maxPct(sc);
+}
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
 // Automatic check of each note's dollar amounts against the linked official page (data/verification.json, see README).
 const verification = existsSync('data/verification.json') ? JSON.parse(readFileSync('data/verification.json', 'utf8')) : {};

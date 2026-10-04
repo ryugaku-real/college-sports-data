@@ -325,5 +325,85 @@
     "scholarshipUrl": "https://ip.wsu.edu/future-students/tuition-fees/scholarships-funding/",
     "intlAidNote": "留学生は合格時にInternational Academic Award(年$4,000: GPA3.6以上、年$2,000: GPA3.0〜3.59、授業料免除)が保証されます。在学中のInternational Merit Award(1学期$2,000)や、緊急時の授業料減額($1,500、1回)もあります。",
     "intlAidCheckedAt": "2026-10-04"
+  },
+  "100858": {
+    "scholarshipUrl": "https://www.auburn.edu/admissions/prospective-students/international/index.php",
+    "intlAidNote": "学校の案内では、州外生向けの成績による奨学金(Academic Presidential: 年最大$17,000、Heritage: $11,000、Charter: $7,000)にAUSOMから応募します(優先締切2月中旬)。最低9か月分の資金証明が必要です。留学生向けの専用奨学金の記載は確認できませんでした。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "159391": {
+    "scholarshipUrl": "https://www.lsu.edu/financialaid/apply_for_scholarships/apply_for_international_student_scholarships.php",
+    "intlAidNote": "留学生だけを対象にした奨学金はありません(学校の案内)。米国の高校(またはアメリカンスクール)出身の留学生の新入生は、通常の新入生奨学金の対象になります。在学中の留学・研修向けの奨学金($1,500)は留学生も応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "176080": {
+    "scholarshipUrl": "https://www.sfa.msstate.edu/scholarships/international-scholarships",
+    "intlAidNote": "留学生は出願時に、成績による奨学金が自動で審査されます(9〜11年次のGPA3.30以上: 年$12,000〜$16,000、4年間)。優先日は12月1日です。エージェント契約がある場合は対象外になります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "228723": {
+    "scholarshipUrl": "https://aggie.tamu.edu/financial-aid/types-of-aid/scholarships/international-student-scholarships",
+    "intlAidNote": "留学生向けの奨学金と、必要性ベースの援助(州の助成ITPEG: 最大$4,000、TASFAの申請が必要)があります。学内の奨学金(Eppright: $3,000など)は在学中の留学生が応募できます。援助は必要性ベースで、費用の全額は賄えません。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "100751": {
+    "scholarshipUrl": "https://afford.ua.edu/scholarships/international/",
+    "intlAidNote": "留学生の新入生には、ACT・SATとGPAで決まる成績による奨学金(年$6,000〜$28,000)があります。連邦の援助は対象外です。州外・留学生の編入生は自動の奨学金の対象外で、別の奨学金に応募します。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "221759": {
+    "scholarshipUrl": "https://onestop.utk.edu/scholarships-financial-aid/scholarships/",
+    "intlAidNote": "留学生の新入生向けに、Global Ambassador奨学金(年$10,000〜$15,000、5月1日締切)、International Volunteer奨学金(年$3,000〜$18,000、4月1日締切)、International Undergraduate Merit奨学金(年$5,000〜$8,000)があります。全額免除の奨学金はありません。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "228778": {
+    "scholarshipUrl": "https://global.utexas.edu/isss/advising-services/scholarships",
+    "intlAidNote": "留学生向けの経済援助は限られています。留学生オフィスが秋と春に募集する奨学金(各$2,000〜$5,000の学期・学年奨学金や、必要性ベースの現金援助など)があります。工学部は新入生の留学生には奨学金を出さず、在学中の留学生は一部に応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "106397": {
+    "scholarshipUrl": "https://international-admissions.uark.edu/undergraduate-studies/funding-your-studies.php",
+    "intlAidNote": "留学生の新入生も、多くの成績による奨学金に応募できます(入学出願11月1日、奨学金の優先は11月15日、最終2月1日)。特定の国・州の学生には州外授業料の一部を免除するTuition Advantage制度があります。大学のローンはなく、1年分の資金証明が必要です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "134130": {
+    "scholarshipUrl": "https://www.sfa.ufl.edu/international/",
+    "intlAidNote": "留学生向けの奨学金は少なく、主に大学院向けです。GPA3.75以上の留学生は国際学生奨学金に推薦され、5人が$1,000を受給します。新入生向けの奨学金は限られた数です。連邦の援助は対象外です。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "139959": {
+    "scholarshipUrl": "https://osfa.uga.edu/types-of-aid/undergraduate/scholarships/academic-scholarships/",
+    "intlAidNote": "連邦・州の援助は留学生は対象外ですが、F-1の留学生は成績による奨学金の対象です(Classic: 州内外の授業料差額の半分を免除、Classic City Scholars: 全額免除、Foundation Fellowship: 差額免除に加え$30,000の支給)。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "157085": {
+    "scholarshipUrl": "https://studentsuccess.uky.edu/financial-aid-and-scholarships/international-student-undergraduate-scholarships",
+    "intlAidNote": "留学生の新入生向けに、Bluegrass奨学金(年$6,500〜$16,000、締切12月1日)、William C. Parker奨学金、International Ambassador奨学金($3,000〜授業料の50%、2月15日)があります。在学中は、経済的必要性による授業料奨学金($500〜$3,000)に応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "176017": {
+    "scholarshipUrl": "https://olemiss.edu/global/international-students-oge/scholarships-international-students/",
+    "intlAidNote": "留学生の新入生は、GPAで決まる成績による奨学金が自動で付与されます(Premier: 年$28,893=授業料の約93%、GPA3.9〜4.0、各国の人数に上限あり。Champion $12,000、Magnolia $9,500、Legacy $5,000)。STEM専攻の追加奨学金($8,000)もあります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "178396": {
+    "scholarshipUrl": "https://financialaid.missouri.edu/scholarships/international/",
+    "intlAidNote": "合格者は、州外授業料部分に適用される成績による奨学金が審査されます(2027-28年度: International Honors 年$20,000、International Merit 年$10,000。12月1日までに出願)。在学中は、授業料の10〜25%のCurator's Grant-in-Aidなどに応募できます。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "207500": {
+    "scholarshipUrl": "https://www.ou.edu/globalengagement/international-student-scholarships",
+    "intlAidNote": "留学生の新入生は、SAT・ACTの点数で決まる成績による奨学金(年$10,000〜$17,000、4年間)が審査されます。United World Collegesの出身者は必要額の100%が保証されます。緊急時の基金(IAC)もあります。必要性ベースの申請(ISFAA)の案内もあります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "218663": {
+    "scholarshipUrl": "https://sc.edu/about/offices_and_divisions/international_student_and_scholar_support/iss/new-student-arrival/understand_tuition_and_fees/university_scholarships_and_assistantships/",
+    "intlAidNote": "大学の必要性ベースの奨学金は留学生には出ません。学部の競争的な奨学金(ビジネス、工学、ホスピタリティなど)に応募できます。国際学生Excellence奨学金は毎年2人にのみ年$500です。特定地域の出身者は州内授業料になる姉妹州協定があります。",
+    "intlAidCheckedAt": "2026-10-04"
+  },
+  "221999": {
+    "scholarshipUrl": "https://admissions.vanderbilt.edu/affordability/international-costs-and-finances/",
+    "intlAidNote": "留学生の新入生に、必要性ベースの援助を一部の学生に出します(2026年秋入学では89人、年$16,815〜$99,998を4年間)。留学生は経済状況を選考で考慮される(need-aware)ため、援助を希望すると競争が厳しくなります。CSS ProfileまたはISFAAが必要で、編入の留学生は援助の対象外です。",
+    "intlAidCheckedAt": "2026-10-04"
   }
 }

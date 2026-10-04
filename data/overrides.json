@@ -4583,18 +4583,43 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "190585": {
-  "scholarshipUrl": "https://www.hostos.cuny.edu/Administrative-Offices/Office-of-Admissions-and-Recruitment/International-Students",
+  "scholarshipUrl": "https://www.hostos.cuny.edu/Administrative-Offices/Office-of-Admissions-and-Recruitment/International-Students/F-1-J-1-Status-Rules",
   "intlAidNote": "留学生の授業料は1単位$320です。I-20には、スポンサーの銀行レターで$15,213.40〜$32,401.40相当の資金証明が必要で、民間・政府奨学金の授与通知も資金に使えます。授業料を期限内に払わないと在留資格を失う恐れがあり、12単位(全日制)が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "190619": {
-  "scholarshipUrl": "https://www.kbcc.cuny.edu/financialaid/fin_aid_faqs.html",
+  "scholarshipUrl": "https://www.kbcc.cuny.edu/financialaid/documents/content/Citizenship.pdf",
   "intlAidNote": "F-1留学生は連邦・NY州の支援(Pell・SEOG・ワークスタディ・ローン)の対象外で、授業料は1単位$320+諸費です。12単位以上が必要です。留学生は民間の奨学金を検索サイトで探して応募する形です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "190673": {
   "scholarshipUrl": "https://www.qcc.cuny.edu/admissions/intl.html",
   "intlAidNote": "授業料は年$9,600(15単位×2学期、1単位$320)です。F-1は経済支援の対象外ですが、Nathan & Rose Chao Foreign Student Scholarship Awardなど留学生向けの奨学金があり、有効な学生ビザを持つ留学生が応募できるContinuing Student Academic Merit Scholarshipもあります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191126": {
+  "scholarshipUrl": "https://www.fitnyc.edu/admissions/undergraduate-applicants/international-students/faq.php",
+  "intlAidNote": "留学生はFIT(州立)の経済支援の対象外(支援は米国市民・永住者のみ)で、F-1はNY州居住者授業料の対象外です。SEVIS費$350と資金証明が必要です。留学プログラム向けに最大$10,000の競争的奨学金があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191199": {
+  "scholarshipUrl": "https://www.flcc.edu/international-students/apply/",
+  "intlAidNote": "2025-26の年間費用の目安は約$26,671(授業料$7,800、諸費$1,026、教材$1,500、校外住居・食費$11,345、個人費・交通$5,000)で、全期間分の資金計画の証明が必要です。FLCC Foundationの奨学金(年$16.5万超、$400〜授業料全額)の大半は市民権・永住権を条件としません。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191302": {
+  "scholarshipUrl": "https://fmcc.edu/admissions-aid/financial-aid-scholarships",
+  "intlAidNote": "留学生・州外の全日制の授業料は学期$3,060+諸費$1,203=$4,263です。留学生向けにInternational Campus Community Scholarship(高校成績B以上の1年生、または準学士で順調な2年生)とInternational Global Diversity Scholarship(代表性の低い国の出身者)があります。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191612": {
+  "scholarshipUrl": "https://www.herkimer.edu/admissions/international-admissions/",
+  "intlAidNote": "留学生は州内・州外と同じ授業料で、全日制は学期$2,558(パートタイム$189/単位)、年$5,116です。F-1は6か月以内の銀行明細で$18,658以上の資金証明が必要で、SUNYの要件により医療保険への加入も必須です。80種以上の奨学金がありますが、留学生向けの個別情報は見つかりませんでした。",
+  "intlAidCheckedAt": "2026-10-04"
+ },
+ "191719": {
+  "scholarshipUrl": "https://www.hvcc.edu/admissions/international/estimated-annual-financial-requirementsestimated-annual-financial-requirements-for-international-students.html",
+  "intlAidNote": "2025-26の授業料・諸費は約$14,190、9か月の生活費$22,470で、総額約$36,660の資金証明が目安です。留学生は最初の学期後にHVCCの奨学金(100種以上、ニーズ・成績型)に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  }
 }

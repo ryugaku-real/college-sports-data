@@ -8366,5 +8366,71 @@
 "scholarship": true,
 "url": null,
 "note": "男女のチアを運動部として運営し、チア分野のリーダーシップ奨学金があると案内。金額は要確認。"
+},
+"107141": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Sooner Athletic Conference所属の女子チア。ロースター・コーチ公開。奨学金は要確認。"
+},
+"139205": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部の競技コーエドチア(SSAC)。2023年に初大会出場。奨学金は要確認。"
+},
+"141167": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアプログラム(SSAC)+ダンス。奨学金は要確認。"
+},
+"142294": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チア&スタントチーム。公式に、競技・パフォーマンス能力に応じた奨学金ありと記載。"
+},
+"152336": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Crossroads Leagueの競技チア。2026年のリーグ選手権で4位。奨学金は要確認。"
+},
+"150677": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部のチア(ヘッドコーチ在籍)。奨学金は要確認。"
 }
 }

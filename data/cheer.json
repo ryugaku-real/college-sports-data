@@ -7321,5 +7321,94 @@
 "scholarship": false,
 "url": null,
 "note": "男女混合のチア。全運動部の応援を担当。経験は推奨だが必須でない。奨学金の有無は要確認。"
+},
+"107983": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "約30名のチアとポンスクワッド。NCAのD2大会で全国6位の実績。奨学金の有無は要確認。"
+},
+"110529": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Bronco Cheer(コーエド)がUSA全米大会で入賞。ダンスチームBroncettesも別にあり。奨学金は要確認。"
+},
+"138354": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(2021年NCAゲームデー全米優勝)。奨学金の有無は要確認。"
+},
+"141361": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "NCAA D2のコーエド・チア(ピーチベルト)。奨学金はコーチが決定するため要確認。"
+},
+"140988": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "運動部(バーシティ)扱いのチア。サイトでは奨学金総額$200,000超と紹介(第三者情報)。遠征費・シューズ等は大学負担。"
+},
+"136330": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ扱いのチア(バスケ応援)。運動奨学金は基本なしと思われるが要確認。"
+},
+"207324": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "公式サイトにチアのページあり(クラブスポーツ扱いとの情報)。奨学金は要確認。"
+},
+"207847": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女約19名のチア。大学の大使役も担う。奨学金の有無は要確認。"
 }
 }

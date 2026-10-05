@@ -1158,7 +1158,7 @@
   "intlAidCheckedAt": "2026-10-04"
  },
  "180984": {
-  "intlAidNote": "授業料は約$43,000(総額約$55,910)。F-1留学生はPaul Scholarsの対象外です。公証された銀行残高証明が必要です。",
+  "intlAidNote": "成績(ACT/SATなど)に基づく学内奨学金に留学生も応募できます(Paul Scholarsは留学生は対象外)。授業料は約$43,000(総額約$55,910)。F-1留学生はPaul Scholarsの対象外です。公証された銀行残高証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "198835": {
@@ -1858,7 +1858,7 @@
  },
  "157809": {
   "scholarshipUrl": "https://www.thomasmore.edu/admissions/international-students/",
-  "intlAidNote": "海外高校出身の留学生は、GPA3.0以上でACT23/SAT1060以上なら$13,000、ACT20〜22/SAT940〜1050なら$11,000。米国高校卒業者は$7,000〜$14,000、編入は最大$14,000です。",
+  "intlAidNote": "留学生は成績・テストに基づくメリット奨学金(ACT23以上またはSAT1060以上で年$13,000、ACT20〜22またはSAT940〜1050で年$11,000、GPA3.0以上)があります。海外高校出身の留学生は、GPA3.0以上でACT23/SAT1060以上なら$13,000、ACT20〜22/SAT940〜1050なら$11,000。米国高校卒業者は$7,000〜$14,000、編入は最大$14,000です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "151306": {
@@ -2193,7 +2193,7 @@
  },
  "240374": {
   "scholarshipUrl": "https://www.uwp.edu/live/offices/financialaid/international-student-scholarships.cfm",
-  "intlAidNote": "留学生向けにAchievement(GPA3.5以上、年$5,000)、Rising(3.25〜、$4,000)、Talent(3.0〜、$3,000)。F-1・フルタイムが条件で、入学時のみ決定、4年更新(GPA2.5以上)です。",
+  "intlAidNote": "成績メリット型の留学生奨学金(GPA3.50以上のAchievement 年$5,000、3.25〜3.49のRising 年$4,000、3.0〜3.24のTalent 年$3,000、入学時のみ決定、全額奨学金はない)があります。留学生向けにAchievement(GPA3.5以上、年$5,000)、Rising(3.25〜、$4,000)、Talent(3.0〜、$3,000)。F-1・フルタイムが条件で、入学時のみ決定、4年更新(GPA2.5以上)です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "489937": {
@@ -5873,7 +5873,7 @@
  },
  "133650": {
   "scholarshipUrl": "https://www.famu.edu/students/office-of-financial-aid/cost-of-attendance/index.php",
-  "intlAidNote": "留学生向けの専用情報は限定的。非居住者の留学生には、CSS ProfileやInternational Student's Financial Aid Application、資金証明書の提出を求められる場合あり。",
+  "intlAidNote": "留学生にはDistinguished Scholar Award(州外・留学生の授業料免除、高GPA・高スコア者向けの競争型)があり、Presidential Special Scholarship(授業料・寮・食費・書籍費、非常に競争的)にも応募できます。留学生向けの専用情報は限定的。非居住者の留学生には、CSS ProfileやInternational Student's Financial Aid Application、資金証明書の提出を求められる場合あり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110583": {
@@ -5938,7 +5938,7 @@
  },
  "200004": {
   "scholarshipUrl": "https://www.wcu.edu/learn/office-of-global-engagement/international-students/index.aspx",
-  "intlAidNote": "留学生の学部生はNC Promise制度で授業料が1学期$3,500に大幅減額(州外扱いでも低額)。Kendall W. King基金など在学生向け支援あり。I-20に初年度の資金証明が必要。",
+  "intlAidNote": "NC Promise(留学生の授業料が1学期$2,500)があり、成績・在籍状況に基づくInternational Student Scholarshipも在学生が応募できます。留学生の学部生はNC Promise制度で授業料が1学期$3,500に大幅減額(州外扱いでも低額)。Kendall W. King基金など在学生向け支援あり。I-20に初年度の資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "224147": {
@@ -6153,7 +6153,7 @@
  },
  "128902": {
   "scholarshipUrl": "https://www.conncoll.edu/financial-aid/applying-for-financial-aid/international-students/",
-  "intlAidNote": "留学生を含む全合格者の必要額を100%充足(授業料・寮・食費・書籍・保険までカバーし得る)。最低でも交通費・個人費は自己負担。CSS Profileと資金証明が必要。",
+  "intlAidNote": "成績メリット奨学金($15,000〜$34,000、少数の合格者に必要度の申請とは別に出る)があります。必要度型の援助を申請する留学生はCSS Profileの提出が必要です。留学生を含む全合格者の必要額を100%充足(授業料・寮・食費・書籍・保険までカバーし得る)。最低でも交通費・個人費は自己負担。CSS Profileと資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "212577": {
@@ -7628,7 +7628,7 @@
  },
  "161226": {
   "scholarshipUrl": "https://www.umf.maine.edu/",
-  "intlAidNote": "ニューイングランド州外の年間総額は約$38,004。授業料の一部減免は限定的。I-20発行のため資金証明が必要。",
+  "intlAidNote": "新入生の留学生向けに成績・特技などで決まるメリット奨学金(年$11,000、4年更新、寮生活とF-1維持が条件)があります。ニューイングランド州外の年間総額は約$38,004。授業料の一部減免は限定的。I-20発行のため資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "161554": {
@@ -8213,7 +8213,7 @@
  },
  "196033": {
   "scholarshipUrl": "https://www.cobleskill.edu/admissions/financial-aid/tuition-and-fees.aspx",
-  "intlAidNote": "留学生の学士授業料は年約$17,400、包括手数料は年$1,698、国際健康保険は秋学期約$1,076。寮・食費などを含めた最新の総額は入学課へ確認が必要。",
+  "intlAidNote": "新入生・編入生向けの学内奨学金(総額で最大$100万)があり、在学中の留学生にはHaughton Memorial奨学金があります。留学生の学士授業料は年約$17,400、包括手数料は年$1,698、国際健康保険は秋学期約$1,076。寮・食費などを含めた最新の総額は入学課へ確認が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "196051": {

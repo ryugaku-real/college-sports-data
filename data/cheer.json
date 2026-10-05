@@ -7898,5 +7898,72 @@
 "scholarship": false,
 "url": null,
 "note": "公式のチアチーム(RMAC)。奨学金は要確認。"
+},
+"182795": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2024年3月にチア&ダンスを新設。2024-25にNCA全米大会へ出場。奨学金は要確認。"
+},
+"187648": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "コーエドチアがあり、公式で奨学金・優先履修・遠征の特典ありと紹介。2025-26からNM州初のNCAA STUNTも開始予定。"
+},
+"190725": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2018-19に公式(バーシティ)化。2024年はSurf's Up全米大会でグランドチャンピオン。奨学金は要確認。"
+},
+"193292": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ扱い。2025年に初のUDA/UCA全米大会出場。運動奨学金は基本なしと思われる。"
+},
+"204617": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(GMAC)。キャンプ等も主催。奨学金は要確認。"
+},
+"237011": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアスクワッドあり(大学ニュースにも掲載)。運動奨学金の有無は要確認。"
 }
 }

@@ -40,7 +40,7 @@
  "122977": {
   "scholarshipUrl": "https://www.smc.edu/admission-aid/apply/international-students/tuition-fees.php",
   "intlAidCheckedAt": "2026-10-04",
-  "intlAidNote": "留学生の授業料は1単位$486(2026年秋〜2027年夏)で、年間24単位なら$11,664。生活費を含めた年間の目安は約$34,000です。SMC財団の奨学金(経済的必要性を問わないもの)の審査を受けられる場合があります。CCCAAのため運動奨学金は原則ありません。"
+  "intlAidNote": "留学生向けのInternational Student Merit奨学金(州外授業料の50%、成績次第で1年更新)があり、12単位以上修了・GPA2.5超で財団奨学金($250〜$5,000)にも応募できます。留学生の授業料は1単位$486(2026年秋〜2027年夏)で、年間24単位なら$11,664。生活費を含めた年間の目安は約$34,000です。SMC財団の奨学金(経済的必要性を問わないもの)の審査を受けられる場合があります。CCCAAのため運動奨学金は原則ありません。"
  },
  "141574": {
   "scholarshipUrl": "https://www.hawaii.edu/issmanoa/?page_id=2533",
@@ -469,7 +469,7 @@
  },
  "154800": {
   "scholarshipUrl": "https://www.butlercc.edu/getting-started/enroll/international-students/cost-payment",
-  "intlAidNote": "留学生の授業料は1単位$209.50(2026-27)で、年間費用の目安は約$17,785です。留学生向けの奨学金はごく限られていて、当てにしないよう案内されています。入学の処理料$75がかかります。",
+  "intlAidNote": "留学生向けのSTEM専攻奨学金(GPA3.0以上、締切は例年2月)があります。留学生の授業料は1単位$209.50(2026-27)で、年間費用の目安は約$17,785です。留学生向けの奨学金はごく限られていて、当てにしないよう案内されています。入学の処理料$75がかかります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "127778": {
@@ -574,7 +574,7 @@
  },
  "135717": {
   "scholarshipUrl": "https://www.mdc.edu/internationalstudents/resources/tuition-assistance.aspx",
-  "intlAidNote": "留学生が奨学金を申請できる窓口があり(300以上の奨学金とマッチング)、Florida Linkage Institutesによる州外授業料の免除(特定の国・地域の学生向け)もあります。一定のオンライン課程では留学生も1単位$290の割安な授業料になります。",
+  "intlAidNote": "成績優秀者向けのHonors College奨学金(授業料・諸費用・教科書・生活費の一部補助)や、専攻別の学内奨学金に応募できる場合があります。留学生が奨学金を申請できる窓口があり(300以上の奨学金とマッチング)、Florida Linkage Institutesによる州外授業料の免除(特定の国・地域の学生向け)もあります。一定のオンライン課程では留学生も1単位$290の割安な授業料になります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "137759": {
@@ -2573,7 +2573,7 @@
  },
  "155210": {
   "scholarshipUrl": "https://www.jccc.edu/admissions/international/f1-students/new-f1-students.html",
-  "intlAidNote": "F-1留学生の年間費用は約$29,000(授業料$5,688)。F-1向けの奨学金は限定的で競争的です(F-1 Merit Scholarship GPA3.5以上、緊急奨学金など)。",
+  "intlAidNote": "留学生・移民学生向けの成績奨学金(GPA3.0以上、1学期以上在籍後、募集1〜7月)があります。F-1留学生の年間費用は約$29,000(授業料$5,688)。F-1向けの奨学金は限定的で競争的です(F-1 Merit Scholarship GPA3.5以上、緊急奨学金など)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "126748": {
@@ -3128,7 +3128,7 @@
  },
  "153737": {
   "scholarshipUrl": "https://www.kirkwood.edu/get-started/admissions/international/tuition-scholarships",
-  "intlAidNote": "留学生の授業料は1単位$400(12単位で学期$4,800)、保険は年約$1,500。#YouAreWelcomeHere Scholarship(授業料50%以上、更新可、2名)やGlobal Citizen Scholarship($1,000)、StudyIowa奨学金などがあります。",
+  "intlAidNote": "新入留学生向けにYou Are Welcome Here奨学金(授業料50%以上、更新可)とGlobal Citizen奨学金($1,000)があります。留学生の授業料は1単位$400(12単位で学期$4,800)、保険は年約$1,500。#YouAreWelcomeHere Scholarship(授業料50%以上、更新可、2名)やGlobal Citizen Scholarship($1,000)、StudyIowa奨学金などがあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "153445": {
@@ -3298,7 +3298,7 @@
  },
  "147378": {
   "scholarshipUrl": "https://www.morainevalley.edu/admissions/international-student/",
-  "intlAidNote": "州外・留学生の授業料は1単位$429(2026秋)です。F-1留学生は連邦・州の支援を受けられませんが、大学の限定的な奨学金や外部奨学金は利用可能です。授業料の分割払いは留学生には使えません。",
+  "intlAidNote": "財団の奨学金($250〜$5,000)があり、在学中の留学生向け奨学金もあります。州外・留学生の授業料は1単位$429(2026秋)です。F-1留学生は連邦・州の支援を受けられませんが、大学の限定的な奨学金や外部奨学金は利用可能です。授業料の分割払いは留学生には使えません。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "149842": {
@@ -3348,7 +3348,7 @@
  },
  "163426": {
   "scholarshipUrl": "https://www.montgomerycollege.edu/international-students/getting-started/evidence-of-financial-support.html",
-  "intlAidNote": "I-20取得には年間$32,000以上の資金証明が必要です(学費・生活費込み)。非移民ビザ保持者はMaryland居住者になれず、州外料金が適用されます。公立のため留学生向け奨学金は限られます。",
+  "intlAidNote": "留学生専用の奨学金は基本的になく、F-1生が応募できる学内奨学金も限られます。I-20取得には年間$32,000以上の資金証明が必要です(学費・生活費込み)。非移民ビザ保持者はMaryland居住者になれず、州外料金が適用されます。公立のため留学生向け奨学金は限られます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "236975": {
@@ -4093,7 +4093,7 @@
  },
  "114859": {
   "scholarshipUrl": "https://isc.fullcoll.edu/resources/scholarships/",
-  "intlAidNote": "F-1/F-2留学生には経済支援はありません。非居住者授業料は1単位$372+設備費$20です。ISC Scholarshipが編入予定の留学生に$500〜$2,000(成績・学内活動・地域貢献の3区分)を出しています。UC Mercedなど編入先の留学生向けグラントも案内されています。",
+  "intlAidNote": "留学生センターの奨学金($500〜$2,000、成績・活動・地域貢献で選考)があります(編入予定者向け)。なおF-1生への財政援助は基本的にありません。F-1/F-2留学生には経済支援はありません。非居住者授業料は1単位$372+設備費$20です。ISC Scholarshipが編入予定の留学生に$500〜$2,000(成績・学内活動・地域貢献の3区分)を出しています。UC Mercedなど編入先の留学生向けグラントも案内されています。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "114938": {
@@ -4123,7 +4123,7 @@
  },
  "116439": {
   "scholarshipUrl": "https://www.ivc.edu/international/cost-estimate/expenses",
-  "intlAidNote": "F-1/F-2留学生は非居住者授業料・登録料などを支払い、銀行明細と宣誓書で資金証明が必要です。連邦支援は対象外ですが、IVC Foundation奨学金(申請は11月〜2月)に応募できます。12単位以上の履修が必要です。",
+  "intlAidNote": "留学生向けのDelgado Family International奨学金や財団の成績・実績に基づく奨学金に応募できます(募集は12月〜2月)。F-1/F-2留学生は非居住者授業料・登録料などを支払い、銀行明細と宣誓書で資金証明が必要です。連邦支援は対象外ですが、IVC Foundation奨学金(申請は11月〜2月)に応募できます。12単位以上の履修が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "117052": {
@@ -4143,7 +4143,7 @@
  },
  "117645": {
   "scholarshipUrl": "https://www.lbcc.edu/international-student-services",
-  "intlAidNote": "留学生は非居住者授業料で、授業料・生活費の資金証明が必要です。民間や母国政府の奨学金はI-20取得の資金証明に使えます。米国の親族・知人が無償で住居・食事を提供する場合は費用が減る「cash credit」があります。連邦支援は対象外です。",
+  "intlAidNote": "年700件超の学内奨学金(成績・必要性など)がありますが、留学生が応募できるかは各奨学金の条件次第です。留学生は非居住者授業料で、授業料・生活費の資金証明が必要です。民間や母国政府の奨学金はI-20取得の資金証明に使えます。米国の親族・知人が無償で住居・食事を提供する場合は費用が減る「cash credit」があります。連邦支援は対象外です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "117690": {
@@ -4518,7 +4518,7 @@
  },
  "183743": {
   "scholarshipUrl": "https://bergen.edu/international-student-center/international-student-faqs/",
-  "intlAidNote": "非移民ビザの学生は郡外授業料で、F-1は12単位(秋・春)が必要です。年約$25,000の資金証明が必要で、学外就労は法律で認められていません。Bergen Community College Foundationの奨学金が留学生にも限定的にあります。",
+  "intlAidNote": "留学生向けのDan and Peg Reese-O'Neill奨学金(GPA2.0以上)があります。非移民ビザの学生は郡外授業料で、F-1は12単位(秋・春)が必要です。年約$25,000の資金証明が必要で、学外就労は法律で認められていません。Bergen Community College Foundationの奨学金が留学生にも限定的にあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "183859": {

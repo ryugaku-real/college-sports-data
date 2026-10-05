@@ -6318,5 +6318,96 @@
 "scholarship": false,
 "url": null,
 "note": "チアの専用奨学金は年1名の$250(Amie Titus Memorial)のみ。フルタイム在籍・GPA2.0以上が条件。"
+},
+"105330": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアチームがあり全米大会(UCA)に出場。奨学金の有無は要確認(GPA2.0以上が条件)。"
+},
+"127060": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアチームがあり、主に男女バスケの試合を応援。奨学金の情報は未確認。"
+},
+"122755": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "スピリットチーム(チア・ダンス)があり、全米大会での優勝歴あり。奨学金の詳細は要確認。"
+},
+"110565": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "スピリットスクワッド(チア・ダンス)がある。奨学金の詳細は要確認。"
+},
+"106412": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女混合のチアチームの選手に奨学金が出る(ほかの奨学金と併用可、4月にトライアウト)。"
+},
+"130934": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアは大学運動部の「ノンスポーツ」扱い。女子チームと男女混合の競技チームがあり、参加費(約$300)が必要。奨学金は限られる。"
+},
+"100654": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームがある(トライアウトは毎年4月)。奨学金の詳細は要確認。"
+},
+"100724": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームがある(奨学金の詳細は要確認)。"
 }
 }

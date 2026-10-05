@@ -6903,5 +6903,82 @@
 "scholarship": false,
 "url": null,
 "note": "年間を通した所属が必要なチアチームで、男女バスケの試合を応援。奨学金の詳細は要確認。"
+},
+"102377": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアのチーム自体の奨学金はない(サッカー・バスケなど全試合の応援が必須)。"
+},
+"110097": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チア・ダンス・マスコットのスピリットチームがあり、運動部のSpirit Scholarship(裁量で支給)が出る。"
+},
+"137847": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "最大30名のチアプログラムがあり、GPA2.5以上・フルタイム在籍が条件。奨学金は学業・公的・民間の奨学金の組み合わせで構成される。"
+},
+"133711": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2のチアプログラムがある(D2ではチアは運動奨学金の対象競技ではない)。"
+},
+"132471": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チア奨学金(年$1,000、留学生も対象、トライアウト必須)が出る。"
+},
+"138947": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チームがある(トライアウトは年1回、奨学金の詳細は要確認)。"
+},
+"162007": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Golden Girl & Golden Gent Cheerleadersのチームがある(奨学金の詳細は要確認)。"
 }
 }

@@ -8876,5 +8876,128 @@
 "scholarship": false,
 "url": null,
 "note": "NCA全米大会で2022年3位、2023年に初優勝。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"164270": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアリーディングあり(運動部サイトに掲載)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"165866": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ扱いのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"165820": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "フットボール応援のチア(バーシティではない)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"167899": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ。応援チームと競技チームの2つ。2023年DTU全米4位。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"168254": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生のレクリエーションクラブとしてのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"173300": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生団体のチア(運動部の管轄)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"168546": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2024年に復活した公式チア(OGがコーチ)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"170301": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "フットボール/バスケ応援のチア(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"165671": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(コーチ複数)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"168430": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ。ニューイングランドや全国の大会に出場。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"167987": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "Corsair Cheer(学生団体)。応援と全国大会を目指す競技の両方。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
 }
 }

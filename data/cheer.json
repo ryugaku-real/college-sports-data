@@ -6092,5 +6092,131 @@
 "scholarship": false,
 "url": "",
 "dance": true
+},
+"100858": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チームの奨学金はなく、学費補助の手当(年約$1,800=秋春各$900)が出る(2026-27は男女混合1チーム21名)。"
+},
+"134097": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "複数チームあり、練習着・ユニフォームを支給。プログラム経由の奨学金の案内あり(額は要確認)。"
+},
+"134130": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女混合(8〜10組)と女子のチームがある。大学運動部協会などから学期ごとの部分奨学金が出る(参加年数・成績・必要度で決定、入学前の約束はなし)。"
+},
+"153603": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女混合と女子のチームがあり、チーム員に最大約$1,100の奨学金。ユニフォーム・遠征費は大学負担。"
+},
+"132903": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "奨学金は最大約20名に出る(上位の州内生に授業料の50%、州外生に州外授業料の50%免除など)。"
+},
+"155399": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チーム員に年$600の奨学金(GPA3.0超で学期ごとに$100加算)。遠征費は大学負担。"
+},
+"139940": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "奨学金なし(練習着・ユニフォーム・遠征費・学習支援は大学が負担)。"
+},
+"137351": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "女子チームがある(奨学金の有無は要確認)。2026年全米大会(UCA Division I-A 男女混合)で優勝歴あり。"
+},
+"133669": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チーム員は奨学金の対象(GPA2.0以上、毎年度末に技術水準を考慮して決定、グラント契約はコーチと結ぶ)。"
+},
+"147703": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D1の女子チームと大きな男女混合チームがある(奨学金の有無は要確認)。"
 }
 }

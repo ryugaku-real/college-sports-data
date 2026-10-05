@@ -92,7 +92,7 @@ for (const sc of out) {
   if (c.at) kinds.push('アクロバット&タンブリング');
   if (c.dance) kinds.push('競技ダンス');
   if (c.club && !c.stunt) kinds.push('スタントのクラブチーム');
-  sc.cheerNote = `チア系: ${kinds.join('・')}。${c.scholarship ? 'プログラム掲載情報に「奨学金あり」の記載あり(額・対象は要確認)。' : '奨学金の有無は要確認。'}${c.url ? `(情報源: USA Cheerカレッジディレクトリほか。プログラムサイト: ${c.url})` : '(情報源: USA Cheerカレッジディレクトリ・NCAA/NAIA公表リスト)'}`;
+  sc.cheerNote = `チア系: ${kinds.join('・')}。${c.note ? c.note + ' ' : ''}${c.note ? '' : c.scholarship ? 'プログラム掲載情報に「奨学金あり」の記載あり(額・対象は要確認)。' : '奨学金の有無は要確認。'}${c.note ? '(情報源: 各校の運動部・プログラム公式情報ほか。最新は要確認)' : c.url ? `(情報源: USA Cheerカレッジディレクトリほか。プログラムサイト: ${c.url})` : '(情報源: USA Cheerカレッジディレクトリ・NCAA/NAIA公表リスト)'}`;
 }
 for (const sc of out) {
   for (const x of extraSports[sc.id] ?? [])  if (!sc.sports.some((s) => s.name === x.name)) sc.sports.push(x);

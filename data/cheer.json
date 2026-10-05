@@ -7100,5 +7100,61 @@
 "scholarship": false,
 "url": null,
 "note": "D2女子部門の競技チアがあり、2026年に初の全米大会(UCA)出場。奨学金の詳細は要確認。"
+},
+"175272": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生クラブとして活動するチア(フットボール/バスケ応援+競技チームあり)。大学の運動奨学金対象かは要確認。"
+},
+"198215": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "Spirit Program(チア・ダンス・マスコット)。入学・編入生向けのスピリット奨学金は4年間で$2,000〜5,000が目安(公式記載)。"
+},
+"198835": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Spirit Team(競技チア/ダンス/マスコット)があり、NCA全米大会D2ゲームデーで2019年優勝。奨学金の有無は要確認。"
+},
+"216038": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2屈指の強豪チア。コーエド約22名・オールガール約24名の2チームがUCA全米大会に毎年出場。奨学金の有無は要確認。"
+},
+"202763": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアリーディング+ダンスがあり、チア奨学金を新設(2027年春から配分予定)。詳細は要確認。"
 }
 }

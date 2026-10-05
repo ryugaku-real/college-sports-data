@@ -6641,5 +6641,121 @@
 "scholarship": false,
 "url": null,
 "note": "サイドライン・競技のチアチームがあるが、競技チームは自己負担が中心で大学の支援は限られる。"
+},
+"157951": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女混合(大型)と女子のチームがあり、年$2,000の奨学金と州外授業料の免除が出る(2021・2023にD1女子全米優勝)。"
+},
+"156620": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "少人数男女混合と女子の2競技チームがあり、全員に奨学金が出る(D1全米優勝を複数回)。"
+},
+"160755": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアの大学・運動部からの奨学金や手当はない(運動部のチーム扱いでない)。"
+},
+"161253": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームがあるが、奨学金は現在なし(週12〜14時間練習、GPA2.0以上)。"
+},
+"159009": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアと州外授業料免除(大学のスピリットグループ対象)の制度がある。奨学金の詳細は要確認。"
+},
+"159966": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女混合と女子のチームがあり、奨学金が出る可能性がある(額は要確認、GPA2.0以上、年間を通した所属が必要)。"
+},
+"159939": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームがあり、バレーボール・バスケの試合で応援(奨学金の詳細は要確認)。"
+},
+"151324": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアチームがある(キャプテン向けの大会奨学金あり、額は変動)。"
+},
+"149222": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアはクラブ競技としても活動している(奨学金の詳細は要確認)。"
+},
+"154095": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "学生主体のチア・ダンスチームがあり、競技大会には出場しない(奨学金の詳細は要確認)。"
 }
 }

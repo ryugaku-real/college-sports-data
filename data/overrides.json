@@ -1225,7 +1225,7 @@
  },
  "126775": {
   "scholarshipUrl": "https://www.mines.edu/admissions/international/",
-  "intlAidNote": "留学生専用の情報は限定的。州外学生向けProvost Award $6,000〜$10,000があります。",
+  "intlAidNote": "成績メリット型のInternational Student Merit Scholarship(年$3,000〜$15,000、更新可、高校GPA・テストで自動審査)と、入学後に応募するMines Foundation奨学金があります。必要度型の援助は留学生にはありません。留学生専用の情報は限定的。州外学生向けProvost Award $6,000〜$10,000があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "155937": {
@@ -2288,7 +2288,7 @@
  },
  "219347": {
   "scholarshipUrl": "https://www.sdsmt.edu/admissions-aid/international-students/undergraduate-admissions.html",
-  "intlAidNote": "留学生専用の奨学金はなく、大学や連邦の学生ローン対象外です。合格後に1年分の資金証明が必要です。",
+  "intlAidNote": "留学生向けの専用奨学金はありません(連邦ローン・学内ローンも対象外)。大学院の研究助手制度のみ学科が決めます。留学生専用の奨学金はなく、大学や連邦の学生ローン対象外です。合格後に1年分の資金証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "141167": {
@@ -6733,7 +6733,7 @@
  },
  "187444": {
   "scholarshipUrl": "https://www.wpunj.edu/admissions/out-of-state-tuition-waiver.html",
-  "intlAidNote": "留学生は条件を満たすと州内に近い授業料・諸費用で通学可。Pioneer Award(州内外授業料差額の80%割引)や寄付奨学金プログラムが限定的にあり。連邦・州の援助は対象外、学内就労は週20時間まで。",
+  "intlAidNote": "留学生は全員Pioneer Award(年$6,500〜$9,000、自動審査)の対象で、ACT23以上・GPA3.5以上の新入生は成績メリット奨学金(年$3,000〜$9,000)も受けられます。留学生は条件を満たすと州内に近い授業料・諸費用で通学可。Pioneer Award(州内外授業料差額の80%割引)や寄付奨学金プログラムが限定的にあり。連邦・州の援助は対象外、学内就労は週20時間まで。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "188641": {
@@ -6778,7 +6778,7 @@
  },
  "196121": {
   "scholarshipUrl": "https://www.brockport.edu/scholarships-aid/international-scholarships/",
-  "intlAidNote": "2026-27の留学生の年間費用は寮生$38,981、学外$34,983。入学が承認された新入生の留学生は全員$7,500(Empire+Green Scholarship)を保証。#YouAreWelcomeHere奨学金(授業料の50%以上、年2名、更新可)あり。",
+  "intlAidNote": "新入生の留学生は合格者全員に年$7,500の奨学金が保証され(Empire $5,000とGreen $2,500、4年更新)、成績優秀者にはGold Scholarship(年$4,500)が上乗せされます。2026-27の留学生の年間費用は寮生$38,981、学外$34,983。入学が承認された新入生の留学生は全員$7,500(Empire+Green Scholarship)を保証。#YouAreWelcomeHere奨学金(授業料の50%以上、年2名、更新可)あり。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "196130": {
@@ -6788,12 +6788,12 @@
  },
  "196149": {
   "scholarshipUrl": "https://www2.cortland.edu/offices/international-programs/international-students-and-scholars/international_admissions/international-student-scholarships",
-  "intlAidNote": "2025年秋の留学生の請求額は$29,257(授業料$17,180、諸費用$1,844、保険$1,803、寮・食費$15,930)。フルタイムの留学生の多くにInternational Student Grant(年$7,500)が付与される。連邦援助は対象外。",
+  "intlAidNote": "SUNY Cortland International Student Award(成績に基づく、1学期最大$3,750、4年で最大$30,000)があります。2025年秋の留学生の請求額は$29,257(授業料$17,180、諸費用$1,844、保険$1,803、寮・食費$15,930)。フルタイムの留学生の多くにInternational Student Grant(年$7,500)が付与される。連邦援助は対象外。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "186876": {
   "scholarshipUrl": "https://stockton.edu/admissions/international-cost-of-attendance.html",
-  "intlAidNote": "留学生の年間総額は約$42,976〜$53,913。International Student Scholarship(2025-26で年$8,504、新入生は最大8学期)あり。FAFSAは不要で、大学が出す奨学金・賞は受給可。",
+  "intlAidNote": "成績メリット型のInternational Student Scholarship(新入生は累積GPA3.0以上、年$8,628、最長8学期、寮生活が条件)があります(編入生はGPA2.75以上)。留学生の年間総額は約$42,976〜$53,913。International Student Scholarship(2025-26で年$8,504、新入生は最大8学期)あり。FAFSAは不要で、大学が出す奨学金・賞は受給可。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "196042": {
@@ -7023,7 +7023,7 @@
  },
  "228787": {
   "scholarshipUrl": "https://isso.utdallas.edu/joining-ut-dallas/expenses/",
-  "intlAidNote": "I-20用の費用は住居・授業料区分で変動(2020-21の例:非居住者の学部生で約$61,225)。留学生向けにGood Neighbor奨学金(西半球出身者の授業料免除)等あり。留学生向けローン・外部奨学金の案内あり。1年分の資金証明が必要。",
+  "intlAidNote": "成績で決まるAcademic Excellence Scholarship(Honors・Distinction・Excellenceの3段階、GPA・SAT/ACT・リーダーシップを総合評価、大学の費用の相当部分をカバー)が留学生の新入生に自動審査されます。I-20用の費用は住居・授業料区分で変動(2020-21の例:非居住者の学部生で約$61,225)。留学生向けにGood Neighbor奨学金(西半球出身者の授業料免除)等あり。留学生向けローン・外部奨学金の案内あり。1年分の資金証明が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "122597": {
@@ -7578,7 +7578,7 @@
  },
  "165024": {
   "scholarshipUrl": "https://www.bridgew.edu/admissions/undergraduate/international-applicants",
-  "intlAidNote": "留学生の12か月の費用は約$46,448(授業料・諸費用$18,930、保険$4,962、家賃・光熱・食$16,956、書籍$1,200、夏期生活費$2,500ほか)。連邦援助は対象外だが、新入生・編入生全員にHorace Mann Scholarship(年$5,000、条件を満たせば更新)を付与。",
+  "intlAidNote": "新入生・編入生全員にHorace Mann Scholarship(年$5,000)が出る制度があり、成績優秀者向けにPresidential Merit Scholarship(1学期$5,500)もあります。留学生の12か月の費用は約$46,448(授業料・諸費用$18,930、保険$4,962、家賃・光熱・食$16,956、書籍$1,200、夏期生活費$2,500ほか)。連邦援助は対象外だが、新入生・編入生全員にHorace Mann Scholarship(年$5,000、条件を満たせば更新)を付与。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "165820": {
@@ -8518,7 +8518,7 @@
  },
  "240365": {
   "scholarshipUrl": "https://www.uwosh.edu/financialaid/students/international/",
-  "intlAidNote": "留学生の学部授業料は年約$17,302。連邦援助は対象外。留学生向け奨学金は$1,875〜$7,570程度の目安だが条件が情報源で一致せず、国際教育課(920-424-0775)へ確認が必要。",
+  "intlAidNote": "UW Oshkosh International Student Scholarship(年$1,875〜$7,500、フルタイム在籍、Academic Worksで応募)があります。留学生の学部授業料は年約$17,302。連邦援助は対象外。留学生向け奨学金は$1,875〜$7,570程度の目安だが条件が情報源で一致せず、国際教育課(920-424-0775)へ確認が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "240426": {
@@ -8528,7 +8528,7 @@
  },
  "240462": {
   "scholarshipUrl": "https://www.uwplatt.edu/department/international-student-scholar-services/scholarships-and-tuition-remission",
-  "intlAidNote": "留学生の授業料は年約$16,000。International Tuition Remission(年最大$5,000、7/15・12/15締切)、Kathryn Mykel Conger Scholarship(年最大$10,000)、International Club Scholarship($250〜$1,200)など。英語力・成績・活動が基準。",
+  "intlAidNote": "留学生向けのConger Scholarship(最大年$10,000、教職志望者を優先、7月1日が期限)とInternational Club Scholarship(年$250〜$1,200)があります。留学生の授業料は年約$16,000。International Tuition Remission(年最大$5,000、7/15・12/15締切)、Kathryn Mykel Conger Scholarship(年最大$10,000)、International Club Scholarship($250〜$1,200)など。英語力・成績・活動が基準。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "240471": {
@@ -8538,7 +8538,7 @@
  },
  "240480": {
   "scholarshipUrl": "https://www.uwsp.edu/admissions-aid/how-to-apply/international/",
-  "intlAidNote": "留学生の学部授業料は年約$15,402。授業料全額の奨学金はなく、非居住者授業料免除(Nonresident Fee Waiver)の対象になり得る。問い合わせ: admiss@uwsp.edu(715-346-2441)。",
+  "intlAidNote": "Destination Wisconsin Scholarship(GPA2.75以上などの条件で州外生に年$4,000、4年更新)と、留学生の新入生向けの授業料免除があります(全額の奨学金はありません)。留学生の学部授業料は年約$15,402。授業料全額の奨学金はなく、非居住者授業料免除(Nonresident Fee Waiver)の対象になり得る。問い合わせ: admiss@uwsp.edu(715-346-2441)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "366252": {

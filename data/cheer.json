@@ -6218,5 +6218,105 @@
 "scholarship": false,
 "url": null,
 "note": "D1の女子チームと大きな男女混合チームがある(奨学金の有無は要確認)。"
+},
+"100663": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "奨学金は人により出る(応募書類に「奨学金なしでも参加できるか」を問う項目あり)。額は要確認。"
+},
+"139755": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チーム員に奨学金がある(情報により年$2,000程度〜$13,500と幅があり、要確認。教材費補助・食事補助もあり)。"
+},
+"140447": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "NCAA非公認の「スピリットグループ」扱いで、チームが資金を自分で集めており、チアの奨学金は案内されていない。"
+},
+"145813": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "NCAA D1のチアプログラムがある(奨学金の有無は要確認。別にクラブ競技チアもある)。"
+},
+"150136": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チーム員への奨学金はなく、運営は寄付に頼っている。"
+},
+"157401": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアのプログラムがある(チア奨学金の詳細は要確認)。"
+},
+"145637": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "ゲームデイのチアプログラム。チアの奨学金はない(優先履修登録・試合チケット・トレーナー利用などの特典あり)。"
+},
+"144892": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チア・ダンスチームがある(奨学金の有無は要確認)。フルタイム在籍・GPA2.0以上が条件。"
+},
+"149772": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアの専用奨学金は年1名の$250(Amie Titus Memorial)のみ。フルタイム在籍・GPA2.0以上が条件。"
 }
 }

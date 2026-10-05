@@ -7244,5 +7244,82 @@
 "scholarship": false,
 "url": null,
 "note": "男女募集。遠征費・ユニフォーム等は大学負担と記載。奨学金額は要確認。"
+},
+"107044": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "16〜18名の公式チア(フットボール/バスケ応援)。公式に「フルタイム在籍が奨学金受給の条件」と記載があり、奨学金ありと思われる(金額は要確認)。"
+},
+"107512": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアリーディングがあり、第三者サイトでは奨学金枠ありとされる。金額は要確認。"
+},
+"134079": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "大学ではクラブスポーツ扱いのチア。運動奨学金は基本なしと思われるが要確認。"
+},
+"234827": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア/スタントチーム。参加費(チーム費)約$800がかかるとの記載あり。奨学金は要確認。"
+},
+"201654": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "NCAA D2のチアがあり、運動奨学金は個別に判断されるとの案内。要確認。"
+},
+"199281": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアリーディングがあり、ヘッドコーチ在籍。奨学金の有無は要確認。"
+},
+"236577": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女混合のチア。全運動部の応援を担当。経験は推奨だが必須でない。奨学金の有無は要確認。"
 }
 }

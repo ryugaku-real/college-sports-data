@@ -14,7 +14,7 @@
  "236708": {
   "conference": "NWAC Eastern Division",
   "scholarshipUrl": "https://sfcc.spokane.edu/How-to-Pay-for-College/Financial-Aid-101/Financial-Aid-and-Sources-of-Aid",
-  "intlAidNote": "留学生向けの専用奨学金の情報は見つかりませんでした。大学・財団の一般奨学金(締切は冬〜春)があり、留学生の対象は国際学生サービスに確認してください。短大は大学の約半額の費用とされています。",
+  "intlAidNote": "留学生も財団の奨学金(年300件超、1〜3月募集)に応募できます。留学生向けの専用奨学金の情報は見つかりませんでした。大学・財団の一般奨学金(締切は冬〜春)があり、留学生の対象は国際学生サービスに確認してください。短大は大学の約半額の費用とされています。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110662": {
@@ -794,7 +794,7 @@
  },
  "134495": {
   "scholarshipUrl": "https://www.hccfl.edu/academics/center-international-education/international-admission-requirements/paying-college-international-student",
-  "intlAidNote": "留学生向けの経済援助はありません。年間の費用として約$25,274以上を用意する必要があります(授業料・諸費用$9,111など)。奨学金は在籍中の留学生向けにごく少数だけあり、入学後に応募できます。",
+  "intlAidNote": "留学生は学内の成績優秀者向け奨学金(HC Foundation、Honors)や、Study Floridaの留学生奨学金(年$2,000)に応募できます。留学生向けの経済援助はありません。年間の費用として約$25,274以上を用意する必要があります(授業料・諸費用$9,111など)。奨学金は在籍中の留学生向けにごく少数だけあり、入学後に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "155186": {
@@ -824,7 +824,7 @@
  },
  "146506": {
   "scholarshipUrl": "https://www.lakelandcollege.edu/international/",
-  "intlAidNote": "留学生の授業料・諸費用は1単位$499.54(12単位で最低$6,228.60)です。年間費用の目安は$19,000(授業料・諸費用$12,000、生活費$6,000、保険$1,000)で、分割払いはなく全額を先に払う必要があります。入学後は、財団の奨学金に応募できます。",
+  "intlAidNote": "入学後は財団奨学金に留学生も応募できます(留学生の授業料は1単位約$500で、連邦援助は対象外)。留学生の授業料・諸費用は1単位$499.54(12単位で最低$6,228.60)です。年間費用の目安は$19,000(授業料・諸費用$12,000、生活費$6,000、保険$1,000)で、分割払いはなく全額を先に払う必要があります。入学後は、財団の奨学金に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "222822": {
@@ -3318,7 +3318,7 @@
  },
  "234933": {
   "scholarshipUrl": "https://www.clark.edu/international/scholarships.php",
-  "intlAidNote": "F-1留学生は連邦・州の支援の対象外です。2025-26の年間費用の目安(18単位/学期)は、授業料・諸費$12,251、健康保険$1,455、教材$762、生活費$11,466で合計約$25,934です。留学生向け奨学金のページがあります。",
+  "intlAidNote": "留学生向けに、新入生は$1,000(年2名)、在学生は$500(年2名)の奨学金があります(編入生は新入生枠の対象外)。F-1留学生は連邦・州の支援の対象外です。2025-26の年間費用の目安(18単位/学期)は、授業料・諸費$12,251、健康保険$1,455、教材$762、生活費$11,466で合計約$25,934です。留学生向け奨学金のページがあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "143279": {
@@ -3653,7 +3653,7 @@
  },
  "105154": {
   "scholarshipUrl": "https://www.mesacc.edu/international-education/current-f-1-students/scholarships-loans",
-  "intlAidNote": "メサ・コミュニティ・カレッジの留学生(州外)授業料は1単位$372(2025-26時点、年24単位で授業料・諸費用約$9,100)です。F-1専用の奨学金はありませんが、学内の各部署・Honors(Honors Achievement Award)、Follett Bookstore、Maricopa Foundationの奨学金などに留学生も応募できます。F-1 Scholarship Fundへの寄付ページもあります。",
+  "intlAidNote": "留学生専用の奨学金はありませんが、Honors Achievement奨学金(GPA3.25以上・12単位)や州外授業料の学生を優先する奨学金に応募できます。メサ・コミュニティ・カレッジの留学生(州外)授業料は1単位$372(2025-26時点、年24単位で授業料・諸費用約$9,100)です。F-1専用の奨学金はありませんが、学内の各部署・Honors(Honors Achievement Award)、Follett Bookstore、Maricopa Foundationの奨学金などに留学生も応募できます。F-1 Scholarship Fundへの寄付ページもあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "107840": {
@@ -3698,7 +3698,7 @@
  },
  "209746": {
   "scholarshipUrl": "https://www.pcc.edu/international-students/student-resources/tuition-financial/",
-  "intlAidNote": "F-1留学生は州外料金で1単位$298(12単位で$3,576+諸費)です。FAFSAは不可ですが、PCC Foundationの奨学金には留学生も応募でき、留学生向けの財務ワークシートを添付します。初学期の授業料はオリエンテーションで案内され、授業初日までに支払います。",
+  "intlAidNote": "財団奨学金($500〜$2,500、在学生のみ、11〜2月募集)に応募できます。留学生向けの財政資料も用意されています。F-1留学生は州外料金で1単位$298(12単位で$3,576+諸費)です。FAFSAは不可ですが、PCC Foundationの奨学金には留学生も応募でき、留学生向けの財務ワークシートを添付します。初学期の授業料はオリエンテーションで案内され、授業初日までに支払います。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "235343": {
@@ -3833,7 +3833,7 @@
  },
  "191339": {
   "scholarshipUrl": "https://genesee.edu/admissions/international-students/",
-  "intlAidNote": "I-20には約$16,990以上の資金証明が必要です(授業料・諸費$6,500、生活費$9,048、教材・保険$1,442)。留学生は州外料金で、経済支援は対象外ですが、Foundationの奨学金に応募できるものがあります(資金証明の代わりにはなりません)。",
+  "intlAidNote": "財団の奨学金に留学生も応募でき、留学生向けの住居奨学金(College Village International Exploration Housing)もあります。I-20には約$16,990以上の資金証明が必要です(授業料・諸費$6,500、生活費$9,048、教材・保険$1,442)。留学生は州外料金で、経済支援は対象外ですが、Foundationの奨学金に応募できるものがあります(資金証明の代わりにはなりません)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "405872": {
@@ -4463,7 +4463,7 @@
  },
  "172963": {
   "scholarshipUrl": "https://www.anokaramsey.edu/admissions/how-to-apply/international-student.html",
-  "intlAidNote": "1年分の費用(授業料・諸費、教材、住居・食費、交通、医療保険など)として、公証済みの銀行明細で$26,832以上の資金証明が必要です。大学の奨学金($1,000〜$2,000/年)がありますが、FAFSA前提のものが多く、留学生の対象は個別確認が必要です。",
+  "intlAidNote": "留学生は連邦援助の対象外で、学内・外部奨学金の一部に応募できます。1年分の費用(授業料・諸費、教材、住居・食費、交通、医療保険など)として、公証済みの銀行明細で$26,832以上の資金証明が必要です。大学の奨学金($1,000〜$2,000/年)がありますが、FAFSA前提のものが多く、留学生の対象は個別確認が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "173203": {
@@ -4523,12 +4523,12 @@
  },
  "183859": {
   "scholarshipUrl": "https://www.brookdalecc.edu/international/international-student-services/",
-  "intlAidNote": "ブルックデール・コミュニティ・カレッジの留学生は州外料金で、授業料は1単位約$296(2025-26時点)、年間の授業料・諸費用は約$8,600〜$10,500が目安です。I-20の処理料は$50で、新規F-1向けの説明会で経済支援・奨学金の情報が案内されます。Brookdale Foundationの奨学金やWilbur Ray Scholarship Initiative(授業料等の負担を軽くする支援)がありますが、留学生の対象は個別に確認が必要です。",
+  "intlAidNote": "留学生は連邦学費援助の対象外です。移民家庭の学生向け奨学金($1,000)など学内奨学金に応募できる場合があります。ブルックデール・コミュニティ・カレッジの留学生は州外料金で、授業料は1単位約$296(2025-26時点)、年間の授業料・諸費用は約$8,600〜$10,500が目安です。I-20の処理料は$50で、新規F-1向けの説明会で経済支援・奨学金の情報が案内されます。Brookdale Foundationの奨学金やWilbur Ray Scholarship Initiative(授業料等の負担を軽くする支援)がありますが、留学生の対象は個別に確認が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "183938": {
   "scholarshipUrl": "https://www.camdencc.edu/admissions-financial-aid/international-student-services/information-and-procedures/",
-  "intlAidNote": "留学生には年約$21,000(授業料・諸費、教材、生活費、保険、扶養家族なし)の資金が必要です。F-1は経済支援を受けられず就労もできません。Phi Theta KappaのGlobal Leaders of Promise奨学金など、留学生向けの限定的な奨学金があります。",
+  "intlAidNote": "留学生(F-1)向けにRutgers Camden編入時のInternational Chancellor奨学金(基本$14,000/年、GPA3.0〜3.5で+$2,000、3.51以上で+$5,000)があります。留学生には年約$21,000(授業料・諸費、教材、生活費、保険、扶養家族なし)の資金が必要です。F-1は経済支援を受けられず就労もできません。Phi Theta KappaのGlobal Leaders of Promise奨学金など、留学生向けの限定的な奨学金があります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "184205": {
@@ -4608,7 +4608,7 @@
  },
  "191199": {
   "scholarshipUrl": "https://www.flcc.edu/international-students/apply/",
-  "intlAidNote": "2025-26の年間費用の目安は約$26,671(授業料$7,800、諸費$1,026、教材$1,500、校外住居・食費$11,345、個人費・交通$5,000)で、全期間分の資金計画の証明が必要です。FLCC Foundationの奨学金(年$16.5万超、$400〜授業料全額)の大半は市民権・永住権を条件としません。",
+  "intlAidNote": "留学生向けに、成績・英語力・フルタイム在籍などで決まる奨学金があります。2025-26の年間費用の目安は約$26,671(授業料$7,800、諸費$1,026、教材$1,500、校外住居・食費$11,345、個人費・交通$5,000)で、全期間分の資金計画の証明が必要です。FLCC Foundationの奨学金(年$16.5万超、$400〜授業料全額)の大半は市民権・永住権を条件としません。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "191302": {
@@ -4623,7 +4623,7 @@
  },
  "191719": {
   "scholarshipUrl": "https://www.hvcc.edu/admissions/international/index.html",
-  "intlAidNote": "2025-26の授業料・諸費は約$14,190、9か月の生活費$22,470で、総額約$36,660の資金証明が目安です。留学生は最初の学期後にHVCCの奨学金(100種以上、ニーズ・成績型)に応募できます。",
+  "intlAidNote": "留学生は1学期在籍後に学内奨学金に応募できます。2025-26の授業料・諸費は約$14,190、9か月の生活費$22,470で、総額約$36,660の資金証明が目安です。留学生は最初の学期後にHVCCの奨学金(100種以上、ニーズ・成績型)に応募できます。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "192022": {

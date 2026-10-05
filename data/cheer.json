@@ -9869,5 +9869,93 @@
 "scholarship": false,
 "url": null,
 "note": "公式のチア(ヘッドコーチ在籍)。奨学金は要確認。"
+},
+"175786": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2026年UCA全米大会で2部門ファイナル進出(Open Small Coed Traditional 8位)。奨学金は要確認。"
+},
+"175573": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "MACCC所属のチアあり。奨学金は要確認。"
+},
+"175652": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "MACCC所属のチアあり。奨学金は要確認。"
+},
+"153737": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "コーエドのチア。バスケ応援に加え競技チームも(Cheer LTD全国大会に出場)。学生団体扱い。"
+},
+"153445": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームあり。奨学金は要確認。"
+},
+"153533": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームあり。奨学金は要確認。"
+},
+"163426": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ロースター公開)。奨学金は要確認。"
+},
+"102429": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "バスケ応援のチア(スポンサー教員在籍)。奨学金は要確認。"
 }
 }

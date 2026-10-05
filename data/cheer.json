@@ -7807,5 +7807,96 @@
 "scholarship": false,
 "url": null,
 "note": "D2のコーエドチア(CACC)。奨学金は要確認。"
+},
+"139311": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ピーチベルト)。バスケ応援が中心で大学の大使役。奨学金は要確認。"
+},
+"140960": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "30名規模(Orange/Blue 2チーム)。2017年にHBCUとして初めてCheerSport全米タイトルを獲得。奨学金は要確認。"
+},
+"148654": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(新ヘッドコーチ就任)。奨学金は要確認。"
+},
+"110574": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームあり(トライアウト制)。運動奨学金の公式記載は未確認。"
+},
+"110538": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "レクリエーション系クラブのチア。USA/UCA/NCA大会に出場。運動奨学金は基本なし。"
+},
+"115755": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "キャンパスレクリエーション管轄のクラブチーム。運動奨学金は基本なし。"
+},
+"172644": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式チア。2018-19にNCA全米大会で準優勝。フットボール/バスケ/バレー応援。奨学金は要確認。"
+},
+"127185": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアチーム(RMAC)。奨学金は要確認。"
 }
 }

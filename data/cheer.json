@@ -5124,13 +5124,13 @@
 "174914": {
 "cheer": true,
 "cats": [
-"Competitive - All Girl",
 "Game Day Cheer"
 ],
 "stunt": false,
 "club": false,
 "scholarship": false,
-"url": "https://tommiesports.com/sports/spirit-squad"
+"url": null,
+"note": "公式のチア(SCAC所属)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
 },
 "221759": {
 "cheer": true,
@@ -10244,5 +10244,93 @@
 "scholarship": false,
 "url": null,
 "note": "公式のチア(ヘッドコーチ在籍)。奨学金は要確認。"
+},
+"234173": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2023-24に新設されたコーエドのチア(バスケ応援・ハーフタイム演技)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"211431": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "コーエドのチア(AMCC所属)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"206507": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ヘッドコーチ在籍、OAC所属)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"186201": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "女子の競技クラブチーム(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"186399": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "スタンプ&シェイク系のチア。バスケ等を応援。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"161226": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "女子のクラブスポーツ(チア)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"145619": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生活動の一部としてのチア(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"175980": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "女子のクラブ扱いのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
 }
 }

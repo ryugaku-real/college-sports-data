@@ -7729,5 +7729,83 @@
 "scholarship": false,
 "url": null,
 "note": "公式のチアチーム(運動部サイトにロースターあり)。奨学金は要確認。"
+},
+"173124": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "フットボール/バスケ別のチア(2013年に復活)。メンバー6〜16名、フルタイム在籍が条件。チア向け寄付奨学金の事例あり。要確認。"
+},
+"174233": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ扱い(フットボール/ホッケー/バスケ/競技の4チーム)。運動奨学金は基本なしと思われる。"
+},
+"127565": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "レクリエーション系クラブのコーエドチア。USA全米大会に4年連続出場。運動奨学金は基本なし。"
+},
+"128106": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Pack Cheer(コーエド、ダンスと併設)。奨学金は要確認。"
+},
+"130493": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "UCA全米大会(ゲームデー)に出場する公式チア。奨学金は要確認。"
+},
+"128744": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2026年9月にチア部を新設しヘッドコーチ就任を発表(新規チーム)。奨学金は要確認。"
+},
+"130183": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2のコーエドチア(CACC)。奨学金は要確認。"
 }
 }

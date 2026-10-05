@@ -9626,5 +9626,82 @@
 "scholarship": false,
 "url": null,
 "note": "女子チアリーダーをバーシティアスリートとして扱う(Big South)。奨学金は要確認。"
+},
+"102067": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "短大屈指の強豪。UCA全米タイトル14回(2000年以降)。奨学金の詳細は要確認。"
+},
+"101569": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ロースター公開)。奨学金は要確認。"
+},
+"154800": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "Spirit Squad。公式に、メンバー全員に州内学生向けの授業料・教科書の奨学金があると記載。"
+},
+"143215": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部のコーエドチア。奨学金は要確認。"
+},
+"138761": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアチームあり(Georgia Collegiate Athletic Association)。奨学金は要確認。"
+},
+"139621": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "学生主体のコーエドチア(2026年1月にGeorgia Southernへ統合)。"
+},
+"133021": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2026-27シーズンの部員を募集するチア。Panhandle Conference所属。奨学金は要確認。"
 }
 }

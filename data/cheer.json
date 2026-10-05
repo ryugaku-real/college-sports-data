@@ -9384,5 +9384,137 @@
 "scholarship": false,
 "url": null,
 "note": "バスケ応援を担当するチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"217536": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブ/学生団体として活動するチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"183080": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式SNSを持つチア(Plymouth Cheer)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"203845": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"201548": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(コヘッドコーチ体制)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"204200": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "コーエドのチア(HCAC所属)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"216524": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チアリーディングあり(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"216931": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生団体のチア(コーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"213321": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ扱いのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"233426": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部の競技チア(Competitive Cheer、コーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"238458": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "フットボール/バスケ応援+地区・州の大会に出場。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"230995": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブスポーツ。2022-23にクラブとして発足。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"191621": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブ扱いのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
 }
 }

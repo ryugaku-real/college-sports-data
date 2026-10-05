@@ -1928,7 +1928,7 @@
  },
  "127565": {
   "scholarshipUrl": "https://www.msudenver.edu/admissions/f-1-international-student-financial-resources/msu-denver-scholarships/",
-  "intlAidNote": "F-1留学生向けInternational Students Annual Scholarshipなどがありますが、大学の奨学金は非常に限られ、授業費の大半はカバーされません。申請にはエッセイが必要です。",
+  "intlAidNote": "留学生向けのInternational Students Annual Scholarship(エッセイと学業成績で審査、在学生が対象)がありますが、枠は非常に限られます。F-1留学生向けInternational Students Annual Scholarshipなどがありますが、大学の奨学金は非常に限られ、授業費の大半はカバーされません。申請にはエッセイが必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "154493": {
@@ -2033,12 +2033,12 @@
  },
  "102553": {
   "scholarshipUrl": "https://www.uaa.alaska.edu/students/international-student-services/intl-students-cost-to-attend.cshtml",
-  "intlAidNote": "大学独自の大型奨学金はなく、ニーズベースもありません。UA Foundation奨学金などに申請できます。I-20には1年分の学費・生活費・保険の資金証明が必要です。",
+  "intlAidNote": "UA Foundation奨学金に留学生も応募できます。必要度型の援助は留学生にはありません。大学独自の大型奨学金はなく、ニーズベースもありません。UA Foundation奨学金などに申請できます。I-20には1年分の学費・生活費・保険の資金証明が必要です。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "141264": {
   "scholarshipUrl": "https://www.valdosta.edu/academics/international-programs/student-information/isscholarship.php",
-  "intlAidNote": "International Student Scholarship(州外授業料の全額免除=州内授業料並み)。GPA3.0・エッセイが条件の競争的制度で、毎学期審査(GPA3.0維持・フルタイム)。",
+  "intlAidNote": "成績メリット型のInternational Student Scholarship(州外授業料の免除で州内授業料に、GPA3.0以上・エッセイ、競争的)があります。International Student Scholarship(州外授業料の全額免除=州内授業料並み)。GPA3.0・エッセイが条件の競争的制度で、毎学期審査(GPA3.0維持・フルタイム)。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "207847": {
@@ -2268,7 +2268,7 @@
  },
  "139366": {
   "scholarshipUrl": "https://www.columbusstate.edu/global/international-students/scholarships/iss-scholarship.php",
-  "intlAidNote": "F-1留学生向けInternational Student Service Scholarship(州外授業料の免除、限られた人数)。締切は秋5/1、春10/1。International Network of Columbus奨学金(2年次想定)もあります。",
+  "intlAidNote": "International Student Services Scholarship(州外授業料の免除、応募・面接あり、期限は秋入学5月1日、春入学10月1日)があります。F-1留学生向けInternational Student Service Scholarship(州外授業料の免除、限られた人数)。締切は秋5/1、春10/1。International Network of Columbus奨学金(2年次想定)もあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "200059": {
@@ -2448,7 +2448,7 @@
  },
  "213349": {
   "scholarshipUrl": "https://kutztown.edu/admissions/apply/international-admissions/scholarships-and-awards.html",
-  "intlAidNote": "州外・留学生は授業料が自動で約年$7,000割引。新入生メリットは年$1,500〜$6,000(GPA、8学期更新)、編入は$1,000〜$3,000。ニーズベースのInternational Avalanche Award(最大年$4,000)や、音楽専攻向けの全額奨学金(5名)もあります。",
+  "intlAidNote": "成績に応じたメリット奨学金(新入生は年$1,500〜$6,000、GPA基準、8学期更新)とInternational Student Tuition Discount(約年$7,000)があり、合計で年最大約$17,000です。International Avalanche Awards(年$2,000〜$4,000、別途応募)もあります。州外・留学生は授業料が自動で約年$7,000割引。新入生メリットは年$1,500〜$6,000(GPA、8学期更新)、編入は$1,000〜$3,000。ニーズベースのInternational Avalanche Award(最大年$4,000)や、音楽専攻向けの全額奨学金(5名)もあります。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "179548": {
@@ -7028,7 +7028,7 @@
  },
  "122597": {
   "scholarshipUrl": "https://financialaid.sfsu.edu/cost-of-attendance",
-  "intlAidNote": "留学生は州外授業料(1単位$444〜$471)が加算される。SF Stateとして留学生向けの奨学金・財政援助は無し(US援助も対象外)。母国での資金確保と外部奨学金データベースの活用が前提。",
+  "intlAidNote": "留学生向けのInternational Student/Associated Students Scholarship($1,500、GPA2.5以上、在学生向け)があります。留学生は州外授業料(1単位$444〜$471)が加算される。SF Stateとして留学生向けの奨学金・財政援助は無し(US援助も対象外)。母国での資金確保と外部奨学金データベースの活用が前提。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "110538": {
@@ -8118,7 +8118,7 @@
  },
  "174251": {
   "scholarshipUrl": "https://morris.umn.edu/campus-community/international-student-program/international-student-tuition-fees",
-  "intlAidNote": "留学生は授業料が学期あたり約$1,000上乗せされ、別途留学生手数料がかかる。1〜2年生は大学の財政援助対象外だが、入学時に授業料減額の審査があり、3年次にニーズ型奨学金に申請可。F-1は学内就労可。",
+  "intlAidNote": "留学生は州内授業料で通え、一部の学内奨学金も応募できます(Morris/Crooks​tonの授業料半額免除は24単位取得後、GPA3.0以上)。留学生は授業料が学期あたり約$1,000上乗せされ、別途留学生手数料がかかる。1〜2年生は大学の財政援助対象外だが、入学時に授業料減額の審査があり、3年次にニーズ型奨学金に申請可。F-1は学内就労可。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "174862": {
@@ -8533,7 +8533,7 @@
  },
  "240471": {
   "scholarshipUrl": "https://www.uwrf.edu/Admissions/InternationalStudents/Cost.cfm",
-  "intlAidNote": "2026-27の留学生費用は授業料・諸費用約$18,330、寮約$5,100、食事約$3,130で約$26,560。2026秋から非居住者(留学生含む)に年$5,120の自動奨学金(4年更新)。財団奨学金への申請も可。",
+  "intlAidNote": "留学生向けの個別奨学金は小規模です(Marion E. Hawkins International Student Scholarship 約$754、2〜3年生が対象)。2026-27の留学生費用は授業料・諸費用約$18,330、寮約$5,100、食事約$3,130で約$26,560。2026秋から非居住者(留学生含む)に年$5,120の自動奨学金(4年更新)。財団奨学金への申請も可。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "240480": {
@@ -8733,7 +8733,7 @@
  },
  "482149": {
   "scholarshipUrl": "https://www.augusta.edu/",
-  "intlAidNote": "留学生の学部授業料は年約$18,767〜$22,264の目安(ジョージア州の公立のため州外料金)。大学独自の留学生向け奨学金は確認できず限定的。国際学生課への確認が必要。",
+  "intlAidNote": "Presidential Scholarship(成績・課外活動に基づくメリット奨学金)に新入生の留学生も応募できます。留学生の学部授業料は年約$18,767〜$22,264の目安(ジョージア州の公立のため州外料金)。大学独自の留学生向け奨学金は確認できず限定的。国際学生課への確認が必要。",
   "intlAidCheckedAt": "2026-10-04"
  },
  "138947": {

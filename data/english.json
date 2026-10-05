@@ -44,8 +44,8 @@
 "checkedAt": "2026-10-05"
 },
 "227146": {
-"text": "TOEFL iBT 61(紙500・CBT173)。",
-"checkedAt": "2026-10-05"
+"text": "TOEFL iBT 61(紙500) / IELTS 5.5。",
+"checkedAt": "TOEFL iBT 61(紙500) / IELTS 5.5。"
 },
 "234669": {
 "text": "TOEFL iBT 61(紙500)で通常の学科へ。ブリッジ課程は iBT 58 または IELTS 5.5(各5.0以上)。",
@@ -3150,5 +3150,33 @@
 "155201": {
 "text": "TOEFL iBT 61 / IELTS 4.5 / Duolingo 85 / PTE 70。",
 "checkedAt": "TOEFL iBT 61 / IELTS 4.5 / Duolingo 85 / PTE 70。"
+},
+"226019": {
+"text": "TOEFL iBT 71(IELTSの基準は未確認、追加の英語テストが必要な場合あり)。",
+"checkedAt": "TOEFL iBT 71(IELTSの基準は未確認、追加の英語テストが必要な場合あり)。"
+},
+"225070": {
+"text": "TOEFL iBT 61(紙500) / IELTS 5.0。",
+"checkedAt": "TOEFL iBT 61(紙500) / IELTS 5.0。"
+},
+"226578": {
+"text": "TOEFL iBT 61(紙500) / IELTS 5.0 / Duolingo 95。",
+"checkedAt": "TOEFL iBT 61(紙500) / IELTS 5.0 / Duolingo 95。"
+},
+"226806": {
+"text": "TOEFL iBT 61 / IELTS 6.0(TSI/SAT/ACT/Duolingoでも代替可、医療系は別基準)。",
+"checkedAt": "TOEFL iBT 61 / IELTS 6.0(TSI/SAT/ACT/Duolingoでも代替可、医療系は別基準)。"
+},
+"228158": {
+"text": "TOEFL iBT 64(新スケール3.5) / IELTS 5.5 / Duolingo 90。",
+"checkedAt": "TOEFL iBT 64(新スケール3.5) / IELTS 5.5 / Duolingo 90。"
+},
+"225308": {
+"text": "TOEFL iBT 41(紙450) / IELTS 5.5。",
+"checkedAt": "TOEFL iBT 41(紙450) / IELTS 5.5。"
+},
+"227979": {
+"text": "学術プログラム:TOEFL iBT 70(紙525) / IELTS 6.0台。ESOLプログラム:iBT 45(紙450) / IELTS 4.0台。",
+"checkedAt": "学術プログラム:TOEFL iBT 70(紙525) / IELTS 6.0台。ESOLプログラム:iBT 45(紙450) / IELTS 4.0台。"
 }
 }

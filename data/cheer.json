@@ -8155,5 +8155,94 @@
 "scholarship": false,
 "url": null,
 "note": "2010年開始、チア・ダンスとも全国ランク入りの実績。Sooner Athletic Conference所属。奨学金は要確認。"
+},
+"207351": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "競技チア(コーエド)。Sooner Athletic Conference所属。奨学金は要確認。"
+},
+"219091": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "2021年から競技チア&ダンスを開始(推薦入学の書面契約で選手を獲得)。奨学金は要確認。"
+},
+"219198": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "競技チアとサイドラインチアの両方があり、奨学金を受ける選手がいると紹介。2026年に新HC就任。"
+},
+"200059": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2026年NCA全米大会(NAIAアドバンスド小規模コーエド)で過去最高の2位。奨学金は要確認。"
+},
+"208646": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チア&ダンス統合チーム。スタントは行わず応援・振付が中心。奨学金は要確認。"
+},
+"156356": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "男女のチアを運動部として運営し、奨学金ありと紹介。River States Conference所属。要確認。"
+},
+"157100": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "女子/コーエドのチアあり。奨学金は要確認。"
+},
+"176479": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2025年に競技チアが初出場。Gulf Coast Athletic Conference所属。奨学金は要確認。"
 }
 }

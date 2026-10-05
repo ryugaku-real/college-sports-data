@@ -9516,5 +9516,115 @@
 "scholarship": false,
 "url": null,
 "note": "クラブ扱いのチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"169798": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部のチア。フットボール/バスケ/バレーを応援(コーチ2名)。奨学金の有無は要確認。"
+},
+"179557": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "運動部のチア(OVC所属、コーチ在籍)。奨学金は要確認。"
+},
+"221847": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Spiritプログラム(チア&ダンス)。ナショナルズ披露会あり。奨学金は要確認。"
+},
+"227526": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "SWAC所属のHBCUチア(ヘッドコーチ在籍)。奨学金は要確認。"
+},
+"226091": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(チアコーディネーター在籍)。奨学金は要確認。"
+},
+"222178": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "スピリットディレクター+アシスタントコーチ体制の公式チア。奨学金は要確認。"
+},
+"132602": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ロースター公開)。奨学金は要確認。"
+},
+"232937": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "スピリットプログラム。約30試合で応援+MEAC選手権に帯同。奨学金は要確認。"
+},
+"142276": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "Bengal Cheer。フットボール/バスケ/サッカー/バレーを応援。奨学金は要確認。"
+},
+"198561": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "女子チアリーダーをバーシティアスリートとして扱う(Big South)。奨学金は要確認。"
 }
 }

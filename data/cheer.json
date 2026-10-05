@@ -5377,14 +5377,13 @@
 "141264": {
 "cheer": true,
 "cats": [
-"Competitive - All Girl",
-"Competitive - Coed",
 "Game Day Cheer"
 ],
 "stunt": false,
 "club": false,
 "scholarship": false,
-"url": "https://vstateblazers.com/sports/cheerleading?path=cheer"
+"url": null,
+"note": "D2のスモール男女混合・女子の競技チアがある(奨学金の詳細は要確認)。"
 },
 "123651": {
 "cheer": false,
@@ -6980,5 +6979,126 @@
 "scholarship": false,
 "url": null,
 "note": "Golden Girl & Golden Gent Cheerleadersのチームがある(奨学金の詳細は要確認)。"
+},
+"171492": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チア/ドラムメジャーの特別活動奨学金(非必要度型、少数)がある。"
+},
+"151263": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアプログラムがある(奨学金あり、女子が対象、額は要確認)。"
+},
+"155335": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアチームの選手には、参加年数が増えるほど増える更新型の奨学金が出る(チーム専用の寄付奨学金もあり)。"
+},
+"156082": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアチーム員は奨学金を受けられ、ユニフォーム・遠征費補助も大学負担(全米大会UCAに出場)。"
+},
+"121309": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チア向けの運動・パフォーマンス系の奨学金がある(額は要確認)。"
+},
+"129941": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2のチアプログラムがある(NE-10)。チア専用の奨学金の詳細は要確認。"
+},
+"133553": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2の男女混合(中級)チアチームがあり、全米大会(NCA)に出場。奨学金の詳細は要確認。"
+},
+"139861": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2のスモール男女混合の競技チアがある(奨学金の詳細は要確認)。"
+},
+"174783": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "サイドラインと競技の両方のチアチームがあり、全米大会(UCA)に出場。奨学金の詳細は要確認。"
+},
+"173920": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "フットボール・バスケ・男子ホッケーの試合を応援するチア・ダンスチームがある(ホッケー専用チアは8〜15名、スケート経験が必要)。奨学金の詳細は要確認。"
+},
+"164739": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "D2女子部門の競技チアがあり、2026年に初の全米大会(UCA)出場。奨学金の詳細は要確認。"
 }
 }

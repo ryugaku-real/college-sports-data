@@ -9274,5 +9274,115 @@
 "scholarship": false,
 "url": null,
 "note": "公式のチア(ロースター公開)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"111948": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブ扱いの女子チア(約20名、フットボール応援)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"106342": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "競技チア&ダンス。2025年NCA全米大会で8位。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"140234": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"147341": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "学生団体のチア(フットボール/バスケ応援)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"181446": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "ARCのチア&ダンス大会でカンファレンス優勝(2020・2024年)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"183062": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチア(ヘッドコーチ在籍)。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"182980": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "フットボール開始(2024年)に続きチアを新設。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"182634": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "男女のクラブ扱いチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"167729": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブ扱い。11年ぶりにNCA全米大会の出場権を獲得。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
+},
+"161554": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "バスケ応援を担当するチア。 D3は運動奨学金なし(他の奨学金・学費減免は別途)。"
 }
 }

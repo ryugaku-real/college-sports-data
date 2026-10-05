@@ -7156,5 +7156,93 @@
 "scholarship": true,
 "url": null,
 "note": "チアリーディング+ダンスがあり、チア奨学金を新設(2027年春から配分予定)。詳細は要確認。"
+},
+"171456": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女混合のチアがフットボール/バスケの応援を担当。奨学金の有無は要確認。"
+},
+"172051": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "キャンパスレクリエーション管轄のクラブスポーツ(2026年に全米優勝の報道あり)。クラブ扱いのため運動奨学金は基本なしと思われるが要確認。"
+},
+"175616": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "最大約20名。公式にチア向け奨学金ありと記載(スクワッド内の立場で決定、GPA2.5以上が条件)。"
+},
+"216010": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "大学公認のチア。フットボール/バスケ応援。奨学金の有無は要確認。"
+},
+"216764": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "陸上部と同じく運動部扱い。UCA全米大会で2024年オールガール・ゲームデー優勝の強豪。奨学金の有無は要確認。"
+},
+"220631": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアリーダー向けの寄付型奨学金(Shirley Garrett Fields等)が存在。金額は要確認。"
+},
+"219806": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": true,
+"url": null,
+"note": "チアリーディングがあり、コーチ推薦による運動奨学金の対象になり得る(例として$1,000の事例あり)。要確認。"
+},
+"221971": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女募集。遠征費・ユニフォーム等は大学負担と記載。奨学金額は要確認。"
 }
 }

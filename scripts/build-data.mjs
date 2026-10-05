@@ -84,6 +84,10 @@ for (const sc of out) {
   if (c.dance) add('Dance', 'ダンス(競技ダンス)', 'W');
   if (c.stunt) add('STUNT', 'スタント(チア系競技)', 'W');
   if (c.at) add('Acrobatics & Tumbling', 'アクロバット&タンブリング', 'W');
+  sc.cheerCompetitive = c.cats.some((x) => /Competitive/.test(x)) || !!c.stunt;
+  sc.cheerGameDay = c.cats.some((x) => /Game Day/.test(x));
+  sc.cheerClub = !!c.club;
+  sc.cheerScholarship = !!c.scholarship;
   const kinds = [];
   if (c.cats.some((x) => /All Girl/.test(x))) kinds.push('競技チア(女子)');
   if (c.cats.some((x) => /Coed/.test(x))) kinds.push('競技チア(男女混合)');

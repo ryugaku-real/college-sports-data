@@ -135,6 +135,12 @@ for (const sc of out) {
   sc.athleticScholarshipPct = maxPct(sc);
 }
 for (const sc of out) Object.assign(sc, overrides[sc.id] ?? {});
+// English-proficiency minimums for international applicants: data/english.json { "<unitid>": { "text": "...", "checkedAt": "YYYY-MM-DD" } }
+const english = existsSync('data/english.json') ? JSON.parse(readFileSync('data/english.json', 'utf8')) : {};
+for (const sc of out) {
+  const e = english[sc.id];
+  if (e) { sc.englishReq = e.text; sc.englishCheckedAt = e.checkedAt; }
+}
 // Automatic check of each note's dollar amounts against the linked official page (data/verification.json, see README).
 const verification = existsSync('data/verification.json') ? JSON.parse(readFileSync('data/verification.json', 'utf8')) : {};
 for (const sc of out) {

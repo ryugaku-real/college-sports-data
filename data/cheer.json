@@ -8432,5 +8432,83 @@
 "scholarship": false,
 "url": null,
 "note": "運動部のチア(ヘッドコーチ在籍)。奨学金は要確認。"
+},
+"151379": {
+"cheer": true,
+"cats": [
+"Competitive - Coed",
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "コーエドのバーシティチア(River States Conference)。奨学金は要確認。"
+},
+"151342": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": true,
+"scholarship": false,
+"url": null,
+"note": "クラブ扱いのチア(バスケ応援中心)。今後は競技大会出場も検討。運動奨学金は基本なし。"
+},
+"152099": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女のチア。アドバイザー18シーズン目。奨学金は要確認。"
+},
+"154855": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "男女のチア(1944年からの歴史)。Sooner Athletic Conference所属。奨学金は要確認。"
+},
+"157377": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2017-18に新設。2025年Mid-South選手権で3位。ダンスも併設。奨学金は要確認。"
+},
+"156189": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "女子の非競技型チア。同校は授業料保証+学生就労制度のワークカレッジ。"
+},
+"170675": {
+"cheer": true,
+"cats": [
+"Competitive - Coed"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "WHAC所属の競技チア&ダンス。2024年に過去最高得点。奨学金は要確認。"
 }
 }

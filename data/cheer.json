@@ -7674,5 +7674,60 @@
 "scholarship": false,
 "url": null,
 "note": "Varsity Cheer(運動部扱い)。奨学金は要確認。"
+},
+"102234": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "チア&ダンスの公式チーム(運動部サイトにロースターあり)。奨学金は要確認。"
+},
+"154493": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "2014年に卒業生の寄付($1.5〜1.65M)でバーシティ復活。2024年は大会で部門優勝。奨学金の詳細は要確認。"
+},
+"173328": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアチーム(運動部サイトに掲載)。奨学金は要確認。"
+},
+"174358": {
+"cheer": true,
+"cats": [
+"Competitive - All Girl"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式チア。2026年にUCA全米大会へ出場。奨学金は要確認。"
+},
+"175078": {
+"cheer": true,
+"cats": [
+"Game Day Cheer"
+],
+"stunt": false,
+"club": false,
+"scholarship": false,
+"url": null,
+"note": "公式のチアチーム(運動部サイトにロースターあり)。奨学金は要確認。"
 }
 }

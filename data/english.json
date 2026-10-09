@@ -6474,5 +6474,117 @@
 "162779": {
 "text": "TOEFL提出(機関コード5308)と英語配置テスト(Reading 243以上)。最低点は明記なし(要確認)。",
 "checkedAt": "2026-10-09"
+},
+"163426": {
+"text": "学位課程の入学下限:TOEFL iBT 36(紙420)/ IELTS 5.0 / SAT各400(公式)。iBT 90・IELTS 6.5超で配置免除。到着後に再テストあり。",
+"checkedAt": "2026-10-09"
+},
+"163657": {
+"text": "公式の最低点は未確認(要確認)。British CouncilでIELTS 6.5の記載あり。",
+"checkedAt": "2026-10-09"
+},
+"165033": {
+"text": "TOEFL iBT 61 / IELTS 6.0 / または米大学の英作文C-以上(公式)。",
+"checkedAt": "2026-10-09"
+},
+"165112": {
+"text": "TOEFL 新スケール2.5(2026/1/21以前の試験は旧iBT 38)/ IELTS 5.0 / Duolingo 75 / PTE 38(公式)。",
+"checkedAt": "2026-10-09"
+},
+"166133": {
+"text": "TOEFL iBT 61(紙500/CBT173)/ IELTS 6.0(2018年の出願書・古い可能性、要確認)。HCC独自ESLテストでも可。",
+"checkedAt": "2026-10-09"
+},
+"166647": {
+"text": "TOEFL iBT 68(編入ページ)/ IELTS 6.0(新入生ページ)。SAT読解450、米大学の英語C-以上で免除可。",
+"checkedAt": "2026-10-09"
+},
+"167376": {
+"text": "TOEFL iBT 44 / IELTS 5.0 / Duolingo 75(公式出願ページ)。",
+"checkedAt": "2026-10-09"
+},
+"167525": {
+"text": "TOEFL iBT 38 / IELTS 4.5 / Duolingo 60(公式)。ポリシーに別値(iBT 60/IELTS 5/Duolingo 85)の記載もあり、要確認。",
+"checkedAt": "2026-10-09"
+},
+"167534": {
+"text": "TOEFL iBT 61(紙500/CBT173)/ IELTS 5.0 / Duolingo 100(2024パケット)。メインページには別値(TOEFL 4.0/IELTS 6.0)の記載、要確認。",
+"checkedAt": "2026-10-09"
+},
+"167631": {
+"text": "TOEFL 60以上(2023ガイド)。第三者ではTOEFL任意の記載もあり、要確認。",
+"checkedAt": "2026-10-09"
+},
+"167905": {
+"text": "英語最低点は公式未確認(要確認)。",
+"checkedAt": "2026-10-09"
+},
+"168607": {
+"text": "英語最低点は公式未確認(第三者でTOEFL任意の記載、要確認)。",
+"checkedAt": "2026-10-09"
+},
+"168883": {
+"text": "TOEFLとDuolingoを受付。最低点は取得できず(要確認)。",
+"checkedAt": "2026-10-09"
+},
+"169275": {
+"text": "TOEFL iBT 27 / IELTS 3.5(F-1申請者・公式)。機関コード1225。",
+"checkedAt": "2026-10-09"
+},
+"169521": {
+"text": "第三者情報でTOEFL iBT 71(各20以上)/ IELTS 6.0(要確認)。",
+"checkedAt": "2026-10-09"
+},
+"169974": {
+"text": "英語最低点は公式未確認(F-1受入。要確認)。",
+"checkedAt": "2026-10-09"
+},
+"169992": {
+"text": "TOEFL iBT 71(紙500)/ Duolingo 95(公式)。",
+"checkedAt": "2026-10-09"
+},
+"170055": {
+"text": "第三者情報でTOEFL iBT 72 / IELTS 5.5 / Duolingo 95 / PTE 48(要確認)。",
+"checkedAt": "2026-10-09"
+},
+"170240": {
+"text": "第三者情報でDuolingo 100 / IELTS 6.0(TOEFLは新スケール3.5相当、要確認)。",
+"checkedAt": "2026-10-09"
+},
+"170444": {
+"text": "TOEFL 61 / IELTS 5.5(公式)。他の英語証明は個別審査。",
+"checkedAt": "2026-10-09"
+},
+"170541": {
+"text": "第三者情報でTOEFL iBT 70 / Duolingo 95(IELTSは不明、要確認)。",
+"checkedAt": "2026-10-09"
+},
+"170550": {
+"text": "TOEFL iBT 61(紙500/CBT173)/ IELTS 5.0(公式)。",
+"checkedAt": "2026-10-09"
+},
+"170587": {
+"text": "TOEFL iBT 61(紙500/CBT173)(公式PDF・年次不明、要確認)。",
+"checkedAt": "2026-10-09"
+},
+"170620": {
+"text": "TOEFL iBT 59-60(紙500/CBT173)/ MTELP 75(公式)。IELTS 6.0(British Council)。第三者ではiBT 61、要確認。",
+"checkedAt": "2026-10-09"
+},
+"170657": {
+"text": "第三者情報でIELTS 6.0(各6.0)/ PTE 46(TOEFLは記載なし、要確認)。",
+"checkedAt": "2026-10-09"
+},
+"170790": {
+"text": "独自のTEST 50配置テスト(EAPP 1300以上に配置)が必須。IELTS 6.5(British Council)。TOEFLの記載なし(要確認)。",
+"checkedAt": "2026-10-09"
+},
+"171155": {
+"text": "TOEFL iBT 61(紙500)/ IELTS 5.0 / ELS 109 / Duolingo 90超(公式・必須)。",
+"checkedAt": "2026-10-09"
+},
+"171234": {
+"text": "旧チェックリストでTOEFL iBT 80(紙526/CBT194・各20以上)。新資料は最低点の記載なし、要確認。",
+"checkedAt": "2026-10-09"
 }
 }

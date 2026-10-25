@@ -141,6 +141,18 @@ for (const sc of out) {
   const e = english[sc.id];
   if (e) { sc.englishReq = e.text; sc.englishCheckedAt = e.checkedAt; }
 }
+// On-campus housing (IPEDS IC survey, data/housing.json via scripts/build-housing.py): dorm 1/0, typical room / board / room+board charge per year
+const housing = existsSync('data/housing.json') ? JSON.parse(readFileSync('data/housing.json', 'utf8')) : {};
+for (const sc of out) {
+  const h = housing[sc.id];
+  if (!h) continue;
+  if (h.dorm != null) sc.dorm = h.dorm === 1;
+  const room = h.roomAmt ?? null, both = h.roomBoardAmt ?? (h.roomAmt != null && h.boardAmt != null ? h.roomAmt + h.boardAmt : null);
+  if (room != null) sc.roomCost = room;
+  if (both != null) sc.roomBoardCost = both;
+  if (h.cap) sc.dormCap = h.cap;
+  sc.housingYear = h.year;
+}
 // Automatic check of each note's dollar amounts against the linked official page (data/verification.json, see README).
 const verification = existsSync('data/verification.json') ? JSON.parse(readFileSync('data/verification.json', 'utf8')) : {};
 for (const sc of out) {
